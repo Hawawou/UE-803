@@ -1,0 +1,58 @@
+Dorothy Elizabeth Denning (née Robling, born August 12, 1945) is a US-American information security researcher known for lattice-based access control (LBAC), intrusion detection systems (IDS), and other cyber security innovations. She published four books and over 200 articles. Inducted into the National Cyber Security Hall of Fame in 2012, she is now Emeritus Distinguished Professor of Defense Analysis, Naval Postgraduate School.
+
+
+== Early life and education ==
+Dorothy Elizabeth Robling, daughter of C. Lowell and Helen Watson Robling, grew up in Grand Rapids, Michigan.  She earned a Bachelor of Arts degree in mathematics in 1967 followed by a Master of Arts degree in 1969 at the University of Michigan. Her PhD thesis was on Secure Information Flow in Computer Systems and awarded in 1975 by Purdue University.
+
+
+== Career and research ==
+Denning began her academic career at Purdue University as assistant professor from 1975 to 1981. While associate professor at Purdue (1981-1983), she wrote her first book, Cryptography and Data Security in 1982. She joined SRI International as computer scientist from 1983 to 1987, working on the first intrusion detection system and on database security. After a stint as principal software engineer at Digital Equipment Corporation's Palo Alto Systems Research Center (1987-1991), she returned to academe as chair of the Computer Science Department at Georgetown University. She later became Georgetown's Patricia and Patrick Callahan Family Professor of Computer Science and director of the Georgetown Institute of Information Assurance. In 2002 Denning became professor in the Department of Defense Analysis at the Naval Postgraduate School, Monterey, California, then distinguished professor in 2009, retiring as emeritus distinguished professor at the end of 2016.
+Throughout her career, Denning anticipated and addressed the cyber security issues of the day. She was the first president of the International Association for Cryptologic Research (1983-1986). With husband Peter in 1997 she edited Internet Besieged: Countering Cyberspace Scofflaws, a comprehensive collection of essays on cyber security. In 1998 she wrote Information Warfare and Security. She testified multiple times before various congressional subcommittees studying technology, infrastructure, intellectual property, and cyberterrorism. Her innovations won awards, and her opinions stirred up controversy. A full list of publications is available on her full vita at the Naval Postgraduate School website.
+
+
+=== Innovations ===
+Denning has received over 20 awards for her innovations in computer security. Key contributions are described below.
+"A Lattice Model of Secure Information Flow" presented in 1975 provided a method for controlling access to data which is still used today.
+Detecting intruders is key to protecting computer systems. While at SRI International, Denning and Peter G. Neumann developed an intrusion detection system (IDS) model using statistics for anomaly detection that is still the basis for intrusion detection systems today. SRI's Intrusion Detection Expert System (IDES) ran on Sun workstations and considered both user and network level data. It combined a rule-based Expert System to detect known types of intrusions with a statistical anomaly-detection component based on profiles of users, host systems, and target systems. (An artificial neural network was proposed as a third component; All three components would then report to a resolver). SRI followed IDES in 1993 with the Next-generation Intrusion Detection Expert System (NIDES). The Multics Intrusion Detection and Alerting System (MIDAS), which protected the National Security Agency's Dockmaster System from 1998 to 2001, is an example of a fielded expert-system-based IDS.
+Denning improved data security via encryption technology. She introduced timestamps in key distribution protocols, cryptographic checksums for multilevel database security, and a method for improving the security of digital signatures with RSA and other public key crypto systems. She considered key escrow systems, Internet crime and hacking. Her book Cryptography and Data Security became an ACM Classic, introducing cryptography to many.
+In database security, Denning found ways to reduce inference threats in multilevel databases. She reported on the problems of working with data across different classification levels.
+With L. Scott, Denning wrote two papers on using Global Positioning Systems for geo-encryption to enhance data security.
+Although she remained a technical expert, Denning's interests evolved to consider legal, ethical, and social issues. She addressed wiretapping, the growth of the Internet, cyber terrorism and cyber warfare. Her most recent papers focused on current cyber threats and defenses.
+
+
+=== Controversy ===
+Denning interviewed hackers for her research on hacking and "hactivism". She was criticized when she found positive things to say about their actions and wrote a 1995 postscript.
+Denning was widely criticized for her role in NSA's controversial Clipper chip initiative to give the government authorized access to encrypted private communications through a key escrow system. At the government's request Denning privately reviewed the classified Skipjack block cipher, and testified in Congress that general publication of the algorithm would enable someone to build a hardware or software product that used SKIPJACK without escrowing keys.  In public forums, such as the Usenet forum comp.risks, she defended the Clipper chip and other approaches to key escrow that offered strong security while enabling law enforcement to decrypt without a warrant. However, she did not advocate making key escrow mandatory. Eventually, Clipper was dropped and Skipjack was declassified and published.
+Denning served as an expert witness in the 1990 trial of United States v. Riggs.  Her testimony helped lead the government to drop charges against defendant Craig Neidorf, who had taken an electronic 911 directory across state lines.
+In 1992, Denning challenged the existing national standard for evaluating trusted systems (TCSEC), noting that "By the time a system is evaluated it is obsolete." She maintained that "trust is not a property but an assessment" by the real world market. This was not the only criticism, and the TCSEC has since been replaced.
+Lack of product liability for software is a contentious topic. When Denning proposed software vendors accept liability for errors in their products, industry pushed back. Steve Lipner, charged with software security at Microsoft, argued that companies with deep pockets like Microsoft would be sued to death, even if they proved repeatedly that they followed the best secure software development practices.  A few large vendors, such as Volvo, have announced plans to accept both hardware and software liability in their future autonomous cars when national product liability standards are established.
+
+
+=== Awards and honors ===
+In 1995 Denning was named an ACM Fellow by the Association for Computing Machinery.
+The 1999 National Computer Systems Security Award recognized her "outstanding contributions to the field of computer security".
+Time magazine named her a security innovator in 2001.
+The 2001 Augusta Ada Lovelace Award from the Association for Women in Computing acknowledged "her outstanding in computer security and cryptography as well as her extraordinary contributions to national policy debates on cyber terrorism and information warfare".
+The 2004 Harold F. Tipton Award recognized "Sustained excellence throughout [her] outstanding information security career".
+In 2008 ACM's special interest group on security, audit and control (ACM SIGSAC) bestowed their Outstanding Innovator Award upon Dr. Denning.
+She was named a fellow of the International Information Security Certification Consortium (ISC2).
+In 2010 she was named a distinguished fellow of the Information Systems Security Association (ISSA).
+In 2012 she was among the first inductees into the National Cyber Security Hall of Fame.
+The New Jersey City University named its new security center the Dr. Dorothy E. Denning Center of Academic Excellence in Information Assurance Education.
+
+
+== Personal life ==
+While working on her PhD in computer science at Purdue University, she married Peter J. Denning in 1974.
+
+
+== Books ==
+Dorothy Denning (1982). Cryptography and Data Security. Addison-Wesley Publishing Company. ISBN 978-0201101508.
+Dorothy Denning, with Herbert S. Lin, ed. (1994). Rights and Responsibilities of Participants in Networked Communities. National Academies Press. ISBN 978-0309050906.
+Dorothy Denning, with Peter J. Denning (1997). Internet Besieged: Countering Cyberspace Scofflaws. Addison-Wesley Professional. ISBN 978-0201308204.
+Dorothy Denning (1998). Information Warfare and Security. Addison-Wesley Professional. ISBN 978-0201433036.
+
+
+== References ==
+
+
+== External links ==

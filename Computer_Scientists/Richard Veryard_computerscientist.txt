@@ -1,0 +1,66 @@
+Richard Veryard FRSA (born 1955) is a British computer scientist, author and business consultant, known for his work on service-oriented architecture and the service-based business.
+
+
+== Biography ==
+Veryard attended Sevenoaks School from 1966 to 1972, where he attended classes by Gerd Sommerhoff. He received his MA Mathematics and Philosophy from Merton College, Oxford, in 1976, and his MSc Computing Science at the Imperial College London in 1977. Later he also received his MBA from the Open University in 1992.
+Veryard started his career in industry working for Data Logic Limited, Middlesex, UK, where he first developed and taught public data analysis courses. After years of practical experience in this field, he wrote his first book about this topic in 1984. In 1987 he became an IT consultant with James Martin Associates (JMA), specializing in the practical problems of planning and implementing information systems. After the European operation of JMA were acquired by the Texas Instruments, he became a Principal Consultant in the Software Business and a member of Group Technical Staff. At Texas Instruments he was one of the developers of IE\Q, a proprietary methodology for software quality management. Since 1997 he is freelance consultant under the flag of Veryard Projects Ltd. Since 2006 he is a principal consultant at CBDi, a research forum for service-oriented architecture and engineering.
+Veryard has taught courses at City University, Brunel University and the Copenhagen Business School, and is a Fellow of the Royal Society of Arts in London.
+
+
+== Work ==
+
+
+=== Pragmatic data analysis, 1984 ===
+In "Pragmatic data analysis" (1984) Veryard presented data analysis as a branch of systems analysis, which shared the same principles. His position on data modelling would appear to be implicit in the term data analysis. He presented two philosophical attitudes towards data modeling, which he called "semantic relativism and semantic absolutism. According to the absolutist way of thinking, there is only one correct or ideal way of modeling anything: each object in the real world must be represented by a particular construct. Semantic relativism, on the other hand, believe that most things in the real world can be modeled in many different ways, using basic constructs".
+Veryard further examined the problem of the discovery of classes and objects. This may proceed from a number of different models, that capture the requirements of the problem domain. Abbott (1983) proposed that each search starts from a textual description of the problem. Ward (1989) and Seidewitz and Stark (1986) suggested starting from the products of structured analysis, namely data flow diagrams. Veryard examined the same problem from the perspective of data modeling.
+Veryard made the point, that the modeler has some choice in whether to use an entity, relationship or attribute to represent a given universe of discourse (UoD) concept. This justifies a common position, that "data models of the same UoD may differ, but the differences are the result of shortcomings in the data modeling language. The argument is that data modeling is essentially descriptive, but that current data modeling languages allow some choice in how the description is documented."
+
+
+=== Economics of Information Systems and Software, 1991 ===
+In the 1991 book "The Economics of Information Systems and Software", edited by Veryard, experts from various areas, including business administration, project management, software engineering and economics, contribute their expertise concerning the economics of systems software, including evaluation of benefits, types of information and project costs and management.
+
+
+=== Information Coordination, 1993 ===
+In the 1993 book "Information Coordination: The Management of Information Models, Systems, and Organizations" Veryard gives a snapshot of the state of the art around these subjects. "Maximizing the value of corporate data depends upon being able to manage information models both within and between businesses. A centralized information model is not appropriate for many organizations," Veryard explains.
+His book "takes the approach that multiple information models exist and the differences and links between them have to be managed. Coordination is currently an area of both intensive theoretical speculation and of practical research and development. Information Coordination explains practical guidelines for information management, both from on-going research and from recent field experience with CASE tools and methods".
+
+
+=== Enterprise Modelling Methodology ===
+In the 1990s Veryard worked together in an Enterprise Computing Project and developed a version of Business Relationship Modelling specifically for Open Distributed Processing, under the name Enterprise Modelling Methodology/Open Distributed Processing (EMM/ODP). EMM/ODP proposed some new techniques and method extensions for enterprise modelling for distributed systems.
+
+
+=== Component-based business ===
+In 2001 Veryard introduced the concept of "component-based business". Component-based business relates to new business architectures, in which "an enterprise is configured as a dynamic network of components providing business services to one another". In the new millennium there has been "a phenomenal growth in this kind of new autonomous business services, fuelled largely by the internet and e-business".
+The concept of "component-Based Business constitutes a radical challenge to traditional notions of strategy, planning, requirements, quality and change, and tries to help you improve how you think through the practical difficulties and opportunities of the component-based business". This applied to both hardware and software, and to business relationships.
+Veryard's subsequent work on organic planning for SOA has been referenced by a number of authors.
+
+
+=== Six Viewpoints of Business Architecture, 2013 ===
+In "Six Viewpoints of Business Architecture" Veryard describes business architecture as "a practice (or collection of practices) associated with business performance, strategy and structure."
+And furthermore about the main task of the business architect:
+
+The business architect is expected to take responsibility for some set of stakeholder concerns, in collaboration with a number of related business and architectural roles, including
+• business strategy planning, business change management, business analysis, etc.
+• business operations, business excellence, etc.
+• enterprise architecture, solution architecture, data/process architecture, systems architecture, etc.
+Conventional accounts of business architecture are often framed within a particular agenda - especially an IT-driven agenda. Many enterprise architecture frameworks follow this agenda, and this affects how they describe business architecture and its relationship with other architectures (such as IT systems architecture). Indeed, business architecture is often seen as little more than a precursor to system architecture - an attempt to derive systems requirements.
+
+
+== Publications ==
+Richard Veryard. Pragmatic data analysis. Oxford : Blackwell Scientific Publications, 1984.
+Richard Veryard (ed.). The Economics of information systems and software.  Oxford : Butterworth-Heinemann, 1991.
+Richard Veryard. Information modelling : practical guidance. New York : Prentice Hall, 1992.
+Richard Veryard. Information coordination : the management of information models, systems, and organizations. New York : Prentice Hall, 1994.
+Richard Veryard. Component-based business : plug and play. London : Springer, 2001.
+Richard Veryard. Six Viewpoints of Business Architecture, 2013
+Articles, papers, book chapters, etc., a selection:
+
+Richard Veryard (2000). Reasoning about systems and their properties. In: Peter Henderson (ed) Systems Engineering for Business Process Change, Springer-Verlag, 2002* Richard Veryard. "Business-Driven SOA," CBDI Journal, May–June 2004
+
+
+== References ==
+
+
+== External links ==
+Richard Veryard Home page
+List of recent publications by Richard Veryard.

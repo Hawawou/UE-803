@@ -1,0 +1,54 @@
+Jean Leonardus Gerardus (Jan) Dietz (born 20 June 1945) is a Dutch Information Systems researcher, Professor Emeritus  of Information Systems Design at the Delft University of Technology, known for the development of the Design & Engineering Methodology for Organisations. and his work on Enterprise Engineering.
+
+
+== Biography ==
+Born in Brunssum, Dietz studied at the Eindhoven University of Technology, where in 1970 he obtained his MSc in Electrical Engineering (control systems) and  in 1987 his Doctoral Degree on the thesis titled "Modelleren en specificeren van informatiesystemen" (Modelling and Specifying Information Systems) under supervision of Theo Bemelmans and  Kees van Hee.
+Dietz has been practitioner in the field of automation and information systems from 1970 to 1980. He (co-)developed one of the first relational model based production control systems at Philips Factories, a state of the art computer accounting system at Eindhoven University of Technology, and a terminal-based, interactive theatre reservation system. In 1980 he returned to academia. In 1988 he was appointed Professor of Management Information Systems at the University of Maastricht (Faculty of Economics and Business Administration) where he started the development of the DEMO methodology. From September 1994 to Oct 2009 he was Professor of Information Systems Design at Delft University of Technology. Since 2010 he is visiting professor of Enterprise Engineering at the Instituto Superior Técnico (IST - Technical University of Lisbon), as well as visiting professor of Enterprise Engineering at Czech Technical University in Prague (Faculty of Informatics, Center for Conceptual Modelling and Implementations).
+Dietz has been chairman of the Dutch  professional association of informaticians (VRI) and board member of the Dutch  association for IT architecture (NAF). He has also been editorial board member of several journals, and has been in the program committee of - and has chaired - numerous conferences. He has been the Dutch national representative in IFIP TC8 on Information Systems for many years and is member of IFIP WG8.1 on design and Evaluation of Information Systems. He has co-founded the Ciao! Network for  Enterprise Engineering and the  Enterprise Engineering Institute (formerly called DEMO Centre of Expertise)
+
+
+== Work ==
+Dietz' main research interests is in modelling, (re)designing and (re)engineering of organisations, and in the development of ICT-applications to support them. Since  2012 Dietz has focussed on the emerging discipline of  Enterprise Engineering, which lies in between information systems engineering and the organizational sciences.
+
+
+=== Design & Engineering Methodology for Organisations ===
+Inspired by the Language Action Perspective in the 1980s Dietz has been developing a methodology for transaction modelling and analysing and representing business processes, called Design & Engineering Methodology for Organisations (DEMO). The Language Action Perspective itself is largely based on the speech act theory developed by John Austin and John Searle. It was introduced in the field of information systems by the computer scientists Fernando Flores and J.J. Ludlow early 1980s. In contrast to traditional views of data flow, the language/action perspective emphasizes what people do while communicating, how they create a common reality by means of language, and how communication brings about the coordination of their activities".
+
+In DEMO the basic pattern of a business transaction is composed of the following three phases:
+
+An actagenic conversation during which the initiator and the executor come to agreement on the production fact (the result) to be brought about by the executor.
+The  execution phase, which will generate the production fact, is brought about by the executor.
+A factagenic conversation in which the two actors come to agreement about the brought about result.
+Transactions are the building blocks of business processes. The DEMO methodology gives the analyst an understanding of the essence of  business processes and organisations.
+
+
+=== Enterprise Ontology ===
+Enterprise Ontology is about the need to develop organisational models which are abstracted from implementation, in order to be able to develop effective and efficient inter- and intra-enterprise information systems. These models need to be so that they are understood both by business people, who are defining their functionality, and software engineers, who are constructing and implementing the software systems that realise the system's functionality. The idea of business components for modeling information systems is very valuable since they directly reflect the business rules and the constraints that apply to the enterprise domain.
+The identification of business components seems still to be in its infancy. The notion of enterprise ontology, as developed by Jan Dietz at Delft University of Technology, appears to be a powerful revelation of the essence of an enterprise or an enterprise network. Dietz' research seeks to improve the identification of business components based on the ontological model of an enterprise, while at the same time satisfying well defined quality criteria. The results of applying the developed identification method are reusable and self-contained business components with well defined interaction points that facilitate the accessing and execution of coherent packages of business functionality.
+
+
+== Publications ==
+Dietz has published over 250 scientific and professional papers as well as several books: Books:
+
+1996. Communication Modeling - The Language/Action Perspective: Proceedings of the First International Workshop on Communication Modeling, Tilburg, the Netherlands... (Electronic Workshops in Computing). With Frank Dignum, Egon Verharen, and Hans Weigand. Springer ISBN 3-540-76118-7
+2006. Enterprise Ontology - Theory and Methodology. Springer-Verlag Berlin Heidelberg. ISBN 3-540-29169-5
+2008. Advances in Enterprise Engineering I: 4th International Workshop CIAO! and 4th International Workshop EOMAS, held at CAiSE 2008, Montpellier, France, June 2008. Notes in Business Information Processing. With Antonia Albani, and Joseph Barjis (eds.). Springer. ISBN 3-540-68643-6
+2008. Architecture - Building strategy into design. Academic Service. ISBN 978-90-12-58086-1
+2020 Enterprise Ontology - a human-centric approach to understanding the essence of organisation
+Articles, chapters and papers, a selection:
+
+1989. "Modeling of Discrete Dynamic Systems - Framework and Examples". With K.M. van Hee and G.J. Houben. In: Information Systems. Vol. 14, no.4, pp 277–289.
+1991. "Speech Acts or Communicative Action?" With G.A.M. Widdershoven. In: L. Bannon (eds.) Proceedings of the Second European Conference on Computer Supported Cooperative Work ECSCW'91. Kluwer, Dordrecht, 1991, pp. 235–248.
+1992. "Subject-Oriented Modelling of Open Active Systems". In: E.D. Falkenberg (eds.). Information Systems Concepts: Improving the Understanding. IFIP Transactions A-4, North Holland, Amsterdam, 1992, pp. 227–238.
+1994. "Modelling business processes for the purpose of redesign". In: Proceedings of the IFIP TC8 Open Conference on Business Process Re-engineering: Information Systems Opportunities and Challenges. IFIP Transactions; Vol. A-54. pp. 233–242.
+1998. "Understanding and Modelling Business Processes with DEMO". In: Proc. 18th International Conference on Conceptual Modeling (ER'99), Paris, 1999.
+1998. "Linguistically based Conceptual Modeling of Business Communication". With: A.A.G. Steuten and R.P. van de Riet. In: Proc. 4th International Conference NLDB '99, Lecture Notes in Computer Science. Vol. 129, Springer-Verlag 1999.
+2002. "Development of Agent-based E-commerce Systems using the semiotic approach and the DEMO transaction concept". With J. Barjis, S. Chong and K. Lui. In: International Journal of Information Technology & Decision Making. Vol. 1, No. 3 (September 2002),
+2006. "The pragmatic web: a manifesto". With Mareike Schoop and Aldo de Moor. In: Communications of the ACM. Vol 49, Iss 5  (May 2006). pp. 75–76.
+
+
+== References ==
+
+
+== External links ==
+DEMO Design & Engineering Methodology for Organisations website.

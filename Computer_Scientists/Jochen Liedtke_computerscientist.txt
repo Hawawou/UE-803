@@ -1,0 +1,28 @@
+Jochen Liedtke (26 May 1953 – 10 June 2001) was a German computer scientist, noted for his work on microkernel operating systems, especially in creating the L4 microkernel family.
+
+
+== Career ==
+
+
+=== Education ===
+In the mid-1970s Liedtke studied for a diploma degree in mathematics at the Bielefeld University. His thesis project was to build a compiler for the programming language ELAN, which had been launched for teaching programming in German schools. The compiler was written in ELAN.
+
+
+=== Post grad ===
+After his graduation in 1977, he remained at Bielefeld and worked on an Elan environment for the Zilog Z80 microprocessor. This required a runtime system (environment), which he named Eumel ("Extendable Multiuser Microprocessor ELAN-System", but also a colloquial north-German term for a likeable fool). Eumel grew into a complete multi-tasking, multi-user operating system supporting orthogonal persistence, which started shipping (by whom? to whom?) in 1980 and was later ported to Zilog Z8000, Motorola 68000 and Intel 8086 processors. As these processors lacked memory protection, Eumel implemented a virtual machine which added the features missing from the hardware. More than 2000 Eumel systems shipped, mostly to schools, and some to legal practices as a text processing platform.
+In 1984, he joined the Gesellschaft für Mathematik und Datenverarbeitung (GMD), the German National Research Center for Computer Science, which is now a part of the Fraunhofer Society. There, he continued his work on Eumel. In 1987, when microprocessors supporting virtual memory became widely available in the form of the Intel 80386, Liedtke started to design a new operating system to succeed Eumel, which he called L3 ("Liedtke's 3rd system", after Eumel and the ALGOL 60 interpreter he had written in high school). L3 was designed to achieve better performance by using the latest hardware features, and was implemented from scratch. It was mostly backward-compatible with Eumel, thus benefiting from the existing Eumel ecosystem. L3 started to ship in 1989, with total deployment of at least 500.
+Both Eumel and L3 were microkernel systems, a popular design in the 1980s. However, by the early 1990s, microkernels had received a bad reputation, as systems built on top were performing poorly, culminating in the billion-dollar failure of the IBM Workplace OS. The reason was claimed to be inherent in the operating-system structure imposed by microkernels. Liedtke, however, observed that the message-passing operation (IPC), which is fundamentally important for microkernel performance, was slow in all existing microkernels, including his own L3 system. His conclusion was that radical redesign was needed. He did this by re-implementing L3 from scratch, dramatically simplifying the kernel, resulting in an order-of-magnitude decrease in IPC cost.
+The resulting kernel was later renamed "L4". Conceptually, the main novelty of L4 was its complete reliance on external pagers (page fault handlers), and the recursive construction of address spaces.
+This led to a complete family of microkernels, with many independent implementations of the same principles.
+Liedtke also worked on computer architecture, inventing guarded page tables as a means to implement a sparsely-mapped 64-bit address space. In 1996, Liedtke completed a PhD on guarded page tables at the Technical University of Berlin.
+In the same year he joined the Thomas J. Watson Research Center, where he continued to work on L4, referred to as “Lava Nucleus” (LN) to avoid negative connotations with previously unsuccessful microkernels, such as the one used in Workplace OS. The main project during his IBM time was the Saw Mill project, which attempted to turn Linux into an L4-based multi-server OS.
+In April 1999, he took up the System Architecture Chair at the University of Karlsruhe. There, he continued to collaborate with IBM on Saw Mill, but at the same time worked on a new generation of L4 (version 4). Several experimental kernels were developed during that time, including Hazelnut, the first L4 kernel that was ported (in contrast to re-implemented) to a different architecture (from x86 to ARM). Work on the new version was completed after his death by Liedtke's students Volkmar Uhlig, Uwe Dannowski, and Espen Skoglund. It was released under the name Pistachio in 2002.
+On Sunday June 10, 2001, he died unexpectedly at Frankfurt Airport while returning from SOSP'01 program committee meeting in Chateau Lake Louise, having been ill earlier in the year and undergone two surgeries (the conference proceedings were dedicated to his memory). He is survived by his wife Adelheid.
+
+
+== References ==
+
+
+== External links ==
+In Memoriam Jochen Liedtke (1953 - 2001)
+List of Liedtke's publications related to microkernels

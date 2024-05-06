@@ -1,0 +1,31 @@
+Daniel Paul Friedman (born 1944) is a professor of Computer Science at Indiana University in Bloomington, Indiana. His research focuses on programming languages, and he is a prominent author in the field. 
+With David Wise, Friedman wrote a highly influential paper on lazy programming, specifically on lazy streams (ICALP 1976). The paper, entitled "Cons should not evaluate its arguments,"  is one of the first publications pushing for the exploration of a programming style with potentially infinite data structures and a form of programming that employs no computational effects (though programs may diverge). Over the 1970s, Friedman and Wise explored the topic in depth and also considered extensions to the world of parallel computing. 
+In the 1980s, Friedman turned to the study of the Scheme programming language. He explored the use of macros for defining programming languages; with Eugene Kohlbecker, Matthias Felleisen, and Bruce Duba, he co-introduced the notion of hygienic macros in a 1986 LFP paper that is still widely cited today. With Christopher T. Haynes and Mitchell Wand, he simultaneously studied the nature of continuation objects, their uses, and the possibilities of constraining them. Following that, Friedman and Felleisen introduced a lambda calculus with continuations and control operators. 
+
+
+== References ==
+
+
+== Books ==
+Daniel P. Friedman is the author or co-author of the following books:
+
+The Little Lisper ISBN 0-262-56038-0  (MIT Press, 1987)
+The Little Schemer ISBN 0-262-56099-2 (MIT Press, 4th Ed., 1996)
+The Little MLer ISBN 0-262-56114-X (MIT Press, 1998)
+A Little Java, A Few Patterns ISBN 0-262-56115-8 (MIT Press, 1998)
+The Seasoned Schemer ISBN 0-262-56100-X (MIT Press, 1996)
+The Reasoned Schemer ISBN 0-262-56214-6 (MIT Press, 2018)
+The Little Prover ISBN 0-262-52795-2
+Essentials of Programming Languages ISBN 0-262-06217-8 (MIT Press, 3rd Ed. 2008)
+Scheme and the Art of Programming ISBN 0-262-19288-8
+Coordinated Computing: Tools and Techniques for Distributed Software ISBN 0-07-022439-0
+The Little Typer ISBN 9780262536431
+The Little Learner ISBN 9780262546379 (MIT Press, 2023)
+
+
+== External links ==
+Daniel P. Friedman's Homepage
+The Little Schemer's Homepage Archived 2015-04-26 at the Wayback Machine
+Cons should not evaluate its arguments, the technical report version
+Webpage of DanFest, the academic celebration of Friedman's 60th birthday in 2004
+"Dan Friedman—Cool Ideas", Guy Steele's keynote talk at DanFest reviewing Friedman's work

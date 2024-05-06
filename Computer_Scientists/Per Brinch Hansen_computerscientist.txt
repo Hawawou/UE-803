@@ -1,0 +1,185 @@
+Per Brinch Hansen (13 November 1938 – 31 July 2007) was a Danish-American computer scientist known for his work in operating systems, concurrent programming and parallel and distributed computing.
+
+
+== Biography ==
+
+
+=== Early life and education ===
+
+Per Brinch Hansen was born in Frederiksberg, an enclave surrounded by Copenhagen, Denmark. His father, Jørgen Brinch Hansen, worked as a civil engineer, becoming a leading expert in soil mechanics, and later accepting a professorship at Technical University of Denmark. His mother, Elsebeth Brinch Hansen (née Ring), was the daughter of Danish composer Oluf Ring and worked as a hairdresser before marrying.
+Brinch Hansen attended Skt. Jørgens Gymnasium and then studied electrical engineering at Technical University of Denmark where he sought an area to pursue that "was still in its pioneering phase" on the belief that "If a subject was being taught, it was probably already too late to make fundamental contributions." After a seven-week student internship at IBM's Hursley Laboratory in England, he decided to dedicate his career to computers. Initially focused on computer construction, reading a book on the IBM 7030 Stretch project that described computer organization from a programmer's point of view refocused his interest toward becoming a computer architect.
+
+
+=== Regnecentralen ===
+
+After completing a Master of Science degree in electronic engineering in 1963, Brinch Hansen landed a job at Regnecentralen, then a research institution under The Danish Academy of Technical Sciences (Akademiet for de Tekniske Videnskaber), working in the compiler group, led by Peter Naur and Jørn Jensen. There, his first significant project was writing a parser for a COBOL compiler for the Siemens 3003 computer.
+Subsequently, he wrote a file system to be used during execution of the compiled COBOL programs, later observing:
+
+I now understand that it was really a small operating system, I had programmed. However, in the mid 1960s, the dividing line between language implementation and operating systems was still not clearly understood.
+In 1966, Brinch Hansen moved to Henning Isaksson's hardware group at Regnecentralen, by then a company with shareholders. Together with Peter Kraft, he defined the computer architecture and instruction set for Regnecentralen's third computer, the RC 4000, using ALGOL 60 as a hardware description language to produce a formal specification.
+Inexperienced with multiprogramming, he used a copy of Cooperating Sequential Processes Edsger Dijkstra had sent him to understand process synchronization using semaphores, and then implemented a specialized RC 4000 real-time monitor for use in managing a fertilizer plant. Peter Kraft and Charles Simonyi, who was still a teenager, wrote a p-code interpreter and data logging task programs that were compiled to p-code.
+In the summer of 1967, Brinch Hansen left Regnecentralen's hardware group to become head of RC 4000 software development, where he led a team including Jørn Jensen, Peter Kraft and Søren Lauesen in defining a general-purpose RC 4000 multiprogramming system, with a goal to avoid developing a custom real-time control operating system for every RC 4000 installation, and to support batch processing and time-sharing as well. The resulting system was not a complete operating system, but a small kernel providing the mechanisms upon which operating systems for different purposes could be built. By the spring of 1969, a well-documented, reliable version of the RC 4000 multiprogramming system was running.
+
+
+=== Carnegie Mellon University ===
+In late 1970, Brinch Hansen moved to Pittsburgh, accepting an invitation from Alan Perlis to visit the department of computer science at Carnegie Mellon University as a research associate, while he wrote the first systematic textbook on operating system principles. During this time, at the 1971 Summer School in Marktoberdorf and a symposium in Belfast, Brinch Hansen, Tony Hoare and Dijkstra began to discuss ideas that evolved into the monitor concept. In the spring of 1972, after reading about the class concept invented by Ole-Johan Dahl and Kristen Nygaard for Simula 67, Brinch Hansen completed his text with a chapter on resource protection that proposed the first monitor notation, using shared classes. In 1973, Operating System Principles was published, becoming the first comprehensive textbook on operating systems.
+
+
+=== California Institute of Technology ===
+
+In July 1972, Brinch Hansen joined the faculty of the California Institute of Technology (Caltech) as an Associate Professor of computer science, where he began work on defining a programming language with concurrent processes and monitors. In April 1974, he distributed a technical report on Concurrent Pascal. A Concurrent Pascal compiler for the PDP 11/45, written by Brinch Hansen's doctoral student, Al Hartmann, was released in January 1975. Subsequently, Brinch Hansen began writing model operating systems in Concurrent Pascal, to evaluate the language. In May 1975, he completed Solo, a single-user operating system for development of Concurrent Pascal programs. Next, he rewrote the original RC 4000 real-time scheduler in Concurrent Pascal, taking three days to write it, and three hours of machine time to systematically test it.
+When the Caltech computer science department shifted focus toward computer engineering and away from programming Brinch Hansen decided to leave, rather than to seek tenure there.
+
+
+=== University of Southern California ===
+In 1976, Brinch Hansen chose University of Southern California (USC) for his next post, so that his family could remain in their Altadena home. Joining the faculty as a tenured full professor, and first chair of a newly created computer science department, he led efforts to identify and attract top-notch faculty to build a first rate department. By 1980, USC's computer science department was ranked by the National Research Council as one of the top ten in the US.
+While at USC, Brinch Hansen wrote his second book, The Architecture of Concurrent Programs, based on his work developing operating systems with Concurrent Pascal. Published in 1977, it was the first book on concurrent programming. In 1978, Brinch Hansen became the first computer scientist awarded the Doctor Technices degree, the highest academic distinction within engineering and technological science in Denmark, for the work documented in The Architecture of Concurrent Programs. Later in 1978, Brinch Hansen published the Distributed Processes language concept, proposing the use of remote procedure calls to synchronize processes running across a microcomputer network.
+Also in 1978, L. J. Sevins and Steve Goings from Mostek visited Brinch Hansen at USC, where he outlined a low-cost multiprocessor architecture. Mostek began a project to implement such a multiprocessor, with Brinch Hansen working as a consultant. Brinch Hansen developed a new concurrent programming language, Edison, for the project. As with the RC 4000 project, Edison was also used as a formal specification language for the hardware. Mostek got an initial 4-node multiprocessor working and Brinch Hansen wrote a portable Edison compiler on a PDP 11/55, but shortly after, United Technologies acquired Mostek and cancelled the project. In 1982, Brinch Hansen moved the Edison system to an IBM Personal Computer (PC), and then published his third book, Programming a Personal Computer.
+In 1982, Brinch Hansen was named the first Henry Salvatori Professor of Computer Science at USC.
+
+
+=== University of Copenhagen ===
+In 1984, feeling homesick for Denmark after 14 years abroad, Brinch Hansen left USC and joined the faculty of the University of Copenhagen as a Professor of datalogy. In 1985, he was elected a Fellow of the Institute of Electrical and Electronics Engineers (IEEE). Later in 1985, his fourth book Brinch Hansen on Pascal Compilers, which he used for his own compiler course, was published.
+While designing a multicomputer operating system for Danish company GN Elmi, Brinch Hansen concluded he needed a new language, this time leveraging the message passing paradigm of Hoare's CSP. The resulting language, Joyce, removed a major limitation of CSP by introducing parallel recursion. Brinch Hansen developed a portable implementation on an IBM PC.
+
+
+=== Syracuse University ===
+
+After finding that neither he nor his family felt at home in Denmark, Brinch Hansen decided to return to the US, but discovered that their immigration status required them to do so very quickly. Brinch Hansen contacted John Reynolds at Syracuse University and in 1987 he joined the faculty as a Distinguished Professor.
+Working with his student Rangachari Anand, Joyce was moved to an Encore Multimax 320 multiprocessor at SU's Northeast Parallel Architectures Center. Recognizing the scaling limitations of multiprocessors, however, Brinch Hansen sought a suitable multicomputer for further work. Acquiring a Meiko Computing Surface in 1989, he began experimenting with scientific applications by developing parallel programs for Householder's method (reduction) and then N-body simulation as learning exercises, and was surprised to find that both programs had nearly identical control structures. Concluding that both fit an "all-pairs paradigm," he then focused on exploring reusable parallel algorithm structures he termed "programming paradigms" or "generic programs" (later, popularly known as "design patterns"). In 1995, Brinch Hansen's fifth book, Studies in Computational Science: Parallel Programming Paradigms was published, with programs rewritten in SuperPascal, a fully implemented publication language he created for parallel algorithms.
+
+
+=== Last years ===
+In his later years, Brinch Hansen published a retrospective of his most important papers, The Search for Simplicity (1996), a text for a course in programming for non-majors, Programming for Everyone in Java (1999), a retrospective on the evolution of operating systems, Classic Operating Systems: From Batch Processing to Distributed Systems (2001), and a retrospective on the evolution of concurrent programming, The Origin of Concurrent Programming: From Semaphores to Remote Procedure Calls (2002). He self-published a 2004 memoir, A Programmer's Story: The Life of a Computer Pioneer, on his website.
+In 2002, Brinch Hansen was awarded the IEEE Computer Pioneer Award "For pioneering development in operating systems and concurrent programming exemplified by work on the RC 4000 multiprogramming system, monitors, and Concurrent Pascal."
+On July 31, 2007, Brinch Hansen died, shortly after being diagnosed with terminal cancer.
+
+
+== Personal life ==
+Brinch Hansen met his wife Milena (née Hrastar) on a class trip to Yugoslavia in 1962. They married in 1965 and had two children, daughter Mette and son Thomas.
+
+
+== Scientific contributions and influence ==
+In a career spanning five decades, Brinch Hansen made seminal contributions in the areas of operating systems, concurrent computing and parallel and distributed computing that were influential in shaping the development of those fields and advancing them from ad hoc techniques to systematic engineering disciplines. The influence of his work was amplified by his "relentless search for simplicity," his insistence on clarity, writing and rewriting his papers many times before publishing them, becoming "one of the best explainers in the business," and his commitment to testing concepts in working systems – Brinch Hansen implemented and distributed working systems for new concepts he developed, noting:
+
+It is not uncommon for a computer scientist to make a proposal without testing whether it is any good in practice. After spending 3 days writing up the monitor proposal and 3 years implementing it, I can very well understand this temptation. It is perhaps also sometimes a human response to the tremendous pressure on university professors to get funding and recognition fast.
+Nevertheless, we must remember that only one thing counts in engineering: Does it work (not "might it work" or "wouldn't it be nice if it did")?
+
+
+=== Operating systems ===
+The RC 4000 multiprogramming system introduced the now-standard concept of an operating system kernel and the separation of mechanism and policy in operating system design. Modern microkernel architectures trace their roots to the extensible nucleus architecture of the RC 4000. Improving microkernel performance was a major theme in operating system research for three decades after the RC 4000.
+Brinch Hansen's text, Operating System Principles, was the first comprehensive textbook on operating systems. Eventually published in six languages (English, Japanese, German, Czech, Polish and Serbo-Croatian), it remained in print for decades, and years after the RC 4000 system it described had become outdated. In 1990, nearly two decades after its initial publication, P. J. Plauger reviewed it, saying:
+
+This book is terribly dated. It describes many of the RC4000's operating-system algorithms. The RC4000 is slow, small, and starved for peripherals by today's standards. The algorithms are presented in a subset of Pascal. Why bother?
+The answer is that Brinch Hansen is one of the best explainers in the business. He explains things clearly and to the point. He has an eye for the general principle behind the example, but manages to avoid unnecessary abstraction. After all these years, he is still a pleasure to read.
+In 2005, Association for Computing Machinery (ACM) members voted Operating System Principles a top 25 classic book, in a survey to choose out-of-print classic books to add to the ACM Digital Library. Operating System Principles ranked 15th in the survey, appearing on 8.8% of ballots. It is now available from the ACM Digital Library.
+Using Concurrent Pascal, Brinch Hansen demonstrated that it was feasible to fully implement operating systems in high level languages, and that doing so reduced the development effort by one to two orders of magnitude. Furthermore, entire operating systems could be published, and understood in their entirety. Brinch Hansen did precisely that in The Architecture of Concurrent Programs, leading Roy Maddux and Harlan Mills to declare:
+
+Part two of the book is indeed remarkable. Here, an entire operating system is visible, with every line of program open to scrutiny. There is no hidden mystery, and after studying such extensive examples, the reader feels that he could tackle similar jobs and that he could change the system at will. Never before have we seen an operating system shown in such detail and in a manner so amenable to modification.
+
+
+=== Concurrent programming ===
+Brinch Hansen and Hoare developed the monitor concept. Brinch Hansen published the first monitor notation, adopting the class concept of Simula 67, and invented a queueing mechanism. Hoare refined the rules of process resumption. Brinch Hansen created the first implementation of monitors, in Concurrent Pascal. More than a dozen additional monitor-based languages had been created by 1990: Simone, Modula, CSP/k, CCNPascal, PLY, Pascal Plus, Mesa, SB-Mod, Concurrent Euclid, Pascalc, Concurrent C, Emerald, Real-time Euclid, Pascal-FC, Turing Plus, Predula.
+Concurrent Pascal was the first concurrent programming language: the first language developed specifically for concurrent programming, and more importantly, the first language to demonstrate that it was possible to incorporate secure, high-level facilities for concurrency, where the system could guarantee that processes access disjoint sets of variables only and do not interfere with each other in time dependent ways. Hoare described it as "an outstanding example of the best of academic research in this area."
+Source and portable code for Concurrent Pascal and the Solo operating system were distributed to at least 75 companies and 100 universities in 21 countries, resulting in its widespread adoption, porting and adaptation in both industry and academia. Greg Andrews observed that Concurrent Pascal and monitors "greatly influenced most subsequent concurrent language proposals."
+Brinch Hansen's The Architecture of Concurrent Programs was the first book on concurrent programming, and was eventually published in three languages (English, Japanese, and German). More than a dozen years after its publication, P. J. Plauger observed:
+
+Sure, improvements have been made in the past dozen years. We have better synchronization algorithms and fancier (if not necessarily better) languages with concurrency control. But you won't find a better overview of concurrent programming than this book. At least I haven't found one.
+In 2005, ACM members voted The Architecture of Concurrent Programs a top 25 classic book, ranking it 18th in the survey, and appearing on 8% of ballots. It is now available from the ACM Digital Library.
+
+
+=== Distributed computing and remote procedure call ===
+Remote procedure calls used in modern operating systems trace their roots back to the RC 4000 multiprogramming system, which used a request-response communication protocol for process synchronization.
+In his 1978 paper on distributed processes, Brinch Hansen proposed a language for distributed computing based on external requests consisting of procedure calls between processes. This later became known in an operating system context as the remote procedure call.
+Later, Brinch Hansen developed two languages extending Hoare's CSP message-passing paradigm with parallel recursion, and showed how to efficiently implement such.
+
+
+== Honors and awards ==
+Doctor Technices, Technical University of Denmark, for The Architecture of Concurrent Programs, 1978
+First Henry Salvatori Professor of Computer Science, University of Southern California, 1982
+IEEE Fellow, 1985
+Distinguished Professor, Syracuse University, 1987
+Chancellor's Medal, Syracuse University, 1989
+IEEE Computer Pioneer Award, for pioneering development in operating systems and concurrent programming exemplified by work on the RC 4000 multiprogramming system, monitors, and Concurrent Pascal, 2002
+
+
+== Programming languages ==
+Concurrent Pascal (1975)
+Distributed Processes (1978)
+Edison (1981)
+Joyce (1987)
+SuperPascal (1993)
+
+
+== Quotations ==
+Writing is a rigorous test of simplicity: It is just not possible to write convincingly about ideas that cannot be understood
+Programming is the art of writing essays in crystal clear prose and making them executable
+
+
+== Publications ==
+Books
+Operating System Principles (1973, ISBN 0-13-637843-9)
+The Architecture of Concurrent Programs (1977, ISBN 0-13-044628-9)
+Programming a Personal Computer (1983, ISBN 0-13-730267-3)
+Brinch Hansen on Pascal Compilers (1985, ISBN 0-13-083098-4)
+Studies in Computational Science: Parallel Programming Paradigms (1995, ISBN 0-13-439324-4)
+The Search for Simplicity: Essays in Parallel Programming (1996, ISBN 0-81-867566-7)
+Programming for Everyone in Java (1999, ISBN 0-387-98683-9)
+Classic Operating Systems: From Batch Processing to Distributed Systems (editor, 2001, ISBN 0-387-95113-X)
+The Origin of Concurrent Programming: From Semaphores to Remote Procedure Calls (editor, 2002, ISBN 0-387-95401-5)
+A Programmer's Story: The Life of a Computer Pioneer (2004, available at http://brinch-hansen.net/)
+Selected papers
+The Cobol compiler for the Siemens 3003, BIT 6, 1 (1966), 1–23 (with Roger House)
+Design Considerations for the RC 4000 Computer, Regnecentralen, Copenhagen, Denmark (1966) (with Peter Kraft)
+The logical structure of the RC 4000 computer, BIT 7, 3 (1967), 191– 199
+The RC 4000 real-time control system at Pulawy, BIT 7, 4 (1967), 279–288
+RC 4000 Software: Multiprogramming System, Part I General Description, Regnecentralen, Copenhagen, Denmark (1969) 13–52
+RC 4000 Software: Multiprogramming System (Complete), Regnecentralen, Copenhagen, Denmark (1969)
+RC 4000 Computer: Reference Manual, Regnecentralen, Copenhagen, Denmark (1969)
+The nucleus of a multiprogramming system, Communications of the ACM 13, 4 (April 1970), 238–242
+An outline of a course on operating system principles, in Operating Systems Techniques, Proceedings of a Seminar at Queen's University, Belfast, Northern Ireland, August–September 1971. C. A. R. Hoare and R. H. Perrott, Eds. Academic Press, New York (1972), 29–36
+Structured multiprogramming, Communications of the ACM 15, 7 (July 1972), 574–578
+Shared Classes, in Operating System Principles, Section 7.2 Class Concept, Prentice Hall, Englewood Cliffs, NJ, (July 1973), 226–232
+Testing a multiprogramming system, Software: Practice and Experience 3, 2 (April–June), 145–150
+The programming language Concurrent Pascal, IEEE Transactions on Software Engineering 1, 2 (June 1975), 199–207
+The Solo operating system: a Concurrent Pascal program, Software— Practice and Experience 6, 2 (April–June 1976), 141–149
+The Solo operating system: processes, monitors and classes, Software— Practice and Experience 6, 2 (April–June 1976), 165–200
+The Programmer as a Young Dog, English translation by the author of Programmøren som hvalp, In Niels Ivar Bech—en epoke i edbudviklingen i Danmark, P. Sveistrup, P. Naur, H.B. Hansen, and C. Gram, Eds., (in Danish), Data, Copenhagen, Denmark, (1976), 65–68
+Experience with modular concurrent programming, IEEE Transactions on Software Engineering 3, 2 (March 1977), 156–159
+Design Principles, in The Architecture of Concurrent Programs, Chapter 1 Design Principles, Prentice Hall, Englewood Cliffs, NJ, (July 1977), 3–14
+Network: A multiprocessor program, IEEE Transactions on Software Engineering 4, 3 (May 1978), 194–199
+Distributed processes: A concurrent programming concept, Communications of the ACM 21, 11 (November 1978), 934–941
+Reproducible testing of monitors, Software: Practice and Experience 8, 6 (November–December), 721–729
+A keynote address on concurrent programming, Keynote address for the IEEE Computer Software & Applications Conference, Chicago, IL, November 1978, Computer 12, 5 (May 1979), 50–56
+The Design of Edison, Software: Practice and Experience 11, 4 (April 1981), 363–396
+Joyce—A programming language for distributed systems, Software— Practice and Experience 17, 1 (January 1987), 29–50
+The Joyce Language Report, Software: Practice and Experience 19, 6 (June 1989), 553–578
+A multiprocessor implementation of Joyce, Software: Practice and Experience 19, 6 (June 1989), 579–592
+The nature of parallel programming, Inaugural Symposium at Syracuse University, Syracuse, NY, March 1989, In Natural and Artificial Parallel Computation, M.A. Arbib and J.A. Robinson, Eds. The MIT Press, Cambridge, MA, (1990), 31–46
+The linear search rediscovered, Structured Programming 11, (1990), 53–55
+Householder reduction of linear equations, ACM Computing Surveys 24, 2 (June 1992), 185–194
+Monitors and Concurrent Pascal: A personal history, 2nd ACM Conference on the History of Programming Languages, Cambridge, MA, April 1993, In SIGPLAN Notices 28, 3 (March 1993), 1–35
+Model programs for computational science: A programming methodology for multicomputers, Concurrency—Practice and Experience 5, 5 (August 1993), 407–423
+Parallel Cellular Automata: A model program for computational science, Concurrency—Practice and Experience 5, 5 (August 1993), 425–448
+Multiple-length division revisited: A tour of the minefield, Software: Practice and Experience 24, (June 1994), 579–601
+SuperPascal—A publication language for parallel scientific computing, Concurrency—Practice and Experience 6, 5 (August 1994), 461–483
+Interference control in SuperPascal—A block-structured language parallel language, The Computer Journal 37, 5 (1994), 399–406
+Efficient parallel recursion, SIGPLAN Notices 30, 12 (December 1995), 9–16
+The All-Pairs Pipeline, in Studies in Computational Science, Chapter 4: The all-pairs pipeline. Prentice Hall, Englewood Cliffs, NJ, (March 1995), 73–89
+Balancing a Pipeline, in Studies in Computational Science, Chapter 5: Balancing a pipeline. Prentice Hall, Englewood Cliffs, NJ, (March 1995), 90–100
+Java's insecure parallelism, SIGPLAN Notices 34, 4 (April 1999), 38–45
+The evolution of operating systems, In Classic Operating Systems: From Batch Processing to Distributed Systems, P. Brinch Hansen, Ed., Springer-Verlag, New York (2001)
+The invention of concurrent programming, In The Origin of Concurrent Programming: From Semaphores to Remote Procedure Calls, P. Brinch Hansen, Ed., Springer-Verlag, New York (2002)
+
+
+== See also ==
+List of pioneers in computer science
+
+
+== References ==
+
+
+== External links ==
+
+Official website – memoirs, selected papers, detailed bibliography
+Early papers by Per Brinch Hansen (1966–1970) at Danish Datamuseum

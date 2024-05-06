@@ -1,0 +1,52 @@
+Peter John Landin (5 June 1930 – 3 June 2009) was a British computer scientist. He was one of the first to realise that the lambda calculus could be used to model a programming language, an insight that is essential to the development of both functional programming and denotational semantics.
+
+
+== Academic ==
+Landin was born in Sheffield, where he attended King Edward VII School; he graduated from Clare College, Cambridge. From 1960 to 1964, he was the assistant to Christopher Strachey when the latter was an independent computer consultant in London. Most of his work was published during this period and the brief time he worked for Univac and at the Massachusetts Institute of Technology in the United States, before taking a position at Queen Mary University of London. During the 1970s and 1980s, his efforts went into building the computer science department in Queen Mary College, developing courses, and teaching students, as set forth in the foreword to the textbook Programming from First Principles. On his retirement, he was appointed Emeritus Professor of Theoretical Computation at Queen Mary University of London, where in 2012, the computer science building was renamed the Peter Landin Building in his honour.
+At a workshop at the Science Museum, London, in 2001, on the history of programming semantics he spoke of how his scholarly career in computer science began in the late 1950s and of how he was much influenced by a study of John McCarthy's Lisp language when the most commonly used language was Fortran.
+He was active in the definition of the ALGOL programming language. He is listed among those who attended the November 1959 conference in Paris, and the 1962 conference, and cited by Tony Hoare as one of the people who taught him ALGOL 60 and hence facilitated his expression of powerful recursive algorithms:
+
+"Around Easter 1961, a course on ALGOL 60 was offered in Brighton, England, with Peter Naur, Edsger W. Dijkstra, and Peter Landin as tutors. ... It was there that I first learned about recursive procedures and saw how to program the sorting method which I had earlier found such difficulty in explaining. It was there that I wrote the procedure, immodestly named QUICKSORT, on which my career as a computer scientist is founded. Due credit must be paid to the genius of the designers of ALGOL 60 who included recursion in their language and enabled me to describe my invention so elegantly to the world. I have regarded it as the highest goal of programming language design to enable good ideas to be elegantly expressed."
+Landin was involved with international standards in programming and informatics, as a member of the International Federation for Information Processing (IFIP) IFIP Working Group 2.1 on Algorithmic Languages and Calculi, which specified, maintains, and supports the programming languages ALGOL 60 and ALGOL 68.
+Landin is responsible for inventing the stack, environment, control, dump SECD machine, the first abstract machine for a functional programming language, and the ISWIM programming language, defining the Landin off-side rule and for coining the term syntactic sugar. The off-side rule allows bounding scope declaration by use of white spaces as seen in languages such as Miranda, Haskell, Python, and F# (using the light syntax).
+Another phrase originating with Landin is "The next 700 ..." after his influential paper The next 700 programming languages. "700" was chosen because Landin had read in the Journal of the ACM that there were already 700 programming languages in existence. The paper opens with the quotation "... today ... 1,700 special programming languages used to 'communicate' in over 700 application areas." It also includes the joke that
+
+A possible first step in the research program is 1700 doctoral theses called "A Correspondence between x and Church's λ-notation."
+a reference to his earlier paper. This dry sense of humour is expressed in many of his papers.
+
+
+== Political ==
+Landin, who was bisexual, became involved with the Gay Liberation Front (GLF) during the early 1970s. He was once arrested as part of an anti-nuclear demonstration.
+He was a dedicated cyclist and moved around London on his bike until it became physically impossible for him to do so.
+
+
+== Legacy ==
+The Bodleian Library in Oxford holds an archive of material relating to Peter Landin. Since 2010, there has been an Annual Peter Landin Semantics Seminar held annually each December in memory of Peter Landin and organized by the BCS-FACS Specialist Group on Formal Aspects of Computing Science. The first seminar was delivered by the American computer scientist John C. Reynolds (1935–2013). There is a Peter Landin Building at Queen Mary University of London housing teaching and research facilities for computer science.
+
+
+== Selected publications ==
+Landin, Peter J. (1964). "The mechanical evaluation of expressions". The Computer Journal. 6 (4). British Computer Society: 308–320. doi:10.1093/comjnl/6.4.308.
+Landin, Peter J. (February 1965a). "Correspondence between ALGOL 60 and Church's Lambda-notation: part I". Communications of the ACM. 8 (2). Association for Computing Machinery: 89–101. doi:10.1145/363744.363749. S2CID 6505810.
+Landin, Peter J. (March 1965b). "A correspondence between ALGOL 60 and Church's Lambda-notation: part II". Communications of the ACM. 8 (3). Association for Computing Machinery: 158–165. doi:10.1145/363791.363804. S2CID 15781851.
+Landin, Peter J. (29 August 1965c). "A Generalization of Jumps and Labels". UNIVAC Systems Programming Research (Technical Report). Reprinted in Landin, Peter J. (December 1998). "A Generalization of Jumps and Labels". Higher-Order and Symbolic Computation. 11 (2): 125–143. doi:10.1023/A:1010068630801. S2CID 5579841.
+Landin, Peter J. (1966a). Steel, T. B. Jr. (ed.). "A formal description of Algol 60". Formal Language Description Languages for Computer Programming: 266–294.
+Landin, Peter J. (March 1966b). "The next 700 programming languages". Communications of the ACM. 9 (3). Association for Computing Machinery: 157–166. doi:10.1145/365230.365257. S2CID 13409665.
+
+
+== See also ==
+J operator
+
+
+== Notes ==
+
+
+== Sources ==
+Bornat, Richard (23 September 2009). "Peter Landin obituary". The Guardian (Obituaries ed.). p. 34. Retrieved 29 September 2009.
+Bornat, Richard (17 September 2009). "Peter Landin: a computer scientist who inspired a generation, 5th June 1930 – 3rd June 2009" (PDF). Formal Aspects of Computing. 21 (5). Berlin: Springer-Verlag: 393–395. doi:10.1007/s00165-009-0122-y. ISSN 0934-5043. S2CID 8870097.
+
+
+== External links ==
+Peter J. Landin at DBLP Bibliography Server 
+Program Verification and Semantics: The Early Work at the Wayback Machine (archived 26 September 2007), BCS Computer Conservation Society seminar, Science Museum, London, UK, 5 June 2001
+Memorial talk on Landin's life by Olivier Danvy at ICFP 2009
+Peter Landin's talk at Program Verification and Semantics: The Early Work, 2001 (video)

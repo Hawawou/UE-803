@@ -1,0 +1,60 @@
+Mordechai M. "Moti" Yung is a cryptographer and computer scientist known for his work on cryptovirology and kleptography.
+
+
+== Career ==
+Yung earned his PhD from Columbia University in 1988 under the supervision of Zvi Galil. In the past, he worked at the IBM Thomas J. Watson Research Center, CertCo, RSA Laboratories, and Google. In 2016, Yung moved from Google to Snap Inc. Yung is currently a research scientist at Google.
+Yung is an adjunct senior research faculty member at Columbia University, and has co-advised PhD students including Gödel Prize winner Matthew K. Franklin, Jonathan Katz, and Aggelos Kiayias.
+
+
+== Research ==
+Yung research covers primarily the area of cryptography and its applications to information security and data privacy. He has worked on defining and implementing malicious (offensive) cryptography: cryptovirology and kleptography, and on various other foundational and applied  fields of cryptographic research, including: user and entity electronic authentication,
+information-theoretic security, secure multi-party computation, threshold cryptosystems,
+and zero-knowledge proofs,
+
+
+=== Cryptovirology ===
+In 1996, Adam L. Young and Yung coined the term cryptovirology to denote the use of cryptography as an attack weapon via computer viruses and other malware in contrast to its traditional protective role. In particular, they described the first instances of ransomware using public-key cryptography.
+
+
+=== Kleptography ===
+In 1996, Adam L. Young and Yung introduced the notion of kleptography to show how cryptography could be used to attack host cryptosystems where the malicious resulting system with the embedded cryptologic tool in it resists reverse-engineering and cannot be detected by interacting with the host cryptosystem, as an argument against cryptographic systems and devices given by an external body as "black boxes" as was the Clipper chip and the Capstone program.
+After the 2013 Snowden affair, the NIST was believed to have mounted the first kleptographic attack against the American Federal Information Processing Standard detailing the Dual EC DRBG, essentially exploiting the repeated discrete logarithm based "kleptogram" introduced by Young and Yung.
+
+
+== Awards ==
+In 2010 he was the annual Distinguished Lecturer of the International Association for Cryptologic Research at Eurocrypt.
+In 2013 he became a fellow of the Association for Computing Machinery.
+In 2014 he received the ESORICS (European Symposium on Research in Computer Security) Outstanding Research Award.
+In 2014 he became a fellow of the International Association for Cryptologic Research.
+In 2014 he received the ACM's SIGSAC Outstanding Innovation Award.
+In 2015 he became an IEEE fellow.
+In 2017 Yung became a fellow of the European Association for Theoretical Computer Science.
+In 2018 Yung received the W. Wallace McDowell Award by the IEEE Computer Society.
+In 2020 Yung received the Public Key Cryptography Conference's Test of Time Award for his 1998 paper  on the security of ElGamal Encryption.
+In 2020 Yung received the IEEE Symposium on Security and Privacy's Test of Time Award for his 1996 paper on Cryptovirology.
+In 2021 Yung received the Women of the ENIAC Computer Pioneer Award
+In 2023 Yung was elected to the American Academy of Arts and Sciences
+
+
+== Selected publications ==
+1989: Universal one-way hash functions and their cryptographic applications (with M. Naor; ACM’s STOC).
+1990: Public-key cryptosystems provably secure against chosen ciphertext attacks (with M. Naor; ACM’s STOC).
+1991: How to withstand mobile virus attack (with Ostrovsky; ACM’s PODC).
+1992: Multi-Receiver/Multi-Sender Network Security: Efficient Authenticated Multicast/Feedback (with Desmedt and Frankel; IEEE's INFOCOM 1992)
+1999: Non-Interactive CryptoComputing For NC1 (with Sander and Young; IEEE's FOCS 1999).
+2000: Unforgeable Encryption and Chosen Ciphertext Secure Modes of Operation (with Katz; Fast Software Encryption (FSE)).
+2004: Malicious Cryptography: Exposing Cryptovirology (with A. Young; Wiley 2004: A book).
+2009: Efficient and secure authenticated key exchange using weak passwords (with Katz and Ostrovsky; JACM 57(1)).
+2009: A unified framework for the analysis of side-channel key recovery attacks (with Standaert and Malkin; Eurocrypt).
+2017: Generic Semantic Security against a Kleptographic Adversary (with A. Russell, Q. Tang, and H-S Zhou; ACM's CCS)
+
+
+== References ==
+
+
+== External links ==
+Home page at Columbia University
+DBLP Publication Page
+Google Scholar Page
+Research Gate
+Labs website

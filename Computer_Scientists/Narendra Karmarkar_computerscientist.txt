@@ -1,0 +1,46 @@
+Narendra Krishna Karmarkar (born circa 1956) is an Indian mathematician. Karmarkar developed Karmarkar's algorithm. He is listed as an ISI highly cited researcher.
+He invented one of the first provably polynomial time algorithms for linear programming, which is generally referred to as an interior point method. The algorithm is a cornerstone in the field of linear programming. He published his famous result in 1984 while he was working for Bell Laboratories in New Jersey.
+
+
+== Biography ==
+Karmarkar received his B.Tech in Electrical Engineering from IIT Bombay in 1978, MS from the California Institute of Technology in 1979, and PhD in Computer Science from the University of California, Berkeley in 1983 under the supervision of Richard M. Karp.
+Karmarkar was a post-doctoral research fellow at IBM research (1983), Member of Technical Staff and fellow at Mathematical Sciences Research Center, AT&T Bell Laboratories (1983–1998), professor of mathematics at M.I.T. (1991), at Institute for Advanced study, Princeton (1996), and Homi Bhabha Chair Professor at the Tata Institute of Fundamental Research in Mumbai from 1998 to 2005. He was the scientific advisor to the chairman of the TATA group (2006–2007). During this time, he was funded by Ratan Tata to scale-up the supercomputer he had designed and prototyped at TIFR. The scaled-up model ranked ahead of supercomputer in Japan at that time and achieved the best ranking India ever achieved in supercomputing. He was the founding director of Computational Research labs in Pune, where the scaling-up work was performed. He continues to work on his new architecture for supercomputing.
+
+
+== Work ==
+
+
+=== Karmarkar's algorithm ===
+
+Karmarkar's algorithm solves linear programming problems in polynomial time. These problems are represented by a number of linear constraints involving a number of variables. The previous method of solving these problems consisted of considering the problem as a high-dimensional solid with vertices, where the solution was approached by traversing from vertex to vertex. Karmarkar's novel method approaches the solution by cutting through the above solid in its traversal. Consequently, complex optimization problems are solved much faster using the Karmarkar's algorithm. A practical example of this efficiency is the solution to a complex problem in communications network optimization, where the solution time was reduced from weeks to days. His algorithm thus enables faster business and policy decisions. Karmarkar's algorithm has stimulated the development of several interior-point methods, some of which are used in current implementations of linear-program solvers.
+
+
+==== Galois geometry ====
+After working on the interior-point method, Karmarkar worked on a new architecture for supercomputing, based on concepts from finite geometry, especially projective geometry over finite fields.
+
+
+==== Current investigations ====
+Currently, he is synthesizing these concepts with some new ideas he calls sculpturing free space (a non-linear analogue of what has popularly been described as folding the perfect corner). This approach allows him to extend this work to the physical design of machines. He is now publishing updates on his recent work, including an extended abstract. This new paradigm was presented at IVNC, Poland on 16 July 2008, and at MIT on 25 July 2008. Some of his recent work is published at IEEE Xplore. He delivered a lecture on his ongoing work at IIT Bombay in September 2013. He gave a four-part series of lectures at FOCM 2014 (Foundations of Computational Mathematics) titled "Towards a Broader View of Theory of Computing". First part of this lecture series is available at Cornell archive.
+
+
+== Awards ==
+The Association for Computing Machinery awarded him the prestigious Paris Kanellakis Award in 2000 for his work on polynomial-time interior-point methods for linear programming for "specific theoretical accomplishments that have had a significant and demonstrable effect on the practice of computing".
+Srinivasa Ramanujan Birth Centenary Award for 1999, presented by the Prime Minister of India.
+Distinguished Alumnus Award, Indian Institute of Technology, Bombay, 1996.
+Distinguished Alumnus Award, Computer Science and Engineering, University of California, Berkeley (1993).
+Fulkerson Prize in Discrete Mathematics given jointly by the American Mathematical Society & Mathematical Programming Society (1988)
+Fellow of Bell Laboratories (since 1987).
+Texas Instruments Founders' Prize (1986).
+Marconi International Young Scientist Award (1985).
+Golden Plate Award of the American Academy of Achievement, presented by former U.S. president (1985).
+Frederick W. Lanchester Prize of the Operations Research Society of America for the Best Published Contributions to Operations Research (1984).
+President of India gold medal, I.I.T. Bombay (1978).
+
+
+== References ==
+
+
+== External links ==
+Distinguished Alumnus 1996 IIT Bombay
+Flashback: An Interior Point Method for Linear Programming IIT Bombay Heritage Fund
+Karmarkar function in Scilab

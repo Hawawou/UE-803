@@ -1,0 +1,112 @@
+Kenneth Eugene Iverson (17 December 1920 – 19 October 2004) was a Canadian computer scientist noted for the development of the programming language APL. He was honored with the Turing Award in 1979 "for his pioneering effort in programming languages and mathematical notation resulting in what the computing field now knows as APL; for his contributions to the implementation of interactive systems, to educational uses of APL, and to programming language theory and practice".
+
+
+== Life ==
+Ken Iverson was born on 17 December 1920 near Camrose, a town in central Alberta, Canada. His parents were farmers who came to Alberta from North Dakota; his ancestors came from Trondheim, Norway.
+During World War II, he served first in the Canadian Army and then in the Royal Canadian Air Force. He received a B.A. degree from Queen's University and the M.Sc. and Ph.D. degrees from Harvard University. In his career, he worked for Harvard, IBM, I. P. Sharp Associates, and Jsoftware Inc. (née Iverson Software Inc.).
+Iverson suffered a stroke while working at the computer on a new J lab on 16 October 2004, and died in Toronto on 19 October 2004 at age 83.
+
+
+== Education ==
+Iverson began school on 1 April 1926 in a one-room school, initially in Grade 1, promoted to Grade 2 after 3 months and to Grade 4 by the end of June 1927.
+He left school after Grade 9 because it was the depths of the Great Depression and there was work to do on the family farm, and because he thought further schooling only led to becoming a schoolteacher and he had no desire to become one.  At age 17, while still out of school, he enrolled in a correspondence course on radios with De Forest Training in Chicago, and learned calculus by self-study from a textbook.
+During World War II, while serving in the Royal Canadian Air Force, he took correspondence courses toward a high school diploma.
+After the war, Iverson enrolled in Queen's University in Kingston, Ontario, taking advantage of government support for ex-servicemen and under threat from an Air Force buddy who said he would "beat his brains out if he did not grasp the opportunity". He graduated in 1950 as the top student with a Bachelor's degree in mathematics and physics.
+Continuing his education at Harvard University, he began in the Department of Mathematics and received a Master's degree in 1951.  He then switched to the Department of Engineering and Applied Physics, working with Howard Aiken and Wassily Leontief.
+
+Kenneth Iverson has recalled graduate study under Aiken as "like an apprenticeship" in which the student "learned the tools of the scholarship trade". Every topic was "used more as a focus for the development of skills such as clarity of thought and expression than as an end in itself". Once admitted to the program, a graduate student underwent a rite of "adoption into the fold". He was given a desk (or a share of a desk) among a group of other graduate students, the permanent staff, or visiting scholars, "most of whom were engaged in some aspect of the design and building of computers". A student was thus "made to feel part of a scholarly enterprise" and was provided, "often for the first time, with easy and intimate access to others more experienced in his chosen field".
+When interviewing Aiken, I had asked him whether Tropp and I might see his lecture notes; Aiken replied that he had always destroyed his lecture notes at the end of each year, so that he would not be tempted to repeat his lectures.
+Howard Aiken had developed the Harvard Mark I, one of the first large-scale digital computers, while Wassily Leontief was an economist who was developing the input–output model of economic analysis, work for which he would later receive the Nobel prize. Leontief's model required large matrices and Iverson worked on programs that could evaluate these matrices on the Harvard Mark IV computer. Iverson received a Ph.D. in applied mathematics in 1954 with a dissertation based on this work.
+At Harvard, Iverson met Eoin Whitney, a 2-time Putnam Fellow and fellow graduate student from Alberta.  This had future ramifications.
+
+
+== Work ==
+
+
+=== Harvard (1955–1960) ===
+
+Iverson stayed on at Harvard as an assistant professor to implement the world's first graduate program in "automatic data processing".
+
+Many people think that Aiken was interested only in scientific computers. This was simply not so. During one coffee hour, Aiken turned to Ken Iverson, who had just finished his Ph.D., and said: "These machines are going to be immensely important for business, and I want you to prepare and teach a course in business data processing next fall." There had never been such a course anywhere in the world. Ken was qualified only because he was a mathematician. I was so excited by the prospect that I immediately volunteered to be Ken's graduate teaching assistant.
+It was in this period that Iverson developed notation for describing and analyzing various topics in data processing, for teaching classes, and for writing (with Brooks) Automatic Data Processing. He was "appalled" to find that conventional mathematical notation failed to fill his needs, and began work on extensions to the notation that were more suitable.  In particular, he adopted the matrix algebra used in his thesis work, the systematic use of matrices and higher-dimensional arrays in tensor analysis, and operators in the sense of Heaviside in his treatment of Maxwell's equations, higher-order functions on function argument(s) with a function result.  The notation was also field-tested in the business world in 1957 during a 6-month sabbatical spent at McKinsey & Company. The first published paper using the notation was The Description of Finite Sequential Processes, initially Report Number 23 to Bell Labs and later revised and presented at the Fourth London Symposium on Information Theory in August 1960.
+Iverson stayed at Harvard for five years but failed to get tenure, because "[he hadn't] published anything but the one little book".
+
+
+=== IBM (1960–1980) ===
+Iverson joined IBM Research in 1960 (and doubled his salary). He was preceded to IBM by Fred Brooks, who advised him to "stick to whatever [he] really wanted to do, because management was so starved for ideas that anything not clearly crazy would find support." In particular, he was allowed to finish and publish A Programming Language and (with Brooks) Automatic Data Processing, two books that described and used the notation developed at Harvard.  (Automatic Data Processing and A Programming Language began as one book "but the material grew in both magnitude and level until a separation proved wise".)
+At IBM, Iverson soon met Adin Falkoff, and they worked together for the next twenty years.  Chapter 2 of A Programming Language used Iverson's notation to describe the IBM 7090 computer.  In early 1963 Falkoff, later joined by Iverson and Ed Sussenguth, proceeded to use the notation to produce a formal description of the IBM System/360 computer then under design. The result was published in 1964 in a double issue of the IBM Systems Journal, thereafter known as the "grey book" or "grey manual". The book was used in a course on computer systems design at the IBM Systems Research Institute. A consequence of the formal description was that it attracted the interest of bright young minds. One hotbed of interest was at Stanford University which included Larry Breed, Phil Abrams, Roger Moore, Charles Brenner, and Mike Jenkins, all of whom later made contributions to APL. Donald McIntyre, head of geology at Pomona College which had the first general customer installation of a 360 system, used the formal description to become more expert than the IBM systems engineer assigned to Pomona.
+With the completion of the formal description Falkoff and Iverson turned their attention to implementation. This work was brought to rapid fruition in 1965 when Larry Breed and Phil Abrams joined the project.  They produced a FORTRAN-based implementation on the 7090 called IVSYS (for Iverson system) by autumn 1965, first in batch mode and later, in early 1966, in time-shared interactive mode. Subsequently, Breed, Dick Lathwell (ex University of Alberta), and Roger Moore (of I. P. Sharp Associates) produced the System/360 implementation; the three received the Grace Murray Hopper Award in 1973 "for their work in the design and implementation of APL\360, setting new standards in simplicity, efficiency, reliability and response time for interactive systems." While the 360 implementation work was underway "Iverson notation" was renamed "APL", by Falkoff. The workspace "1 cleanspace" was saved at 1966-11-27 22.53.58 UTC. APL\360 service began within IBM several weeks before that and outside IBM in 1968. Additional information on the implementation of APL\360 can be found in the Acknowledgements of the APL\360 User's Manual and in "Appendix. Chronology of APL development" of The Design of APL.
+
+The formal description and especially the implementation drove the evolution of the language, a process of consolidation and regularization in typography, linearization, syntax, and function definition described in APL\360 History, The Design of APL, and The Evolution of APL. Two treatises from this period, Conventions Governing the Order of Evaluation and Algebra as a Language, are apologias of APL notation.
+The notation was used by Falkoff and Iverson to teach various topics at various universities and at the IBM Systems Research Institute. In 1964 Iverson used the notation in a one-semester course for seniors at the Fox Lane High School, and later in Swarthmore High School. After APL became available its first application was to teach formal methods in systems design at NASA Goddard. It was also used at the Hotchkiss School, Lower Canada College, Scotch Plains High School, Atlanta public schools, among others. In one school the students became so eager that they broke into the school after hours to get more APL computer time; in another the APL enthusiasts steered newbies to BASIC so as to maximize their own APL time.
+In 1969, Iverson and the APL group inaugurated the IBM Philadelphia Scientific Center. In 1970 he was named IBM Fellow. He used the funding that came with being an IBM Fellow to bring in visiting teachers and professors from various fields, including Donald McIntyre from  Pomona and Jeff Shallit as a summer student. For a period of several months the visitors would start using APL for expositions in their own fields, and the hope was that later they would continue their use of APL at their home institutions. Iverson's work at this time centered in several disciplines, including collaborative projects in circuit theory, genetics, geology, and calculus. When the PSC closed in 1974, some of the group transferred to California while others including Iverson remained in the East, later transferring back to IBM Research. He received the Turing Award in 1979.
+
+The following table lists the publications which Iverson authored or co-authored while he was at IBM. They reflect the two main strands of his work.
+
+
+=== I. P. Sharp Associates (1980–1987) ===
+
+In 1980, Iverson left IBM for I. P. Sharp Associates, an APL time-sharing company.  He was preceded there by his IBM colleagues Paul Berry, Joey Tuttle, Dick Lathwell, and Eugene McDonnell.  At IPSA, the APL language and systems group was managed by Eric Iverson (Ken Iverson's son); Roger Moore, one of the APL\360 implementers, was a vice president.
+Iverson worked to develop and extend APL on the lines presented in Operators and Functions. The language work gained impetus in 1981 when Arthur Whitney and Iverson produced a model of APL written in APL at the same time they were working on IPSA's OAG database. (Iverson introduced Arthur Whitney, son of Eoin Whitney, to APL when he was 11-years-old and in 1974 recommended him for a summer student position at IPSA Calgary.) In the model, the APL syntax was driven by an 11-by-5 table.  Whitney also invented the rank operator in the process. The language design was further simplified and extended in Rationalized APL in January 1983, multiple editions of A Dictionary of the APL Language between 1984 and 1987, and A Dictionary of APL in September 1987. Within IPSA, the phrase "dictionary APL" came into use to denote the APL specified by A Dictionary of APL, itself referred to as "the dictionary".  In the dictionary, APL syntax is controlled by a 9-by-6 table and the parsing process was precisely and succinctly described in Table 2, and there is a primitive (monadic ⊥, modeled in APL) for word formation (lexing).
+In the 1970s and 1980s, the main APL vendors were IBM, STSC, and IPSA, and all three were active in developing and extending the language. IBM had APL2, based on the work of Jim Brown. Work on APL2 proceeded intermittently for 15 years, with actual coding starting in 1971 and APL2 becoming available as an IUP (Installed User Program, an IBM product classification) in 1982. STSC had an experimental APL system called NARS, designed and implemented by Bob Smith. NARS and APL2 differed in fundamental respects from dictionary APL, and differed from each other.
+I.P. Sharp implemented the new APL ideas in stages: complex numbers, enclosed (boxed) arrays, match, and composition operators in 1981, the determinant operator in 1982, and the rank operator, link, and the left and right identity functions in 1983. However, the domains of operators were still restricted to the primitive functions or subsets thereof. In 1986, IPSA developed SAX, SHARP APL/Unix, written in C and based on an implementation by STSC. The language was as specified in the dictionary with no restrictions on the domains of operators.  An alpha version of SAX became available within I.P. Sharp around December 1986 or early 1987.
+In education, Iverson developed A SHARP APL Minicourse used to teach IPSA clients in the use of APL, and Applied Mathematics for Programmers and Mathematics and Programming which were used in computer science courses at T.H. Twente.
+
+Publications which Iverson authored or co-authored while he was at I. P. Sharp Associates:
+
+
+=== Jsoftware (1990–2004) ===
+
+Iverson retired from I. P. Sharp Associates in 1987.  He kept busy while "between jobs".  Regarding language design, the most significant of his activities in this period was the invention of "fork" in 1988.  For years, he had struggled to find a way to write f+g as in calculus, from the "scalar operators" in 1978, through the "til" operator in 1982, the catenation and reshape operators in 1984, the union and intersection operators in 1987, "yoke" in 1988, and finally forks in 1988. Forks are defined as follows:
+
+Moreover, (f g p q r) ←→ (f g (p q r)). Thus to write f+g as in calculus, one can write f+g in APL. Iverson and Eugene McDonnell worked out the details on the long plane rides to the APL88 conference in Sydney, Australia, with Iverson coming up with the initial idea on waking up from a nap.: §1.3, §3.8 
+Iverson presented the rationale for his work post 1987 as follows:
+
+When I retired from paid employment, I turned my attention back to this matter [the use of APL for teaching] and soon concluded that the essential tool required was a dialect of APL that:
+• Is available as "shareware", and is inexpensive enough to be acquired by students as well as by schools
+• Can be printed on standard printers
+• Runs on a wide variety of computers
+• Provides the simplicity and the generality of the latest thinking in APL
+The result has been J, first reported in [the APL 90 Conference Proceedings].
+Roger Hui described the final impetus that got J started in Appendix A of An Implementation of J:
+
+One summer weekend in 1989, Arthur Whitney visited Ken Iverson at Kiln Farm and produced—on one page and in one afternoon—an interpreter fragment on the AT&T 3B1 computer. I studied this interpreter for about a week for its organization and programming style; and on Sunday, August 27, 1989, at about four o'clock in the afternoon, wrote the first line of code that became the implementation described in this document.
+Arthur's one-page interpreter fragment is as follows: ...
+Hui, a classmate of Whitney at the University of Alberta, had studied A Dictionary of the APL Language when he was between jobs, modelled the parsing process in at least two different ways, and investigated uses of dictionary APL in diverse applications. As well, from January 1987 to August 1989 he had access to SAX, and in the later part of that period used it on a daily basis.
+J initially took A Dictionary of APL as the specification, and the J interpreter was built around Table 2 of the dictionary. The C data and program structures were designed so that the parse table in C corresponded directly to the parse table in the dictionary.  In retrospect, Iverson's APL87 paper APL87, in five pages, prescribed all the essential steps in writing an APL interpreter, in particular the sections on word formation and parsing.  Arthur Whitney, in addition to the "one-page thing", contributed to J development by suggesting that primitives be oriented on the leading axis, that agreement (a generalization of scalar extension) should be prefix instead of suffix, and that a total array ordering be defined.
+One of the objectives was to implement fork. This turned out to be rather straightforward, by the inclusion of one additional row in the parse table. The choice to implement forks was fortuitous and fortunate. It was realized only later that forks made tacit expressions (operator expressions) complete in the following sense: any sentence involving one or two arguments that did not use its arguments as an operand, can be written tacitly with fork, compose, the left and right identity functions, and constant functions.
+Two obvious differences between J and other APL dialects are: (a) its use of terms from natural languages instead of from mathematics or computer science (the practice began with A Dictionary of APL): noun, verb, adverbs, alphabet, word formation, sentence, ... instead of array, function, operator, character set, lexing, expression, ... ; and (b) its use of 7-bit ASCII characters instead of special symbols.  Other differences between J and APL are described in J for the APL Programmer and APL and J.
+The J source code is available from Jsoftware under the GNU General Public License version 3 (GPL3), or a commercial alternative.
+Eric Iverson founded Iverson Software Inc., in February 1990 to provide an improved SHARP APL/PC product. It quickly became obvious that there were shared interests and goals, and in May 1990 Iverson and Hui joined Iverson Software Inc.; later joined by Chris Burke. The company soon became J only. The name was changed to Jsoftware Inc., in April 2000.
+
+Publications which Iverson authored or co-authored while he was at Iverson Software Inc. and Jsoftware Inc.:
+
+
+== Awards and honors ==
+IBM Fellow, IBM, 1970
+Harry H. Goode Memorial Award, IEEE Computer Society, 1975
+Member, National Academy of Engineering (USA), 1979
+Turing Award, Association for Computing Machinery, 1979
+Computer Pioneer Award (Charter recipient), IEEE Computer Society, 1982
+Honorary doctorate, York University, 1998
+In 2015, a new moth species, Agdistis iversoni, was named after him.
+
+
+== See also ==
+Iverson Award
+Iverson bracket
+Floor and ceiling functions
+List of pioneers in computer science
+
+
+== References ==
+
+
+== External links ==
+
+Works by Kenneth E. Iverson at Open Library
+A Celebration of the Life of Kenneth Eugene Iverson
+Collected Eulogies
+Iverson Examprogramming competition at the University of Alberta for high school students
+Ken Iverson Quotations and Anecdotesillustrations of what Iverson was like as a person, what he was like to work with, the milieu in which he studied and worked, his outlook on life, his sense of humor, etc.
+APL Quotations and Anecdotessketches of Iverson, his colleagues, and his intellectual descendants

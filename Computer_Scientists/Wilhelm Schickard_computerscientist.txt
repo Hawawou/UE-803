@@ -1,0 +1,53 @@
+Wilhelm Schickard (22 April 1592  – 24 October 1635) was a German professor of Hebrew and astronomy who became famous in the second part of the 20th century after Franz Hammer, a biographer (along with Max Caspar) of Johannes Kepler, claimed that the drawings of a calculating clock, predating the public release of Pascal's calculator by twenty years, had been discovered in two unknown letters written by Schickard to Johannes Kepler in 1623 and 1624.
+Hammer asserted that because these letters had been lost for three hundred years, Blaise Pascal had been called and celebrated as the inventor of the mechanical calculator in error during all this time.
+After careful examination it was found that Schickard's drawings had been published at least once per century starting from 1718, that his machine was not complete and required additional wheels and springs and that it was designed around a single tooth carry mechanism that didn't work properly when used in calculating clocks.
+Schickard's machine was the first of several designs of  direct entry calculating machines in the 17th century (including the designs of Blaise Pascal, Tito Burattini, Samuel Morland and René Grillet). The Schickard machine was particularly notable for its integration of an ingenious system of rotated Napier's rods for multiplication with a first known design for an adding machine, operated by rotating knobs for input, and with a register of rotated numbers showing in windows for output. Taton has argued that Schickard's work had no impact on the development of mechanical calculators.  However, whilst there can be debate about what constitutes a "mechanical calculator" later devices, such as Moreland's multiplying and adding instruments when used together, Caspar Schott's Cistula, René Grillet's machine arithmétique, and Claude Perrault's rhabdologique at the end of the century, and later, the Bamberger Omega developed in the early 20th century, certainly followed the same path pioneered by Schickard with his ground breaking combination of a form of Napier's rods and adding machine designed to assist multiplication.
+Schickard has been called "the father of the computer age".
+
+
+== Life ==
+
+Schickard was born in Herrenberg and educated at the University of Tübingen, receiving his first degree, B.A. in 1609 and M.A. in 1611. He studied theology and oriental languages at Tübingen until 1613. In 1613 he became a Lutheran minister continuing his work with the church until 1619 when he was appointed professor of Hebrew at the University of Tübingen.
+Schickard was a universal scientist and taught biblical languages such as Aramaic as well as Hebrew at Tübingen. In 1631 he was appointed professor of astronomy at the University of Tübingen. His research was broad and included astronomy, mathematics and surveying. He invented many machines such as one for calculating astronomical dates and one for Hebrew grammar. He made significant advances in mapmaking, producing maps that were far more accurate than previously available.
+He was, among his other skills, a renowned wood and copperplate engraver.
+Wilhelm Schickard died of the bubonic plague in Tübingen, on 23 or 24 October 1635. In 1651, Giovanni Riccioli named the lunar crater Schickard after him.
+
+
+== Political theory ==
+In 1625 Schickard, a Christian Hebraist, published an influential treatise, Mishpat ha-melek, Jus regium Hebraeorum (Title in both Hebrew and Latin: The King's Law)  in which he uses the Talmud and rabbinical literature to analyze ancient Hebrew political theory.  Schickard argues that the Bible supports monarchy.
+
+
+== Drawings of a calculating clock ==
+
+
+=== History ===
+
+In 1623 and 1624, in two letters that he sent to Kepler, reported his design and construction of what he referred to as an “arithmeticum organum” (“arithmetical instrument”) that he has invented, but which would later be described as a Rechenuhr (calculating clock).  The machine was designed to assist in all the four basic functions of arithmetic (addition, subtraction, multiplication and division).  Amongst its uses, Schickard suggested it would help in the laborious task of calculating astronomical tables. The machine could add and subtract six-digit numbers, and indicated an overflow of this capacity by ringing a bell.  The adding machine in the base was primarily provided to assist in the difficult task of adding or multiplying two multi-digit numbers.   To this end an ingenious arrangement of rotatable Napier's bones were mounted on it. It even had an additional "memory register" to record intermediate calculations.  Whilst Schickard noted that the adding machine was working his letters mention that he had asked a professional, a clockmaker named Johann Pfister to build a finished machine. Regrettably it was destroyed in a fire either whilst still incomplete, or in any case before delivery. Schickard abandoned his project soon after. He and his entire family were wiped out in 1635 by bubonic plague during the Thirty Years' War.
+Schickard's machine used clock wheels which were made stronger and were therefore heavier, to prevent them from being damaged by the force of an operator input.  Each digit used a display wheel, an input wheel and an intermediate wheel.  During a carry transfer all these wheels meshed with the wheels of the digit receiving the carry.
+The Institute for Computer Science at the University of Tübingen is called the Wilhelm-Schickard-Institut für Informatik in his honor.
+
+
+=== Priority of invention ===
+There has been a long-standing question about who should be given priority of invention of the mechanical calculator.  Schickard's mechanism was chronologically earlier but was never able to be used and appears to have had serious design flaws. Pascal's design was slightly later but functioned superbly.
+In 1718 an early biographer of Kepler, Michael Gottlieb Hansch, had published letters from Schickard that described the calculating machine, and his priority was also mentioned in an 1899 publication, the Stuttgarter Zeitschrift für Vermessungswesen. In 1957, Franz Hammer, one of Kepler's biographers, announced that Schickard's drawings of this previously unknown calculating clock predated Pascal's work by twenty years.
+Bruno von Freytag-Löringhoff built a replica of Schickard's machine in 1960, but had to improve on the design of the carry mechanism: 
+
+ This simple-looking device actually presents a host of problems to anyone attempting to construct an adding machine based on this principle.  The major problem is caused by the fact that the single tooth must enter into the teeth of the intermediate wheel, rotate it 36 degrees (one tenth of a revolution), and exit from the teeth, all while only rotating 36 degrees itself. The most elementary solution to this problem consists of the intermediate wheel being, in effect, two different gears, one with long and one with short teeth together with a spring-loaded detente (much like the pointer used on the big wheel of the gambling game generally known as Crown and Anchor) which would allow the gears to stop only in specific locations.  It is not known if Schickard used this mechanism, but it certainly works well on the reproductions constructed by von Freytag Loringhoff.
+Pascal's invention was almost certainly independent, as "it is almost certain that Pascal would not have known of Schickard's machine." Pascal realized that a single-tooth gear would only be adequate for a carry that only needs to propagate a few places. For more digits, the force required to propagate extended carries would damage such gears.
+The two machines were essentially different in that Pascal's machine was designed primarily for addition and (with the use of complementary numbers) for subtraction.  The adding machine in Schickard's design may have jammed in the unusual case of a carry being required across too many dials, but it could smoothly subtract by reversing the motion of the input dials, in a way that was not possible in the Pascaline. (Experiments with replicas show that in the event of a jam when a carry is attempted across more than, say, three dials, it is obvious to the operator who may intervene to assist the machine to perform the additional carries.  This is not as efficient as with the Pascaline, but it is not a fatal deficiency.) The Schickard adding machine also has provision for an audible warning when an output was too large for the available dials.  This was not provided for in the Pascaline.
+Pascal tried to create a smoothly functioning adding machine for use by his father initially, and later for commercialisation, while the adding machine in Schickard's design appears to have been introduced to assist in multiplication (through the calculation of partial products using Napier's rods, a process that can also be used to assist division).
+
+
+== Notes and references ==
+
+
+== Sources ==
+
+
+== Works ==
+Ignis versicolor e coelo sereno delapsus, et Tubingae spectatus anno Christi 1623 (in Latin). Tübingen: Theodoricus Werlin. 1623.
+
+
+== External links ==
+O'Connor, John J.; Robertson, Edmund F., "Wilhelm Schickard", MacTutor History of Mathematics Archive, University of St Andrews
+Schickard 1623 - The first mechanical calculator – informations about design and usage of the Schickard Calculator from 1623

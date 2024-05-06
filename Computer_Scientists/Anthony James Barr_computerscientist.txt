@@ -1,0 +1,101 @@
+Anthony James Barr (born September 24, 1940), aka Tony Barr or Jim Barr, is an American  programming language designer, software engineer and inventor.  Among his notable contributions are the Statistical Analysis System (SAS), automated lumber yield optimization, and the Automated Classification of Medical Entities (ACME).
+
+
+== Contributions ==
+
+
+=== Statistical Analysis System (SAS) ===
+Widely used internationally in science, government, industry, and academia, the SAS System was founded by Barr in 1966.  In September 1966, in Athens, Georgia, he presented the conceptual ideas of SAS to members of the Committee on Statistical Software of the University Statisticians of the Southern Experiment Stations (USSES).
+Barr had earlier created an analysis-of-variance modeling language inspired by the notation of statistician Maurice Kendall.  He developed it in assembly language on the IBM 1410, as a graduate student at North Carolina State University from 1962 to 1963.  Dr. A. Grandage, author of IBM 650 analysis-of-variance programs, advised on some of the statistical computations. This was followed by a multiple regression program with a flexible input format and with algebraic transformation of variables, in 1963 to 1964. Drawing on those programs, along with his experience with structured data files, he created SAS, placing statistical procedures into a formatted file framework.
+Barr's experience with structured data files was gained while working on the Formatted File System, (see below).  From 1966 to 1968, Barr developed the fundamental structure and language of SAS.
+In 1968, Barr began collaboration with others.  Barr designed and implemented the programming language, data management, report writing, and systems areas of the evolving system.  In 1976,  SAS Institute, Inc. was incorporated by Anthony J. Barr, James H. Goodnight, John P. Sall, and Jane T. Helwig, with Barr holding the largest share (40%).  He sold his shares in 1979.
+
+
+=== Automated Classification of Medical Entities (ACME) ===
+Barr created the ACME program for the National Center for Health Statistics from 1967 to 1969.
+
+
+=== Linking Loader for the IBM/360 ===
+In 1968, Barr pioneered a Compile and go system for IBM OS/360 marketed by University Computing Company. The use of the Loader cut typical program testing times by 25 percent. IBM did not offer the equivalent Loader for over 18 months after the Barr Loader was commercially available. 
+
+
+=== IBM Workstation Simulators ===
+In 1971, Barr created the first non-IBM HASP terminal emulator.  Marketed by the University Computing Company (UCC), the HASP emulator gave a significant performance increase over the IBM 2780 emulator he had developed for UCC in 1969.  The emulators were developed on the PDP-8 minicomputer and allowed COPE terminals to communicate with the IBM/360 and IBM/370.
+In 1971, Barr also implemented the HASP workstation for M & M Computer Industries, Orange, California.  Implemented on the Data General Nova minicomputer, the program became the Singer Corporation Remote Batch Terminal. Both Singer and UCC sold their terminal divisions to Harris Corporation, which continued to market the products.
+In 1983, Barr developed hardware and software for performing HASP remote job entry communication on the IBM PC.  His company, Barr Systems, Inc., marketed and sold Barr HASP, and went on to implement and support Bisync and SNA SDLC workstations and gateways, along with other data communications and output management products.
+
+
+=== Formatted File System (FFS) ===
+Barr was employed with IBM Federal Systems Division at the Pentagon, Washington, D.C. from 1964 to 1966.  There he worked on the NIPS Formatted File System.  FFS, a generalized data base management system for retrieval and report writing, was one of the first data management systems to take advantage of defined file structure for data storage and retrieval efficiency.
+Assigned to work with the National Military Command Center, the information processing branch of the Joint Chiefs of Staff, Barr rewrote and enhanced FFS, implementing three of its five major components: retrieval, sorting, and file update.  His work featured the innovation of a uniform lexical analyzer for all languages in the system with a uniform method of handling all error messages.
+Working with FFS introduced Barr to the potential of the defined file structure, which was to become a central concept of SAS (above).
+
+
+== Patents, publications, and education ==
+
+
+=== Patents ===
+Barr, Tony, Satisfaction Metrics and Methods of Implementation, 8,380,560, 2-19-2013, Cl. 705-7.38.
+Barr, Anthony J. and Mullin, Alexander G., Apparatus and method for maximizing utilization of elongated stock. 4,017,976, 4-19-1977, Cl. 235-151.l.
+Barr, Anthony J. and Mullin, Alexander G., Apparatus for optimizing the yield of usable pieces from boards and the like. 3,942,021, 3-2-76, Cl. 250-572.000.
+Barr, Anthony J. and Mullin, Alexander G., Apparatus and method for optimizing the yield of usable pieces from boards and the like. 3,931,501, 1-6-76, Cl. 235-151.100.
+
+
+=== Publications ===
+Manson, A. R.; Barr, A. J.; Goodnight, J. H. (1975), "Optimum Zero-Memory Strategy and Exact Probabilities for 4-Deck Blackjack", The American Statistician, 29 (2): 84–88, doi:10.1080/00031305.1975.10477376
+Barr, A. J.; Goodnight, J. H.; Sall, J. P.; Helwig, J. H. (1977), SAS Programmers' Guide, Raleigh, North Carolina: SAS Institute, Inc.
+Barr, A. J. (1977), "The Distribution and Maintenance of SAS", Computer Sciences and Statistics: Tenth Annual Symposium on the Interface, NBS Special Publication 503: 215–220
+Barr, A. J.; Goodnight, J. H.; Sall, J. P.; Helwig, J. T. (1976), A User's Guide to SAS 76, Raleigh, North Carolina: SAS Institute, Inc., ISBN 978-0-917382-01-7
+Barr, A. J. (1978), "Data Management in SAS and Interfaces to Other Systems", Proceedings of the Computer Science and Statistics: Eleventh Annual Symposium on the Interface, Institute of Statistics, North Carolina State University: 261–264
+
+
+=== Personal life and career ===
+Barr was born in New York City and grew up in Summit, New Jersey, where he graduated from Summit High School in 1958.
+Growing up, he was inspired by the biographies of Ben Franklin, Marconi, Alexander Graham Bell, Wright Brothers, and Sikorsky as well as visits to the Franklin Institute in Philadelphia and the Museum of Natural History in New York City. In 2021, Barr and his wife Olga donated $1M to the Cade Museum for Creativity and Invention to support the museum's youth programming. 
+
+
+=== Education ===
+BS in Applied Physics (with honors), North Carolina State University, 1962.
+MS in Physics, North Carolina State University, 1968.
+1963 National Science Foundation Fellowship to study physical oceanography at Woods Hole Oceanographic Institution.
+1963 National Science Foundation Graduate Fellowship at North Carolina State University.
+1995 Distinguished Alumnus, North Carolina State University, College of Physical and Mathematical Sciences.
+
+
+== See also ==
+Terminal emulator
+Linking loader
+
+
+== Notes ==
+
+
+== References ==
+Barr, Anthony J.; Goodnight, James H.; Sall, John P.; Helwig, Jane T. (1976), A User's Guide to SAS 76, Raleigh, North Carolina: SAS Institute, Inc., ISBN 978-0-917382-01-7
+Barr, Anthony J. (2006), Professional History
+Barr, Anthony J. (2006), SAS History
+Barr, Anthony J. (2010), SAS Beginnings
+Cox, Jonathon B. (November 5, 2003), "Saw Company Develops Technology to Make Efficient Use of Lumber", News & Observer (Raleigh, N.C.)
+Fry, James P.; Sibley, Edgar H. (1976), "Evolution of Data-Base Management Systems", Computing Surveys, 8 (1): 20–25, CiteSeerX 10.1.1.520.808, doi:10.1145/356662.356664, S2CID 14976899
+Greenberg, Bernard G.; Cox, Gertrude M.; Mason, David D.; Grizzle, James E.; Johnson, Norman L.; Jones, Lyle V.; Monroe, John; Simmons, Gordon D. Jr. (1978), Nourse, E. Shepley (ed.), "Statistical Training and Research: The University of North Carolina System", International Statistical Review, 46 (2): 171–207, doi:10.2307/1402812, JSTOR 1402812
+Hamblen, John W. (August 1959), "Statistical programs for the IBM 650—Part I", Communications of the ACM, 2 (8): 13–19, doi:10.1145/368405.368420, S2CID 17591827
+Helmers, Raymond A. (September 1972), "Computerized Lumber Saver", FDM, Furniture Design & Manufacturing: 32–43, archived from the original on 2004-11-01
+Johansson, L. A.; Westerling, R. (2002), "Comparing hospital discharge records with death certificates: Can the differences be explained?", Journal of Epidemiology and Community Health, 56 (4): 301–308, doi:10.1136/jech.56.4.301, PMC 1732113, PMID 11896139
+National Center for Health Statistics About the Mortality Medical Data System
+NCSU News Bureau (April 25, 1971), "NCSU Computerizes Lumber Cuts", News & Observer (Raleigh, N.C.): IV-9
+North Carolina State University, College of Physical and Mathematical Sciences, Distinguished Alumni
+Pompili, Tony (October 13, 1987), "High-speed transmission links yield efficient and economical data transfer. (micro-minicomputer and -mainframe links; Section 2: Connectivity).", PC Week: C17–C18
+Taylor, Alan (March 27, 1968), "360 Link-Edit Times Halved for Compile-&-Go Operations at TUCC", Computerworld, 2 (13)
+Taylor, Alan (April 3, 1968), "It's Often Little Things That Count - Like Printouts! (Editorial)", Computerworld, 2 (14)
+Thomas, Edward R.; Buehlmann, Urs (2001), "Validation of the ROMI-RIP rough mill simulator. (Solid Wood Products).(Statistical Data Included).", Forest Products Journal, 52 (2): 23–29
+Thomas, Edward R.; Buehlmann, Urs (2003), "Performance review of the ROMI-RIP rough mill simulator.", Forest Products Journal, 53 (3): 80–85
+
+
+== External links ==
+Barr-Mullin, Inc.
+Barr Systems, Inc.
+National Center for Health Statistics
+North Carolina State University
+College of Physical and Mathematical Sciences.
+Distinguished Alumnus
+SAS Institute

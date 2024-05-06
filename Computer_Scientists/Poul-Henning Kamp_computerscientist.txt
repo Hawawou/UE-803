@@ -1,0 +1,49 @@
+Poul-Henning Kamp (Danish: [ˈpʰʌwl ˈhene̝ŋ ˈkʰɑmˀp]) is a Danish computer software developer known for work on various projects including FreeBSD and Varnish. He currently resides in Slagelse, Denmark.
+
+
+== Involvement in the FreeBSD project ==
+
+Poul-Henning Kamp has been committing to the FreeBSD project for most of its duration. He is responsible for the widely used MD5crypt implementation of the MD5 password hash algorithm,
+a vast quantity of systems code including the FreeBSD GEOM storage layer, GBDE cryptographic storage transform, part of the UFS2 file system implementation, FreeBSD Jails, the phkmalloc implementation of the malloc library call, and the FreeBSD and NTP timecounters code, and the nanokernel interface with David Mills.
+
+
+== Varnish cache ==
+He is the lead architect and developer for the open source Varnish cache project, an HTTP accelerator.
+
+
+== Dispute with D-Link ==
+
+In 2006, Kamp had a dispute with electronics manufacturer D-Link in which he claimed they were committing NTP vandalism by embedding the IP address of his NTP servers in their routers. The dispute was resolved in April 2006.
+
+
+== Other ==
+
+A post by Kamp on the FreeBSD mailing lists is responsible for the popularization of the term bike shed discussion, and the derived term bikeshedding, to describe Parkinson's law of triviality in open source projects - when the amount of discussion that a subject receives is inversely proportional to its importance. Poul-Henning Kamp is known for his preference of a Beerware license to the GNU General Public License (GPL).
+
+
+== Publications ==
+Poul-Henning Kamp has published a substantial number of articles over the years in publications like Communications of the ACM and ACM Queue mostly on the topics of computing and time keeping. 
+A selection of publications:
+
+USENIX ATC 1998 FREENIX track, "malloc(3) Revisited"
+USENIX BSDCon 2003, GBDE-GEOM Based Disk Encryption
+USENIX BSDCon 2002, Rethinking /dev and devices in the UNIX kernel
+ACM Queue: Building Systems to be Shared Securely
+ACM Queue: You're doing it wrong
+ACM Queue: A Generation Lost in the Bazaar
+Communications of the ACM 2011: The Most Expensive One-Byte Mistake
+Communications of the ACM 2011: The One-Second War
+
+
+== References ==
+
+
+== External links ==
+ Media related to Poul-Henning Kamp at Wikimedia Commons
+
+people.freebsd.org homepage
+phk.freebsd.dk homepage
+Blog in Danish Archived 2013-05-15 at the Wayback Machine
+Another blog in Danish
+Resolution of D-Link Dispute
+Varnish cache

@@ -1,0 +1,59 @@
+Ivar Hjalmar Jacobson (born 1939) is a Swedish computer scientist and software engineer, known as a major contributor to UML, Objectory, Rational Unified Process (RUP), aspect-oriented software development and Essence.
+
+
+== Biography ==
+Ivar Jacobson was born in Ystad, Sweden, on September 2, 1939. He received his Master of Electrical Engineering degree at Chalmers Institute of Technology in Gothenburg in 1962. After his work at Ericsson, he formalized the language and method he had been working on in his PhD at the Royal Institute of Technology in Stockholm in 1985 on the thesis Language Constructs for Large Real Time Systems.
+After his master's degree, Jacobson joined Ericsson and worked in R&D on computerized switching systems AKE  and AXE including PLEX. After his PhD thesis in April 1987, he started Objective Systems with Ericsson as a major customer. A majority stake of the company was acquired by Ericsson in 1991, and the company was renamed Objectory AB. Jacobson developed the software method Object-Oriented Software Engineering (OOSE) published 1992, which was a simplified version of the commercial software process Objectory (short for Object Factory).
+In October, 1995, Ericsson divested Objectory to Rational Software and Jacobson started working with Grady Booch and James Rumbaugh, known collectively as the Three Amigos.
+When IBM bought Rational in 2003, Jacobson decided to leave, after he stayed on until May 2004 as an executive technical consultant.
+In mid-2003 Jacobson formed Ivar Jacobson International (IJI)  which operates across three continents with offices in the UK, the US, Sweden, Switzerland, China, and Singapore.
+
+
+== Work ==
+
+
+=== Ericsson ===
+In 1967 at Ericsson, Jacobson proposed the use of software components in the new generation of software controlled telephone switches Ericsson was developing. In doing this he invented sequence diagrams, and developed collaboration diagrams. He also used state transition diagrams to describe the message flows between components.
+Jacobson saw a need for blueprints for software development. He was one of the original developers of the Specification and Design Language (SDL). In 1976, SDL became a standard in the telecoms industry.
+At Objectory he also invented use cases as a way to specify functional software requirements.
+
+
+=== Rational Software ===
+At Rational, Jacobson and his friends, Grady Booch and James Rumbaugh, designed the UML and his Objectory Process evolved to become the Rational Unified Process under the leadership of Philippe Kruchten.
+
+
+=== Essential Unified Process ===
+In November 2005, Jacobson announced the Essential Unified Process or “EssUP” for short. EssUP was a new “Practice”-centric software development process derived from established software development practices. It integrated practices sourced from three different process camps: the unified process camp, the agile software development camp and the process improvement camp. Each one of them contributed different capabilities: structure, agility and process improvement.
+Ivar has described EssUP as a "super light and agile" RUP. IJI have integrated EssUP into Microsoft Visual Studio Team System and Eclipse.
+
+
+=== EssWork ===
+Standing on the experience of EssUP Ivar and his team, in particular Ian Spence and Pan Wei Ng, developed EssWork starting in 2006.  EssWork is a framework for working with methods.  It is based on a kernel of universal elements always prevalent in software development endeavors.  On top of the kernel some fifteen practices have been defined.  A team can create their own method by composing practices.
+
+
+=== SEMAT and Essence ===
+In November 2009, Jacobson, Bertrand Meyer and Richard Soley ("the Troika") started an initiative called SEMAT (Software Engineering Method and Theory) to seek to develop a rigorous, theoretically basis for software engineering practice, and to promote its wide adoption by industry and academia.  SEMAT has been inspired by the work at IJI, but with a fresh new start.  Essence, an OMG standard since November 2014, is the end result. Methods are seen by Essence as combining software engineering and development techniques. It seeks to make it possible to separate practices from methods, making it easier for them to be combined and reused to create methods that are best suited to the situation.
+
+
+== Publications ==
+Jacobson has published several books and articles, a selection: 
+
+1992. Object-Oriented Software Engineering: A Use Case Driven Approach (ACM Press) With Magnus Christerson, Patrik Jonsson & Gunnar Overgaard. Addison-Wesley, 1992, ISBN 0-201-54435-0
+1994. The Object Advantage: Business Process Reengineering With Object Technology (ACM Press). With M. Ericsson & A. Jacobson. Addison-Wesley, ISBN 0-201-42289-1
+1997. Software Reuse: Architecture, Process, and Organization for Business Success (ACM Press). With Martin Griss & Patrik Jonsson. Addison-Wesley, 1997, ISBN 0-201-92476-5
+1999. The Unified Software Development Process. With Grady Booch & James Rumbaugh. Addison-Wesley Professional, 1999, ISBN 0-201-57169-2
+2004. The Unified Modeling Language Reference Manual (2nd Edition). With Grady Booch & James Rumbaugh. Addison-Wesley Professional, 2004, ISBN 0-321-24562-8
+2004. Aspect-Oriented Software Development With Use Cases (Addison-Wesley Object Technology Series). With Pan-Wei Ng. Addison-Wesley, ISBN 0-321-26888-1
+2005. The Unified Modeling Language User Guide (2nd Edition). With Grady Booch & James Rumbaugh. Addison-Wesley Professional, 2005, ISBN 0-321-26797-4
+2013. The Essence of Software Engineering - Applying the SEMAT Kernel. With Pan-Wei Ng, Paul Mc Mahon, Ian Spence and Svante Lidman. Addison-Wesley, 2013, ISBNISBN 978-0321885951
+2019. The Essentials of Modern Software Engineering - Free the Practices from the Method prisons.  With Harold "Bud" Lawson, Pan-Wei Ng, Paul Mc Mahon and Michael Goedicke. ACM Books & Morgan & Claypool publishers, 2019, ISBN 978-1-947487-24-6
+
+
+== References ==
+
+
+== External links ==
+
+Ivar Jacobson International
+Ivar Jacobson's Blog
+EssWork Website

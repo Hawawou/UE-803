@@ -1,0 +1,37 @@
+David Bacon is an American computer programmer.
+
+
+== Career ==
+Bacon began working as a programmer at age 16 and worked for a startup during his senior year of high school. At Columbia College, Columbia University, he worked first with David E. Shaw on the
+NON-VON supercomputer, and then on network algorithms and simulation with Yechiam Yemini, creating the NEST Network Simulator,
+which served as the basis for a number of other network simulators including Cornell's REAL and thence LBL's ns simulator.
+
+
+=== IBM Research ===
+Bacon spent a large portion of his career at IBM's Thomas J. Watson Research Center, starting as a programmer in 1985 working on the Hermes distributed programming language, and eventually becoming a Principal Research Staff Member.
+He took a sabbatical in 2009 as a visiting professor of computer science at Harvard.
+Much of his work at IBM focused on garbage collection.
+In 2009 he was inducted as an ACM Fellow
+"for contributions to real-time systems and to object-oriented language design and implementation".
+His work on the Metronome hard real-time tracing garbage collector became the basis for the IBM WebSphere Real Time Java virtual machine, which was used in the software for the Navy's DDG 1000 Destroyer. The original research was subsequently selected for the 2013 Most Influential Paper Award of the Symposium on Principles of Programming Languages.
+His work on garbage collecting cyclic structures in reference counted systems has been used in a number of scripting languages,
+including PHP.
+In 2013 he published the first garbage collector implemented completely in
+hardware,
+which was selected as an ACM Research Highlight.
+In addition to garbage collection, his work has focused on the implementation of concurrent and object-oriented languages. His thesis work on Rapid Type Analysis (RTA)
+
+has been used in many compilers and analysis frameworks to construct call graphs for object-oriented languages, including Soot and Go. In 2004, his work on high-performance locking for Java appeared on the list of the 50 most influential PLDI papers of all time.
+
+
+=== Google ===
+In 2014 he joined Google, where he is now a Principal Engineer, working on the Spanner distributed database system. He is responsible for Spanner's Database engine.
+
+
+== References ==
+
+
+== External links ==
+Author profile on Google scholar
+List of publications on DBLP
+List of patents
