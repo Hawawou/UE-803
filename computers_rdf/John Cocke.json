@@ -1,0 +1,367 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanInformationTheorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerDesigners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerHardwareEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTuringAwardLaureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Employee110053808"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/InteriorDesigner110210648"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Laureate110249011"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Mathematician110301261"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIBMEmployees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIBMFellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Theorist110706812"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDukeUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Cocke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "18986261"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1082872154"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_New_Orleans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_R._Cocke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cocke_(colonel)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cocke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Alexander_Cocke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cock_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cocke_(Mississippi)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cocke_(computer_scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Hartwell_Cocke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cox_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
+        "object": "http://dbpedia.org/resource/John_Cocke_(colonel)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
+        "object": "http://dbpedia.org/resource/John_Cocke_(Mississippi)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
+        "object": "http://dbpedia.org/resource/John_Cocke_(computer_scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.01r_m_"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/220167942"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www4.wiwiss.fu-berlin.de/dblp/resource/person/109850"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/John_Cocke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6226492"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4ofab"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Hndis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/220167942"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/property/wordnet_type",
+        "object": "http://www.w3.org/2006/03/wn/wn20/instances/synset-scientist-noun-1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/John_Cocke?oldid=1082872154&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "668"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Cocke",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/John_Cocke"
+    }
+]

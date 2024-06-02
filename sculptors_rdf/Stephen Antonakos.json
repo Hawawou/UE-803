@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfGreekDescent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromNewYorkCity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBrooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromLaconia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGreekEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Antonakos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Antonakos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Antonakos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Antonakos (* 1. November 1926 in , Lakonien; \u2020 17. August 2013 in New York City) war ein griechisch-US-amerikanischer Lichtk\u00fcnstler."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Antonakos (Greek: \u03a3\u03c4\u03c5\u03bb\u03b9\u03b1\u03bd\u03cc\u03c2 \u0391\u03bd\u03c4\u03c9\u03bd\u03ac\u03ba\u03bf\u03c2; November 1, 1926 in Agios Nikolaos, Laconia, Greece \u2013 August 17, 2013 in New York City) was a Greek born American sculptor most well known for his abstract sculptures often incorporating neon."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Antonakos (in greco moderno: \u03a3\u03c4\u03ad\u03c6\u03b1\u03bd\u03bf\u03c2 \u0391\u03bd\u03c4\u03c9\u03bd\u03ac\u03ba\u03bf\u03c2; Agios Nikolaos, 1\u00ba novembre 1926 \u2013 New York City, 17 agosto 2013) \u00e8 stato uno scultore greco noto per le sue sculture astratte e per essere tra i primi ad utilizzare il neon nell'arte. The Room, di Stephen Antonakos, 1974"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/The_Room_by_Stephen_Antonakos,_1974.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1926_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2013_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Greek_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Bay_Ridge,_Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Laconia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Greek_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Neon_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "40364275"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1095401477"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schirn_Kunsthalle_Frankfurt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Van_Abbemuseum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice_Biennale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greece"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MoMA_PS1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_National_Gallery_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manfred_Schneckenburger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1926_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2013_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Greek_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Bay_Ridge,_Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington_D.C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitney_Museum_of_American_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Documenta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Documenta_14"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Documenta_6"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/42nd_Street_(Manhattan)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/59th_Street_(Manhattan)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Laconia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bari,_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atlanta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Greek_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laconia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Neon_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Whitney_Museum_of_American_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Contemporary_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metropolitan_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milwaukee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Museum_of_Contemporary_Art,_Athens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neue_Nationalgalerie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Academy_Museum_and_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bay_Ridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biennale_di_Venezia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glens_Falls,_NY"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wilhelm-Hack-Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hyde_Collection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kassel,_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Hadjimichalis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolf_Ricke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Leering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giannis_Tsarouchis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:The_Room_by_Stephen_Antonakos,_1974.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamburger_Bahnhof_\u2013_Museum_f\u00fcr_Gegenwart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hellmut_Seemann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museo_d\u2019Arte_Contemporanea_di_Roma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolf_Wedewer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schloss_Morsbroich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.stephenantonakos.com/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.danielmarzona.com/artists/stephen-antonakos/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0c45hqj"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_Antonakos",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/119419858"
+    }
+]

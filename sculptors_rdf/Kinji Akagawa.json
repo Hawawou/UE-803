@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanArtistsOfJapaneseDescent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPrintmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromMinnesota"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatContemporaryArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatContemporarySculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Printmaker110475687"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJapaneseEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centurySculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kinji Akagawa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kinji Akagawa (born 1940, Tokyo, Japan) is an American sculptor, printmaker, and arts educator best known for sculptural constructions that also serve a practical function. A pioneer in the public art movement, Akagawa has throughout his career examined the relationship between art and community, most notably the concept of art as a process of inquiry. His sculpture and public artworks are noted for their refined elegance and use of natural materials, such as granite, basalt, field stone, cedar, and ipe wood."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Kinji Akagawa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Kinji Akagawa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Tokyo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Japan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Tokyo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Japan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1940-07-01"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Cranbrook_Academy_of_Art_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1940_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Minnesota_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Japanese_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_artists_of_Japanese_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Minneapolis_College_of_Art_and_Design_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Tokyo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Minnesota"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "24232417"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1087836452"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Environmental_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cranbrook_Academy_of_Art_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Minnesota"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Installation_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cranbrook_Educational_Community"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/McKnight_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Educator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minneapolis_College_of_Art_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minneapolis_Institute_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minneapolis_Sculpture_Garden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conceptual_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tabebuia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_County_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyndale_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smithsonian_Institution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Photography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1940_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Minnesota_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Japanese_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tokyo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walker_Art_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ackland_Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Afton,_Minnesota"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Americans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_artists_of_Japanese_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Figge_Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ford_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norton_Simon_Museum"
+    }
+]

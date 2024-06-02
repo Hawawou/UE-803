@@ -1,0 +1,367 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pauline Aitken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Pauline Aitken (30 June 1893 \u20131958) was a British artist and sculptor."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Pauline Aitken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Pauline Aitken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Accrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Surrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Surrey, England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Accrington, England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1893-06-30"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1958_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Accrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1893_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Chelsea_College_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Manchester_Metropolitan_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Royal_Academy_Schools"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "62770945"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1084908426"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Town_clerk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1958_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Accrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester_School_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1893_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Accrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Scottish_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Chelsea_College_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Manchester_Metropolitan_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Royal_Academy_Schools"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lancashire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Surrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_of_Women_Artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academy_Schools"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salon_des_Artistes_Francais"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chelsea_Polytechnic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q71017288"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://mk.dbpedia.org/resource/\u041f\u043e\u043b\u0438\u043d_\u0410\u0438\u0442\u043a\u0435\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/Butj9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ubl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_British_English"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_year_and_age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Art_UK_bio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1893-06-30"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Painting and sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "British"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Pauline Aitken (30 June 1893 \u20131958) was a British artist and sculptor."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Pauline_Aitken?oldid=1084908426&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3385"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pauline_Aitken",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Pauline_Aitken"
+    }
+]

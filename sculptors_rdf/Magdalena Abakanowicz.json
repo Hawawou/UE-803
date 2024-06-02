@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromWarsaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatCommandersOfTheOrderOfPoloniaRestituta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatModernSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTextileArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWomen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMasovianVoivodeship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CommandingOfficer109941964"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Female109619168"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/MilitaryOfficer110317007"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatKnightCommandersOfTheOrderOfMeritOfTheFederalRepublicOfGermany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Woman110787470"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Serviceman110582746"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/SkilledWorker110605985"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAcademyOfArtsAndSciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromWarsaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleOfLipkaTatarDescent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishContemporaryArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishEducators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishPeopleOfTatarDescent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishWomen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishWomenArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowiczov\u00e1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30de\u30b0\u30c0\u30ec\u30fc\u30ca\u30fb\u30a2\u30d0\u30ab\u30ce\u30f4\u30a3\u30c3\u30c1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u0431\u0430\u043a\u0430\u043d\u043e\u0432\u0438\u0447, \u041c\u0430\u0433\u0434\u0430\u043b\u0435\u043d\u0430"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u739b\u683c\u8fbe\u83b2\u5a1c\u00b7\u963f\u5df4\u5361\u8bfa\u7ef4\u5947"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041c\u0430\u0491\u0434\u0430\u043b\u0435\u043d\u0430 \u0410\u0431\u0430\u043a\u0430\u043d\u043e\u0432\u0438\u0447"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowiczov\u00e1 (Abakanowicz-Kosmowska) (* 20. \u010dervna 1930, \u2013 20. dubna 2017, Var\u0161ava) byla polsk\u00e1 socha\u0159ka, kter\u00e1 se ve sv\u00e9m oboru proslavila netradi\u010dn\u00edm vyu\u017eit\u00edm textiln\u00edch materi\u00e1l\u016f a skupinov\u00fdmi sochami s fragmenty lidsk\u00fdch postav. Figur\u00e1m nej\u010dast\u011bji chyb\u00ed hlavy, ale tak\u00e9 ruce nebo nohy."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowicz-Kosmowska (naski\u011dis la 20-an de junio 1930 en Falenty, vila\u011do en Pruszk\u00f3w-distrikto) \u2013 pola skulptistino, laureatino de multaj premioj. Aran\u011dis pli ol 100 ekspozicioj en la tuta mondo."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowicz-Kosmowska [magda\u02c8l\u025bna abaka\u02c8n\u0254v\u02b2i\u02a7] (* 20. Juni 1930 in Falenty, Polen; \u2020 20. April 2017 in Warschau) war eine polnische Bildhauerin und Textilk\u00fcnstlerin."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowicz-Kosmowska (20 June 1930 \u2013 20 April 2017) was a Polish sculptor and fiber artist. She was known for her use of textiles as a sculptural medium and her outdoor installations. She is widely regarded as one of Poland's most internationally acclaimed artists. She was a professor at the Academy of Fine Arts in Pozna\u0144, Poland, from 1965 to 1990 and a visiting professor at University of California, Los Angeles in 1984."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowicz-Kosmowska, n\u00e9e le 20 juin 1930 \u00e0 Falenty pr\u00e8s de Varsovie en Pologne et morte le 20 avril 2017 \u00e0 Varsovie, est une sculptrice et artiste textile polonaise d\"avant-garde."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowicz-Kosmowska (Raszyn-Falenty, 20 juni 1930 - Warschau, 20 april 2017) was een Poolse beeldhouwster en textielkunstenares."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30de\u30eb\u30bf\u30fb\u30de\u30b0\u30c0\u30ec\u30fc\u30ca\u30fb\u30a2\u30d0\u30ab\u30ce\u30f4\u30a3\u30c3\u30c1=\u30b3\u30b9\u30e2\u30d5\u30b9\u30ab\uff08Marta Magdalena Abakanowicz-Kosmowska\u30011930\u5e746\u670820\u65e5\u2013 2017\u5e744\u670820\u65e5\uff09\u3068\u306f\u3001\u30dd\u30fc\u30e9\u30f3\u30c9\u306e\u5f6b\u523b\u5bb6\u3001\u30d5\u30a1\u30a4\u30d0\u30fc\u30fb\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3001\u753b\u5bb6\u3002\u30dd\u30fc\u30e9\u30f3\u30c9\u3092\u4ee3\u8868\u3059\u308b\u56fd\u969b\u7684\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4e00\u4eba\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowicz-Kosmowska (ur. 20 czerwca 1930 w Falentach, zm. 20 kwietnia 2017 w Warszawie) \u2013 polska rze\u017abiarka, tw\u00f3rczyni tkaniny artystycznej, profesor sztuk pi\u0119knych (1979), w latach 1965\u20131990 prowadz\u0105ca zaj\u0119cia w Pa\u0144stwowej Wy\u017cszej Szkole Sztuk Plastycznych w Poznaniu, profesor wizytuj\u0105ca na Uniwersytecie Kalifornijskim w Los Angeles (1984); jej monumentalne kompozycje przestrzenne zyska\u0142y nazw\u0119 abakan\u00f3w."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowicz-Kosmowska foi uma artista pl\u00e1stica polonesa. Foi uma das principais representantes da escola polonesa de tape\u00e7aria, incorpora elementos oriundos das correntes est\u00e9ticas em voga."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u0430\u0301\u0440\u0442\u0430 \u041c\u0430\u0433\u0434\u0430\u043b\u0435\u0301\u043d\u0430 \u0410\u0431\u0430\u043a\u0430\u043d\u043e\u0301\u0432\u0438\u0447-\u041a\u043e\u0441\u043c\u043e\u0301\u0432\u0441\u043a\u0430 (\u043f\u043e\u043b\u044c\u0441\u043a. Marta Magdalena Abakanowicz-Kosmowska, 20 \u0438\u044e\u043d\u044f 1930, , \u0431\u043b\u0438\u0437 \u0412\u0430\u0440\u0448\u0430\u0432\u044b \u2014 20 \u0430\u043f\u0440\u0435\u043b\u044f 2017, \u0412\u0430\u0440\u0448\u0430\u0432\u0430) \u2014 \u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u0446\u0430, \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u0430\u0440\u0442\u0430 \u041c\u0430\u0433\u0434\u0430\u043b\u0435\u043d\u0430 \u0410\u0431\u0430\u043a\u0430\u043d\u043e\u0432\u0438\u0447 (\u043f\u043e\u043b. Marta Magdalena Abakanowicz-Kosmowska; *20 \u0447\u0435\u0440\u0432\u043d\u044f 1930 \u2014 20 \u043a\u0432\u0456\u0442\u043d\u044f 2017) \u2014 \u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0430 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u043a\u0430. \u0412\u0456\u0434\u043e\u043c\u0430 \u0437\u0430\u0432\u0434\u044f\u043a\u0438 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044e \u0442\u0435\u043a\u0441\u0442\u0438\u043b\u044e \u0442\u0430 \u0433\u043e\u0431\u0435\u043b\u0435\u043d\u0443 \u0432 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u0456 \u0442\u0430 \u0432\u0432\u0430\u0436\u0430\u0454\u0442\u044c\u0441\u044f \u043e\u0434\u043d\u0456\u0454\u044e \u0437 \u043d\u0430\u0439\u0432\u0456\u0434\u043e\u043c\u0456\u0448\u0438\u0445 \u043c\u0438\u0441\u0442\u043a\u0438\u043d\u044c XX \u0441\u0442\u043e\u0440\u0456\u0447\u0447\u044f."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u739b\u683c\u8fbe\u83b2\u5a1c\u00b7\u963f\u5df4\u5361\u8bfa\u7ef4\u5947\uff08\u6ce2\u862d\u8a9e\uff1aMarta Magdalena Abakanowicz-Kosmowska\uff0c1930\u5e746\u670820\u65e5\uff0d2017\u5e744\u670820\u65e5\uff09\uff0c\u662f\u4e00\u540d\u6ce2\u5170\u96d5\u523b\u5bb6\u3001\u5bb6\u3002\u5979\u56e0\u64c5\u957f\u8fd0\u7528\u5316\u7ea4\u6750\u6599\u4f5c\u753b\u800c\u95fb\u540d\u30021965\u5e74\u81f31990\u5e74\uff0c\u62c5\u4efb\u6559\u6388\u30011984\u5e74\uff0c\u66fe\u4efb\u52a0\u5dde\u5927\u5b66\u6d1b\u6749\u77f6\u5206\u6821\u8bbf\u95ee\u5b66\u8005\u3002 2017\u5e744\u670820\u65e5\uff0c\u56e0\u75c5\u5728\u534e\u6c99\u53bb\u4e16\uff0c\u4eab\u5e7486\u5c81\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "(Falenty, 20 de juny de 1930 - Vars\u00f2via, 20 d'abril de 2017) nom art\u00edstic de Marta Magdalena Abakanowicz-Kosmowska fou una destacada escultora i artista t\u00e8xtil de l'escola polonesa del tap\u00eds. En les seves composicions, en les quals va conjuminar elements procedents dels corrents est\u00e8tics en voga, va rec\u00f3rrer en molts casos a elements escult\u00f2rics. La seva originalitat radica en el trasllat dels seus coneixements sobre tapisseria a l'escultura a partir d'uns experiments realitzats en la d\u00e8cada dels seixanta. Les seves obres, veritables ambients en els quals les repeticions de formes al\u00b7lusives al cap, t\u00f2rax o multituds, s\u00f3n representades en tonalitats fosques, confereixen una dimensi\u00f3 dram\u00e0tica accentuada pels temes que prevalen en la seva obra: l'individual i el col\u00b7lectiu, l'anonimat i l'e"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowicz-Kosmowska poloniar eskultorea izan zen. Aristokrata-familia batean jaio zen, eta Bigarren Mundu Gerraren eta Gerra Hotzaren gertakari gogorrenak bizi izan zituen. 1950-1954 bitarteko urteetan Varsoviako Arte Ederretako eskolan ikasi zuen, eta pinturaren munduan sartu zen. 1962an eskultoreak Lausannako Tapizen Nazioarteko Bi Urteko erakusketarako proposatu zuen Abakanowicz eta Forma zurietako konposizioa lanarekin aurkeztu zen. Haren lanak berehala izan zuen arrakasta, izan ere, bere erliebe formek hautsi egiten zuten frantses tradizioa. Aipagarriak dira materialarekin egin zituen berrikuntzak eta lortzen zituen kontrasteak. 1970eko hamarraldiaren hasieran, ordea, soketan oinarritu zen haren lana. 1973."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowicz-Kosmowska (Falenty, 20 de junio de 1930-Varsovia, 20 de abril de 2017)\u200b fue una escultora y destacada artista de la escuela polaca del tapiz. En sus composiciones, en las que aun\u00f3 elementos procedentes de las corrientes est\u00e9ticas en boga, recurri\u00f3 a menudo a elementos escult\u00f3ricos. Su originalidad radica en el traslado de sus conocimientos sobre tapicer\u00eda a la escultura a partir de unos experimentos realizados en la d\u00e9cada de los sesenta. Sus obras, verdaderos ambientes en los que las repeticiones de formas alusivas a la cabeza, t\u00f3rax o multitudes, son representadas en tonalidades oscuras, confieren una dimensi\u00f3n dram\u00e1tica acentuada por los temas que priman en su obra: lo individual y lo colectivo, el anonimato y el estereotipo, la corrosi\u00f3n y la enfermedad, cuy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowicz-Kosmowska \u00e8 stata una scultrice polacca. \"Nierozpoznani\" Nacque nel 1930 a Falenty, vicino a Varsavia. Nel 1954 complet\u00f2 gli studi all'Accademia di Belle Arti di Varsavia. Fu professoressa all'Accademia di Belle Arti di Pozna\u0144 e visiting professor presso la University of California in Los Angeles. Nel 1965 ricevette la medaglia d'oro durante la VII Biennale Internazionale dell'Arte a San Paolo. Nel 1972 ottenne il premio statale di prima classe della Repubblica Polacca. Nel 1979 vinse il Premio Herder."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marta Magdalena Abakanowicz-Kosmowska, f\u00f6dd 20 juni 1930 i i Masovien, d\u00f6d 20 april 2017 i Warszawa, var en polsk konstn\u00e4r. Abakanowicz studerade m\u00e5leri vid konstakademin i Warszawa 1950-1955, men har v\u00e4sentligen arbetat med textil. Hon anv\u00e4nder ofta okonventionella material som sisal och hampa, och var en av de f\u00f6rsta som slet ner textilen fr\u00e5n v\u00e4ggen och i st\u00e4llet formade den till monumentala skulpturer. Dessa textilskulpturer, kallade \"abakaner\", \u00e4r alla knutna till den m\u00e4nskliga figuren eller sf\u00e4ren. Hon har haft stor betydelse f\u00f6r modern textilkonst."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Magdalena Abakanowicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Magdalena_Abakanowicz_crop_3x4.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Abakany_Cytadela_Poznan.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Abakany_Cytadela_Poznan_2.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Agora_by_Magdalena_Abakanowicz.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Europos_parkas_1.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasher_Sculpture_Center,_Untitled,_1980-1983.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Magdalena_Abakanowicz",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Falenty"
+    }
+]

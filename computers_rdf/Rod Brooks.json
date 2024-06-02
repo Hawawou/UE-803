@@ -1,0 +1,42 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Brooks",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Rod Brooks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Brooks",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2870080"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Brooks",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "25139866"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Brooks",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Brooks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Brooks",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Rodney_Brooks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Brooks",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Rod_Brooks?oldid=25139866&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Brooks",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "27"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Brooks",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Rod_Brooks"
+    }
+]

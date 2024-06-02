@@ -1,0 +1,42 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Walter Allward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "9706893"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "110775373"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_Seymour_Allward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Walter_Seymour_Allward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Walter_Allward?oldid=110775373&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "36"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Walter_Allward"
+    }
+]

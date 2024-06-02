@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatContemporaryPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatContemporarySculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWarArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBaghdad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Painter110391653"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIraqiArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIraqiPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIraqiSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centurySculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat21st-centuryPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat21st-centurySculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatExpressionistPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahmed Al Safi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a (\u0646\u062d\u0627\u062a)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahmed Al Safi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahmed Al Safi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahmed Al Safi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahmed Al Safi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahmed Al Safi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahmed Al Safi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc544\uba54\ub4dc \uc54c\uc0ac\ud53c"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahmed Al Safi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u0445\u043c\u0435\u0434 \u0430\u0441-\u0421\u0430\u0444\u0438"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0623\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a \u0641\u0646\u0627\u0646 \u0648\u0646\u062d\u0627\u062a \u0639\u0631\u0627\u0642\u064a \u0648\u0644\u062f \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062f\u064a\u0648\u0627\u0646\u064a\u0629 \u062c\u0646\u0648\u0628 \u0627\u0644\u0639\u0631\u0627\u0642 \u0639\u0627\u0645 1971\u0645 \u062f\u0631\u0633 \u0627\u0644\u0646\u062d\u062a \u0641\u064a \u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0641\u0646\u0648\u0646 \u0627\u0644\u062c\u0645\u064a\u0644\u0629 \u0641\u064a \u0628\u063a\u062f\u0627\u062f \u062d\u0627\u0635\u0644 \u0639\u0644\u0649 \u062c\u0627\u0626\u0632\u0629 \u0625\u0633\u0645\u0627\u0639\u064a\u0644 \u0641\u062a\u0627\u062d \u0627\u0644\u062a\u0631\u0643 \u0644\u0644\u0646\u062d\u0627\u062a\u064a\u0646 \u0627\u0644\u0634\u0628\u0627\u0628 \u0639\u0627\u0645 2000\u0645. \u064a\u0645\u062b\u0644 \u0627\u0644\u0635\u0627\u0641\u064a \u062c\u064a\u0644 \u0641\u0646\u0627\u0646\u064a \u062a\u0633\u0639\u064a\u0646\u0627\u062a \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0645\u0627\u0636\u064a \u0627\u0644\u0630\u064a\u0646 \u0639\u0627\u064a\u0634\u0648\u0627 \u0627\u0644\u062d\u0635\u0627\u0631 \u0648\u062d\u0643\u0648\u0645\u0629 \u062d\u0632\u0628 \u0627\u0644\u0628\u0639\u062b \u0627\u0644\u0639\u0631\u0627\u0642\u064a.\u060c \u0648\u0623\u062b\u0646\u0627\u0621 \u062a\u0644\u0643 \u0627\u0644\u0641\u062a\u0631\u0629 \u0643\u0627\u0646 \u0627\u0644\u0635\u0627\u0641\u064a \u064a\u0639\u0631\u0636 \u0644\u0648\u062d\u0627\u062a\u0647 \u0648\u0645\u0646\u062d\u0648\u062a\u0627\u062a\u0647 \u0641\u064a \u0645\u0634\u063a\u0644\u0647 \u0641\u064a \u0628\u063a\u062f\u0627\u062f \u0648\u0643\u0627\u0646\u0627 \u0623\u0639\u0645\u0627\u0644\u0647 \u0645\u062d\u0637 \u0627\u0647\u062a\u0645\u0627\u0645 \u0648\u0627\u0642\u062a\u0646\u0627\u0621 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u062f\u0628\u0644\u0648\u0645\u0627\u0633\u064a\u064a\u0646 \u0648\u062c\u0627\u0645\u0639\u064a \u0627\u0644\u0642\u0637\u0639 \u0627\u0644\u0641\u0646\u064a\u0629 \u0645\u0646 \u0627\u0644\u063a\u0631\u0628 \u0648\u0645\u0646 \u0627\u0644\u0634\u0631\u0642 \u0627\u0644\u0623\u0648\u0633\u0637 \u0643\u0630\u0644\u0643.\u0627\u0634\u062a\u0647\u0631 \u0627\u0644\u0635\u0627\u0641\u064a \u0628\u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0628\u0631\u0648\u0646\u0632\u064a\u0629 \u0648\u0623\u063a\u0644\u0628 \u0623\u0639\u0645\u0627\u0644\u0647 \u064a\u0645\u0643\u0646 \u062a\u0634\u062e\u0635\u064a\u0647\u0627 \u0641\u064a \u0623\u0645\u0631\u064a\u0646 \u0631\u0626\u064a\u0633\u064a\u064a\u0646 \u0623\u0648\u0644\u0647\u0627 \u0647\u0648 \u0645\u062d\u0627\u0648\u0644\u0627\u062a \u0645\u0633\u062a\u0645\u064a\u062a\u0629 \u0644\u0644\u0623\u0634\u062e\u0627\u0635 \u0628\u0627\u0644\u062a\u062d\u0631\u0631 \u0648\u0627\u0644\u0627\u0646\u0639\u062a\u0627\u0642 \u0648\u0627\u0644\u062b\u0627\u0646\u064a \u0647\u0648 \u0641\u0643\u0631 \u0627\u0644\u062a\u0648\u0627\u0632\u0646 \u0627\u0644\u0623\u062e\u0644\u0627\u0642\u064a \u0627\u0644\u0625\u0646\u0633\u0627\u0646\u064a \u0641\u064a \u0627\u0644\u0623\u0641\u0639\u0627\u0644 \u0641\u064a \u0638\u0644 \u0646\u0638\u0627\u0645 \u062d\u0632\u0628 \u0627\u0644\u0628\u0639\u062b. \u0643\u0630\u0644\u0643 \u064a\u0633\u062a\u0645\u062f \u0623\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a \u0623\u0641\u0643\u0627\u0631\u0647 \u0645\u0646 \u062b\u0642\u0627\u0641\u0629 \u0628\u0644\u0627\u062f \u0645\u0627 \u0628\u064a\u0646 \u0627\u0644\u0646\u0647\u0631\u064a\u0646 \u0648\u0627\u0644\u0632\u0631\u0627\u0639\u0629 \u0648\u0635\u064a\u062f \u0627\u0644\u0623\u0633\u0645\u0627\u0643 [1].\u064a\u0639\u064a\u0634 \u0623\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a \u0645\u0646 \u0639\u0627\u0645 2005\u0645 \u0641\u064a \u0628\u0627\u0631\u064a\u0633."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahmed Al Safi (Arabic: \u0627\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a, born 1971) is an Iraqi sculptor and painter."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahmed Al Safi (arabe \u0627\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a) naski\u011dis en Diwaniya, Irako en 1971. Li estas skulptisto kaj pentristo."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahmed Al Safi (\u0627\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a) (Diwaniya, Irak, 1971 - ) eskultore eta margolari irakiarra da. 2005 urteaz geroztik Frantzian bizi da."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahmed Al Safi, (\u0627\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a) naci\u00f3 en Diwaniya, Irak en 1971. Al Safi, estudi\u00f3 escultura en la Academia de Bellas Artes en Bagdad. Gan\u00f3 el premio turco Ismail Al Fatah, para los j\u00f3venes escultores, en el a\u00f1o 2000."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "P\u00e9int\u00e9ir agus dealbh\u00f3ir is ea Ahmed Al Safi (\u0627\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a), a rugadh i Diwaniya, an Iar\u00e1ic sa bhliain 1971. T\u00e1 s\u00e9 ina ch\u00f3na\u00ed sa Fhrainc \u00f3n bhliain 2005 i leith."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc544\uba54\ub4dc \uc54c\uc0ac\ud53c(\uc544\ub78d\uc5b4: \u0627\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a)(\uc601\uc5b4: Ahmed Al Safi)\ub294 1971\ub144 \uc774\ub77c\ud06c\uc5d0\uc11c \ud0dc\uc5b4\ub09c \uc870\uac01\uac00\uc774\uc790 \ud654\uac00\uc774\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahmed Al Safi (arabe : \u0627\u062d\u0645\u062f\u0627\u0644\u0635\u0627\u0641\u064a) est un sculpteur et un peintre irakien, n\u00e9 \u00e0 Diwaniya en 1971, actif en France depuis 2004. Il a \u00e9tudi\u00e9 la sculpture \u00e0 l'\u00c9cole des Beaux-Arts de Bagdad et a gagn\u00e9 le prix Ismail Fatah Al Turk pour de jeunes sculpteurs en 2000. L'art de Ahmed Al Safi refl\u00e8te particuli\u00e8rement cette nouvelle g\u00e9n\u00e9ration des artistes des ann\u00e9es 1990 qui vivaient la p\u00e9riode d'embargo. L'essence de ses sculptures en m\u00e9tal d\u00e9peignent des figures marchant \u00e0 l'int\u00e9rieur des anneaux ou des cercles, ou essayant de voler."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahmed Al Safi (Al-D\u012bw\u0101niyya, 1971) \u00e8 uno scultore iracheno.Ha studiato scultura all'Accademia di Belle Arti di Baghdad. Ha vinto il \"Premio \" per giovani scultori nel 2000. L'arte di Ahmed Al Safi, riflette quella generazione di artisti che negli anni novanta hanno vissuto il disagio dell'embargo e della dittatura saddamista e, successivamente, un ulteriore sfacelo dell'Iraq con l'arrivo delle truppe straniere. \u00c8 stato inserito da Stephen Farthing nel 2008 nella guida d'arte dei pi\u00f9 grandi artisti dell'universo."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahmed Al Safi ((em \u00e1rabe)\u0627\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a), nascido em , Iraque, em 1971, \u00e9 um pintor e escultor formado pela Academia de Belas Artes de Bagd\u00e1, ganhador do premio Ismail Fatah Al Turk para jovens escultores em 2000. Al Safi vive na Fran\u00e7a desde 2005."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0410\u0445\u043c\u0435\u0434 \u0430\u0441-\u0421\u0430\u0444\u0438 (\u0430\u0440\u0430\u0431. \u0627\u062d\u0645\u062f \u0627\u0644\u0635\u0627\u0641\u064a\u200e; \u0440. 1971, , \u0418\u0440\u0430\u043a) \u2014 \u0438\u0440\u0430\u043a\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440. \u0410\u0441-\u0421\u0430\u0444\u0438 \u0438\u0437\u0443\u0447\u0430\u043b \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u0443 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0418\u0437\u044f\u0449\u043d\u044b\u0445 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432 \u0432 \u0411\u0430\u0433\u0434\u0430\u0434\u0435. \u0412 2000 \u0433\u043e\u0434\u0443 \u043e\u043d \u0432\u044b\u0438\u0433\u0440\u0430\u043b \u043f\u0440\u0435\u043c\u0438\u044e \u0438\u043c\u0435\u043d\u0438 \u0418\u0441\u043c\u0430\u0438\u043b\u0430 \u0424\u0430\u0442\u0445 \u0430\u043b\u044c-\u0422\u044e\u0440\u043a\u0430 \u0434\u043b\u044f \u043c\u043e\u043b\u043e\u0434\u044b\u0445 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u043e\u0432. \u041d\u0430 \u043f\u0440\u043e\u0442\u044f\u0436\u0435\u043d\u0438\u0438 \u0432\u0441\u0435\u0433\u043e \u043f\u0435\u0440\u0438\u043e\u0434\u0430 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0431\u043b\u043e\u043a\u0430\u0434\u044b \u0418\u0440\u0430\u043a\u0430 \u0430\u0441-\u0421\u0430\u0444\u0438 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u043b \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u044b \u0438 \u043a\u0430\u0440\u0442\u0438\u043d\u044b \u0432 \u0441\u0432\u043e\u0435\u0439 \u0441\u0442\u0443\u0434\u0438\u0438 \u0432 \u0411\u0430\u0433\u0434\u0430\u0434\u0435. \u0415\u0433\u043e \u0440\u0430\u0431\u043e\u0442\u044b \u0441\u0442\u0430\u043b\u0438 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u043c \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0445 \u0434\u0438\u043f\u043b\u043e\u043c\u0430\u0442\u043e\u0432 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0433\u043e\u0441\u0442\u0435\u0439 \u0441 \u0417\u0430\u043f\u0430\u0434\u0430 \u0438 \u0411\u043b\u0438\u0436\u043d\u0435\u0433\u043e \u0412\u043e\u0441\u0442\u043e\u043a\u0430. \u0421 2005 \u0433\u043e\u0434\u0430 \u0410\u0441-\u0421\u0430\u0444\u0438 \u0436\u0438\u0432\u0451\u0442 \u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432\u043e \u0424\u0440\u0430\u043d\u0446\u0438\u0438."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Ahmed Al Safi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Ahmed Al Safi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Al_Diwaniyah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Iraq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Al_Diwaniyah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Iraq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1971_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Neo-expressionist_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Iraqi_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Expressionist_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Iraqi_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Baghdad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Iraqi_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:War_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "7249859"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1100969862"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1971_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saddam_Hussein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baghdad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Neo-expressionist_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Iraqi_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Expressionist_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iraqi_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Al_Diwaniyah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Islamic_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ismail_Fatah_Al_Turk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Iraqi_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iraq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Iraqi_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Baghdad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ahmed_Al_Safi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Iraqi_sculptors"
+    }
+]

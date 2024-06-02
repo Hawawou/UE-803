@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWomenComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0643\u0627\u062b\u0644\u064a\u0646 \u0628\u0648\u062b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kathleen Boothov\u00e1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kathleen Booth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kathleen Booth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kathleen Booth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kathleen Booth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kathleen Booth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kathleen Booth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u0443\u0442, \u041a\u044d\u0442\u043b\u0438\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041a\u0435\u0442\u043b\u0456\u043d \u0411\u0443\u0442"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u51ef\u745f\u7433\u00b7\u5e03\u601d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kathleen Boothov\u00e1 (nep\u0159ech\u00fdlen\u011b Booth; 9. \u010dervence 1922 \u2013 29. z\u00e1\u0159\u00ed 2022) vytvo\u0159ila prvn\u00ed jazyk symbolick\u00fdch adres a navrhla assembler pro prvn\u00ed po\u010d\u00edta\u010dov\u00e9 syst\u00e9my na Lond\u00fdnsk\u00e9 univerzit\u011b. Byla jedn\u00edm z autor\u016f n\u00e1vrhu t\u0159\u00ed r\u016fzn\u00fdch stroj\u016f v\u010detn\u011b ARC (Automatic Relay Calculator), SEC (Simple Electronic Computer) a APE(X)C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0643\u0627\u062b\u0644\u064a\u0646 \u0628\u0648\u062b (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Kathleen Booth)\u200f (\u0648. 1922 \u0645) \u0647\u064a \u0639\u064e\u0627\u0644\u0650\u0645\u064e\u0629 \u062d\u0627\u0633\u0648\u0628 \u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kathleen Hylda Valerie Booth (* 9. Juli 1922 in Stourbridge; \u2020 29. September 2022) war eine britische Mathematikerin und Informatikerin. Sie schrieb die erste Assemblersprache und entwarf den Assembler und den Autocode f\u00fcr die ersten Computersysteme am Birkbeck College der University of London. Sie half bei der Entwicklung von drei verschiedenen Maschinen, darunter ARC (Automatic Relay Calculator), SEC (Simple Electronic Computer) und APEXC."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kathleen Booth (1922-2022) escribi\u00f3 el primer lenguaje ensamblador y dise\u00f1\u00f3 el c\u00f3digo de ensamblado y autocode para los primeros sistemas de computadoras del Birkbeck College. Ayud\u00f3 a dise\u00f1ar tres diferentes computadoras, la ARC (Automatic Relay Calculator), SEC (Simple Electronic Computer), y . Falleci\u00f3 el 29 de septiembre de 2022 en Canad\u00e1 a la edad de 100 a\u00f1os.\u200b\u200b\u200b\u200b\u200b\u200b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kathleen Hylda Valerie Booth (n\u00e9e Britten, 9 July 1922 \u2013 29 September 2022) was a British computer scientist and mathematician who wrote the first assembly language and designed the assembler and autocode for the first computer systems at Birkbeck College, University of London. She helped design three different machines including the ARC, SEC, and APE(X)C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kathleen Hylda Valerie Booth, n\u00e9e Kathleen Britten le 9 juillet 1922 \u00e0 Stourbridge et morte le 29 septembre 2022, est une informaticienne britannique. Elle a con\u00e7u le premier langage assembleur et le programme assembleur et l\u2019autocode des premiers ordinateurs \u00e0 Birkbeck College. Elle a contribu\u00e9 au d\u00e9veloppement de trois ordinateurs, \u00e0 savoir ARC (Automatic Relay Calculator), SEC (Simple Electronic Computer) et (de) (All Purpose Electronic X-Ray Computer)."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kathleen Hylda Valerie Booth (Stourbridge (Verenigd Koninkrijk), 9 juli 1922 \u2013 29 september 2022) was een Brits computerwetenschapster en wiskundige heeft als eerste een assembleertaal geschreven. Ze ontwierp ook een assembler en autocode (ARC and APE(X)C) voor de eerste computersystemen op Birkbeck College aan de Universiteit van London."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kathleen Booth (ur. jako Britten 9 lipca 1922, zm. 29 wrze\u015bnia 2022) \u2013 brytyjska matematyczka, autorka prawdopodobnie pierwszego j\u0119zyka programowania typu asembler, programistka i projektantka wczesnych komputer\u00f3w."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u51ef\u745f\u7433\u00b7\u6d77\u5c14\u8fbe\u00b7\u74e6\u83b1\u4e3d\u00b7\u5e03\u601d\uff08\u82f1\u8a9e\uff1aKathleen Hylda Valerie Booth\uff0c1922\u5e747\u67089\u65e5\uff0d2022\u5e749\u670829\u65e5\uff09\u662f\u4e00\u4f4d\u5973\u6027\u8ba1\u7b97\u673a\u79d1\u5b66\u5bb6\u3002\u5979\u521b\u9020\u4e86\u9996\u4e2a\u6c47\u7f16\u8bed\u8a00\uff0c\u540c\u65f6\u8bbe\u8ba1\u4e86\u4f26\u6566\u5927\u5b66\u4f2f\u8d1d\u514b\u5b66\u9662\u9996\u4e2a\u8ba1\u7b97\u673a\u7cfb\u7edf\u7684\u6c47\u7f16\u7a0b\u5e8f\u53ca\u81ea\u52a8\u7f16\u7801\u3002\u9664\u6b64\u4e4b\u5916\uff0c\u5979\u4e5f\u53c2\u4e0e\u4e86\u8bbe\u8ba1\u81ea\u52a8\u7ee7\u7535\u8ba1\u7b97\u5668\uff08Automatic Relay Calculator\uff09\u3001\u7b80\u6613\u7535\u5b50\u8ba1\u7b97\u673a\uff08Simple Electronic Computer\uff09\u53ca\u7684\u8fc7\u7a0b\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041a\u044d\u0442\u043b\u0438\u043d \u0425\u0438\u043b\u044c\u0434\u0430 \u0412\u0430\u043b\u0435\u0440\u0438\u044f \u0411\u0443\u0442 (\u0430\u043d\u0433\u043b. Kathleen Hylda Valerie Booth; 1922\u20142022) \u2014 \u0431\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u043e-\u043a\u0430\u043d\u0430\u0434\u0441\u043a\u0438\u0439 \u0443\u0447\u0451\u043d\u044b\u0439 \u0438 \u0438\u043d\u0436\u0435\u043d\u0435\u0440, \u043f\u0435\u0440\u0432\u043e\u043f\u0440\u043e\u0445\u043e\u0434\u0435\u0446 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438. \u0418\u0437\u0432\u0435\u0441\u0442\u043d\u0430 \u043f\u0440\u0435\u0436\u0434\u0435 \u0432\u0441\u0435\u0433\u043e \u043a\u0430\u043a \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0438 \u0434\u0438\u0437\u0430\u0439\u043d\u0435\u0440 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u0430\u0441\u0441\u0435\u043c\u0431\u043b\u0435\u0440\u0430 \u2014 \u00ab\u0430\u0432\u0442\u043e\u043a\u043e\u0434\u0430\u00bb \u0434\u043b\u044f \u0440\u0430\u043d\u043d\u0438\u0445 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0432 \u043a\u043e\u043b\u043b\u0435\u0434\u0436\u0435 \u0411\u0438\u0440\u043a\u0431\u0435\u043a\u0430 \u043f\u0440\u0438 \u041b\u043e\u043d\u0434\u043e\u043d\u0441\u043a\u043e\u043c \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0435. \u0412 1950 \u0433\u043e\u0434\u0443 \u041a\u044d\u0442\u043b\u0438\u043d \u0411\u0443\u0442 \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0430 \u0430\u0441\u043f\u0438\u0440\u0430\u043d\u0442\u0443\u0440\u0443 \u041b\u043e\u043d\u0434\u043e\u043d\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u043f\u043e \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044e \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0439 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438. \u0415\u044e \u0431\u044b\u043b \u043a\u0430\u043a \u0441\u043e\u043b\u044c\u043d\u043e, \u0442\u0430\u043a \u0438 \u0432 \u0441\u043e\u0430\u0432\u0442\u043e\u0440\u0441\u0442\u0432\u0435, \u043d\u0430\u043f\u0438\u0441\u0430\u043d \u0440\u044f\u0434 \u0437\u043d\u0430\u0447\u0438\u043c\u044b\u0445 \u0441\u0442\u0430\u0442\u0435\u0439 \u0438 \u043a\u043d\u0438\u0433, \u0441\u0440\u0435\u0434\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0432\u044b\u0434\u0435\u043b\u044f\u044e\u0442:"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041a\u0435\u0442\u043b\u0456\u043d \u0411\u0443\u0442 (\u0430\u043d\u0433\u043b. Kathleen Hylda Valerie Booth, \u0434\u043e \u0448\u043b\u044e\u0431\u0443 \u2014 \u0411\u0440\u0456\u0442\u0442\u0435\u043d; 9 \u043b\u0438\u043f\u043d\u044f 1922 \u2014 29 \u0432\u0435\u0440\u0435\u0441\u043d\u044f 2022) \u2014 \u0431\u0440\u0438\u0442\u0430\u043d\u0441\u044c\u043a\u043e-\u043a\u0430\u043d\u0430\u0434\u0441\u044c\u043a\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0456\u0441\u0442\u043a\u0430, \u043d\u0430\u0443\u043a\u043e\u0432\u0438\u0446\u044f \u0442\u0430 \u0456\u043d\u0436\u0435\u043d\u0435\u0440\u043a\u0430, \u043f\u0456\u043e\u043d\u0435\u0440\u043a\u0430 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0456 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438. \u0412\u0456\u0434\u043e\u043c\u0430 \u043d\u0430\u0441\u0430\u043c\u043f\u0435\u0440\u0435\u0434 \u044f\u043a \u0440\u043e\u0437\u0440\u043e\u0431\u043d\u0438\u0446\u044f \u043f\u0435\u0440\u0448\u043e\u0457 \u043c\u043e\u0432\u0438 \u0430\u0441\u0435\u043c\u0431\u043b\u0435\u0440\u0430 \u2014 \u00ab\u0430\u0432\u0442\u043e\u043a\u043e\u0434\u0443\u00bb \u0434\u043b\u044f \u0440\u0430\u043d\u043d\u0456\u0445 \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u043d\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0432 \u043a\u043e\u043b\u0435\u0434\u0436\u0456 \u0411\u0456\u0440\u043a\u0431\u0435\u043a \u043f\u0440\u0438 \u041b\u043e\u043d\u0434\u043e\u043d\u0441\u044c\u043a\u043e\u043c\u0443 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0456. \u0423 1950 \u0440\u043e\u0446\u0456 \u041a\u0435\u0442\u043b\u0456\u043d \u0411\u0440\u0456\u0442\u0442\u0435\u043d \u043e\u0434\u0440\u0443\u0436\u0438\u043b\u0430\u0441\u044f \u0437 \u0415\u043d\u0434\u0440\u044e, \u0437\u043c\u0456\u043d\u0438\u043b\u0430 \u043f\u0440\u0456\u0437\u0432\u0438\u0449\u0435 \u0456 \u043d\u0430\u0440\u043e\u0434\u0438\u043b\u0430 \u0441\u0438\u043d\u0430 \u0456 \u0434\u043e\u043d\u044c\u043a\u0443."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Kathleen Booth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Kathleen Booth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Stourbridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Worcestershire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2022-09-29"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Stourbridge, Worcestershire, England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1922-07-09"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2022_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Lakehead_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1922_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Stourbridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_Birkbeck,_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_centenarians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_women_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Computer_designers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:History_of_computing_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Women_centenarians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Saskatchewan_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Programming_language_designers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Worcestershire_(before_1974)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "27805027"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124791487"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Aircraft_Establishment"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2022_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birkbeck,_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lakehead_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Applied_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_von_Neumann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Saskatchewan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Computers_and_Tabulators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1922_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Stourbridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Donald_Booth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_School_of_Hygiene_&_Tropical_Medicine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stourbridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_Birkbeck,_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_centenarians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kathleen_Booth",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_women_computer_scientists"
+    }
+]

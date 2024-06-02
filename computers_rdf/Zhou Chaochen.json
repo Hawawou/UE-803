@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatChineseComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatChineseTechnologyWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScienceWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWritersFromShanghai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPekingUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatScientistsFromShanghai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Academician109759069"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfTheUnitedNationsUniversity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEducatorsFromShanghai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFormalMethodsPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Zhou Chaochen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u5468\u5de2\u5c18"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u5468\u5de2\u5c18\uff081937\u5e7411\u67081\u65e5\uff0d\uff09\uff0c\u7537\uff0c\u539f\u7c4d\u6c5f\u82cf\u5357\u6c47\uff0c\u751f\u4e8e\u4e0a\u6d77\uff0c\u4e2d\u56fd\u8ba1\u7b97\u673a\u7406\u8bba\u4e13\u5bb6\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\u8f6f\u4ef6\u7814\u7a76\u6240\u7814\u7a76\u5458\u3001\u4e2d\u56fd\u79d1\u5b66\u9662\u9662\u58eb\uff0c\u957f\u671f\u4ece\u4e8b\u5206\u5e03\u5f0f\u8ba1\u7b97\u3001\u7406\u8bba\u8ba1\u7b97\u673a\u79d1\u5b66\u7b49\u65b9\u9762\u7814\u7a76\uff0c\u88ab\u8ba4\u4e3a\u662f\u4e2d\u56fd\u5206\u5e03\u5f0f\u7a0b\u5e8f\u8bbe\u8ba1\u7406\u8bba\u7814\u7a76\u7684\u5148\u9a71\u8005\u548c\u5f00\u62d3\u8005\u4e4b\u4e00\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Zhou Chaochen (Chinese: \u5468\u5de2\u5c18; born 1 November 1937) is a Chinese computer scientist. Zhou was born in Nanhui, Shanghai, China. He studied as an undergraduate at the Department of Mathematics and Mechanics, Peking University (1954\u20131958) and as a postgraduate at the Institute of Computing Technology, Chinese Academy of Sciences (CAS) (1963\u20131967). In 2007, Zhou and Dines Bj\u00f8rner, the first Director of UNU-IIST, were honoured on the occasion of their 70th birthdays. Zhou is a member of the Chinese Academy of Sciences."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Zhou Chaochen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Zhou Chaochen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/China"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Nanhui_District"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Shanghai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/China"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Nanhui_District"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Shanghai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1937-11-01"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chinese_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Department_of_Computer_Science,_University_of_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Shanghai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1937_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Chinese_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Technical_University_of_Denmark_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Formal_methods_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Peking_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Peking_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:United_Nations_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2578705"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1073945422"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UNU-IIST"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beijing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chinese_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Department_of_Computer_Science,_University_of_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Shanghai"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peking_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Nations_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duration_calculus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Macau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zhou_(surname)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1937_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Chinese_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Technical_University_of_Denmark_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Hoare"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/European_Strategic_Program_on_Research_in_Information_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Real-time_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Technical_University_of_Denmark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/EATCS"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Formal_methods_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Peking_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/China"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chinese_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Peking_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Zhou_Chaochen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dines_Bj\u00f8rner"
+    }
+]

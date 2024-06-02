@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTheoreticalComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Laureate110249011"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatG\u00f6delPrizeLaureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIndianPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAssociationForComputingMachinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPunjabiPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sanjeev Arora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sanjeev Arora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sanjeev Arora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sanjeev Arora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sanjeev Arora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u0440\u043e\u0440\u0430, \u0421\u0430\u043d\u0434\u0436\u0438\u0432"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sanjeev Arora (* Januar 1968 in Jodhpur, Indien) ist ein US-amerikanischer Informatiker indischer Herkunft."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sanjeev Arora (n\u00e9 en janvier 1962 \u00e0 Jodhpur) est un chercheur en informatique th\u00e9orique indien connu pour son travail en th\u00e9orie de la complexit\u00e9 et en algorithmique. Il a re\u00e7u le prestigieux prix G\u00f6del en 2001 et en 2010."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sanjeev Arora (born January 1968) is an Indian American theoretical computer scientist."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sanjeev Arora (Jodhpur, \u00cdndia, janeiro de 1968) \u00e9 um cientista da computa\u00e7\u00e3o estadunidense nascido na \u00cdndia."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0421\u0430\u043d\u0434\u0436\u0438\u0432 \u0410\u0440\u043e\u0440\u0430 (Sanjeev Arora; \u0440\u043e\u0434. \u0432 \u044f\u043d\u0432\u0430\u0440\u0435 1968 \u0433., \u0420\u0430\u0434\u0436\u0430\u0441\u0442\u0430\u043d, \u0418\u043d\u0434\u0438\u044f) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0443\u0447\u0451\u043d\u044b\u0439-\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a \u0438\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f, \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u0442\u0435\u043e\u0440\u0438\u0438 \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439.\u0427\u043b\u0435\u043d \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0410\u041d \u0421\u0428\u0410 (2018), \u0434\u043e\u043a\u0442\u043e\u0440 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438 (1994), \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u041f\u0440\u0438\u043d\u0441\u0442\u043e\u043d\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430, \u0441 \u043a\u043e\u0442\u043e\u0440\u044b\u043c \u0441\u0432\u044f\u0437\u0430\u043d\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0432\u0441\u044f \u0435\u0433\u043e \u043a\u0430\u0440\u044c\u0435\u0440\u0430 \u2014 \u043e\u043d \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0451\u0442 \u0442\u0430\u043c \u043f\u043e\u0441\u043b\u0435 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0434\u043e\u043a\u0442\u043e\u0440\u0441\u043a\u043e\u0439 \u0441\u0442\u0435\u043f\u0435\u043d\u0438 \u0441 1994 \u0433\u043e\u0434\u0430."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sanjeev Arora (Jodhpur, Rayast\u00e1n, enero de 1968) es un inform\u00e1tico te\u00f3rico, m\u00e1s conocido por su trabajo en la clase de los problemas (probabilistically checkable proofs), y en particular, en el . Actualmente se desempe\u00f1a como profesor en ciencias de la computaci\u00f3n en la Universidad de Princeton, y su investigaci\u00f3n incluye las \u00e1reas de complejidad computacional, usos de algoritmos probabilistas, problemas PCPs, c\u00f3mputo de problemas NP-hard mediante aproximaci\u00f3n, y uso de geometr\u00eda en espacios m\u00e9tricos. Fue incluido en el ranking del por primera vez en 1986.\u200b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Sanjeev Arora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Sanjeev Arora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sanjeev_Arora.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/India"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Rajasthan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Jodhpur,_Rajasthan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/India"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Rajasthan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Jodhpur,_Rajasthan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Rajasthan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_ACM_Prize_in_Computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1968_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Indian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Indian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Indian_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Institute_for_Advanced_Study_visiting_scholars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Princeton_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Punjabi_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:G\u00f6del_Prize_laureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Theoretical_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Indian_American"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Jodhpur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Simons_Investigator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "21513331"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123160266"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Rajasthan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boaz_Barak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_ACM_Prize_in_Computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fulkerson_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PCP_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Probabilistically_checkable_proof"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theoretical_computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1968_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Indian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Indian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Indian_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sanjeev_Arora",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"
+    }
+]

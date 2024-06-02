@@ -1,0 +1,372 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Hazel Armour"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Hazel Ruthven Armour (15 October 1894 \u2014 1985) was a Scottish sculptor and medalist."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Hazel Ruthven Armour"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Hazel Ruthven Armour"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/The_Scottish_National_War_Memorial_(15536912494).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Aldeburgh, Suffolk, England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Edinburgh, Scotland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1894-10-15"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scottish_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1985_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1894_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Edinburgh_College_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Scottish_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "49681579"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1078790300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scottish_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scottish_National_Gallery_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Meredith_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Scofield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1985_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scottish_Women's_Hospital_at_Royaumont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eric_Newton_(art_critic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1894_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Edinburgh_College_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scottish_National_War_Memorial"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edinburgh_College_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edith_Evans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Glasgow_Institute_of_the_Fine_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Scottish_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Scottish_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phyllis_Bone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_of_Scottish_Artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:The_Scottish_National_War_Memorial_(15536912494).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/96005662"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Hazel_Armour"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q23581104"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2EF1P"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_British_English"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_year_and_age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/The_Scottish_National_War_Memorial_(15536912494).jpg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1894-10-15"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Edinburgh_College_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Hazel Ruthven Armour (15 October 1894 \u2014 1985) was a Scottish sculptor and medalist."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/96005662"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Hazel_Armour?oldid=1078790300&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "5681"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Hazel_Armour"
+    }
+]

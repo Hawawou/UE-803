@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanInformationTheorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfBulgarianDescent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPhysicists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerDesigners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatMulberryHighSchool(Mulberry,Florida)Alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithElectricity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMulberry,Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/InteriorDesigner110210648"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Inventor110214637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Mathematician110301261"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Physicist110428004"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatInventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIowaStateUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Theorist110706812"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/PersonWithOccupation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062c\u0648\u0646 \u0623\u062a\u0627\u0646\u0627\u0633\u0648\u0641"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Vincent Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Vincent Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Djon Atanasov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Vincent Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Vincent Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc874 \ube48\uc13c\ud2b8 \uc544\ud0c0\ub098\uc18c\ud504"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30b8\u30e7\u30f3\u30fb\u30a2\u30bf\u30ca\u30bd\u30d5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Vincent Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Vincent Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u0442\u0430\u043d\u0430\u0441\u043e\u0432, \u0414\u0436\u043e\u043d \u0412\u0438\u043d\u0441\u0435\u043d\u0442"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Vincent Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u7ea6\u7ff0\u00b7\u6587\u68ee\u7279\u00b7\u963f\u5854\u7eb3\u7d22\u592b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0414\u0436\u043e\u043d \u0412\u0456\u043d\u0441\u0435\u043d\u0442 \u0410\u0442\u0430\u043d\u0430\u0441\u043e\u0432"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062c\u0648\u0646 \u0623\u062a\u0627\u0646\u0627\u0633\u0648\u0641 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: John Vincent Atanasoff)\u200f (\u0648. 1903 \u2013 1995 \u0645) \u0647\u0648 \u0641\u064a\u0632\u064a\u0627\u0626\u064a\u060c \u0648\u0645\u0647\u0646\u062f\u0633\u060c \u0648\u0623\u0633\u062a\u0627\u0630 \u062c\u0627\u0645\u0639\u064a\u060c \u0648\u0631\u064a\u0627\u0636\u064a\u0627\u062a\u064a\u060c \u0648\u0639\u0627\u0644\u0650\u0645 \u062d\u0627\u0633\u0648\u0628 \u0645\u0646 \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 . \u0648\u0644\u062f \u0641\u064a \u0645\u0644\u0628\u0631\u064a .\u062a\u0648\u0641\u064a \u0641\u064a \u0641\u0646\u0632\u0648\u064a\u0644\u0627\u060c \u0639\u0646 \u0639\u0645\u0631 \u064a\u0646\u0627\u0647\u0632 92 \u0639\u0627\u0645\u0627\u064b."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Atanasoff (Hamilton, Nova York, 4 d'octubre de 1903 - Frederick, Maryland, 16 juny de 1995) va ser un destacat enginyer electr\u00f2nic estatunidenc d'origen b\u00falgar. El seu treball va ser fonamental per al desenvolupament de l'ordinador digital modern."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Vincent Atanasoff (4. \u0159\u00edjna 1903, Hamilton, New York, USA \u2013 15. \u010dervna 1995, , Maryland, USA) byl americk\u00fd fyzik a vyn\u00e1lezce, kter\u00fd se nejv\u00edce proslavil vyn\u00e1lezem prvn\u00edho digit\u00e1ln\u00edho po\u010d\u00edta\u010de. Prvn\u00ed elektronick\u00fd digit\u00e1ln\u00ed po\u010d\u00edta\u010d vynalezl v 30. letech 20. stolet\u00ed na Iowa State University. N\u00e1mitky k jeho n\u00e1roku byly rozsouzeny a\u017e v roce 1973, kdy bylo v soudn\u00edm procesu rozhodnuto, \u017ee vyn\u00e1lez pat\u0159\u00ed jemu. Jeho speci\u00e1ln\u011b zam\u011b\u0159en\u00fd stroj dostal n\u00e1zev (ABC)."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Vincent Atanasoff [d\u0292on vinsent ata'nas\u0254f] (* 4. Oktober 1903 in , New York; \u2020 15. Juni 1995 in Frederick, Maryland) war ein US-amerikanischer Computerpionier. Im Jahr 1973 wurde er durch Gerichtsurteil im Patentstreit Honeywell Inc. gegen Sperry Rand zum Erfinder des ersten automatischen elektronischen digitalen Computers bestimmt, einer nicht programmierbaren Maschine f\u00fcr einen besonderen Zweck, die sp\u00e4ter als Atanasoff-Berry-Computer bekannt wurde."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Vincent Atanasoff (Hamilton, New York, 1903ko urriaren 4a - 1995eko ekainaren 15a) estatubatuar fisikaria izan zen. Elektronika digitalaren erabileran aitzindaria eta ENIAC lehen ordenagailu elektroniko digitalaren gurasoetako bat."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Vincent Atanasoff, OCM, (October 4, 1903 \u2013 June 15, 1995) was an American physicist and inventor from mixed Bulgarian-Irish origin, best known for being credited with inventing the first electronic digital computer. Atanasoff invented the first electronic digital computer in the 1930s at Iowa State College (now known as Iowa State University). Challenges to his claim were resolved in 1973 when the Honeywell v. Sperry Rand lawsuit ruled that Atanasoff was the inventor of the computer. His special-purpose machine has come to be called the Atanasoff\u2013Berry Computer."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Djon Atanasov \u00e9galement orthographi\u00e9 John Vincent Atanasoff (Hamilton, 4 octobre 1903 \u2013 Frederick (Maryland), 15 juin 1995) \u00e9tait un physicien, math\u00e9maticien et ing\u00e9nieur am\u00e9ricain d'origine bulgare."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc874 \ube48\uc13c\ud2b8 \uc544\ud0c0\ub098\uc18c\ud504(\uc601\uc5b4: John Vincent Atanasoff, 1903\ub144 10\uc6d4 4\uc77c ~ 1995\ub144 6\uc6d4 15\uc77c)\ub294 \uc138\uacc4 \ucd5c\ucd08\uc758 \ucef4\ud4e8\ud130\ub85c \uc778\uc815 \ubc1b\uc740 ABC(\uc5b4\ud0dc\ub108\uc18c\ud504-\ubca0\ub9ac \ucef4\ud4e8\ud130)\ub97c \uc640 \ud568\uaed8 \ub9cc\ub4e0 \uac83\uc73c\ub85c \uc720\uba85\ud55c \ubbf8\uad6d\uc758 \ubb3c\ub9ac\ud559\uc790\uc774\uc790 \ubc1c\uba85\uac00\uc774\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30b8\u30e7\u30f3\u30fb\u30f4\u30a3\u30f3\u30bb\u30f3\u30c8\u30fb\u30a2\u30bf\u30ca\u30bd\u30d5\uff08John Vincent Atanasoff\u3001\u0414\u0436\u043e\u043d \u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0410\u0442\u0430\u043d\u0430\u0441\u043e\u0432\u30011903\u5e7410\u67084\u65e5 - 1995\u5e746\u670815\u65e5\uff09\u306f\u3001\u30d6\u30eb\u30ac\u30ea\u30a2\u4eba\u306e\u5bb6\u7cfb\u306b\u751f\u307e\u308c\u305f\u30a2\u30e1\u30ea\u30ab\u4eba\u7269\u7406\u5b66\u8005\u3002 \u30d6\u30eb\u30ac\u30ea\u30a2\u4eba\u79fb\u6c11\u306e\u606f\u5b50\u3068\u3057\u3066\u96fb\u6c17\u5de5\u5b66\u8005\u3068\u306a\u308a\u3001\u5927\u5b66\u6559\u6388\u3001\u6226\u6642\u4e2d\u306e\u653f\u5e9c\u306e\u7814\u7a76\u6240\u9577\u3001\u4f01\u696d\u306e\u7814\u7a76\u958b\u767a\u62c5\u5f53\u91cd\u5f79\u306a\u3069\u3092\u6b74\u4efb\u3057\u305f\u3002\u30a2\u30bf\u30ca\u30bd\u30d5&\u30d9\u30ea\u30fc\u30fb\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u306e\u767a\u660e\u8005\u30fb\u958b\u767a\u8005\u3067\u3042\u308a\u3001\u540c\u6a5f\u306f\u5f8c\u306b1973\u5e74\u306e\u3001\u30b9\u30da\u30ea\u30fc\u30e9\u30f3\u30c9\u304c\u6301\u3064ENIAC\u7531\u6765\u306e\u7279\u8a31\u306b\u307e\u3064\u308f\u308b\u30cf\u30cd\u30a6\u30a7\u30eb\u3068\u306e\u8a34\u8a1f\u3067\u3001ENIAC\u3088\u308a\u3082\u5148\u884c\u3057\u3066\u3044\u305f\u70b9\u304c\u3044\u304f\u3064\u304b\u8a8d\u5b9a\u3055\u308c\u305f\u3068\u3044\u3046\u70b9\u304c\u55a7\u4f1d\u3055\u308c\u6709\u540d\u306b\u306a\u3063\u305f\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u0436\u043e\u043d \u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0410\u0442\u0430\u043d\u0430\u0301\u0441\u043e\u0432 (\u0430\u043d\u0433\u043b. John Vincent Atanasoff, \u0431\u043e\u043b\u0433. \u0414\u0436\u043e\u043d \u0412\u0438\u043d\u0441\u044a\u043d\u0442 \u0410\u0442\u0430\u043d\u0430\u0441\u043e\u0432; 4 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1903, , \u0448\u0442\u0430\u0442 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a, \u0421\u0428\u0410 \u2014 15 \u0438\u044e\u043d\u044f 1995, \u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a, \u0448\u0442\u0430\u0442 \u041c\u044d\u0440\u0438\u043b\u0435\u043d\u0434, \u0421\u0428\u0410) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0444\u0438\u0437\u0438\u043a, \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a \u0438 \u0438\u043d\u0436\u0435\u043d\u0435\u0440-\u044d\u043b\u0435\u043a\u0442\u0440\u0438\u043a \u0431\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f, \u043e\u0434\u0438\u043d \u0438\u0437 \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0430\u0442\u0435\u043b\u0435\u0439 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0433\u043e \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430. \u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u0447\u043b\u0435\u043d \u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u043e\u0439 \u0410\u041d (1985)."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Vincent Atanasoff (ur. 4 pa\u017adziernika 1903 w Hamilton, Nowy Jork, zm. 15 czerwca 1995 we Frederick, Maryland) \u2013 ameryka\u0144ski in\u017cynier-informatyk bu\u0142garskiego pochodzenia, uznawany za tw\u00f3rc\u0119 elektronicznego komputera. Prototyp komputera ABC (Atanasoff-Berry Computer) zbudowa\u0142 w 1939 roku w Iowa State University, wsp\u00f3lnie z asystentem, Cliffordem Berrym. 13 listopada 1990 roku zosta\u0142 odznaczony przez prezydenta George\u2019a H.W. Busha medalem National Medal of Technology za wynalazek elektronicznego komputera."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Vincent Atanasoff, f\u00f6dd 4 oktober 1903 i Hamilton, New York, USA, d\u00f6d 15 juni 1995 i Frederick, Maryland, var en amerikansk fysiker med bulgarisk h\u00e4rkomst. Han konstruerade en elektronisk digital dator som sedan inspirerade Presper Eckert och John Mauchly att bygga den ryktbara ENIAC-datorn."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u0436\u043e\u043d \u0412\u0456\u043d\u0441\u0435\u043d\u0442 \u0410\u0442\u0430\u043d\u0430\u0441\u043e\u0432 (\u0430\u043d\u0433\u043b. John Vincent Atanasoff, \u0431\u043e\u043b\u0433. \u0414\u0436\u043e\u043d \u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0410\u0442\u0430\u043d\u0430\u0441\u043e\u0432; 4 \u0436\u043e\u0432\u0442\u043d\u044f 1903, \u0413\u0430\u043c\u0456\u043b\u044c\u0442\u043e\u043d, \u0448\u0442\u0430\u0442 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a \u0421\u0428\u0410 \u2014 15 \u0447\u0435\u0440\u0432\u043d\u044f 1995, \u0424\u0440\u0435\u0434\u0435\u0440\u0456\u043a, \u0448\u0442\u0430\u0442 \u041c\u0435\u0440\u0456\u043b\u0435\u043d\u0434, \u0421\u0428\u0410) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0444\u0456\u0437\u0438\u043a, \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a \u0442\u0430 \u0456\u043d\u0436\u0435\u043d\u0435\u0440-\u0435\u043b\u0435\u043a\u0442\u0440\u0438\u043a \u0431\u043e\u043b\u0433\u0430\u0440\u0441\u044c\u043a\u043e\u0433\u043e \u043f\u043e\u0445\u043e\u0434\u0436\u0435\u043d\u043d\u044f, \u0442\u0432\u043e\u0440\u0435\u0446\u044c \u043f\u0435\u0440\u0448\u043e\u0433\u043e \u0432 \u0441\u0432\u0456\u0442\u0456 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0433\u043e \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0433\u043e \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u0430."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Vincent Atanasoff (Condado de Madison, 4 de outubro de 1903 \u2014 Frederick, 15 de junho de 1995) foi um matem\u00e1tico estadunidense de origem b\u00falgara. John Atanasoff junto com o seu aluno Clifford Berry foram os verdadeiros pais dos computadores modernos. Atanasoff trabalhou no projeto de um computador eletr\u00f4nico e, em 1939, obteve uma verba de US$ 650 para constru\u00ed-lo. Com o estudante de p\u00f3s-gradua\u00e7\u00e3o Clifford Berry, construiu-o no por\u00e3o do pr\u00e9dio do Departamento de F\u00edsica da . O prot\u00f3tipo s\u00f3 foi finalizado em 1942, batizado de Atanasoff\u2013Berry Computer ABC."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u7ea6\u7ff0\u00b7\u6587\u68ee\u7279\u00b7\u963f\u5854\u7eb3\u7d22\u592b\uff08\u82f1\u8a9e\uff1aJohn Vincent Atanasoff\uff0c1903\u5e7410\u67084\u65e5\uff0d1995\u5e746\u670815\u65e5\uff09\u662f\u7f8e\u56fd\u7269\u7406\u5b66\u5bb6\u3001\u53d1\u660e\u5bb6\u3002 1973\u5e74\u970d\u5c3c\u97e6\u5c14\u5bf9\u4e13\u5229\u8bc9\u8bbc\u51b3\u5b9a\uff0c\u5c06\u963f\u5854\u7eb3\u7d22\u592b\u8ba4\u5b9a\u4e3a\u7b2c\u4e00\u53f0\u81ea\u52a8\u7535\u5b50\u6570\u5b57\u8ba1\u7b97\u673a\u7684\u53d1\u660e\u8005\u3002\u8fd9\u53f0\u4e13\u7528\u8ba1\u7b97\u673a\u7684\u540d\u5b57\u53eb\u505a\u963f\u5854\u7eb3\u7d22\u592b-\u8d1d\u745e\u8ba1\u7b97\u673a\u3002 \u963f\u5854\u7eb3\u7d22\u592b\u662f\u4fdd\u52a0\u5229\u4e9a\u79fb\u6c11\u7684\u540e\u88d4\u3002\u4e8c\u5341\u4e16\u7eaa\u4e09\u5341\u5e74\u4ee3\u540e\u671f\u548c\u56db\u5341\u5e74\u4ee3\u524d\u671f\uff0c\u4ed6\u5728\u827e\u5965\u74e6\u5dde\u7acb\u5927\u5b66\u7814\u7a76\u6570\u5b57\u7535\u5b50\u8ba1\u7b97\u673a\uff0c\u8fd9\u9879\u5de5\u4f5c\u5728\u4e8c\u5341\u4e16\u7eaa\u4e03\u516b\u5341\u5e74\u4ee3\u624d\u4e3a\u516c\u4f17\u6240\u77e5\u3002\u5728\u6b64\u4e4b\u524d\uff0c\u963f\u5854\u7eb3\u7d22\u592b\u53ea\u62e5\u6709\u6559\u6388\u3001\u653f\u5e9c\u7684\u5c55\u793a\u7814\u7a76\u6307\u5bfc\u8005\uff0c\u4ee5\u53ca\u4f01\u4e1a\u7814\u7a76\u8d1f\u8d23\u4eba\u7684\u8eab\u4efd\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Vincent Atanasoff (Hamilton, Nueva York, 4 de octubre de 1903 - Frederick, Maryland, 15 de junio de 1995) fue un destacado ingeniero electr\u00f3nico estadounidense de origen b\u00falgaro. Su trabajo fue fundamental para el desarrollo del ordenador digital moderno."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Vincent Atanasoff (Hamilton, 4 ottobre 1903 \u2013 Frederick, 15 giugno 1995) \u00e8 stato un fisico e inventore statunitense. Divenne celebre in seguito ad una decisione presa al termine del processo Honeywell v. Sperry Rand nel 1973 riguardo ad un brevetto, che lo riconobbe inventore del primo computer digitale elettronico automatico. La sua macchina \u00e8 chiamata Atanasoff\u2013Berry Computer."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Vincent Atanasoff was een Amerikaans natuurkundige van Bulgaarse afkomst en de uitvinder van de eerste elektronische digitale computer. Zijn vader, Ivan Atanasov, was een Bulgaar die samen met zijn oom in 1889 naar Amerika immigreerde. Zijn moeder, Iva Lucena Purdy, was een lerares wiskunde in New York. Nadat Ivan zijn diploma filosofie aan de Colgate College behaalde, werkte hij als industrieel ingenieur in New Jersey. Iva en Ivan trouwden in 1900 en kregen samen acht kinderen."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/History_of_computing_hardware"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "John Vincent Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "John Vincent Atanasoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Atanasoff-Berry_Computer.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/John.atanasoff.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/John_Atanasov.gif"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Hamilton,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Frederick,_Maryland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": ""
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Frederick, Maryland, U.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1995-06-15"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": ""
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Vincent_Atanasoff",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Hamilton, New York, U.S."
+    }
+]

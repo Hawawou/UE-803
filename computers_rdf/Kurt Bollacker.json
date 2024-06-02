@@ -1,0 +1,302 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kurt Bollacker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kurt Bollacker is an American computer scientist with a research background in the areas of machine learning, digital libraries, semantic networks, and . He received a Ph.D. in Computer Engineering from The University of Texas at Austin. Bollacker spent time as a biomedical research engineer at the Duke University Medical Center where worked on electro-cardiography. He is co-creator of the CiteSeer research tool which was produced while he was a visiting researcher at the NEC Research Institute."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Kurt_Bollacker.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "1811053"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1112791360"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Common_Crawl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freebase_(database)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Applied_Minds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Long_Now_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Machine_learning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CiteSeer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duke_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet_Archive"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_libraries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ph.D."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metaweb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semantic_network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NEC_Research_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electro-cardiographic_modeling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Kurt_Bollacker.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20041128193559/http:/www.lans.ece.utexas.edu/~kdb/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20100902163330/https:/www.americanscientist.org/issues/pub/avoiding-a-digital-dark-age/1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://citeseer.ist.psu.edu/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.05ytg0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Kurt_Bollacker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/64/4571"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6446636"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sw.dbpedia.org/resource/Kurt_Bollacker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4q5gF"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:US-compu-bio-stub"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Kurt_Bollacker.jpeg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Kurt Bollacker is an American computer scientist with a research background in the areas of machine learning, digital libraries, semantic networks, and . He received a Ph.D. in Computer Engineering from The University of Texas at Austin. Bollacker spent time as a biomedical research engineer at the Duke University Medical Center where worked on electro-cardiography. He is co-creator of the CiteSeer research tool which was produced while he was a visiting researcher at the NEC Research Institute. During his tenure as Technical Director of the Internet Archive, Bollacker lead the work to create The Wayback Machine. While Chief Scientist at Metaweb Technologies he was key contributor to the development of Freebase. After Metaweb, Bollacker worked at Applied Minds and as a consulting Data Scientist. Bollacker is a dedicated activist who is involved with multiple non-profit organizations. He serves on the Advisory Board of The Common Crawl Foundation For several years he has pursued research on long term digital archiving as the Digital Research Director at the non-profit Long Now Foundation."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Kurt_Bollacker?oldid=1112791360&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "5413"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kurt_Bollacker",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Kurt_Bollacker"
+    }
+]

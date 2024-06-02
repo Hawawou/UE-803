@@ -1,0 +1,327 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Latcholassie Akesuk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Latcholassie Akesuk (1919\u20132000) was an Inuk sculptor."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Latcholassie Akesuk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Latcholassie Akesuk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Anatalik_Island"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Anatalik Island"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2000_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1919_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Inuit_from_the_Northwest_Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_the_Northwest_Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "66166030"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1088284463"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Lethbridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Michigan_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2000_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Inuit_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1919_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Akesuk_Tudlik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northwest_Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inuit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Inuit_from_the_Northwest_Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_the_Northwest_Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorset_Island"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kinngait"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Gallery_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anatalik_Island"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saimaiyu_Akesuk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solomonie_Tigullaraq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/96612862"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q55218707"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9Xmb4"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1919"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2000"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Inuk sculptor."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Latcholassie Akesuk (1919\u20132000) was an Inuk sculptor."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Latcholassie_Akesuk?oldid=1088284463&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3531"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1919"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2000"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Latcholassie_Akesuk__PersonFunction__1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Latcholassie_Akesuk",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Latcholassie_Akesuk"
+    }
+]

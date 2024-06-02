@@ -1,0 +1,467 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatCollageArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromEindhoven"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Painter110391653"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Woody van Amen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Woody van Amen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Wilhelmus Josephus (Woody) van Amen (Eindhoven August 26, 1936) is a Dutch sculptor, painter and collage artist."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Wilhelmus Josephus (Woody) van Amen (Eindhoven, 26 augustus 1936) is een Nederlands beeldhouwer, kunstschilder en collagekunstenaar."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rotterdam_kunstwerk_taxat.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/WLANL_-_MicheleLovesArt_-_ING_-_Woody_van_Amen_-_Mata_Hari_(1978).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Willem_de_Kooning_Academy_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1936_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Eindhoven"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Willem_de_Kooning_Academy_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_male_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "29356060"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1071321981"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schiedam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prins_Bernhard_Cultuurfonds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vietnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Willem_de_Kooning_Academy_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Double_Happiness_(calligraphy)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1936_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matterhorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eindhoven"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Consumer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Painting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Burma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Eindhoven"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Willem_de_Kooning_Academy_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willem_de_Kooning_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geraniums"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abstract_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Film_cinematography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Dutch_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_male_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Switzerland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Collage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Assemblage_(art)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southeast_Asia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Indonesia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catalogue_raisonn\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculptor_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Rotterdam_kunstwerk_taxat.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:WLANL_-_MicheleLovesArt_-_ING_-_Woody_van_Amen_-_Mata_Hari_(1978).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0dsb_t5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/118120176"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Woody_van_Amen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/119262169"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q2463442"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p069594503"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Woody_van_Amen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2KVRL"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control_(arts)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Interlanguage_link_multi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/WLANL_-_MicheleLovesArt_-_ING_-_Woody_van_Amen_-_Mata_Hari_(1978).jpg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Wilhelmus Josephus (Woody) van Amen (Eindhoven August 26, 1936) is a Dutch sculptor, painter and collage artist."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Wilhelmus Josephus (Woody) van Amen (Eindhoven, 26 augustus 1936) is een Nederlands beeldhouwer, kunstschilder en collagekunstenaar."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/118120176"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Woody_van_Amen?oldid=1071321981&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "5711"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Woody_van_Amen",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Woody_van_Amen"
+    }
+]

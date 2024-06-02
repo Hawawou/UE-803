@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ResearchWorker110523076"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDatabaseResearchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAssociationForComputingMachinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Serge Abiteboul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Serge Abiteboul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Serge Abiteboul, n\u00e9 le 25 ao\u00fbt 1953 \u00e0 Paris, est un informaticien fran\u00e7ais, membre du Coll\u00e8ge de l'ARCEP, chercheur \u00e0 l'ENS Paris et directeur de recherche \u00e0 l'Inria. Il est devenu membre de l'Acad\u00e9mie des sciences le 16 d\u00e9cembre 2008 pour ses travaux sur la gestion d'information, il est \u00e9galement membre de l'Academia Europaea depuis 2011. Il milite pour l'inclusion num\u00e9rique, l'enseignement de l'informatique \u00e0 l'\u00e9cole d\u00e8s le plus jeune \u00e2ge, pour le logiciel libre, pour la reconqu\u00eate par les internautes de leurs donn\u00e9es personnelles, et les impacts environnementaux du num\u00e9rique."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Serge Joseph Abiteboul (born 25 August 1953 in Paris, France) is a French computer scientist working in the areas of data management, database theory, and finite model theory."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Serge Abiteboul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://abiteboul.com"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Serge Abiteboul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Serge_Abiteboul_-_mai_2016.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1953-08-25"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1953_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_French_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Database_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "18901086"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1058822895"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romorantin-Lanthenay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ISI_highly_cited_researcher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Southern_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coll\u00e8ge_de_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Citeseer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1953_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tours"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/T\u00e9l\u00e9com_ParisTech"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Data_management"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Database_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Least_fixed_point"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ACM_Fellow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Database"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PSPACE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Technion_\u2013_Israel_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_French_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Database_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Autorit\u00e9_de_R\u00e9gulation_des_Communications_\u00c9lectroniques,_des_Postes_et_de_la_Distribution_de_la_Presse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Classe_pr\u00e9paratoire_aux_grandes_\u00e9coles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PhD"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polynomial_time"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/INRIA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milner_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seymour_Ginsburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SIGMOD"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Finite_model_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institut_national_de_recherche_en_informatique_et_en_automatique"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SIGMOD_Edgar_F._Codd_Innovations_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://abiteboul.com"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://search.proquest.com/docview/303233018"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.04jflj4"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/174661045"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/a/SergeAbiteboul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q3479163"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p074333836"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0633\u064a\u0631\u062c_\u0627\u0628\u064a\u062a\u0628\u0648\u0644"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Serge_Abiteboul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ml.dbpedia.org/resource/\u0d38\u0d46\u0d7c\u0d1c\u0d3f_\u0d05\u0d2c\u0d3f\u0d31\u0d4d\u0d31\u0d2c\u0d41\u0d7e"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/3Cpri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Serge_Abiteboul",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Serge_Abiteboul"
+    }
+]

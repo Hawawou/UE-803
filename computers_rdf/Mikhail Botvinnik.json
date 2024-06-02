@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Athlete"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/ChessPlayer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatChessCoaches"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatChessGrandmasters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatChessOlympiadCompetitors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatChessPlayers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatChessTheoreticians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatChessWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerChessPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWorldChessChampions"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromSaintPetersburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRussianAtheists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRussianChessPlayers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRussianChessWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRussianElectricalEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSovietChessPlayers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSovietChessWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSovietEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Atheist109820044"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Champion109906704"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ChessPlayer109915834"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Coach109931640"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Contestant109613191"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disbeliever110015897"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ElectricalEngineer110049017"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Grandmaster110142946"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/NonreligiousPerson109625789"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Player110439851"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishAtheists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishChessPlayers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Rival110533013"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Theorist110706812"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Trainer110722575"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0645\u064a\u062e\u0627\u0626\u064a\u0644 \u0628\u0648\u062a\u0641\u0646\u064a\u0643"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mikha\u00efl Botv\u00ednnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Michail Botvinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Michail Moissejewitsch Botwinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u039c\u03b9\u03c7\u03b1\u03ae\u03bb \u039c\u03c0\u03bf\u03c4\u03b2\u03af\u03bd\u03b9\u03ba"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mi\u0125ail Botvinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mija\u00edl Botv\u00ednnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mikhail Botvinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mikha\u00efl Botvinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mikhail Botvinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Michail Botvinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ubbf8\ud558\uc77c \ubcf4\ud2b8\ube48\ub2c8\ud06c"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mikhail Botvinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30df\u30cf\u30a4\u30eb\u30fb\u30dc\u30c8\u30f4\u30a3\u30cb\u30af"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Michail Botvinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Michai\u0142 Botwinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mikhail Botvinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a, \u041c\u0438\u0445\u0430\u0438\u043b \u041c\u043e\u0438\u0441\u0435\u0435\u0432\u0438\u0447"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a \u041c\u0438\u0445\u0430\u0439\u043b\u043e \u041c\u043e\u0439\u0441\u0435\u0439\u043e\u0432\u0438\u0447"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Michail Botvinnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u7c73\u54c8\u4f0a\u5c14\u00b7\u83ab\u4f0a\u8c22\u8036\u7ef4\u5947\u00b7\u535a\u7279\u6e29\u5c3c\u514b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0645\u064a\u062e\u0627\u0626\u064a\u0644 \u0645\u0648\u064a\u0632\u064a\u0641\u064a\u062a\u0634 \u0628\u0648\u062a\u0641\u0646\u064a\u0643 (\u0628\u0627\u0644\u0631\u0648\u0633\u064a\u0629: \u041c\u0438\u0445\u0430\u0438\u043b \u041c\u043e\u0438\u0441\u0435\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a)\u200f \u0647\u0648 \u0644\u0627\u0639\u0628 \u0634\u0637\u0631\u0646\u062c \u0633\u0648\u0641\u064a\u0627\u062a\u064a \u0648\u0644\u062f \u0641\u064a 17 \u0623\u063a\u0633\u0637\u0633 1911 \u0628\u0645\u062f\u064a\u0646\u0629 \u0643\u0648\u0643\u0627\u0644\u0627 (\u0627\u0644\u062a\u064a \u0643\u0627\u0646\u062a \u0636\u0645\u0646 \u062f\u0648\u0644\u0629 \u0641\u0646\u0644\u0646\u062f\u0629 \u062b\u0645 \u0636\u0645\u062a \u0625\u0644\u0649 \u0627\u0644\u0625\u062a\u062d\u0627\u062f \u0627\u0644\u0633\u0648\u0641\u064a\u062a\u064a) \u0648\u0647\u0648 \u0623\u0633\u062a\u0627\u0630 \u0643\u0628\u064a\u0631 \u0648\u0633\u0627\u062f\u0633 \u0628\u0637\u0644 \u0644\u0644\u0639\u0627\u0644\u0645 \u0641\u064a \u0627\u0644\u0634\u0637\u0631\u0646\u062c."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mi\u0125ail BOTVINNIK (naski\u011dis 4-an de a\u016dgusto 1911, mortis la 5-an de majo 1995) estis rusa \u015daka grandmajstro kaj la \u015dakmond\u0109ampiono tri fojojn."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Michail Moissejewitsch Botwinnik (russisch \u041c\u0438\u0445\u0430\u0438\u043b \u041c\u043e\u0438\u0441\u0435\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a, wiss. Transliteration Michail Moiseevi\u010d Botvinnik) (* 4. Augustjul. / 17. August 1911greg. in Kuokkala in der Gemeinde Terijoki, heute Repino, Sankt Petersburg; \u2020 5. Mai 1995 in Moskau) war ein sowjetischer bzw. russischer Schach-Gro\u00dfmeister und der sechste Schachweltmeister. Als einzigem Weltmeister gelang es ihm, seinen Titel nach Wettkampfniederlagen zweimal in Revanchek\u00e4mpfen zur\u00fcckzugewinnen. Er gilt au\u00dferdem als eine der wichtigsten und einflussreichsten Personen, die die Sowjetische Schachschule erm\u00f6glicht und aufgebaut haben."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mija\u00edl Mois\u00e9yevich Botv\u00ednnik (\u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a) (17 de agosto de 1911 - 5 de mayo de 1995) fue un ajedrecista sovi\u00e9tico, sexto campe\u00f3n del mundo, t\u00edtulo el cual gan\u00f3 varias veces entre 1948 y 1963.\u200b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mikhail Moiseyevich Botvinnik (IPA: [m\u02b2ixa'i\u026b\u033a m\u028ci's\u033a\u02b2\u025bj\u025bv\u02b2i\u02a7\u02b2 b\u028ct\u033a'v\u02b2in\u033an\u033b\u02b2ik]; bahasa Rusia: \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a) (17 Agustus [K.J.: 4 Agustus] 1911 - 5 Mei 1995) adalah seorang Grandmaster Internasional Rusia dan lama memegang gelar Juara catur dunia."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\ubbf8\ud558\uc77c \ubaa8\uc774\uc138\uc608\ube44\uce58 \ubcf4\ud2b8\ube48\ub2c8\ud06c(\ub7ec\uc2dc\uc544\uc5b4: \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a, 1911\ub144 8\uc6d4 17\uc77c ~ 1995\ub144 5\uc6d4 5\uc77c)\uc740 3\ucc28\ub840 \uc6d4\ub4dc \uccb4\uc2a4 \ucc54\ud53c\uc5b8\uc744 \ub2ec\uc131\ud55c \uc18c\ub828 \ubc0f \ub7ec\uc2dc\uc544\uc758 \uad6d\uc81c \uadf8\ub79c\ub4dc\ub9c8\uc2a4\ud130\ub85c, \uc5ed\uc0ac\uc0c1 \uac00\uc7a5 \uc704\ub300\ud55c \uccb4\uc2a4 \uc120\uc218\ub4e4 \uac00\uc6b4\ub370 \ud55c \uba85\uc73c\ub85c \uac04\uc8fc\ub41c\ub2e4. \uc18c\ub828 \ub0b4\uc5d0\uc11c \ubc1c\uc804\ud55c \uccab \uc6d4\ub4dc \ud074\ub798\uc2a4 \uc120\uc218\uc600\uc73c\uba70 \uc815\uce58\uc801 \uc555\ub825\uc5d0 \ub193\uc774\uae30\ub3c4 \ud588\uc9c0\ub9cc \uc18c\ub828 \uccb4\uc2a4\uacc4\uc5d0\uc11c \uc0c1\ub2f9\ud55c \uc601\ud5a5\ub825\uc744 \uac00\uc838\ub2e4 \uc8fc\uc5c8\ub2e4. \uadf8\uc758 \uc720\uba85\ud55c \uc81c\uc790\ub85c\ub294 \uc6d4\ub4dc \ucc54\ud53c\uc5b8 \uc544\ub098\ud1a8\ub9ac \uce74\ub974\ud3ec\ud504, \uac00\ub9ac \uce74\uc2a4\ud30c\ub85c\ud504, \ube14\ub77c\ub514\ubbf8\ub974 \ud06c\ub78c\ub2c8\ud06c\ub97c \ub4e4 \uc218 \uc788\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30df\u30cf\u30a4\u30eb\u30fb\u30e2\u30a4\u30bb\u30a8\u30d3\u30c3\u30c1\u30fb\u30dc\u30c8\u30f4\u30a3\u30cb\u30af\uff08\u041c\u0438\u0445\u0430\u0438\u043b \u041c\u043e\u0438\u0441\u0435\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a\u3001Mikhail Moiseyevich Botvinnik\u30011911\u5e748\u670817\u65e5 - 1995\u5e745\u67085\u65e5\uff09\u306f\u3001\u30bd\u30d3\u30a8\u30c8\u9023\u90a6\u306e\u30c1\u30a7\u30b9\u306e\u9078\u624b\u3002\u30c1\u30a7\u30b9\u306e\u4e16\u754c\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\uff081948\u5e74 - 1957\u5e74\u30011958\u5e74 - 1960\u5e74\u30011961\u5e74 - 1963\u5e74\uff09\u3067\u3042\u308b\u3002\u5de5\u5b66\u8005\u3067\u3082\u3042\u3063\u305f\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Michail Moisejevitsj Botvinnik (Russisch: \u041c\u0438\u0445\u0430\u0438\u043b \u041c\u043e\u0438\u0441\u0435\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a), tijdens zijn leven doorgaans gespeld als Botwinnik, (Kuokkala (nu Repino), 17 augustus 1911 \u2013 Moskou, 5 mei 1995) was een Russische schaker. Hij was (met onderbrekingen) wereldkampioen van 1948 tot 1963."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mikhail Moiseyevich Botvinnik (em russo \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a)(Kuokkala, 17 de agosto de 1911 \u2014 Moscou, 5 de maio de 1995) foi um enxadrista sovi\u00e9tico e campe\u00e3o mundial de xadrez."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Michai\u0142 Botwinnik, ros. \u041c\u0438\u0445\u0430\u0438\u043b \u041c\u043e\u0438\u0441\u0435\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a (ur. 4 sierpnia?/ 17 sierpnia 1911 w Kuokkali, zm. 5 maja 1995 w Moskwie) \u2013 rosyjski szachista, arcymistrz, wieloletni mistrz \u015bwiata w szachach."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u7c73\u54c8\u4f0a\u5c14\u00b7\u83ab\u4f0a\u8c22\u8036\u7ef4\u5947\u00b7\u535a\u7279\u6e29\u5c3c\u514b\uff0c\u5927\u9646\u56fd\u9645\u8c61\u68cb\u754c\u4e60\u60ef\u8bd1\u4e3a\u201c\u9c8d\u7279\u7ef4\u5c3c\u514b\u201d\uff08\u4fc4\u8a9e\uff1a\u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a\uff0c1911\u5e748\u670817\u65e5\uff0d1995\u5e745\u67085\u65e5\uff09\uff0c\u82cf\u8054\u56fd\u9645\u8c61\u68cb\u624b\uff0c\u4ed6\u88ab\u8ba4\u4e3a\u662f\u56fd\u9645\u8c61\u68cb\u5386\u53f2\u4e0a\u6700\u91cd\u8981\u7684\u4eba\u7269\u4e4b\u4e00\u3002\u81ea1931\u5e74\u8d77\uff0c\u4ed67\u6b21\u83b7\u5168\u82cf\u56fd\u9645\u8c61\u68cb\u51a0\u519b\uff0c1935\u5e74\u53c8\u5728\u4e16\u754c\u56fd\u9645\u8c61\u68cb\u8d5b\u83b7\u5f97\u6700\u9ad8\u7b49\u7ea7\u5206\uff0c\u5e76\u4e14\u662f\u82cf\u8054\u9996\u4e2a\u83b7\u5f97\u56fd\u9645\u8c61\u68cb\u7279\u7ea7\u5927\u5e08\u79f0\u53f7\u7684\u68cb\u624b\u3002\u535a\u7279\u6e29\u5c3c\u514b\u81f4\u529b\u4e8e\u5728\u5168\u56fd\u63a8\u5e7f\u56fd\u9645\u8c61\u68cb\u8fd0\u52a8\uff0c\u5361\u5c14\u6ce2\u592b\u3001\u5361\u65af\u5e15\u7f57\u592b\u3001\u514b\u62c9\u59c6\u5c3c\u514b\u7b49\u4e16\u754c\u7ea7\u68cb\u624b\u5747\u662f\u4ed6\u7684\u5f1f\u5b50\u3002\u8457\u6709\u300a\u534a\u4e2a\u4e16\u754c\u7684\u68cb\u300b\u3001\u300a\u51a0\u519b\u56fd\u9645\u8c61\u68cb\u300b\u3001\u300a\u7cbe\u9009\u68cb\u5c40\u4e00\u767e\u4f8b\u300b\u7b49\u4e66\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u0438\u0445\u0430\u0301\u0439\u043b\u043e \u041c\u043e\u0439\u0441\u0435\u0301\u0439\u043e\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a (\u043d\u0430\u0440. 4 (17) \u0441\u0435\u0440\u043f\u043d\u044f 1911, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433 \u2014 5 \u0442\u0440\u0430\u0432\u043d\u044f, 1995, \u041c\u043e\u0441\u043a\u0432\u0430) \u2014 \u0440\u0430\u0434\u044f\u043d\u0441\u044c\u043a\u0438\u0439 \u0448\u0430\u0445\u0456\u0441\u0442, \u0448\u043e\u0441\u0442\u0438\u0439 \u0447\u0435\u043c\u043f\u0456\u043e\u043d \u0441\u0432\u0456\u0442\u0443 \u0456\u0437 \u0448\u0430\u0445\u0456\u0432 (1948 \u2014 1957, 1958 \u2014 1960, 1961 \u2014 1963). \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0433\u0440\u043e\u0441\u043c\u0435\u0439\u0441\u0442\u0435\u0440 \u0456 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0440\u0431\u0456\u0442\u0440 \u0456\u0437 \u0448\u0430\u0445\u043e\u0432\u043e\u0457 \u043a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0456\u0457 (1950). \u0414\u043e\u043a\u0442\u043e\u0440 \u0442\u0435\u0445\u043d\u0456\u0447\u043d\u0438\u0445 \u043d\u0430\u0443\u043a, \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0432 \u0443 \u0433\u0430\u043b\u0443\u0437\u0456 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u0442\u0435\u0445\u043d\u0456\u043a\u0438 \u0442\u0430 \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u0456\u0432 \u0440\u0430\u0434\u044f\u043d\u0441\u044c\u043a\u0438\u0445 \u0448\u0430\u0445\u043e\u0432\u0438\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c. \u00ab\u041f\u0430\u0442\u0440\u0456\u0430\u0440\u0445\u00bb \u0440\u0430\u0434\u044f\u043d\u0441\u044c\u043a\u0438\u0445 \u0448\u0430\u0445\u0456\u0432, \u0432\u0438\u0434\u0430\u0442\u043d\u0438\u0439 \u0442\u0435\u043e\u0440\u0435\u0442\u0438\u043a \u0456 \u0430\u0432\u0442\u043e\u0440 \u043d\u0438\u0437\u043a\u0438 \u0448\u0430\u0445\u043e\u0432\u0438\u0445 \u043a\u043d\u0438\u0433."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mikha\u00efl Moiss\u00e9ievitx Botv\u00ednnik (en rus \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a), (17 d'agost de 1911 - 5 de maig de 1995), fou un Gran Mestre d'escacs i enginyer sovi\u00e8tic, tres cops Campi\u00f3 del m\u00f3n, entre 1948 i 1963, i sis cops campi\u00f3 sovi\u00e8tic. Hom el considera un dels millors jugadors de tots els temps, amb el m\u00e8rit afegit de ser un dels pocs jugadors d'elit que desenvolupaven, al mateix temps, una carrera professional en un altre \u00e0mbit, en aquest cas, en enginyeria electr\u00f2nica i inform\u00e0tica, i fou un dels pioners dels escacs per ordinador. Botv\u00ednnik desenvolup\u00e0 algorismes per al manteniment de les centrals el\u00e8ctriques sovi\u00e8tiques i, durant la d\u00e8cada del 1980, fou un dels defensors del projecte OGAS."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Michail Mojsejevi\u010d Botvinnik (rusky \u041c\u0438\u0445\u0430\u0438\u043b \u041c\u043e\u0438\u0441\u0435\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a, 4. srpnajul./ 17. srpna 1911greg. Kuokkala (dnes Repino) \u2013 5. kv\u011btna 1995, Moskva) byl sov\u011btsk\u00fd rusk\u00fd \u0161achov\u00fd velmistr, mistr sv\u011bta v letech 1948 \u2013 1957, 1958 \u2013 1960 a 1961 \u2013 1963. Byl tak\u00e9 v\u00fdznamn\u00fdm \u0161achov\u00fdm teoretikem a pedagogem, zab\u00fdval se i po\u010d\u00edta\u010dov\u00fdm \u0161achem. Stal se neskute\u010dn\u011b vlivnou osobou sov\u011btsk\u00e9ho \u0161achu a hlavou sov\u011btsk\u00e9 \u0161achov\u00e9 \u0161koly."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u039f \u039c\u03b9\u03c7\u03b1\u03ae\u03bb \u039c\u03bf\u03ca\u03c3\u03ad\u03b3\u03b9\u03b5\u03b2\u03b9\u03c4\u03c2 \u039c\u03c0\u03bf\u03c4\u03b2\u03af\u03bd\u03b9\u03ba (\u03c1\u03c9\u03c3\u03b9\u03ba\u03ac: \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a, 17 \u0391\u03c5\u03b3\u03bf\u03cd\u03c3\u03c4\u03bf\u03c5 1911 - 5 \u039c\u03b1\u0390\u03bf\u03c5 1995) \u03ae\u03c4\u03b1\u03bd \u03a1\u03ce\u03c3\u03bf\u03c2 \u0394\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u0393\u03ba\u03c1\u03b1\u03bd\u03bc\u03b1\u03af\u03c4\u03c1 \u0395\u03b2\u03c1\u03b1\u03ca\u03ba\u03ae\u03c2 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03bf \u03ad\u03ba\u03c4\u03bf\u03c2 \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03a0\u03c1\u03c9\u03c4\u03b1\u03b8\u03bb\u03b7\u03c4\u03ae\u03c2 \u03c3\u03c4\u03bf \u03c3\u03ba\u03ac\u03ba\u03b9. \u0398\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03b5\u03c5\u03c1\u03ad\u03c9\u03c2 \u03c9\u03c2 \u03bf \"\u03c0\u03b1\u03c4\u03ad\u03c1\u03b1\u03c2\" \u03c4\u03b7\u03c2 \u03bc\u03bf\u03bd\u03c4\u03ad\u03c1\u03bd\u03b1\u03c2 \u03c1\u03c9\u03c3\u03b9\u03ba\u03ae\u03c2 \u03c3\u03ba\u03b1\u03ba\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03c7\u03bf\u03bb\u03ae\u03c2."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mikhail Moisejevitx Botvinnik (errusieraz: \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a; , 1911ko abuztuaren 17a \u2013 Mosku, 1995eko maiatzaren 5a) sobietar xake jokalaria, Nazioarteko Maisu Handia eta Munduko Xake Txapelduna izan zen. Historiako xakelari onenetarikoa izan zen. Bost aldiz irabazi zuen Munduko Xake Txapelketa 1948 eta 1963 artean. Sei aldiz irabazi zuen SESBeko Xake Txapelketa, eta 1954tik 1964rako Xake Olinpiada guztiak irabazi zituen Sobietar Batasuneko xake taldearekin. Ingeniari elektrikoa zen lanbidez; informatikaria ere izan zen, ordenagailurako xake-jokoak programatzen aitzindaria."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mikhail Moiseyevich Botvinnik (August 17 [O.S. August 4] 1911 \u2013 May 5, 1995) was a Soviet and Russian chess grandmaster. The sixth World Chess Champion, he also worked as an electrical engineer and computer scientist and was a pioneer in computer chess."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mikha\u00efl Mo\u00efsse\u00efevitch Botvinnik (en russe : \u041c\u0438\u0445\u0430\u0438\u043b \u041c\u043e\u0438\u0441\u0435\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a) est un joueur d'\u00e9checs sovi\u00e9tique, par ailleurs ing\u00e9nieur \u00e9lectricien et informaticien, n\u00e9 le 17 ao\u00fbt 1911 \u00e0 Kuokkala, aujourd'hui Repino, au nord-ouest de Saint-P\u00e9tersbourg, Gouvernement de Vyborg dans le Grand-duch\u00e9 de Finlande et mort 5 mai 1995 \u00e0 Moscou. Il fut champion du monde du jeu d'\u00e9checs de 1948 \u00e0 1957, de 1958 \u00e0 1960 et de 1961 \u00e0 1963. Il a \u00e9t\u00e9 l'un des rares joueurs \u00e0 se distinguer dans une autre carri\u00e8re tout en jouant aux \u00e9checs les plus comp\u00e9titifs. Il \u00e9tait \u00e9galement un pionnier des \u00e9checs informatiques."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Michail Moiseevi\u010d Botvinnik (in russo: \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a?; Kuokkala, 17 agosto 1911 \u2013 Mosca, 5 maggio 1995) \u00e8 stato uno scacchista e ingegnere sovietico.Grande maestro internazionale, \u00e8 stato il sesto campione del mondo (dal 1948 al 1957, dal 1958 al 1960 e dal 1961 al 1963). Per la sua metodologia nella preparazione agonistica, per l'approccio prettamente scientifico al gioco e per aver formato le successive generazioni di grandi maestri e campioni del mondo, \u00e8 considerato il \"Patriarca\" della scuola scacchistica sovietica."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mikhail_Botvinnik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a (4 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1911 \u0433\u043e\u0434, \u041a\u0443\u043e\u043a\u043a\u0430\u043b\u0430, \u0412\u044b\u0431\u043e\u0440\u0433\u0441\u043a\u0430\u044f \u0433\u0443\u0431\u0435\u0440\u043d\u0438\u044f, \u0412\u0435\u043b\u0438\u043a\u043e\u0435 \u043a\u043d\u044f\u0436\u0435\u0441\u0442\u0432\u043e \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0441\u043a\u043e\u0435, \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0438\u043c\u043f\u0435\u0440\u0438\u044f \u2014 5 \u043c\u0430\u044f 1995, \u041c\u043e\u0441\u043a\u0432\u0430, \u0420\u043e\u0441\u0441\u0438\u044f) \u2014 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0448\u0430\u0445\u043c\u0430\u0442\u0438\u0441\u0442, 6-\u0439 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0448\u0430\u0445\u043c\u0430\u0442 \u0438 1-\u0439 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0447\u0435\u043c\u043f\u0438\u043e\u043d \u043c\u0438\u0440\u0430 (1948\u20141957, 1958\u20141960, 1961\u20141963). \u0413\u0440\u043e\u0441\u0441\u043c\u0435\u0439\u0441\u0442\u0435\u0440 \u0421\u0421\u0421\u0420 (1935), \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0433\u0440\u043e\u0441\u0441\u043c\u0435\u0439\u0441\u0442\u0435\u0440 (1950) \u0438 \u0430\u0440\u0431\u0438\u0442\u0440 \u043f\u043e \u0448\u0430\u0445\u043c\u0430\u0442\u043d\u043e\u0439 \u043a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u0438 (1956); \u0437\u0430\u0441\u043b\u0443\u0436\u0435\u043d\u043d\u044b\u0439 \u043c\u0430\u0441\u0442\u0435\u0440 \u0441\u043f\u043e\u0440\u0442\u0430 \u0421\u0421\u0421\u0420 (1945), 6-\u043a\u0440\u0430\u0442\u043d\u044b\u0439 \u0447\u0435\u043c\u043f\u0438\u043e\u043d \u0421\u0421\u0421\u0420 (1931, 1933, 1939, 1944, 1945, 1952), \u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u044b\u0439 \u0447\u0435\u043c\u043f\u0438\u043e\u043d \u0421\u0421\u0421\u0420 (1941). \u0427\u0435\u043c\u043f\u0438\u043e\u043d \u041c\u043e\u0441\u043a\u0432\u044b (1943/44). \u0428\u0435\u0441\u0442\u0438\u043a\u0440\u0430\u0442\u043d\u044b\u0439 \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u044c \u0428\u0430\u0445\u043c\u0430\u0442\u043d\u044b\u0445 \u041e\u043b\u0438\u043c\u043f\u0438\u0430\u0434 \u0432 \u0441\u043e\u0441\u0442\u0430\u0432\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0421\u0421\u0421\u0420 (\u0434\u0432\u0443\u043a\u0440\u0430\u0442\u043d\u044b\u0439 \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u044c \u0432 \u043b\u0438\u0447\u043d\u043e\u043c \u0437\u0430\u0447\u0451\u0442\u0435). \u00ab\u041f\u0430\u0442\u0440\u0438\u0430\u0440\u0445\u00bb \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0439 \u0448\u0430\u0445\u043c\u0430\u0442\u043d\u043e\u0439 \u0448\u043a\u043e\u043b\u044b. \u041f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044c \u0412\u0441\u0435\u0441\u043e\u044e\u0437\u043d\u043e\u0439 \u0448\u0430\u0445\u043c\u0430\u0442\u043d\u043e\u0439 \u0441\u0435\u043a\u0446\u0438\u0438 (1938\u20141939) \u0438 \u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u00ab\u0421\u0421\u0421\u0420 \u2014 \u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b\u00bb (\u0441 1960). \u0417\u0430\u0441\u043b\u0443\u0436\u0435\u043d\u043d\u044b\u0439 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a \u043a"
+    }
+]

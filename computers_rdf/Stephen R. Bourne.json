@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishExpatriatesInTheUnitedStates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScienceWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatUnixPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSGIPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSunMicrosystemsPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Absentee109757653"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Exile110071332"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/HeadOfState110164747"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/InteriorDesigner110210648"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Negotiator110351874"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/President110467179"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Representative110522035"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Writer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfKing'sCollegeLondon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTrinityCollege,Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDigitalEquipmentCorporationPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAssociationForComputingMachinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPresidentsOfTheAssociationForComputingMachinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatProgrammingLanguageDesigners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0633\u062a\u064a\u0641\u0646 \u0631. \u0628\u0648\u0631\u0646"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen R. Bourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Bourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Bourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Bourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30b9\u30c6\u30a3\u30fc\u30d6\u30f3\u30fb\u30dc\u30fc\u30f3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen R. Bourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u043e\u0440\u043d, \u0421\u0442\u0438\u0432\u0435\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u53f2\u8482\u592b\u00b7\u4f2f\u6069"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0633\u062a\u064a\u0641\u0646 \u0631. \u0628\u0648\u0631\u0646 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Stephen R. Bourne)\u200f \u0647\u0648 \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0628\u0631\u064a\u0637\u0627\u0646\u064a\u060c \u0648\u0644\u062f \u0641\u064a 7 \u064a\u0646\u0627\u064a\u0631 1944."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Richard Bourne (* 7. Januar 1944) ist ein britischer Informatiker und Mathematiker."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Bourne (7 de enero de 1944) es un inform\u00e1tico brit\u00e1nico residente en Estados Unidos, autor del Bourne Shell (sh), el int\u00e9rprete de \u00f3rdenes est\u00e1ndar en los sistemas Unix.\u200b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Richard \"Steve\" Bourne (born 7 January 1944) is an English computer scientist based in the United States for most of his career. He is well known as the author of the Bourne shell (sh), which is the foundation for the standard command-line interfaces to Unix."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30b9\u30c6\u30a3\u30fc\u30d6\u30f3\u30fbR\u30fb\u30dc\u30fc\u30f3\uff08\u82f1:Stephen R. Bourne\u30011944\u5e741\u67087\u65e5 - \uff09\u306f\u3001UNIX\u306e\u6a19\u6e96\u30b3\u30de\u30f3\u30c9\u884c\u30a4\u30f3\u30bf\u30d5\u30a7\u30fc\u30b9\u306e\u57fa\u76e4\u3068\u306a\u3063\u305f Bourne Shell\uff08sh\uff09\u306e\u4f5c\u8005\u3068\u3057\u3066\u77e5\u3089\u308c\u3066\u3044\u308b\u8a08\u7b97\u6a5f\u79d1\u5b66\u8005\u3002 \u30ad\u30f3\u30b0\u30b9\u30fb\u30ab\u30ec\u30c3\u30b8\u30fb\u30ed\u30f3\u30c9\u30f3\u3067\u6570\u5b66\u306e\u5b66\u58eb\u53f7\u3092\u53d6\u5f97\u3002\u30b1\u30f3\u30d6\u30ea\u30c3\u30b8\u5927\u5b66\u30c8\u30ea\u30cb\u30c6\u30a3\u30fb\u30ab\u30ec\u30c3\u30b8\u3067\u8a08\u7b97\u6a5f\u79d1\u5b66\u3092\u5b66\u3073\u3001\u6570\u5b66\u306e\u535a\u58eb\u53f7\u3092\u53d6\u5f97\u3057\u305f\u3002\u305d\u306e\u5f8c\u3001\u30b1\u30f3\u30d6\u30ea\u30c3\u30b8\u5927\u5b66\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u7814\u7a76\u6240\u3067 ALGOL 68 \u30b3\u30f3\u30d1\u30a4\u30e9\u958b\u767a\u306b\u643a\u308f\u3063\u305f\u3002 \u30d9\u30eb\u7814\u7a76\u6240\u306b\u79fb\u3063\u30669\u5e74\u9593\u3092\u904e\u3054\u3057\u3001Version 7 Unix \u958b\u767a\u306b\u643a\u308f\u3063\u305f\u3002\u305d\u306e\u9593\u306b Bourne Shell \u3060\u3051\u3067\u306a\u304f\u3001adb \u30c7\u30d0\u30c3\u30ac\u3092\u958b\u767a\u3057\u3001\u4e00\u822c\u5411\u3051\u306eUNIX\u5165\u9580\u66f8 The UNIX System \u3092\u57f7\u7b46\u3057\u305f\u3002 \u305d\u306e\u5f8c\u3001\u30b7\u30ea\u30b3\u30f3\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30b9\u3001\u30c7\u30a3\u30b8\u30bf\u30eb\u30fb\u30a4\u30af\u30a4\u30c3\u30d7\u30e1\u30f3\u30c8\u30fb\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3\u3001\u30b5\u30f3\u30fb\u30de\u30a4\u30af\u30ed\u30b7\u30b9\u30c6\u30e0\u30ba\u3001\u30b7\u30b9\u30b3\u30b7\u30b9\u30c6\u30e0\u30ba\u3067\u6280\u8853\u90e8\u9580\u306e\u7ba1\u7406\u8077\u3068\u3057\u3066\u50cd\u3044\u305f\u3002\u73fe\u5728\u306f\u3001\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u5dde\u30e1\u30f3\u30ed\u30fc\u30d1\u30fc\u30af\u306b\u3042\u308b\u30d9\u30f3\u30c1\u30e3\u30fc\u30ad\u30e3\u30d4\u30bf\u30eb El Dorado Ventures \u3067\u6700\u9ad8\u6280\u8853\u8cac\u4efb\u8005\uff08CTO\uff09\u3092\u52d9\u3081\u3066\u3044\u308b\u3002\u307e\u305f\u3001ACM\u4f1a\u9577\u3092\u52d9\u3081\u3066\u3044\u305f\u3068\u304d\u306b\u5275\u520a\u3057\u305f ACM Queue \u8a8c\u306e\u7de8\u96c6\u8aee\u554f\u59d4\u54e1\u4f1a\u4f1a\u9577\u3082\u52d9\u3081\u3066\u3044\u308b\u3002\u307e\u305f\u3001ACM\u3068\u738b\u7acb\u5929\u6587\u5b66\u4f1a\u306e\u30d5\u30a7\u30ed\u30fc\u3067\u3082\u3042\u308b\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0421\u0442\u0438\u0432\u0435\u043d \u0420\u0438\u0447\u0430\u0440\u0434 \u0411\u043e\u0440\u043d (\u0430\u043d\u0433\u043b. Stephen Richard \u00abSteve\u00bb Bourne, \u0440\u043e\u0434. 7 \u044f\u043d\u0432\u0430\u0440\u044f 1944 \u0433\u043e\u0434\u0430) \u2014 \u0443\u0447\u0451\u043d\u044b\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438, \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u044f\u0449\u0438\u0439 \u0438\u0437 \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438, \u043d\u043e \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u0432 \u0421\u0428\u0410 \u043d\u0430 \u043f\u0440\u043e\u0442\u044f\u0436\u0435\u043d\u0438\u0438 \u0431\u043e\u043b\u044c\u0448\u0435\u0439 \u0447\u0430\u0441\u0442\u0438 \u0441\u0432\u043e\u0435\u0439 \u043a\u0430\u0440\u044c\u0435\u0440\u044b. \u041e\u043d \u0445\u043e\u0440\u043e\u0448\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u043a\u0430\u043a \u0430\u0432\u0442\u043e\u0440 Bourne shell (sh), \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0441\u043d\u043e\u0432\u043e\u0439 \u0434\u043b\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0445 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0438 Unix."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u53f2\u8482\u592b\u00b7\u4f2f\u6069\uff08\u82f1\u8a9e\uff1aStephen R. Bourne\uff0c1944\u5e741\u67087\u65e5\uff0d\uff09\uff0c\u751f\u65bc\u82f1\u570b\uff0c\u8457\u540d\u96fb\u8166\u79d1\u5b78\u5bb6\uff0c\u70baBourne shell\u7684\u4f5c\u8005\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Steve Bourne (n\u00e9 le 7 janvier 1944) est un informaticien britannique, connu surtout pour \u00eatre l'auteur du shell sh (Bourne shell), qui est au fondement des interfaces en ligne de commandes pour UNIX. Il est dipl\u00f4m\u00e9 en math\u00e9matiques et en informatique. Il a travaill\u00e9 \u00e0 l'Universit\u00e9 de Cambridge, au laboratoire d'informatique. \u00c0 cette \u00e9poque, il a \u00e9crit un compilateur pour ALGOL68 baptis\u00e9 ALGOL68C. Puis il a pass\u00e9 neuf ans aux laboratoires Bell, avec l'\u00e9quipe d'UNIX version 7. Il d\u00e9veloppe, en 1975, le Bourne shell, qui devient, les ann\u00e9es suivantes, le shell par d\u00e9faut d'UNIX 7, \u00e0 la place du . Il est l'auteur de The UNIX system (1983), le second livre sur UNIX, destin\u00e9 \u00e0 un large public."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Richard Bourne detto Steve (7 gennaio 1944) \u00e8 un informatico britannico, principalmente conosciuto per essere l'autore della Bourne shell (sh) che \u00e8 alla base delle linee di comando pi\u00f9 diffuse sui sistemi Unix.. Bourne si \u00e8 laureato in matematica al King's College di Londra, un ulteriore Diploma (titolo universitario) in informatica a Cambridge. Ha ottenuto il dottorato in matematica presso il Trinity College. Attualmente \u00e8 direttore tecnologico della a Menlo Park (California).. \u00c8 membro della Royal Astronomical Society."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Stephen Richard Bourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Stephen Richard Bourne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve_Bourne_at_SDWest2005.hires.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1944-01-07"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_University_of_Cambridge_Computer_Laboratory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1944_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_King's_College_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Presidents_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Cellular_automatists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chief_technology_officers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Silicon_Graphics_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_expatriates_in_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Programming_language_designers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Stephen_R._Bourne",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Computer_science_writers"
+    }
+]

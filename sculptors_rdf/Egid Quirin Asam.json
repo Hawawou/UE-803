@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBaroquePainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBaroqueSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRococoSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Painter110391653"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEthnicGermanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Egid Quirin Asam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Egid Quirin Asam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Egid Quirin Asam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Egid Quirin Asam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc5d0\uae30\ud2b8 \ud034\ub9b0 \uc544\uc7a0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Egid Quirin Asam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Egid Quirin Asam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Egid Quirin Asam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Egid Quirin Asam (getauft 1. September 1692 in Tegernsee; \u2020 29. April 1750 in Mannheim) war ein deutscher Maler, bedeutender Stuckateur und Bildhauer des Sp\u00e4tbarocks."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Egid Quirin Asam (1 September 1692 \u2013 29 April 1750) was a German plasterer, sculptor, architect, and painter. He was active during the Late Baroque and Rococo periods. Born in Tegernsee, Bavaria, Asam worked mainly together with his brother, the architect and painter Cosmas Damian Asam. Because of this, their common work is often attributed to the Asam Brothers. Asam died in Mannheim, Baden-W\u00fcrttemberg."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Egid Quirin Asam (1 de septiembre de 1692 (bautizado) - 29 de abril de 1750) fue un yesista y escultor alem\u00e1n activo durante el periodo del Barroco tard\u00edo."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc5d0\uae30\ud2b8 \ud034\ub9b0 \uc544\uc7a0(Egid Quirin Asam, 1962\ub144 9\uc6d4 1\uc77c ~ 1750\ub144 4\uc6d4 29\uc77c)\uc740 \ubc14\ub85c\ud06c \ud6c4\uae30\uc5d0 \ud65c\ub3d9\ud55c \ub3c5\uc77c\uc758 \uc870\uac01\uac00\uc774\ub2e4. \ud654\uac00\ub85c\uc11c \ud65c\uc57d\ud558\ub358 \ud615 \ucf54\uc2a4\ub9c8\uc2a4 \ub2e4\ubbf8\uc548 \uc544\uc7a0\uacfc \ub354\ubd88\uc5b4 \ub0a8(\u5357)\ub3c5\uc77c\uc5d0\uc11c \uc81c\uc791\ud65c\ub3d9\uc744 \uacc4\uc18d\ud558\uc600\ub358 \uc5d0\uae30\ud2b8 \ud034\ub9b0 \uc544\uc7a0\uc740 \ubb8c\ud5e8\uc758 \uc131(\u8056) \uc694\ud55c \ub124\ud3ec\ubbc0\ud06c \uad50\ud68c\ub2f9\uacfc \ub85c\ub974\uc758 \uc218\ub3c4\uc6d0 \ubd80\uc18d \uad50\ud68c\ub2f9\uc758 \uc81c\ub2e8\uc870\uac01(\u796d\u58c7\u5f6b\u523b)\uc73c\ub85c \uc720\uba85\ud558\ub2e4. \ud6c4\uc790\uc5d0\uc11c\ub294 \ub9c8\ub9ac\uc544\uac00 \ubc29\uae08 \uc2b9\ucc9c\ud558\ub824\ub294 \uc21c\uac04\uc744 \ud6cc\ub96d\ud558\uac8c \ud3ec\ucc29\ud558\uace0 \uc788\ub2e4. \ub192\uc740 \ucc9c\uacf5(\u5929\u7a7a)\uc73c\ub85c \ud5a5\ud558\ub294 \uc131\ubaa8 \ub9c8\ub9ac\uc544\ub294 \uc9c4\uc815 \uacf5\uc911\uc5d0 \ub9e4\ub2ec\ub9b0 \uac83 \uac19\uace0, \uadf8 \ubb34\ub300\uc640 \uac19\uc740 \uc81c\ub2e8\uc740 \uc0c9\ucc44\uc758 \ud64d\uc218\uc640 \ud669\uae08\uc0c9\uc758 \uad11\ud718(\u5149\u8f1d)\uc5d0 \ub118\uce58\ub294 \ub0b4\ubd80\uacf5\uac04\uc758 \uc911\uc2ec\uc774\uc5b4\uc11c \uac10\uac01\uc801\uc73c\ub85c \ud604\uc2e4\ud654\ub41c \uc2e0\uc758 \uc138\uacc4\ub97c \ud45c\ud604\ud558\uc600\ub2e4. \ucc44\uc0c9\ub41c \uc870\uc0c1\uc740 \uc2ec\ud55c \ubab8\uc9d3\uc5d0 \uc758\ud574 \uc624\ud788\ub824 \ubc18\uc870\uac01\uc801(\u53cd\u5f6b\u523b\u7684)\uc778 \uc790\uc138\ub97c \ub098\ud0c0\ub0b4\uba74\uc11c, \uadf8\uac83\uc73c\ub85c\uc368 \ud55c\uce35 \ub354 \ucd1d\ud569\uc801 \uc778\uc0c1 \uc18d\uc5d0 \uc624\ubb18\ud558\uac8c \uc735\ud569\ub418\uc5b4 \uc788\ub2e4. \uc774 \ubb38\uc11c\uc5d0\ub294 \ub2e4\uc74c\ucee4\ubba4\ub2c8\ucf00\uc774\uc158(\ud604 \uce74\uce74\uc624)\uc5d0\uc11c GFDL \ub610\ub294 CC-SA \ub77c\uc774\uc120\uc2a4\ub85c \ubc30\ud3ec\ud55c \uae00\ub85c\ubc8c \uc138\uacc4\ub300\ubc31\uacfc\uc0ac\uc804\uc758 \"\uc544\uc7a0\" \ud56d\ubaa9\uc744 \uae30\ucd08\ub85c \uc791\uc131\ub41c \uae00\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Egid Quirin Asam, italianizzato in Egidio Quirino (Tegernsee, 1\u00ba settembre 1692 \u2013 Mannheim, 29 aprile 1750), \u00e8 stato un architetto e scultore tedesco, tra i massimi esponenti del rococ\u00f2 nella Germania meridionale."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Egid Quirin Asam (Tegernsee, 1 september 1692 (doop) - Mannheim, 29 april 1750) was een Duitse kunstschilder, en beeldhouwer van de late barok."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Egid Quirin Asam (Tegernsee, Baviera, baptizado a 1 de Setembro de 1692\u2013 Mannheim, 29 de abril de 1750 (58 anos)) foi um estucador e escultor alem\u00e3o activo durante o per\u00edodo Rococ\u00f3."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Egid Quirin Asam, d\u00f6pt 1 september 1692 i Tegernsee, d\u00f6d 29 april 1750 i Mannheim, var en tysk barockskulpt\u00f6r, m\u00e5lare och arkitekt. Egil Quirin Asam var bror till Cosmas Damian Asam. De byggde Asamkirche som egenkyrka i M\u00fcnchen. Denna artikel om en skulpt\u00f6r saknar v\u00e4sentlig information. Du kan hj\u00e4lpa till genom att l\u00e4gga till den."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Egid Quirin Asam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Egid Quirin Asam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Germany_M\u00fcnchen_Asam_Church.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Muenchen_Asamkirche_2005b.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Asam-kirche_1.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Bavaria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Tegernsee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Baden-W\u00fcrttemberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Mannheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Baden-W\u00fcrttemberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Mannheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1750-04-29"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Bavaria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Tegernsee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1692-09-01"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:18th-century_German_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Miesbach_(district)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:18th-century_German_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Catholic_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1750_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1692_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "7194461"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122827467"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abbey_Church_of_St._Anna_(Lehel,_Munich)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rococo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rohr_in_Niederbayern"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bavaria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benediktbeuern"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benediktbeuern_Abbey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:18th-century_German_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosmas_Damian_Asam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anastasia_of_Sirmium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Miesbach_(district)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freising"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freystadt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/F\u00fcrstenfeldbruck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Munich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asam_Brothers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Straubing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baden-W\u00fcrttemberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:18th-century_German_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Catholic_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weltenburg_Abbey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/F\u00fcrstenfeld_Abbey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aldersbach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baroque_sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Egid_Quirin_Asam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Osterhofen_Abbey"
+    }
+]

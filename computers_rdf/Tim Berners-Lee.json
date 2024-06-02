@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishComputerProgrammers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishInventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishPhysicists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatMacArthurFellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatOfficersOfTheOrderOfTheBritishEmpire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleEducatedAtEmanuelSchool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBarnes,London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromLondon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRoyalMedalWinners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Absentee109757653"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Contestant109613191"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Exile110071332"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Golfer110136959"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Inventor110214637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Laureate110249011"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Medalist110304914"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/MilitaryOfficer110317007"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Originator110383816"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Physicist110428004"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Pioneer110434725"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Player110439851"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatInternetPioneers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJapanPrizeLaureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Serviceman110582746"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/SkilledWorker110605985"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTheQueen'sCollege,Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishExpatriatesInTheUnitedStates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishInventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAcademyOfArtsAndSciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheBritishComputerSociety"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheQueen'sCollege,Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalAcademyOfEngineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062a\u064a\u0645 \u0628\u064a\u0631\u0646\u0631\u0632 \u0644\u064a"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u03a4\u03b9\u03bc \u039c\u03c0\u03ad\u03c1\u03bd\u03b5\u03c1\u03c2 \u039b\u03b9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ud300 \ubc84\ub108\uc2a4\ub9ac"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30c6\u30a3\u30e0\u30fb\u30d0\u30fc\u30ca\u30fc\u30ba\uff1d\u30ea\u30fc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u0435\u0440\u043d\u0435\u0440\u0441-\u041b\u0438, \u0422\u0438\u043c"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tim Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u8482\u59c6\u00b7\u4f2f\u7eb3\u65af-\u674e"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0422\u0456\u043c \u0411\u0435\u0440\u043d\u0435\u0440\u0441-\u041b\u0456"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tim_Berners-Lee",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0627\u0644\u0633\u064a\u0631 \u062a\u064a\u0645 \u0628\u064a\u0631\u0646\u0631\u0632 \u0644\u064a (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Sir Tim Berners-Lee)\u200f \u0648\u0644\u062f \u0641\u064a 8 \u064a\u0648\u0646\u064a\u0648 1955\u060c \u0647\u0648 \u0645\u0647\u0646\u062f\u0633 \u0648\u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0625\u0646\u062c\u0644\u064a\u0632\u064a\u060c \u064a\u0639\u0631\u0641 \u0628\u0633\u0628\u0628 \u0627\u062e\u062a\u0631\u0627\u0639\u0647 \u0644\u0644\u0634\u0628\u0643\u0629 \u0627\u0644\u0639\u0646\u0643\u0628\u0648\u062a\u064a\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629\u060c \u0648\u0627\u0644\u062a\u064a \u062a\u064f\u0639\u0631\u0641 \u0628\u0627\u0644\u0648\u064a\u0628. \u0648\u0647\u0648 \u0627\u0644\u0622\u0646 \u0623\u0633\u062a\u0627\u0630 \u0641\u064a \u0639\u0644\u0648\u0645 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0641\u064a \u062c\u0627\u0645\u0639\u0629 \u0623\u0648\u0643\u0633\u0641\u0648\u0631\u062f \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0642\u062f\u0651\u0645 \u0627\u0642\u062a\u0631\u0627\u062d\u0627\u064b \u0644\u0646\u0638\u0627\u0645 \u0625\u062f\u0627\u0631\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0641\u064a \u0634\u0647\u0631 \u0645\u0627\u0631\u0633 \u0645\u0646 \u0627\u0644\u0639\u0627\u0645 1989\u0645\u060c \u0648\u0646\u062c\u062d \u0641\u064a \u0645\u0646\u062a\u0635\u0641 \u0634\u0647\u0631 \u0646\u0648\u0641\u0645\u0628\u0631 \u0645\u0646 \u0646\u0641\u0633 \u0627\u0644\u0639\u0627\u0645 \u0641\u064a \u062a\u0646\u0641\u064a\u0630 \u0623\u0648\u0644 \u0627\u062a\u0635\u0627\u0644 \u0646\u0627\u062c\u062d \u0628\u064a\u0646 \u0639\u0645\u064a\u0644 \u0648\u0645\u064f\u062e\u062f\u0651\u0645 \u0644\u0628\u0631\u0648\u062a\u0643\u0648\u0644 \u0646\u0642\u0644 \u0627\u0644\u0646\u0635 \u0627\u0644\u0641\u0627\u0626\u0642 \u0648\u0641\u0642 \u0646\u0645\u0648\u0630\u062c \u0637\u0644\u0628 \u0627\u0644\u062e\u062f\u0645\u0629."
+    }
+]

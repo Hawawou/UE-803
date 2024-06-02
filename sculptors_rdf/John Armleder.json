@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatConceptualArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatContemporaryPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromGeneva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Painter110391653"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatInstallationArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPostmodernArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSwissArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSwissContemporaryArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSwissPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSwissPerformanceArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John M. Armleder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John M. Armleder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Armleder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John M. Armleder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u0440\u043c\u043b\u0435\u0434\u0435\u0440, \u0414\u0436\u043e\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John M. Armleder (* 24. Juni 1948 in Genf) ist ein Schweizer Maler, Konzept- und Performancek\u00fcnstler."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Armleder (born 1948, in Geneva) is a Swiss performance artist, painter, sculptor, critic, and curator. His work is based on his involvement with Fluxus in the 1960s and 1970s, when he created performance art pieces, installations and collective art activities that were strongly influenced by John Cage. However, Armleder's position throughout his career has been to avoid associating his artistic practice with any type of manifesto."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John M. Armleder (stylis\u00e9 sans le point John M Armleder) est un plasticien, collectionneur, \u00e9diteur, libraire, galeriste suisse n\u00e9 \u00e0 Gen\u00e8ve le 24 juin 1948. Il d\u00e9veloppe des interventions minimales ainsi que des installations de remplissage d'espace. Il est repr\u00e9sent\u00e9 par Almine Rech."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John M. Armleder (Gen\u00e8ve, 24 juni 1948) is een Zwitsers beeldend kunstenaar. Hij nam deel aan de Bi\u00ebnnale van Veneti\u00eb in 1986 en aan Documenta 8 in Kassel (Duitsland) in 1987."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u0436\u043e\u043d \u0410\u0440\u043c\u043b\u0435\u0434\u0435\u0440 (\u0430\u043d\u0433\u043b. John Armleder; \u0440\u043e\u0434. 1948, \u0416\u0435\u043d\u0435\u0432\u0430, \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f) \u2014 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a, \u043a\u0440\u0438\u0442\u0438\u043a, \u043a\u0443\u0440\u0430\u0442\u043e\u0440, \u0447\u043b\u0435\u043d \u0431\u0430\u0437\u0438\u0440\u0443\u044e\u0449\u0435\u0439\u0441\u044f \u0432 \u0416\u0435\u043d\u0435\u0432\u0435 \u0413\u0440\u0443\u043f\u043f\u044b \u041b\u044e\u043a \u0411\u0443\u0430 (\u0444\u0440. Groupe Luc Bois). \u0414\u0436\u043e\u043d \u0410\u0440\u043c\u043b\u0435\u0434\u0435\u0440 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u043b \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0438 \u0424\u043b\u044e\u043a\u0441\u0443\u0441 \u043d\u0430 \u043f\u0440\u043e\u0442\u044f\u0436\u0435\u043d\u0438\u0438 1960-\u0445 \u0438 1970-\u0445, \u0431\u044b\u043b \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u043c \u0413\u0440\u0443\u043f\u043f\u044b \u042d\u043a\u0430\u0440\u0442 \u0432 1969 \u0433\u043e\u0434\u0443, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0439 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043f\u0435\u0440\u0444\u043e\u0440\u043c\u0430\u043d\u0441\u0430\u043c\u0438 \u0438 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044f\u043c\u0438."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "John M. Armleder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "John M. Armleder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Villa_Arson_JohnArmleder.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Geneva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Switzerland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Geneva, Switzerland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Swiss_performance_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1948_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Swiss_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Swiss_installation_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Conceptual_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Geneva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Postmodern_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Swiss_contemporary_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "9269465"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1081821900"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Swiss_performance_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Beuys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kunsthalle_Z\u00fcrich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geneva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MAMCO"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Performance_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1948_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Swiss_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dairy_Art_Centre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Europe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fluxus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Swiss_installation_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Randomness"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Conceptual_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Geneva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Postmodern_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Le_Richemond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Swiss_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Switzerland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Staedel_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Contemporary_Art,_Philadelphia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Swiss_contemporary_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neo-Geo_(arts)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Villa_Arson_JohnArmleder.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.luxos.com/magazine/john-armleder-conceptual-artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.contemporaryartdaily.com/tag/john-armleder/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20071012223715/http:/heyokamagazine.com/HEYOKA.4.SCULPT.JohnArmleder.htm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20080406073009/http:/www.frieze.com/issue/review/john_armleder/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0282dxh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/121907723"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/11909696X"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Armleder",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/John_Armleder"
+    }
+]

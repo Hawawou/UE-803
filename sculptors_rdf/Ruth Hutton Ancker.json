@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatModernSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ruth Hutton Ancker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ruth Hutton Ancker (born Ruth Lapet Hutton; 1901\u20131979) was an American sculptor in the mid-20th century."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Ruth Lapet Hutton Ancker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Ruth Lapet Hutton Ancker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Bloomsburg,_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Mount_Vernon,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Mount Vernon, New York, U.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1979-08-16"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Bloomsburg, Pennsylvania, U.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Bloomsburg,_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1901_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1979_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Bloomsburg_University_of_Pennsylvania_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Modern_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "42944761"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124529851"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Bloomsburg,_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pratt_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloomsburg,_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloomsburg_University_of_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cincinnati"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cooper_Union"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Society_of_Arts_and_Letters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Normal_school"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mount_Vernon,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madison_Avenue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/State_Museum_of_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1901_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1979_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bloomsburg_University_of_Pennsylvania_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ferenc_Varga_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parsons_School_of_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Modern_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia_Art_Alliance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oronzio_Maldarelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Women's_Wear_Daily"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloomsburg_State_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cincinnati_Art_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://library.bloomu.edu/Archives/findingaids/1620020.htm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.010r7pl4"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Ruth_Hutton_Ancker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/61202187"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q17184131"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/gjku"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_web"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ubl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Ruth Lapet Hutton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1979-08-16"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/property/field",
+        "object": "Sculpture, illustration"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ruth Hutton Ancker (born Ruth Lapet Hutton; 1901\u20131979) was an American sculptor in the mid-20th century."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/61202187"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Ruth_Hutton_Ancker?oldid=1124529851&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6260"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Hutton_Ancker",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Ruth Lapet Hutton"
+    }
+]

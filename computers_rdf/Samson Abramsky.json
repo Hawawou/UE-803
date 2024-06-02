@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Academician109759069"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfImperialCollegeLondon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfQueenMary,UniversityOfLondon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfTheUniversityOfEdinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfKing'sCollege,Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfQueenMary,UniversityOfLondon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSocietyOfEdinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfWolfsonCollege,Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFormalMethodsPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Samson Abramsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc0d8\uc2a8 \uc5d0\uc774\ube0c\ub7fc\uc2a4\ud0a4"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Samson Abramsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Samson Abramsky(n\u00e9 le 12 mars 1953) est un informaticien th\u00e9oricien. professeur d'informatique au University College de Londres."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Samson Abramsky FRS FRSE (born 12 March 1953) is Professor of Computer Science at University College London.He has made contributions to the areas of domain theory, the lazy lambda calculus, strictness analysis, concurrency theory, interaction categories, geometry of interaction, game semantics and quantum computing."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc0d8\uc2a8 \uc5d0\uc774\ube0c\ub7fc\uc2a4\ud0a4(Samson Abramsky, 1953\ub144 3\uc6d4 12\uc77c ~ )\ub294 \uc601\uad6d\uc758 \uacfc\ud559\uc790 \uacb8 \ucef4\ud4e8\ud130 \uacf5\ud559\uc790\uc774\uc790 \ub300\ud559 \uad50\uc218\uc774\uba70 \uc800\uc220\uac00\uc774\ub2e4. \uc601\uad6d \uc625\uc2a4\ud37c\ub4dc \ub300\ud559\uad50 \uba85\uc608\uad50\uc218\uc774\uae30\ub3c4 \ud55c\ub370 \uc9c0\ub09c\ub0a0 \uc601\uad6d \ub7f0\ub358 \uc784\ud398\ub9ac\uc5bc \ub300\ud559\uad50 \uad50\uc218\ub97c \uac70\uccd0 \uc601\uad6d \uc5d0\ub4e0\ubc84\ub7ec \ub300\ud559\uad50 \uad50\uc218\ub97c \uc5ed\uc784\ud55c \uadf8\ub294 \ub7ec\ube14\ub808\uc774\uc2a4 \ud6c8\uc7a5\uc744 \ubc1b\uc558\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.cs.ox.ac.uk/samson.abramsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Abramsky_Samson.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1953-03-12"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Department_of_Computer_Science,_University_of_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_Wolfson_College,_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1953_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_King's_College,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Queen_Mary_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_Imperial_College_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_Queen_Mary_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_Jews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_Academia_Europaea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Formal_methods_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_people_of_Belarusian-Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "892852"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1082325933"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_computation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Mary_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Department_of_Computing,_Imperial_College_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Department_of_Computer_Science,_University_of_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_College_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geometry_of_interaction"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_Wolfson_College,_Oxford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Game_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theoretical_computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1953_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_King's_College,_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Queen_Mary_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Maibaum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Samson_Abramsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Domain_theory"
+    }
+]

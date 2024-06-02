@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanStainedGlassArtistsAndManufacturers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatContemporaryArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatModernArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatModernSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromCherryHill,NewJersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliPeopleOfHungarianDescent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromTelAviv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPrattInstituteAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Ascalon (* 8. M\u00e4rz 1945 in Tel Aviv, Pal\u00e4stina) ist ein amerikanisch-israelischer K\u00fcnstler und Bildhauer. Er ist der Vater des Industriedesigners Brad Ascalon."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Ascalon (Hebrew: \u05d3\u05d5\u05d3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df; born March 8, 1945) is an Israeli contemporary sculptor and stained glass artist, and co-founder of Ascalon Studios."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "L'artiste sculpteur David Ascalon est n\u00e9 \u00e0 Tel Aviv, en Isra\u00ebl le 8 mars 1945. Il a re\u00e7u sa formation artistique en tant qu'apprenti de son p\u00e8re, le sculpteur d'origine hongroise et industriel, Maurice Ascalon (1913-2003). Il immigre aux \u00c9tats Unis o\u00f9 il poursuit sa formation. \n* \"Totem\", sculpture en bronze. Cherry Hill Public Library, Cherry Hill, New Jersey USA \n* M\u00e9morial de l'Holocauste pour le Commonwealth of Pennsylvania, Harrisburg, Pennsylvanie USA (1994), Ascalon Studios. \n* \"Wings to the Heavens\", 2008. Art cin\u00e9tique, aluminum, Memphis (Tennessee) USA (2008)."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Ascalon (Tel Aviv, 8 de mar\u00e7o de 1945) \u00e9 um escultor e vitralista, fundador em 1977 junto com seu pai Maurice Ascalon da Ascalon Studios."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Ascalon es un artista y escultor israel\u00ed (Tel Aviv, 8 de marzo de 1945). Recibi\u00f3 un temprano entrenamiento como aprendiz de su padre, el escultor h\u00fangaro Maurice Ascalon(1913-2003). David se fue a Estados Unidos de adolescente cuando su padre llev\u00f3 a su familia a trav\u00e9s del Atl\u00e1ntico como una forma de ampliar sus horizontes. David estudi\u00f3 arte y dise\u00f1o en la y arquitectura en el Instituto Pratt de Nueva York, donde recibi\u00f3 su t\u00edtulo. En los a\u00f1os 1970, Ascalon trabaj\u00f3 en los campos del dise\u00f1o de interiores y la arquitectura en Nueva York para la firma del notable arquitecto israel\u00ed de Arieh Elhanani de Tel Aviv. Empez\u00f3 a buscar un medio m\u00e1s inmediato de expresi\u00f3n art\u00edstica que la arquitectura le permitir\u00eda, si bien, empez\u00f3 a experimentar en esculturas de metal y explorando composicio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Ascalon (Tel Aviv, 8 marzo 1945) \u00e8 un artista e scultore israeliano. Apprese i primi rudimenti dell'arte dal padre Maurice Ascalon (1913-2003), scultore e industriale di origini ungheresi, di cui fu l'apprendista. David Ascalon approd\u00f2 negli Stati Uniti durante l'adolescenza quando il padre vi trasfer\u00ec l'intera famiglia per ampliarne gli orizzonti. Ha studiato arte e design presso la California State University di e architettura design per interni al Pratt Institute di New York, dove si \u00e8 laureato."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/Ashkelon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/ASCALON_STUDIOS,_David_Ascalon,_Lincoln_Square_Synagogue_Ark_New_York.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/David_Ascalon,_Ascalon_Studios,_Holocaust_Memorial-_Harrisburg,_PA.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/David_Ascalon_Kinetic_Sculpture_Mobile_memphis_TN.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/David_Ascalon.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/David_Ascalon_-_Stained_Glass_Window.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Totem_par_David_Ascalon.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_stained_glass_artists_and_manufacturers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_people_of_Hungarian-Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Israeli_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Modern_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Cherry_Hill,_New_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Tel_Aviv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Pratt_Institute_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Beverly_Hills_High_School_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "4222848"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1085653282"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Polytechnic_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Guild_of_Judaic_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pratt_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brad_ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mosaic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Hills,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Hills_High_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Alfaro_Siqueiros"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holocaust"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hungary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interior_design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Sculpture_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stained_glass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lincoln_Square_Synagogue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Personal_Protective_Equipment"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commonwealth_of_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cherry_Hill_Public_Library"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brad_Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Philadelphia_Inquirer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Long_Island"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smithsonian_American_Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Ascalon"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Victor Bahl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Victor Bahl is an Indian Technical Fellow and CTO of Azure for Operators at Microsoft. He started networking research at Microsoft. He is known for his research contributions to white space radio data networks, radio signal-strength based indoor positioning systems, multi-radio wireless systems, wireless network virtualization, edge computing, and for bringing wireless links into the datacenter. He is also known for his leadership of the mobile computing community as the co-founder of the ACM Special Interest Group on Mobility of Systems, Users, Data, and Computing (SIGMOBILE). He is the founder of international conference on Mobile Systems, Applications, and Services Conference (MobiSys), and the founder of ACM Mobile Computing and Communications Review, a quarterly scientific journal tha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Victor Bahl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Victor Bahl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Choice_Wireless_Network.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Mm-wave_setup.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/MobiCom_2014_Pioneers_of_Wireless.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Radar_Indoor_Positioning_System.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Vb_et_al_whitespace.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor_Picture.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/WoW_-_Wake_on_Wireless.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_Delhi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/New_Delhi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Industry_and_corporate_fellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1964_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellow_Members_of_the_IEEE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Microsoft_technical_fellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "44357282"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122830380"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beam_steering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mesh_networking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bellevue,_Washington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algorithm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julius_Genachowski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ultrix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VAX"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dedicated_short-range_communications"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duplex_(telecommunications)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Indoor_positioning_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Conference_on_Mobile_Computing_and_Networking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet_access"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Network_topology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pentium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colors_of_noise"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Craig_Mundie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cryptographic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Industry_and_corporate_fellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maynard,_Massachusetts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Network_switch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Open_source"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electrical_engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_School_(New_Delhi)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multimedia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murata_Manufacturing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SIGCOMM"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clos_network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cloud_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hardware_virtualization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hotspot_(Wi-Fi)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Personal_digital_assistant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1964_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellow_Members_of_the_IEEE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Throughput"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trusted_Platform_Module"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._Federal_Communications_Commission"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/USENIX"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Data_center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wi-Fi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Association_for_the_Advancement_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DEC_Alpha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extremely_high_frequency"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federal_Communications_Commission"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Broadband"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cellular_network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Differentiated_services"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_subscriber_line"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Directional_antenna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fat_tree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Network_congestion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet_Engineering_Task_Force"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/JPEG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Microsoft_technical_fellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edge_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/White_spaces_(radio)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Troubleshooting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Victor_Bahl",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_Equipment_Corporation"
+    }
+]

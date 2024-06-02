@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBrownUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerProgrammers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatOpenSourcePeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSolarisPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSunMicrosystemsPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Defender109614684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Guard110150071"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Lookout110271216"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Preserver110466918"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Watchman110770059"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEagleScouts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bryan Cantrill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bryan Cantrill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u0440\u0430\u044f\u043d \u041a\u0430\u043d\u0442\u0440\u0456\u043b\u043b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bryan M. Cantrill (born 1973) is an American software engineer who worked at Sun Microsystems and later at Oracle Corporation following its acquisition of Sun. He left Oracle on July 25, 2010 to become the Vice President of Engineering at Joyent, transitioning to Chief Technology Officer at Joyent in April 2014, until his departure on July 31 of 2019. He is now the CTO of Oxide Computer company."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bryan M. Cantrill (1973) es un ingeniero de software estadounidense que trabaj\u00f3 e Sun Microsystems y posteriormente en Oracle Corporation tras la compra de Sun. Dej\u00f3 Oracle el 25 de julio de 2010\u200b para convertirse en vicepresidente de ingenier\u00eda en Joyent\u200b y es actualmente CTO de la empresa.\u200b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0411\u0440\u0430\u0439\u0430\u043d \u041c. \u041a\u0430\u043d\u0442\u0440\u0456\u043b\u043b (\u043d\u0430\u0440. 1973) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0456\u0441\u0442, \u044f\u043a\u0438\u0439 \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0432 \u0443 Sun Microsystems, \u0430 \u043f\u0456\u0437\u043d\u0456\u0448\u0435 \u0432 Oracle Corporation \u043f\u0456\u0441\u043b\u044f \u043f\u0440\u0438\u0434\u0431\u0430\u043d\u043d\u044f Sun. \u0412\u0456\u043d \u043f\u043e\u043a\u0438\u043d\u0443\u0432 Oracle \u0443 \u043b\u0438\u043f\u043d\u0456 2010 \u0440\u043e\u043a\u0443 \u0442\u0430 \u0441\u0442\u0430\u0432 \u0432\u0456\u0446\u0435-\u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u043e\u043c \u0437 \u0456\u043d\u0436\u0438\u043d\u0456\u0440\u0438\u043d\u0433\u0443 \u0432 Joyent. \u0417 \u043a\u0432\u0456\u0442\u043d\u044f 2014 \u043f\u043e \u043b\u0438\u043f\u0435\u043d\u044c 2019 \u0440\u043e\u043a\u0443 \u0431\u0443\u0432 \u0442\u0435\u0445\u043d\u0456\u0447\u043d\u0438\u043c \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u043e\u043c \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u0457 Joyent."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Bryan Cantrill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Bryan Cantrill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bryan_Cantrill_1.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_chief_technology_officers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brown_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Open_source_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Solaris_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1974_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_software_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sun_Microsystems_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2710978"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1108160236"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_S._Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joyent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Copyleft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_technology_officer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mike_Shapiro_(programmer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Viral_license"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GPL"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Wall_Street_Journal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linux_kernel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B.Sc."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_chief_technology_officers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brown_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brown_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Open_source_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Solaris_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/USENIX"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ACM_Queue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Leventhal_(programmer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1974_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_software_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DTrace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eagle_Scout_(Boy_Scouts_of_America)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Node.js"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Real-time_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeff_Bonwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_Technology_Officer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sun_Microsystems_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sun_Microsystems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tracing_(software)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bryan_Cantrill",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solaris_(operating_system)"
+    }
+]

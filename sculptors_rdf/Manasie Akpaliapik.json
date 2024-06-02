@@ -1,0 +1,207 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Manasie Akpaliapik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Manasie Akpaliapik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Manasie Akpaliapik (born 1955) is a Canadian Inuit sculptor. Akpaliapik was born in Baffin Island and lived with his family in Arctic Bay from 1967. He was sent to school in Iqaluit but never graduated. Instead, he got married and returned to Arctic Bay. His wife and two children were killed in a fire in 1980, after which Akpaliapik moved to Montreal and subsequently to Toronto."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Manasie Akpaliapik, n\u00e9 le 23 ao\u00fbt 1955, dans le nord de l\u2019\u00eele de Baffin, est un sculpteur canadien inuit."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Arctic_Bay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Animal_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1955_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "53245107"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1033058610"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Arctic_Bay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inuit_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Animal_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mus\u00e9e_national_des_beaux-arts_du_Qu\u00e9bec"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baffin_Island"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1955_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ottawa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iqaluit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arctic_Bay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Gallery_of_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Gallery_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raymond_Brousseau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.tvo.org/video/manasie-akpaliapik%7CManasie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/250974212"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Manasie_Akpaliapik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q16020920"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Manasie_Akpaliapik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/aYDR"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Manasie Akpaliapik (born 1955) is a Canadian Inuit sculptor. Akpaliapik was born in Baffin Island and lived with his family in Arctic Bay from 1967. He was sent to school in Iqaluit but never graduated. Instead, he got married and returned to Arctic Bay. His wife and two children were killed in a fire in 1980, after which Akpaliapik moved to Montreal and subsequently to Toronto."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Manasie Akpaliapik, n\u00e9 le 23 ao\u00fbt 1955, dans le nord de l\u2019\u00eele de Baffin, est un sculpteur canadien inuit."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/250974212"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Manasie_Akpaliapik?oldid=1033058610&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3183"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manasie_Akpaliapik",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Manasie_Akpaliapik"
+    }
+]

@@ -1,0 +1,267 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lisa Anthony"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lisa Anthony is an Associate Professor in the Department of Computer & Information Science & Engineering (CISE) at the University of Florida. She is also the director of the Intelligent Natural Interaction Technology Laboratory (INIT Lab). Her research interests revolve around developing natural user interfaces to allow for greater human-computer interaction, specifically for children as they develop their cognitive and physical abilities."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Lockheed_Martin_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Carnegie_Mellon_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Drexel_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Florida_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Maryland,_Baltimore_County_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "58842186"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1051259660"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Mellon_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lockheed_Martin_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Maryland,_Baltimore_County"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Carnegie_Mellon_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Drexel_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Florida_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Maryland,_Baltimore_County_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lockheed_Martin_Advanced_Technology_Laboratories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Acquire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drexel_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_user_interface"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://dl.acm.org/citation.cfm%3Fid=1839258%7Ctitle=Proceedings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://hal.inria.fr/hal-01610821%7Curl=https:/hal.inria.fr/hal-01610821/file/346948_1_En_1_Chapter.pdf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/63/2020"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q57719820"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sw.dbpedia.org/resource/Lisa_Anthony"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/5bvcv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_journal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Notability"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Google_scholar_id"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Lisa Anthony is an Associate Professor in the Department of Computer & Information Science & Engineering (CISE) at the University of Florida. She is also the director of the Intelligent Natural Interaction Technology Laboratory (INIT Lab). Her research interests revolve around developing natural user interfaces to allow for greater human-computer interaction, specifically for children as they develop their cognitive and physical abilities."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Lisa_Anthony?oldid=1051259660&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "5804"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lisa_Anthony",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Lisa_Anthony"
+    }
+]

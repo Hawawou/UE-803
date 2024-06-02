@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanInformationTheorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatCornellUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTuringAwardLaureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Laureate110249011"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Theorist110706812"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDukeUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAcademyOfArtsAndSciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAssociationForComputingMachinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFormalMethodsPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0625\u062f\u0645\u0648\u0646\u062f \u0643\u0644\u0627\u0631\u0643"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Edmund M. Clarke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Edmund M. Clarke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Edmund Clarke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Edmund Clarke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Edmund M. Clarke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Edmund M. Clarke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30a8\u30c9\u30e0\u30f3\u30c9\u30fb\u30af\u30e9\u30fc\u30af"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc5d0\ub4dc\uba3c\ub4dc M. \ud074\ub77c\ud06c"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Edmund M. Clarke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Edmund Clarke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041a\u043b\u0430\u0440\u043a, \u042d\u0434\u043c\u0443\u043d\u0434 \u041c\u0435\u043b\u044c\u0441\u043e\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0415\u0434\u043c\u0443\u043d\u0434 \u041a\u043b\u0430\u0440\u043a"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u7231\u5fb7\u8499\u00b7\u514b\u62c9\u514b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0625\u062f\u0645\u0648\u0646\u062f \u0643\u0644\u0627\u0631\u0643 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Edmund M. Clarke)\u200f \u0648\u0644\u062f \u0641\u064a 27 \u064a\u0648\u0644\u064a\u0648 1945 \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0623\u0633\u062a\u0627\u0630 \u0639\u0644\u0645 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0641\u064a \u062c\u0627\u0645\u0639\u0629 \u0643\u0627\u0631\u0646\u064a\u063a\u064a \u0645\u064a\u0644\u0648\u0646\u060c \u0641\u0627\u0632 \u0628\u062c\u0627\u0626\u0632\u0629 \u062a\u0648\u0631\u0646\u063a \u0641\u064a \u0639\u0627\u0645 2007."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Edmund Melson Clarke, Jr. (Newport News, 27 de juliol de 1945 \u2013 22 de desembre de 2020) fou un inform\u00e0tic i acad\u00e8mic notable per haver desenvolupat la verificaci\u00f3 de models, un m\u00e8tode per a verificar formalment dissenys de maquinari i programari. Ocup\u00e0 la c\u00e0tedra FORE Systems d'Inform\u00e0tica a la Universitat Carnegie Mellon. Clarke, juntament amb E. Allen Emerson i Joseph Sifakis, va rebre el Premi Turing de 2007, atorgat per l'ACM."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Edmund \u201eEd\u201c Melson Clarke, Jr. (* 27. Juli 1945 in Newport News, Virginia; \u2020 22. Dezember 2020 in Mt. Lebanon, Pennsylvania) war ein US-amerikanischer Informatiker. Zusammen mit Allen Emerson hat er Pionierarbeit auf dem Gebiet der Modellpr\u00fcfung geleistet und wurde daf\u00fcr 2007 mit dem Turing Award ausgezeichnet. Clarke war Informatik-Professor an der Carnegie Mellon University."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Edmund Melson Clarke, Jr. (July 27, 1945 \u2013 December 22, 2020) was an American computer scientist and academic noted for developing model checking, a method for formally verifying hardware and software designs. He was the FORE Systems Professor of Computer Science at Carnegie Mellon University. Clarke, along with E. Allen Emerson and Joseph Sifakis, received the 2007 ACM Turing Award."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Edmund Melson Clarke, Jr. (Newport News, 27 de julio de 1945 - 22 de diciembre de 2020) fue un inform\u00e1tico te\u00f3rico, profesor universitario, investigador, ingeniero y matem\u00e1tico estadounidense."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Edmund Melson Clarke, Jr. ( 27 juillet 1945 - 22 d\u00e9cembre 2020) est un informaticien universitaire connu pour ses contributions au model checking, une m\u00e9thode de v\u00e9rification de conceptions de logiciel et mat\u00e9riel. Il est titulaire de la chaire (en) en informatique \u00e0 l'universit\u00e9 Carnegie-Mellon. Clarke a \u00e9t\u00e9 l'un des trois r\u00e9cipiendaires, avec E. Allen Emerson et Joseph Sifakis, du prix Turing 2007, d\u00e9cern\u00e9 par l'Association for Computing Machinery (ACM)."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30a8\u30c9\u30e0\u30f3\u30c9\u30fb\u30e1\u30eb\u30bd\u30f3\u30fb\u30af\u30e9\u30fc\u30af\u30fb\u30b8\u30e5\u30cb\u30a2\uff08Edmund Melson Clarke, Jr.\u30011945\u5e747\u670827\u65e5 - 2020\u5e7412\u670822\u65e5\uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u8a08\u7b97\u6a5f\u79d1\u5b66\u8005\u3002\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\u3084\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306e\u8a2d\u8a08\u3092\u5f62\u5f0f\u7684\u306b\u691c\u8a3c\u3059\u308b\u30e2\u30c7\u30eb\u691c\u67fb\u306e\u958b\u767a\u3067\u77e5\u3089\u308c\u3066\u3044\u308b\u8a08\u7b97\u6a5f\u79d1\u5b66\u8005\u3002\u30ab\u30fc\u30cd\u30ae\u30fc\u30e1\u30ed\u30f3\u5927\u5b66\u8a08\u7b97\u6a5f\u79d1\u5b66\u79d1\u306e\u6559\u6388\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc5d0\ub4dc\uba3c\ub4dc \uba5c\uc2a8 \ud074\ub77c\ud06c 2\uc138(Edmund Melson Clarke, Jr., 1945\ub144 7\uc6d4 27\uc77c ~ 2020\ub144 12\uc6d4 22\uc77c)\ub294 \ubbf8\uad6d\uc758 \ucef4\ud4e8\ud130 \uacfc\ud559\uc790\uc774\ub2e4. 1967\ub144 \ubc84\uc9c0\ub2c8\uc544 \ub300\ud559\uad50 \uc218\ud559\uacfc \ud559\uc0ac, 1968\ub144 \ub4c0\ud06c \ub300\ud559\uad50 \uc218\ud559\uacfc \uc11d\uc0ac\ub97c \uac70\uccd0 1976\ub144 \ucf54\ub12c \ub300\ud559\uad50\uc5d0\uc11c \ucef4\ud4e8\ud130 \uacfc\ud559 \ubc15\uc0ac \ud559\uc704\ub97c \ubc1b\uc558\ub2e4. \uc878\uc5c5 \ud6c4 \ub4c0\ud06c \ub300\ud559\uad50\uc5d0\uc11c \uac15\uc758\ub97c \ud558\ub2e4\uac00 1978\ub144 \ud558\ubc84\ub4dc \ub300\ud559\uad50, 1982\ub144 \uce74\ub124\uae30 \uba5c\ub860 \ub300\ud559\uad50\ub85c \uc62e\uacbc\ub2e4. 1989\ub144 \uc815\uad50\uc218\uac00 \ub418\uc5c8\ub2e4. \ud074\ub77c\ud06c\ub294 \uc18c\ud504\ud2b8\uc6e8\uc5b4\u00b7\ud558\ub4dc\uc6e8\uc5b4 \uac80\uc99d\uacfc \uc790\ub3d9 \uc815\ub9ac \uc99d\uba85\uc744 \uc5f0\uad6c\ud588\ub2e4. 1981\ub144 \ubc15\uc0ac\uacfc\uc815 \uc9c0\ub3c4\ud559\uc0dd\uc778 \uacfc \ud568\uaed8 \uc720\ud55c \uc0c1\ud0dc \ubcd1\ud589 \uc2dc\uc2a4\ud15c\uc744 \uc704\ud55c \uc744 \uace0\uc548\ud558\uc600\ub2e4. \uc774 \uacf5\ub85c\ub85c \ub458\uc740 1999\ub144 ACM \uacfc 2007\ub144 \ud29c\ub9c1\uc0c1\uc744 \uacf5\ub3d9 \uc218\uc0c1\ud588\ub2e4. 2020\ub144 \ucf54\ub85c\ub09819\ub85c \ud22c\ubcd1\uc911 \uc0ac\ub9dd\ud588\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Edmund Melson Clarke, Jr. (Newport News (Virginia), 27 juli 1945 - Pennsylvania, 22 december 2020 ) was een Amerikaans informaticus. Samen met E. Allen Emerson en Joseph Sifakis heeft hij ontwikkeld, een techniek voor van hardware en software. Hiervoor ontvingen zij in 2007 de Turing Award. Clarke heeft ook bijdragen geleverd op het gebied van . Clarke was professor op het gebied van informatica aan de Carnegie Mellon University."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u042d\u0434\u043c\u0443\u043d\u0434 \u041c\u0435\u043b\u044c\u0441\u043e\u043d \u041a\u043b\u0430\u0440\u043a \u043c\u043b\u0430\u0434\u0448\u0438\u0439 (\u0430\u043d\u0433\u043b. Edmund Melson Clarke, Jr., 27 \u0438\u044e\u043b\u044f 1945, \u0421\u0428\u0410 \u2014 22 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2020) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0443\u0447\u0451\u043d\u044b\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0442\u0435\u043e\u0440\u0438\u0438 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c, \u043b\u0430\u0443\u0440\u0435\u0430\u0442 \u043f\u0440\u0435\u043c\u0438\u0438 \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0430. \u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u044f\u0432\u043b\u044f\u043b\u0441\u044f \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440\u043e\u043c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438 \u0432 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0435 \u041a\u0430\u0440\u043d\u0435\u0433\u0438 \u2014 \u041c\u0435\u043b\u043b\u043e\u043d."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Edmund Melson Clarke, Jr. (Newport News, 27 de julho de 1945 \u2013 22 de dezembro de 2020) foi um cientista da computa\u00e7\u00e3o estadunidense. Ao lado do Ernest Allen Emerson e do Joseph Sifakis, foi laureado com o Pr\u00eamio Turing de 2007, pelo desenvolvimento da verifica\u00e7\u00e3o de modelos. Morreu em 22 de dezembro de 2020, aos 75 anos, de COVID-19."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0415\u0434\u043c\u0443\u043d\u0434 \u041a\u043b\u0430\u0440\u043a (\u0430\u043d\u0433\u043b. Edmund Clarke; 27 \u043b\u0438\u043f\u043d\u044f 1945 \u2014 22 \u0433\u0440\u0443\u0434\u043d\u044f 2020) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043d\u0430\u0443\u043a\u043e\u0432\u0435\u0446\u044c \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u043d\u043e\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438 \u0442\u0430 \u0432\u0435\u0440\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u0457, \u043b\u0430\u0443\u0440\u0435\u0430\u0442 \u043f\u0440\u0435\u043c\u0456\u0457 \u0422\u044e\u0440\u0456\u043d\u0433\u0430.\u0412\u0456\u0434\u043e\u043c\u0438\u0439 \u0447\u0435\u0440\u0435\u0437 \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u043c\u0435\u0442\u043e\u0434\u0443 \u0432\u0435\u0440\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u0457 \u043f\u0456\u0434 \u043d\u0430\u0437\u0432\u043e\u044e \u043f\u0435\u0440\u0435\u0432\u0456\u0440\u043a\u0430 \u043c\u043e\u0434\u0435\u043b\u0435\u0439, \u0430 \u0442\u0430\u043a\u043e\u0436 \u0437\u0430\u0432\u0434\u044f\u043a\u0438 \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u0435\u043d\u043d\u044e \u043e\u0434\u043d\u0456\u0454\u0457 \u0437 \u043f\u043e\u0448\u0438\u0440\u0435\u043d\u0438\u0445 \u0442\u0435\u043c\u043f\u043e\u0440\u0430\u043b\u044c\u043d\u0438\u0445 \u043b\u043e\u0433\u0456\u043a \u2014 CTL."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u5c0f\u7231\u5fb7\u8499\u00b7\u6885\u723e\u68ee\u00b7\u514b\u62c9\u514b\uff08\u82f1\u8a9e\uff1aEdmund Melson Clarke, Jr.\uff0c1945\u5e747\u670827\u65e5 - 2020\u5e7412\u670822\u65e5\uff09\uff0c\u7f8e\u56fd\u8ba1\u7b97\u673a\u79d1\u5b66\u5bb6\u30022007\u5e74\uff0c\u4ed6\u4e0e\u827e\u4f26\u00b7\u7231\u9ed8\u751f\u548c\u7ea6\u745f\u592b\u00b7\u65af\u53d1\u57fa\u65af\u4e00\u8d77\u56e0\u5728\u53d6\u5f97\u7684\u6770\u51fa\u8d21\u732e\u800c\u83b7\u5f97\u56fe\u7075\u5956\u3002 \u7f8e\u56fd\u5339\u5179\u5821\u5f53\u5730\u65f6\u95f42020\u5e7412\u670822\u65e5\u4e0b\u5348\uff08\u5317\u4eac\u65f6\u95f412\u670823\u65e5\u4e0a\u5348\uff09\u56e0\u611f\u67d32019\u51a0\u72b6\u75c5\u6bd2\u53bb\u4e16\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://www.cs.cmu.edu/~emc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Edmund_Clarke_FLoC_2006.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Newport_News,_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Pittsburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Pittsburgh, Pennsylvania, U.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2020-12-22"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Newport News, Virginia, U.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1945-07-27"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2020_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Newport_News,_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:John_A._Paulson_School_of_Engineering_and_Applied_Sciences_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Cornell_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Duke_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Duke_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellow_Members_of_the_IEEE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Virginia_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Carnegie_Mellon_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Turing_Award_laureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmund_M._Clarke",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Virginia"
+    }
+]

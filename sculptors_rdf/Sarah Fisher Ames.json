@@ -1,0 +1,412 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sarah Fisher Ames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u042d\u0439\u043c\u0441, \u0421\u0430\u0440\u0430"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sarah Fisher Ames (1817\u20131901) was an American sculptor."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0421\u0430\u0440\u0430 \u042d\u0439\u043c\u0441 (\u0430\u043d\u0433\u043b. Sarah Ames, \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f Sarah Fisher Clampitt Ames; 1817\u20141901) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Sarah Fisher Ames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Sarah Fisher Ames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarah_Fisher_Ames-bust_of_Abraham_Lincoln.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarah_Fisher_Ames.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Lewes,_Delaware"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Washington,_D.C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Washington, D.C., USA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Lewes, Delaware, USA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Delaware"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Lewes,_Delaware"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1817_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1901_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "54019390"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1065330286"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Alexander_Ames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Delaware"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_State_House"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lewes,_Delaware"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington,_D.C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Williams_College_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Lincoln"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Civil_War"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Lewes,_Delaware"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1817_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1901_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Woodmere_Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World's_Columbian_Exposition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_women_artists_exhibited_at_the_1893_World's_Columbian_Exposition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Woman's_Building_(Chicago)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._Capitol_Building"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Sarah_Fisher_Ames-bust_of_Abraham_Lincoln.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/65219802"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Sarah_Fisher_Ames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/134264371"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q29898604"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://mk.dbpedia.org/resource/\u0421\u0430\u0440\u0430_\u0424\u0438\u0448\u0435\u0440_\u0410\u043c\u0435\u0441"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u042d\u0439\u043c\u0441,_\u0421\u0430\u0440\u0430"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2mnic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category-inline"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_year_and_age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarah_Fisher_Ames.jpg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Sarah Fisher Clampitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Joseph Alexander Ames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sarah Fisher Ames (1817\u20131901) was an American sculptor."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0421\u0430\u0440\u0430 \u042d\u0439\u043c\u0441 (\u0430\u043d\u0433\u043b. Sarah Ames, \u043f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f Sarah Fisher Clampitt Ames; 1817\u20141901) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/65219802"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Sarah_Fisher_Ames?oldid=1065330286&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4218"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Sarah Fisher Clampitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://dbpedia.org/ontology/spouse",
+        "object": "http://dbpedia.org/resource/Joseph_Alexander_Ames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sarah_Fisher_Ames",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Sarah_Fisher_Ames"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatArtificialIntelligenceResearchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ResearchWorker110523076"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David Blei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David Blei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David Blei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ub370\uc774\ube44\ub4dc \ube14\ub77c\uc774"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Meir Blei is a professor in the Statistics and Computer Science departments at Columbia University. Prior to fall 2014 he was an associate professor in the Department of Computer Science at Princeton University. His work is primarily in machine learning."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Blei est un scientifique am\u00e9ricain en informatique. Il enseigne comme associate professor au d\u00e9partement d'informatique de l'Universit\u00e9 de Princeton (\u00c9tats-Unis). Son travail de recherche concerne principalement le domaine de l'apprentissage automatique, dont les mod\u00e8les de sujet (topic models), et il fut l'un des d\u00e9veloppeurs du mod\u00e8le d'allocation de Dirichlet latente."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\ub370\uc774\ube44\ub4dc \ube14\ub77c\uc774(David Blei)\ub294 \uceec\ub7fc\ube44\uc544 \ub300\ud559\uad50\uc758 \ucef4\ud4e8\ud130 \uacfc\ud559\uc790\uc774\ub2e4. \uadf8\ub294 \ud1a0\ud53d \ubaa8\ub378\uc758 \uc77c\uc885\uc778 \uc7a0\uc7ac \ub514\ub9ac\ud074\ub808 \ud560\ub2f9\uc744 \ub9c8\uc774\ud074 \uc5b4\uc708 \uc870\ub358, \uc564\ub4dc\ub958 \uc751\uacfc \uc5f0\uad6c\ud588\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Meir Blei ist ein US-amerikanischer Informatiker, der sich mit Maschinenlernen und Bayes-Statistik befasst. Blei studierte an der Brown University mit dem Bachelor-Abschluss 1997 und wurde 2004 bei Michael I. Jordan an der University of California, Berkeley, in Informatik promoviert (Probabilistic models of texts and images). Danach war er bis 2006 Post-Doktorand bei an der Carnegie Mellon University (Abteilung Maschinenlernen). 2006 wurde er Assistant Professor und 2011 Associate Professor an der Princeton University und 2014 Professor an der Columbia University."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "David M. Blei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://www.cs.columbia.edu/~blei/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "David M. Blei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_ACM_Prize_in_Computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brown_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Berkeley_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_School_of_Engineering_and_Applied_Science_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artificial_intelligence_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "30738275"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1091013019"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_ACM_Prize_in_Computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Ng"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Machine_learning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brown_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Berkeley_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brown_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_School_of_Engineering_and_Applied_Science_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/H-index"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latent_Dirichlet_allocation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PECASE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artificial_intelligence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artificial_intelligence_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_I._Jordan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Topic_model"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://awards.acm.org/award_winners/blei_3974465.cfm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.cs.columbia.edu/~blei/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://oskicat.berkeley.edu/record=b15238730~S1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.cs.columbia.edu/~blei/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20101230164018/http:/www.cs.princeton.edu/~blei/publications.html"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20161215141606/http:/www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0d2617v"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/86/1910"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://orcid.org/0000-0002-5588-4611"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q3017519"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/David_Blei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/David_Blei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ko.dbpedia.org/resource/\ub370\uc774\ube44\ub4dc_\ube14\ub77c\uc774"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://mg.dbpedia.org/resource/David_Blei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2o1c1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/214314631"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/David_Blei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/property/thesisTitle",
+        "object": "Probabilistic Models of Text and Images"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/property/thesisUrl",
+        "object": "http://oskicat.berkeley.edu/record=b15238730~S1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/property/thesisYear",
+        "object": "2004"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/property/workInstitution",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_Blei",
+        "predicate": "http://dbpedia.org/property/workInstitution",
+        "object": "Columbia University"
+    }
+]

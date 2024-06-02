@@ -1,0 +1,352 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerProgrammers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatOpenSourcePeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSolarisPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSunMicrosystemsPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFreeSoftwareProgrammers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jeff Bonwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jeff Bonwick invented and led development of the ZFS file system, which was used in Oracle Corporation's ZFS storage products as well as startups including Nexenta, Delphix, Joyent, and Datto, Inc. Bonwick is also the inventor of slab allocation, which is used in many operating systems including MacOS and Linux, and the LZJB compression algorithm. His roles included Sun Fellow, Sun Storage CTO, and Oracle vice president."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Free_software_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Open_source_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Solaris_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sun_Microsystems_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "28996622"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1032872886"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dell_Technologies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joyent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mike_Shapiro_(programmer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LZJB"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linux"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MacOS"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ZFS"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Free_software_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Open_source_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Solaris_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/EMC_Corporation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sun_Microsystems_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oracle_Corporation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slab_allocation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.08yq81"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www4.wiwiss.fu-berlin.de/dblp/resource/person/535894"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Jeff_Bonwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/07/6516"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6173377"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sw.dbpedia.org/resource/Jeff_Bonwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4oBuS"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jeff Bonwick invented and led development of the ZFS file system, which was used in Oracle Corporation's ZFS storage products as well as startups including Nexenta, Delphix, Joyent, and Datto, Inc. Bonwick is also the inventor of slab allocation, which is used in many operating systems including MacOS and Linux, and the LZJB compression algorithm. His roles included Sun Fellow, Sun Storage CTO, and Oracle vice president."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Engineer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jeff_Bonwick?oldid=1032872886&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4759"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jeff_Bonwick",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jeff_Bonwick"
+    }
+]

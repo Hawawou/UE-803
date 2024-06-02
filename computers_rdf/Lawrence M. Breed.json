@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatStanfordUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Employee110053808"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Laureate110249011"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGraceMurrayHopperAwardLaureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIBMEmployees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lawrence M. Breed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lawrence Moser \"Larry\" Breed (July 17, 1940 - May 16, 2021) was a computer scientist, artist and inventor, best known for his involvement in the programming language APL."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Lawrence (Larry) Moser Breed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Lawrence  Moser Breed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Stanford,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Palo_Alto,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Palo Alto, California, US"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Stanford, California, United States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1940-07-17"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2021_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Grace_Murray_Hopper_Award_laureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1940_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Stanford_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:APL_implementers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:IBM_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Stanford,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2777678"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1095037633"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pseudonym"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Moore_(computer_scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_Time_Sharing_Corporation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2021_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley_Software_Distribution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Grace_Murray_Hopper_Award_laureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_email"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inventor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compiler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Email"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1940_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stanford_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Burning_Man"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:APL_implementers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/APL_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/FORTRAN"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Floating-point_arithmetic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Niklaus_Wirth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palo_Alto,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_Murray_Hopper_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Radix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Organization_for_Standardization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:IBM_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Stanford,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Brenner_(mathematician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Gilmore_(activist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenneth_E._Iverson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Larry_Tesler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Rock_Beacon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graywater"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IBM"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IBM_1130"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IBM_System/360"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yorktown_Heights,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_J._Watson_Research_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IBM_7090"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_H._Lathwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lawrence_M._Breed",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philip_S._Abrams"
+    }
+]

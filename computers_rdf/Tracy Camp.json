@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWomenComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWomenInTechnology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Female109619168"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Woman110787470"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAssociationForComputingMachinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062a\u0631\u0627\u0633\u064a \u0643\u0627\u0645\u0628"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tracy Camp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tracy Camp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062a\u0631\u0627\u064a\u0633\u064a \u0643\u064a \u0643\u0627\u0645\u0628 : \u0639\u0627\u0644\u0645\u0629 \u062d\u0627\u0633\u0648\u0628 \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0645\u0634\u0647\u0648\u0631\u0629 \u0644\u0628\u062d\u062b\u0647\u0627 \u0641\u064a \u0627\u0644\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u0644\u0627\u0633\u0644\u0643\u064a\u0629. \u0648\u0623\u064a\u0636\u0627\u064b \u0645\u0634\u0647\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0647\u0645\u062a\u0647\u0627 \u0641\u064a \u062a\u0648\u0633\u064a\u0639 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064a \u0627\u0644\u062d\u0648\u0633\u0628\u0629.\u0648\u0647\u064a \u062d\u0627\u0644\u064a\u0627\u064b \u0627\u0644\u0631\u0626\u064a\u0633\u0629 \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0641\u064a \u00ab\u0644\u062c\u0646\u0629 \u0623\u0648\u0636\u0627\u0639 \u0627\u0644\u0645\u0631\u0623\u0629 \u0641\u064a \u0628\u062d\u0648\u062b \u0627\u0644\u062d\u0648\u0633\u0628\u0629\u00bb (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: CRA-W)\u200f (2011-2014)\u060c \u0648\u0642\u062f \u0643\u0627\u0646\u062a \u0627\u0644\u0631\u0626\u064a\u0633\u0629 \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0641\u064a ACM-W (1998-2002.)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Tracy Camp es una Inform\u00e1tico te\u00f3rico estadounidense conocida por su investigaci\u00f3n sobre Redes Inal\u00e1mbricas. Tambi\u00e9n se destaca por su liderazgo en la ampliaci\u00f3n de la participaci\u00f3n en inform\u00e1tica. Fue copresidenta de CRA-W de 2011 a 2014 y copresidenta de ACM-W de 1998 a 2002."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Tracy Kay Camp (born September 27, 1964) is an American computer scientist noted for her research on wireless networking. She is also noted for her leadership in broadening participation in computing. She was the co-chair of CRA-W from 2011 to 2014 and she wasthe co-chair of ACM-W from 1998 to 2002."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Tracy Kay Camp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://inside.mines.edu/~tcamp/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Tracy Kay Camp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/TracyCamp.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Detroit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Detroit, Michigan, U.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1964-09-27"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Colorado_School_of_Mines_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1964_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_academics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Detroit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "38061502"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1105538740"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Colorado_School_of_Mines_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Alabama"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colorado_School_of_Mines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electrical_Engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1964_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_academics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ACM_Fellow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_College_of_William_&_Mary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ACM-W"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Detroit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kalamazoo_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Electrical_and_Electronics_Engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michigan_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_College_of_William_and_Mary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wireless_networking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CRA-W"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://inside.mines.edu/~tcamp/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0pcgqt7"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Tracy_Camp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/91/2315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://orcid.org/0000-0002-8570-7966"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4815266"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u062a\u0631\u0627\u0633\u064a_\u0643\u0627\u0645\u0628"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Camp",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Tracy_Camp"
+    }
+]

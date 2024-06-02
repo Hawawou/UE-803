@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Andrea Aleksi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "47204685"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "670847799"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Alessi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Andrea_Alessi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:R_from_move"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Andrea_Aleksi?oldid=670847799&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "43"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Andrea_Aleksi"
+    }
+]

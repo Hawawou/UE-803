@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerProgrammers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerProgrammers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWomen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWomenComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWomenInTechnology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatNorthwestMissouriStateUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromGentryCounty,Missouri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMissouri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Female109619168"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Woman110787470"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleInInformationTechnology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062c\u064a\u0646 \u0628\u0627\u0631\u062a\u064a\u0643"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Jennings Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Jennings Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30b8\u30fc\u30f3\u30fb\u30d0\u30fc\u30c6\u30a3\u30af"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc9c4 \ubc14\ud2f1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u0430\u0440\u0442\u0438\u043a, \u0414\u0436\u0438\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0414\u0436\u0438\u043d \u0414\u0436\u0435\u043d\u043d\u0456\u043d\u0433\u0437 \u0411\u0430\u0440\u0442\u0456\u043a"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean Jennings Bartik (27. prosince 1924 , Missouri \u2013 23. b\u0159ezna 2011 Poughkeepsie, New York) byla jednou z p\u016fvodn\u00edch program\u00e1torek po\u010d\u00edta\u010de ENIAC. Studovala matematiku a pot\u00e9 za\u010dala pracovat na Pensylv\u00e1nsk\u00e9 univerzit\u011b, kde manu\u00e1ln\u011b po\u010d\u00edtala balistick\u00e9 trajektorie, pozd\u011bji k t\u011bmto v\u00fdpo\u010dt\u016fm pou\u017e\u00edvala ENIAC. Spolu se sv\u00fdmi kolegyn\u011bmi b\u011bhem pr\u00e1ce na ENIACu, prvn\u00edm po\u010d\u00edta\u010di sv\u00e9ho druhu, vyvinula a stanovila z\u00e1klady programov\u00e1n\u00ed. Pozd\u011bji pracovala nap\u0159\u00edklad na a UNIVACu a byla zam\u011bstn\u00e1na v r\u016fzn\u00fdch technick\u00fdch spole\u010dnostech jako in\u017een\u00fdrka, mana\u017eerka nebo program\u00e1torka."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean Bartik, geboren als Elisabeth \u201eBetty\u201c Jean Jennings (* 27. Dezember 1924 bei , Missouri; \u2020 23. M\u00e4rz 2011 in New York City) war eine der sechs US-amerikanischen Programmiererinnen des Electronic Numerical Integrator and Computer (ENIAC), dem ersten elektronischen Universalrechner."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean Bartik (n\u00e9e Betty Jean Jennings le 27 d\u00e9cembre 1924 - 23 mars 2011) est une informaticienne am\u00e9ricaine, membre du groupe des 6 programmeuses de l'ENIAC."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30b8\u30fc\u30f3\u30fb\u30b8\u30a7\u30cb\u30f3\u30b0\u30b9\u30fb\u30d0\u30fc\u30c6\u30a3\u30af\uff08Jean Jennings Bartik\u30011924\u5e7412\u670827\u65e5 - 2011\u5e743\u670823\u65e5\uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u6280\u8853\u8005\u3067\u3042\u308a\u3001ENIAC\u306e\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u30d7\u30ed\u30b0\u30e9\u30de\u306e1\u4eba\u3067\u3042\u308b\u3002 \u5927\u5b66\u3067\u6570\u5b66\u3092\u5b66\u3093\u3060\u5f8c\u3001\u30da\u30f3\u30b7\u30eb\u30d9\u30cb\u30a2\u5927\u5b66\u3067\u8a08\u7b97\u624b\u3068\u3057\u3066\u50cd\u304d\u59cb\u3081\u305f\u3002\u5f53\u521d\u306f\u5f3e\u9053\u8ecc\u9053\u3092\u624b\u52d5\u3067\u8a08\u7b97\u3057\u3001\u5f8c\u306bENIAC\u3092\u4f7f\u7528\u3057\u3066\u8a08\u7b97\u3057\u305f\u3002ENIAC\u304c\u3053\u306e\u7a2e\u306e\u6700\u521d\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3060\u3063\u305f\u305f\u3081\u3001\u5f7c\u5973\u3068\u305d\u306e\u540c\u50da\u306f\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u306e\u57fa\u790e\u306e\u591a\u304f\u3092\u958b\u767a\u3057\u4f53\u7cfb\u5316\u3057\u305f\u3002 ENIAC\u3067\u306e\u4ed5\u4e8b\u306e\u5f8c\u306fBINAC\u3084UNIVAC\u3067\u4ed5\u4e8b\u3092\u3057\u3001\u30e9\u30a4\u30bf\u30fc\u3001\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u3001\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u3068\u3057\u3066\u3055\u307e\u3056\u307e\u306a\u6280\u8853\u7cfb\u306e\u4f1a\u793e\u306b\u52e4\u52d9\u3057\u305f\u3002\u5f8c\u5e74\u306f\u4e0d\u52d5\u7523\u696d\u8005\u3068\u306a\u308a\u30012011\u5e74\u306b\u9b31\u8840\u6027\u5fc3\u4e0d\u5168\u306e\u5408\u4f75\u75c7\u3067\u4ea1\u304f\u306a\u3063\u305f\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc9c4 \uc81c\ub2dd\uc2a4 \ubc14\ud2f1(\uc601\uc5b4: Jean Jennings Bartik, 1924\ub144 12\uc6d4 27\uc77c - 2011\ub144 3\uc6d4 23\uc77c)\uc740 \uc5d0\ub2c8\uc545 \ucef4\ud4e8\ud130\uc758 \ud504\ub85c\uadf8\ub798\uba38 \uc911 \ud55c \uba85\uc774\ub2e4. \uadf8\ub294 \uc218\ud559\uc744 \uacf5\ubd80\ud558\uace0 \ud39c\uc2e4\ubca0\uc774\ub2c8\uc544 \ub300\ud559\uad50\uc5d0\uc11c \uc77c\ud588\uc73c\uba70, \ud0c4\ub3c4 \uada4\ub3c4\ub97c \uc9c1\uc811 \uacc4\uc0b0\ud558\ub2e4\uac00, \uc5d0\ub2c8\uc545\uc744 \uc0ac\uc6a9\ud558\uc5ec \uacc4\uc0b0\ud558\uc600\ub2e4. \uadf8\uc640 \ub3d9\ub8cc\ub4e4\uc740 \uc5d0\ub2c8\uc545\uc744 \uc0ac\uc6a9\ud558\uc5ec \ud504\ub85c\uadf8\ub798\ubc0d\uc758 \uc5ec\ub7ec \uae30\ucd08\ub4e4\uc744 \uac1c\ubc1c\ud558\uc600\ub2e4. \uc5d0\ub2c8\uc545\uc744 \ub2e4\ub8ec \ud6c4, \uadf8\ub294 \ubc14\uc774\ub099(\uc601\uc5b4: BINAC)\uacfc \uc720\ub2c8\ubc15(\uc601\uc5b4: UNIVAC)\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc77c\ud588\ub2e4. \uadf8\ub9ac\uace0 \uc5ec\ub7ec \uae30\uc220 \ud68c\uc0ac\uc5d0\uc11c \ub9e4\ub2c8\uc800, \uc5d4\uc9c0\ub2c8\uc5b4, \ud504\ub85c\uadf8\ub798\uba38\ub85c \uc77c\ud558\ub2e4\uac00, \ub098\uc911\uc5d0\ub294 \ubd80\ub3d9\uc0b0 \uc911\uac1c\uc778\uc73c\ub85c\ub3c4 \uc77c\ud588\ub2e4. \uadf8\ub294 2011\ub144\uc5d0 \uc6b8\ud608\uc131 \uc2ec\ubd80\uc804\uc758 \ud569\ubcd1\uc99d\uc73c\ub85c \uc0ac\ub9dd\ud588\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean Bartik was een Amerikaans wiskundige. Ze was een van de zes oorspronkelijke programmeurs van de ENIAC, de eerste universele elektronische digitale computer."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean Bartik (ur. 27 grudnia 1924 w Hrabstwie Gentry, Missouri, USA, zm. 23 marca 2011) \u2013 ameryka\u0144ska matematyczka, jedna z sze\u015bciu programistek komputera ENIAC."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean Bartik, nascida Betty Jean Jennings (27 de dezembro de 1924 \u2013 23 de mar\u00e7o de 2011) foi uma pioneira da programa\u00e7\u00e3o de computadores e uma das seis programadoras originais do computador ENIAC."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u0436\u0438\u043d \u0414\u0436\u0435\u043d\u043d\u0438\u043d\u0433\u0437 \u0411\u0430\u0440\u0442\u0438\u043a (\u0430\u043d\u0433\u043b. Jean Jennings Bartik; 27 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 1924 \u0433\u043e\u0434\u0430 \u2014 23 \u043c\u0430\u0440\u0442\u0430 2011 \u0433\u043e\u0434\u0430) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u043e\u0434\u043d\u0430 \u0438\u0437 \u043f\u0435\u0440\u0432\u044b\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u043e\u0432 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430 ENIAC. \u0412\u043c\u0435\u0441\u0442\u0435 \u0441 \u043a\u043e\u043b\u043b\u0435\u0433\u0430\u043c\u0438 \u0438\u0437 \u041f\u0435\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0430 \u0438 \u043e\u043f\u0438\u0441\u0430\u043b\u0430 \u0440\u044f\u0434 \u0444\u0443\u043d\u0434\u0430\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u043d\u044f\u0442\u0438\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f. \u0412\u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0430 \u043d\u0430 BINAC \u0438 UNIVAC, \u0432 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u0445 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u0438\u0441\u0430\u0442\u0435\u043b\u0435\u043c, \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u043e\u043c, \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u043e\u043c \u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u043a\u043e\u0439. \u0412 \u043a\u043e\u043d\u0446\u0435 \u0436\u0438\u0437\u043d\u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0430 \u0430\u0433\u0435\u043d\u0442\u043e\u043c \u043f\u043e \u043d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u0438."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u0436\u0438\u043d \u0414\u0436\u0435\u043d\u043d\u0456\u043d\u0433\u0437 \u0411\u0430\u0440\u0442\u0456\u043a (\u0430\u043d\u0433\u043b. Jean Jennings Bartik; 27 \u0433\u0440\u0443\u0434\u043d\u044f 1924, \u0414\u0436\u0435\u043d\u0442\u0440\u0456 \u2014 23 \u0431\u0435\u0440\u0435\u0437\u043d\u044f 2011, \u041f\u043e\u0443\u043a\u0456\u043f\u0437\u0456) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438\u043d\u044f, \u043e\u0434\u043d\u0430 \u0437 \u043f\u0435\u0440\u0448\u0438\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0456\u0441\u0442\u043e\u043a \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u0430 \u00abENIAC\u00bb, \u043f\u0456\u043e\u043d\u0435\u0440\u043a\u0430 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0456\u043d\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0446\u0438\u0444\u0440\u043e\u0432\u0438\u0445 \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u0456\u0432. \u0420\u0430\u0437\u043e\u043c \u0437 \u043a\u043e\u043b\u0435\u0433\u0430\u043c\u0438 \u0437 \u041f\u0435\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0443 \u0440\u043e\u0437\u0440\u043e\u0431\u0438\u043b\u0430 \u0439 \u043e\u043f\u0438\u0441\u0430\u043b\u0430 \u043d\u0438\u0437\u043a\u0443 \u0444\u0443\u043d\u0434\u0430\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u0438\u0445 \u043f\u043e\u043d\u044f\u0442\u044c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f. \u0417\u0433\u043e\u0434\u043e\u043c \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u043b\u0430 \u043d\u0430 \u00abBINAC\u00bb \u0442\u0430 \u00abUNIVAC\u00bb, \u0443 \u0440\u0456\u0437\u043d\u043e\u043c\u0430\u043d\u0456\u0442\u043d\u0438\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u0438\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u044f\u0445 \u0442\u0435\u0445\u043d\u0456\u0447\u043d\u043e\u044e \u0430\u0432\u0442\u043e\u0440\u043a\u043e\u044e, \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u043a\u043e\u044e, \u0456\u043d\u0436\u0435\u043d\u0435\u0440\u043a\u043e\u044e \u0442\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0456\u0441\u0442\u043a\u043e\u044e. \u041d\u0430\u043f\u0440\u0438\u043a\u0456\u043d\u0446\u0456 \u0436\u0438\u0442\u0442\u044f \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u043b\u0430 \u0430\u0433\u0435\u043d\u0442\u043a\u043e\u044e \u0437 \u043d\u0435\u0440\u0443\u0445\u043e\u043c\u043e\u0441\u0442\u0456."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062c\u064a\u0646 \u0628\u0627\u0631\u062a\u064a\u0643 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Jean Bartik)\u200f (27 \u062f\u064a\u0633\u0645\u0628\u0631 \u0639\u0627\u0645 1924- 23 \u0645\u0627\u0631\u0633 \u0639\u0627\u0645 2011) \u0648\u0647\u064a \u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0627\u0644\u0645\u0628\u0631\u0645\u062c\u064a\u0646 \u0627\u0644\u0627\u0635\u0644\u064a\u064a\u0646 \u0644\u062d\u0627\u0633\u0648\u0628 \u0625\u064a\u0646\u064a\u0627\u0643. \u062f\u0631\u0633\u062a \u0628\u0627\u0631\u062a\u064a\u0643 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0641\u064a \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u062b\u0645 \u0628\u062f\u0623\u062a \u0627\u0644\u0639\u0645\u0644 \u0641\u064a \u062c\u0627\u0645\u0639\u0629 \u0628\u0646\u0633\u0644\u0641\u0627\u0646\u064a\u0627\u060c \u062d\u064a\u062b \u0642\u0627\u0645\u062a \u0623\u0648\u0644\u0627\u064b \u0628\u062d\u0633\u0627\u0628 \u0645\u0633\u0627\u0631\u0627\u062a \u0627\u0644\u0645\u0642\u0630\u0648\u0641\u0627\u062a \u0628\u0634\u0643\u0644\u064d \u064a\u062f\u0648\u064a\u0651 \u062b\u0645 \u0627\u0633\u062a\u062e\u062f\u0645\u062a \u0643\u0648\u0645\u0628\u064a\u0648\u062a\u0631 \u0625\u064a\u0646\u064a\u0627\u0643 \u0644\u0644\u0642\u064a\u0627\u0645 \u0628\u0630\u0644\u0643. \u0642\u0627\u0645\u062a \u0628\u0627\u0631\u062a\u064a\u0643 \u0628\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0645\u0639 \u0632\u0645\u0644\u0627\u0626\u0647\u0627 \u0628\u062a\u0637\u0648\u064a\u0631 \u0648\u062a\u062f\u0648\u064a\u0646 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0623\u0633\u0627\u0633\u0651\u064a\u0627\u062a \u0627\u0644\u0628\u0631\u0645\u062c\u0629 \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u0639\u0645\u0644 \u0639\u0644\u0649 \u062d\u0627\u0633\u0648\u0628 \u0625\u064a\u0646\u064a\u0627\u0643\u060c \u0644\u0623\u0646\u0651\u0647 \u0643\u0627\u0646 \u0627\u0644\u0643\u0648\u0645\u0628\u064a\u0648\u062a\u0631 \u0627\u0644\u0623\u0648\u0644 \u0645\u0646 \u0646\u0648\u0639\u0647."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Betty Jean Jennings Bartik (27 de desembre de 1924 - 23 de mar\u00e7 de 2011) va ser una de les programadores originals de l'ordinador ENIAC. Nascuda a Gentry, Missouri, va estudiar al Northwest Missouri State Teachers College, on va obtenir un t\u00edtol en matem\u00e0tiques. L'any 1945 va ser contractada per la Universitat de Pennsilv\u00e0nia per treballar a les ordres de l'ex\u00e8rcit. Quan va comen\u00e7ar el treball sobre la m\u00e0quina ENIAC pel c\u00e0lcul de traject\u00f2ries bal\u00edstiques, va ser seleccionada com una de les seves primeres programadores. Despr\u00e9s Bartik va ser triada per formar part de l'equip de treball que va prendre la tasca de convertir l'ENIAC en un ordinador amb programes emmagatzemats. En la seva primera implementaci\u00f3, l'ENIAC es programava mitjan\u00e7ant la combinaci\u00f3 de connexions i cables. Despr\u00e9s de t"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean Bartik (n\u00e9e Betty Jean Jennings; December 27, 1924 \u2013 March 23, 2011) was one of the original six programmers for the ENIAC computer. Bartik studied mathematics in school then began work at the University of Pennsylvania, first manually calculating ballistics trajectories and then using ENIAC to do so. The other five ENIAC programmers were Betty Holberton, Ruth Teitelbaum, Kathleen Antonelli, Marlyn Meltzer, and Frances Spence. Bartik and her colleagues developed and codified many of the fundamentals of programming while working on the ENIAC, since it was the first computer of its kind."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Betty Jean Jennings Bartik (1924ko abenduaren 27a - 2011ko martxoaren 23a) ENIAC konputagailuaren jatorrizko programatzaileetako bat izan zen. Missouriko Gentryn jaioa, Northwest Missouri State Teachers Collegen ikasi zuen, non matematikako titulu bat lortu zuen. 1945ean Pennsylvaniako Unibertsitateak kontratatu zuen armadaren agindupean lan egiteko. Ibilbide balistikoak kalkulatzeko ENIAC makinari buruzko lana hasi zuenean, bere lehen programatzaileetako bat bezala aukeratua izan zen. Gero Bartik aukeratua izan zen ENIAC programa biltegiratuak zituen ordenagailu bat bihurtzeko zeregina hartu zuen lan taldeko kide izateko..1 Lehen ezarpenean, ENIAC konexio eta kableen konbinazioaren bidez programatzen zen. ENIAC enpresarekin lan egin ondoren, BINAC eta UNIVAC I.arekin lanean jarraitu zuen."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Betty Jean Jennings Bartik (27 de diciembre de 1924 - 23 de marzo de 2011) fue una de las programadoras originales de la computadora ENIAC (Electronic Numerical Integrator And Computer). Nacida en Gentry, Misuri, estudi\u00f3 en el Northwest Missouri State Teachers College, donde obtuvo un t\u00edtulo en matem\u00e1ticas. En 1945 fue contratada por la Universidad de Pensilvania para trabajar para el ej\u00e9rcito. Cuando comenz\u00f3 el trabajo sobre la m\u00e1quina ENIAC para c\u00e1lculo de trayectorias bal\u00edsticas, fue seleccionada como una de sus primeras programadoras. Luego Bartik fue elegida para formar parte del equipo de trabajo que tom\u00f3 la tarea de convertir la ENIAC en una computadora con programas almacenados.\u200b En su primera implementaci\u00f3n, la ENIAC se programaba mediante la combinaci\u00f3n de conexiones y cables. Lu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean Jennings Bartik (27 dicembre 1924 \u2013 23 marzo 2011) \u00e8 stata una programmatrice statunitense.\u00c8 stata una delle prime programmatrici per lo sviluppo del computer ENIAC. Ha studiato matematica a scuola, poi ha iniziato a lavorare presso l'Universit\u00e0 della Pennsylvania, inizialmente nel calcolo manuale delle traiettorie balistiche, e ha utilizzato proprio la potenza di calcolo di ENIAC per questa attivit\u00e0. Con i colleghi ha sviluppato e codificato molti dei fondamenti della programmazione mentre lavorava all'ENIAC, poich\u00e9 era il primo computer che consentiva questo tipo di attivit\u00e0. Successivamente all'ENIAC, Jean Bartik ha continuato a lavorare sui progetti e , e ha operato negli anni successivi presso diverse aziende tecniche come scrittore, manager, ingegnere e programmatrice. Ha trasc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Elisabeth Jean Jennings Bartik, f\u00f6dd Jennings, f\u00f6re omkring 1967 k\u00e4nd som Elisabeth Jean (Betty Jean) Jennings Bartik, f\u00f6dd 27 december 1924 i Gentry County i Missouri, d\u00f6d 23 mars 2011 i Poughkeepsie i New York, var en amerikansk programmerare och en av de ursprungliga programmerarna av ENIAC-datorn. Hon studerade matematik p\u00e5 grundniv\u00e5 och fick tj\u00e4nst p\u00e5 University of Pennsylvania, d\u00e4r hon f\u00f6rst manuellt ber\u00e4knade ballistiska banor och senare anv\u00e4nde ENIAC f\u00f6r att g\u00f6ra det. Hon och hennes kollegor utvecklade och kodifierade m\u00e5nga av grunderna i programmering medan de byggde ENIAC eftersom det var den f\u00f6rsta datorn av sitt slag. Efter sitt arbete med ENIAC fortsatte Bartik att arbeta p\u00e5 och UNIVAC samt p\u00e5 flera olika tekniska f\u00f6retag som skribent, chef, ingenj\u00f6r och programmerare. Under "
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2002/07/owl#differentFrom",
+        "object": "http://dbpedia.org/resource/Elizabeth_Jennings_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://www.w3.org/2002/07/owl#differentFrom",
+        "object": "http://dbpedia.org/resource/Elizabeth_Joan_Jennings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jean Bartik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Two_women_operating_ENIAC_(full_resolution).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean_Bartik.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Alanthus_Grove,_Missouri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Human_computers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Mathematicians_from_Missouri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1924_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2011_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Missouri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_real_estate_brokers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Pennsylvania_School_of_Arts_and_Sciences_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Northwest_Missouri_State_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Gentry_County,_Missouri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "5178038"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123877606"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poughkeepsie,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punched_card"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minicomputer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/One-room_school"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Holberton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Human_computers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mathematicians_from_Missouri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_von_Neumann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_pioneers_in_computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Bartik",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auerbach_Publishers"
+    }
+]

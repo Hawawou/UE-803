@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatCornellUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTheoreticalComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatScienceBloggers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Blogger109860415"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0633\u0643\u0648\u062a \u0622\u0631\u0646\u0633\u0648\u0646"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Scott Aaronson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Scott Aaronson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Scott Aaronson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Scott Aaronson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u0430\u0440\u043e\u043d\u0441\u043e\u043d, \u0421\u043a\u043e\u0442\u0442"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0633\u0643\u0648\u062a \u0622\u0631\u0646\u0633\u0648\u0646 \u0647\u0648 \u0639\u0627\u0644\u0645 \u0623\u0645\u0631\u064a\u0643\u064a \u0641\u064a \u0646\u0638\u0631\u064a\u0627\u062a \u0639\u0644\u0648\u0645 \u0627\u0644\u062d\u0627\u0633\u0628 (1981 -). \u0645\u0648\u0636\u0648\u0639 \u0628\u062d\u062b\u0647 \u0647\u0648 \u0641\u064a \u0627\u0644\u062d\u0648\u0633\u0628\u0629 \u0627\u0644\u0645\u0639\u0642\u062f\u0629 \u0648\u0627\u0644\u062d\u0648\u0633\u0628\u0629 \u0627\u0644\u0643\u0645\u064a\u0629. \u0648\u0647\u0648 \u0623\u0633\u062a\u0627\u0630 \u0633\u0627\u0628\u0642 \u0641\u064a \u062c\u0627\u0645\u0639\u0629 \u0627\u0645 \u0623\u064a \u062a\u064a\u060c \u0648\u0627\u0644\u0622\u0646 \u0647\u0648 \u0623\u0633\u062a\u0627\u0630 \u0641\u064a \u062c\u0627\u0645\u0639\u0629 \u062a\u0643\u0633\u0627\u0633 \u0628\u0623\u0645\u0631\u064a\u0643\u0627\u060c \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0643\u0648\u0646\u0647 \u0645\u0637\u0648\u0631 \u0645\u0648\u0627\u0642\u0639 \u0645\u062d\u062a\u0631\u0641\u060c \u0648\u0642\u062f \u0642\u0627\u0645 \u0628\u062a\u0637\u0648\u064a\u0631 \u0639\u062f\u0629 \u0645\u0648\u0627\u0642\u0639 \u0639\u0627\u0644\u0645\u064a\u0629 \u0645\u062b\u0644 \u062a\u0635\u0645\u064a\u0645\u0647 \u0644\u0648\u0627\u062c\u0647\u0629 \u0645\u0648\u0642\u0639 \u0634\u0631\u0643\u0629 \u0645\u0631\u0633\u064a\u062f\u0633\u060c \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0639\u0645\u0644\u0647 \u0641\u064a \u0645\u062c\u0627\u0644 \u0628\u0631\u062c\u0645\u0629 \u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0645\u062b\u0644 \u0645\u0648\u0642\u0639 \u0646\u0642\u0637\u0629 \u0627\u0644\u0639\u0631\u0628\u064a."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Scott Joel Aaronson, n\u00e9 le 21 mai 1981[r\u00e9f. n\u00e9cessaire] est un chercheur, professeur et vulgarisateur en informatique th\u00e9orique, notamment en informatique quantique. Jusqu\u2019en 2016, il est professeur au Massachusetts Institute of Technology (MIT) ; il occupe ensuite une chaire honoraire d\u2019informatique \u00e0 l\u2019universit\u00e9 du Texas."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Scott Joel Aaronson (born May 21, 1981) is an American theoretical computer scientist and David J. Bruton Jr. Centennial Professor of Computer Science at the University of Texas at Austin. His primary areas of research are quantum computing and computational complexity theory."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Scott Joel Aaronson (Filadelfia, 21 maggio 1981) \u00e8 un informatico e divulgatore scientifico statunitense, esperto di informatica teorica e, in particolare, di informatica quantistica, professore presso il dipartimento di ingegneria elettrica e informatica del Massachusetts Institute of Technology (MIT) fino al 2016, e in seguito presso il dipartimento di informatica dell'Universit\u00e0 del Texas ad Austin."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0421\u043a\u043e\u0442\u0442 \u0414\u0436\u043e\u044d\u043b \u0410\u0430\u0440\u043e\u043d\u0441\u043e\u043d (\u0430\u043d\u0433\u043b. Scott Joel Aaronson; 21 \u043c\u0430\u044f 1981) \u2014 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0442\u0435\u043e\u0440\u0438\u0438 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043c\u0430\u0448\u0438\u043d \u0438 \u0441\u0438\u0441\u0442\u0435\u043c, \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0435\u0442\u0430 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0445 \u043d\u0430\u0443\u043a \u0422\u0435\u0445\u0430\u0441\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0432 \u041e\u0441\u0442\u0438\u043d\u0435."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Scott Joel Aaronson (* 21. Mai 1981 in Philadelphia) ist ein US-amerikanischer Informatiker. Aaronson wuchs teilweise in Hongkong auf und studierte ab 1997 Informatik an der Cornell University mit dem Bachelor-Abschluss 2000 und wurde 2004 an der University of California, Berkeley, bei Umesh Vazirani promoviert (Limits on Efficient Computation in the Physical World). Als Post-Doktorand war er 2004/05 am Institute for Advanced Study und 2005 bis 2007 am Institute of Quantum Computing der University of Waterloo. Er lehrte am Massachusetts Institute of Technology (Assistant Professor ab 2007 und ab 2013 Associate Professor mit tenure) und ist seit 2016 Professor an der University of Texas at Austin (David J. Bruton Centennial Professor f\u00fcr Informatik) und dort Direktor des Quantum Information"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Scott Aaronson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.scottaaronson.com/blog/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Scott Aaronson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Scott_Aaronson_retouched.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Philadelphia, Pennsylvania, United States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1981-05-21"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1981_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Quantum_information_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Cornell_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Institute_for_Advanced_Study_visiting_scholars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:UC_Berkeley_College_of_Engineering_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Texas_at_Austin_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Theoretical_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:MIT_School_of_Engineering_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Science_bloggers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Presidential_Early_Career_Award_for_Scientists_and_Engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_expatriates_in_Hong_Kong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Simons_Investigator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "20420243"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122818487"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calculus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cambridge_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_Computing_Since_Democritus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_American"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Busy_Beaver_Number"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthropic_principle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holocaust"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Waterloo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vitebsk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Presidential_Early_Career_Award_for_Scientists_and_Engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1981_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computability"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornell_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clarkson_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Quantum_information_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dana_Moshkovitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slashdot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computational_Complexity_Conference"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computational_complexity_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_programming"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Scott_Aaronson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ZDNet"
+    }
+]

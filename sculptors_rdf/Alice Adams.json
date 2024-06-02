@@ -1,0 +1,157 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/Book"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alice Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alice Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alice Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alice Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alice Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Human_name_disambiguation_pages"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "8929188"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "919939469"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Adams_(1923_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Adams_(novel)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Human_name_disambiguation_pages"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Adams_(1935_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Adams_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Adams_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
+        "object": "http://dbpedia.org/resource/Alice_Adams_(1923_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
+        "object": "http://dbpedia.org/resource/Alice_Adams_(novel)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
+        "object": "http://dbpedia.org/resource/Alice_Adams_(1935_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
+        "object": "http://dbpedia.org/resource/Alice_Adams_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
+        "object": "http://dbpedia.org/resource/Alice_Adams_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www4.wiwiss.fu-berlin.de/bookmashup/books/0891907378"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q1039011"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Alice_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Alice_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://id.dbpedia.org/resource/Alice_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Alice_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/7ZZ5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Disambiguation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Alice_Adams?oldid=919939469&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "586"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alice_Adams",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Alice_Adams"
+    }
+]

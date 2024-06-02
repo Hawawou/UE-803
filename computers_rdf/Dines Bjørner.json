@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScienceWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDanishComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromOdense"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Academician109759069"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Employee110053808"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Knight110238375"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/MaleAristocrat110285135"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIBMEmployees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfTheUnitedNationsUniversity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDanishKnights"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAssociationForComputingMachinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFormalMethodsPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Dines Bj\u00f8rner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Dines Bj\u00f8rner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Professor Dines Bj\u00f8rner (born 4 October 1937, in Odense) is a Danish computer scientist. He specializes in research into domain engineering, requirements engineering and formal methods. He worked with Cliff Jones and others on the Vienna Development Method (VDM) at IBM Laboratory Vienna (and elsewhere). Later he was involved with producing the RAISE (Rigorous Approach to Industrial Software Engineering) formal method with tool support. In 2007, a Symposium was held in Macau in honour of Dines Bj\u00f8rner and Zhou Chaochen. In 2021, Bj\u00f8rner was elected to a Formal Methods Europe (FME) Fellowship."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Dines Bj\u00f8rner (Odense, 4 de outubro de 1937) \u00e9 um cientista da computa\u00e7\u00e3o dinamarqu\u00eas. \u00c9 especialista em pesquisas sobre , engenharia de requisitos e m\u00e9todos formais. Trabalhou com e outros sobre o (VDM) no . Mais tarde esteve envolvido com a produ\u00e7\u00e3o do (RAISE). Bj\u00f8rner \u00e9 fellow do Instituto de Engenheiros Eletricistas e Eletr\u00f4nicos (IEEE) (2004) e da Association for Computing Machinery (ACM) (2005). \u00c9 tamb\u00e9m membro da Academia Europaea desde 1989. Em 2007 foi organizado um simp\u00f3sio em Macau em honra de Dines Bj\u00f8rner e ."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Dines Bj\u00f8rner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Dines Bj\u00f8rner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dines_Bj\u00f8rner_at_DTU_Compute,_June_2012.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Denmark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Odense"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Denmark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Odense"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1937-10-04"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Danish_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Technical_University_of_Denmark_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1937_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellow_Members_of_the_IEEE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Knights_of_the_Order_of_the_Dannebrog"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Technical_University_of_Denmark_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Odense"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:IBM_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_Academia_Europaea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Formal_methods_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Computer_science_writers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:United_Nations_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2570332"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1064704827"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prentice_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UNU-IIST"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denmark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Bowen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Nations_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Journal_of_Software_and_Informatics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Danish_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Technical_University_of_Denmark_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Masaryk_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cliff_Jones_(computer_scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Macau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zhou_Chaochen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_A._Jackson_(computer_scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Software_engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1937_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellow_Members_of_the_IEEE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Knights_of_the_Order_of_the_Dannebrog"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dines_Bj\u00f8rner",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brno"
+    }
+]

@@ -1,0 +1,287 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEstonianArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTallinnUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Toomas Altnurme"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Toomas Altnurme (born 21 January 1973) is an Estonian painter."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1973_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Estonian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Estonian_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Tallinn_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "20396310"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1109758833"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Seoul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1973_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Estonia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tallinn_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Estonian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Estonian_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tallinn_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rajamangala_University_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://altnurmeart.simplesite.com/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://art.turm.ee/tom/tom.htm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.art-altnurme.weebly.com/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20100202190941/http:/absolutearts.com/portfolios/a/altnurme/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.04z_q7k"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Toomas_Altnurme"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/6066148753700841320001"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1125490993"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q7824111"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://et.dbpedia.org/resource/Toomas_Altnurme"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4wJPt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Toomas Altnurme (born 21 January 1973) is an Estonian painter."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Painter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/6066148753700841320001"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Toomas_Altnurme?oldid=1109758833&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4369"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Toomas_Altnurme",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Toomas_Altnurme"
+    }
+]

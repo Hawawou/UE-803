@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062a\u064a\u0646\u0627 \u0623\u0644\u064a\u0646"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tina Allen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062a\u064a\u0646\u0627 \u0623\u0644\u064a\u0646 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Tina Allen)\u200f \u0647\u064a \u0646\u062d\u0651\u0627\u062a\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629\u060c \u0648\u0644\u062f\u062a \u0641\u064a 9 \u062f\u064a\u0633\u0645\u0628\u0631 1949 \u0641\u064a \u0647\u064a\u0645\u0628\u0633\u062a\u064a\u062f \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u062a\u0648\u0641\u064a\u062a \u0641\u064a 9 \u0633\u0628\u062a\u0645\u0628\u0631 2008 \u0641\u064a \u0644\u0648\u0633 \u0623\u0646\u062c\u0644\u0648\u0633 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Tina Allen (December 9, 1949 \u2013 September 9, 2008) was an American sculptor known for her monuments to prominent African Americans, including Frederick Douglass, Sojourner Truth, and George Washington Carver."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Tina Allen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Tina Allen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Tina_Allen.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Los Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2008-09-09"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Hempstead, New York City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1949-12-09"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_South_Alabama_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1949_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2008_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_African-American_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Hempstead_(village),_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_African-American_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_African-American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_African-American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Pratt_Institute_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "49256058"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1080453661"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Back_Bay_(MBTA_station)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pratt_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sammy_Davis_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schomburg_Center_for_Research_in_Black_Culture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_Creek,_Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Shabazz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_South_Alabama_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_South_Alabama"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1949_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2008_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_African-American_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Douglass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Washington_Carver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Women's_Heritage_Trail"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zaner-Bloser_(company)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Specs_Powell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Hempstead_(village),_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tupac_Shakur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Zorach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A._Philip_Randolph"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Akeelah_and_the_Bee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alex_Haley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AmeriCorps_VISTA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_African-American_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_African-American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_African-American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brotherhood_of_Sleeping_Car_Porters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hempstead_(village),_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Baldwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Pratt_Institute_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_R._Drew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African_Diaspora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birmingham_Civil_Rights_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Dandridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcus_Garvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Luther_King_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pneumonia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sojourner_Truth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nat_King_Cole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ralph_Bunche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Missouri_Botanical_Gardens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.sojournertruth.org/images/JohnsonFamily.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.mobot.org/hort/img/110106carverfallcolor1a.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.publicartboston.com/sites/default/files/node_images/APRandolph.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Tina_Allen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/46684882"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q22341349"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u062a\u064a\u0646\u0627_\u0623\u0644\u064a\u0646"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/27RXC"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tina_Allen",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    }
+]

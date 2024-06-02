@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromLiverpool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Academician109759069"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfTheUniversityOfEdinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTheUniversityOfBirmingham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTheUniversityOfCambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFormalMethodsPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Rod Burstall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rodney Martineau \"Rod\" Burstall FRSE (born 1934) is a British computer scientist and one of four founders of the Laboratory for Foundations of Computer Science at the University of Edinburgh."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rod Burstall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.freewebs.com/rodburstall/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rod Burstall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Liverpool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Liverpool, England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Liverpool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1934_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Birmingham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:History_of_computing_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Formal_methods_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "8924740"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123650910"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Popplestone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NPL_programming_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Liverpool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Don_Sannella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conor_McBride"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gordon_Plotkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miranda_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laboratory_for_Foundations_of_Computer_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liverpool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M.Sc."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Standard_ML"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Functional_programming"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birmingham_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hope_programming_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1934_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Birmingham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Darlington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_comprehension"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Bundy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edinburgh_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/POP-2"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Formal_Aspects_of_Computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haskell_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:History_of_computing_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Formal_methods_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Mycroft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J_Strother_Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Program_transformation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Festschrift"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ph.D."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_J._C._Gordon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Operational_research"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Burstall",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pattern_matching"
+    }
+]

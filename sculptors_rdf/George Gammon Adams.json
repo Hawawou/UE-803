@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromStaines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Gammon Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George Gammon Adams (1821\u20131898; sometimes spelled George Gamon Adams or George Gannon Adams) was an English portrait sculptor and medallist, noted for his statue of General Charles Napier in Trafalgar Square."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/UK-2014-London-Statue_of_Charles_James_Napier.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue_in_St_George's_Hall,_Liverpool.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1821_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1898_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_English_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Staines-upon-Thames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "31746486"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1096971156"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_George,_Duke_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Mint"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melpomene"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mount_Wise,_Plymouth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Pistrucci"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blackfriars_Bridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Cobden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Upper_Canada_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Death_mask"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massacre_of_the_Innocents"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Great_Exhibition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Good_Shepherd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_Exhibition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lord_Palmerston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sir_Harry_Smith,_1st_Baronet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_Paul's_Cathedral"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Art_Journal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1821_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1898_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_English_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tower_Hill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trafalgar_Square"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Westminster_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palace_of_Westminster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diamond_Jubilee_of_Queen_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerald_Wellesley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Havelock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Crystal_Palace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Staines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Staines-upon-Thames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_James_Napier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chiswick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Colborne,_1st_Baron_Seaton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Gibson_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydenham,_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Langhorne_Thompson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Wyon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bust_(sculpture)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_George's_Hall,_Liverpool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stratfield_Saye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_I_of_the_Hellenes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lord_Brougham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lord_Seaton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Statue_in_St_George's_Hall,_Liverpool.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_Boyd_M'Neile"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sir_Duncan_MacDougall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:UK-2014-London-Statue_of_Charles_James_Napier.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0gty4h7"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/George_Gammon_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/91609580"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1034094742"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q5539604"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4kNk9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Art_UK_bio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/UK-2014-London-Statue_of_Charles_James_Napier.jpg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "George Gammon Adams (1821\u20131898; sometimes spelled George Gamon Adams or George Gannon Adams) was an English portrait sculptor and medallist, noted for his statue of General Charles Napier in Trafalgar Square."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/91609580"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Gammon_Adams",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/George_Gammon_Adams?oldid=1096971156&ns=0"
+    }
+]

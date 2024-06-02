@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromMaine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatNeoclassicalSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromWestbrook,Maine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Benjamin Paul Akers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0628\u0646\u062c\u0627\u0645\u064a\u0646 \u0628\u0627\u0648\u0644 \u0627\u0643\u064a\u0631\u0632"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u039c\u03c0\u03ad\u03bd\u03c4\u03b6\u03b1\u03bc\u03b9\u03bd \u03a0\u03bf\u03bb \u0388\u03b9\u03ba\u03b5\u03c1\u03c2"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Benjamin Paul Akers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Paul Akers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0628\u0646\u062c\u0627\u0645\u064a\u0646 \u0628\u0627\u0648\u0644 \u0627\u0643\u064a\u0631\u0632 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Benjamin Paul Akers)\u200f \u0647\u0648 \u0646\u062d\u0627\u062a \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 10 \u064a\u0648\u0644\u064a\u0648 1825 \u0641\u064a \u0648\u0633\u062a\u0628\u0631\u0648\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 21 \u0645\u0627\u064a\u0648 1861 \u0641\u064a \u0641\u064a\u0644\u0627\u062f\u0644\u0641\u064a\u0627 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0628\u0633\u0628\u0628 \u0633\u0644."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Benjamin Paul Akers (July 10, 1825 \u2013 May 21, 1861) was an American sculptor from Maine."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Benjamin Paul Akers fue un escultor estadounidense nacido en Westbrook, Maine el 10 de julio de 1825 y falleci\u00f3 en Filadelfia en 1861."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Benjamin Paul Akers, n\u00e9 le 10 juillet 1825 dans le village de Saccarappa, pr\u00e8s de Westbrook, dans le Maine, mort le 21 mai 1861 \u00e0 Philadelphie, est un sculpteur am\u00e9ricain. En 1855, il s'installe \u00e0 Rome, o\u00f9 il travaille pendant plusieurs ann\u00e9es. Parmi ses \u0153uvres, on peut citer les bustes d'Edward Everett et d'Henry Longfellow, une t\u00eate de Milton et Dead Pearl Diver, expos\u00e9 au Museum d'Art de Portland, dans le Maine."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Benjamin Paul Akers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Benjamin Paul Akers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/01-Akers_Benjamin_Paul-03.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/01-Akers_Benjamin_Paul_Signature.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Ann_Chase_Taylor_Akers_Allen_by_Benjamin_Paul_Akers,_c._1860,_marble_-_Portland_Museum_of_Art_-_Portland,_Maine_-_DSC03997.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Appleton_by_Benjamin_Paul_Akers_-_Longfellow_National_Historic_Site_-_DSC04802.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/The_Dead_Pearl_Diver_by_Benjamin_Paul_Akers,_1858,_marble,_view_1_-_Portland_Museum_of_Art_-_Portland,_Maine_-_DSC04225.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Westbrook,_Maine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Philadelphia, Pennsylvania, U.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1861-05-21"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Westbrook, Maine, U.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1825-07-10"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Tuberculosis_deaths_in_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1825_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1861_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Westbrook,_Maine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_deaths_from_tuberculosis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Maine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "290604"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1113570006"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome,_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Appleton_(merchant)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saccarappa,_Maine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hollis,_Maine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Neal_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saco_River"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tuberculosis_deaths_in_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Everett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Akers_Allen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1825_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1861_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Westbrook,_Maine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tuberculosis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Westbrook,_Maine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Evergreen_Cemetery_(Portland,_Maine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Carew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Wadsworth_Longfellow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Museum_of_Fine_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archives_of_American_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/August_Belmont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_deaths_from_tuberculosis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Maine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Milton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Marble_Faun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portland,_Maine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portland_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nathaniel_Hawthorne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_William_Herringshaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Longfellow_National_Historic_Site"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benjamin_Paul_Akers",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atlantic_Monthly"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatVirginiaCommonwealthUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromAleppo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatKentStateUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSyrianSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSyrianWomenSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062f\u064a\u0627\u0646\u0627 \u0627\u0644\u062d\u062f\u064a\u062f"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Diana al-Hadid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Diana Al-Hadid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062f\u064a\u0627\u0646\u0627 \u0627\u0644\u062d\u062f\u064a\u062f (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Diana al-Hadid)\u200f (\u0645\u0648\u0627\u0644\u064a\u062f 1981) \u0647\u064a\u064e \u0641\u064e\u0646\u0627\u0646\u0629 \u0645\u064f\u0639\u0627\u0635\u0631\u0629 \u062a\u064e\u0635\u0646\u0639 \u0627\u0644\u062a\u0645\u0627\u062b\u064a\u0644 \u0648\u0627\u0644\u0645\u0646\u0634\u0622\u062a \u0648\u0627\u0644\u0644\u064e\u0651\u0648\u062d\u0627\u062a \u0648\u0627\u0644\u0631\u0633\u0648\u0645\u0627\u062a \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0648\u0633\u0627\u0626\u0644 \u0627\u0644\u0625\u0639\u0644\u0627\u0645 \u0627\u0644\u0645\u062e\u062a\u0644\u0641\u0629. \u0648\u064f\u0644\u062f\u062a \u0641\u064a \u062d\u0644\u0628/\u0633\u0648\u0631\u064a\u0627\u060c \u0641\u064a \u0639\u0627\u0645 1981\u060c \u062a\u064e\u0639\u064a\u0634 \u062d\u0627\u0644\u064a\u0627\u064b \u0648\u062a\u0639\u0645\u0644 \u0641\u064a \u0628\u0631\u0648\u0643\u0644\u064a\u0646/\u0646\u064a\u0648\u064a\u0648\u0631\u0643."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Diana al-Hadid (born 1981) is a Syrian-born American contemporary artist who creates sculptures, installations, and drawings using various media. She lives and works in Brooklyn, New York."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Diana Al-Hadid (Aleppo, Siria; 1981) es una artista contempor\u00e1nea siria radicada en Brooklyn, Nueva York. Recibi\u00f3 el pregrado de Bellas Artes (BFA) en escultura de la Universidad Estatal de Kent de Ohio (2003), graduada (MFA) en escultura por la Virginia Commonwealth University, Richmond (2005), residente de la , , Maine (2007)."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Diana al-Hadid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Diana al-Hadid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Fools_gold,_Diana_al-Hadid.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Aleppo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Aleppo, Syria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1981_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_academics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Bard_College_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Syrian_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Syrian_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Kent_State_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Aleppo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Syrian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Virginia_Commonwealth_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Skowhegan_School_of_Painting_and_Sculpture_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Syrian_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_North_Canton,_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "19335124"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1111038959"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Letters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTA_Arts_&_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DeCordova_Museum_and_Sculpture_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richmond,_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia_Commonwealth_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia_Museum_of_Fine_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Secession_Building,_Vienna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1981_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madison_Square_and_Madison_Square_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Skowhegan_School_of_Painting_and_Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_academics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bard_College_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitney_Museum_of_American_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Fools_gold,_Diana_al-Hadid.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aleppo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_Canton,_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Syrian_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Fine_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Syrian_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Kent_State_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Aleppo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Syrian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Virginia_Commonwealth_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Skowhegan_School_of_Painting_and_Sculpture_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Syrian_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kent_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_North_Canton,_Ohio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Diana_al-Hadid",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fiberglass"
+    }
+]

@@ -1,0 +1,387 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatInstallationArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat21st-centurySculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Nir Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Nir Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Nir Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Nir Alon (en hebreo \u05e0\u05d9\u05e8 \u05d0\u05dc\u05d5\u05df) es un escultor y artista de instalaciones israel\u00ed, nacido en 1964."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Nir Alon (hebr\u00e4isch \u05e0\u05d9\u05e8 \u05d0\u05dc\u05d5\u05df; * 1964) ist ein israelischer Bildhauer und Installationsk\u00fcnstler. Alon studierte von 1988 bis 1992 an der Bezalel-Akademie in Jerusalem und war dort bis 1993 Assistent. 1996 erhielt er den Preis f\u00fcr junge K\u00fcnstler des israelischen Ministeriums f\u00fcr Erziehung und Kultur. 1998 konnte er an einer Austausch-Ausstellung in Hamburg teilnehmen, 2001 erhielt er ein Stipendium als K\u00fcnstler zu Gast in Harburg. Seitdem lebt und arbeitet er in Hamburg, wo er an der Hochschule f\u00fcr angewandte Wissenschaften im Fachbereich Gestaltung unterrichtet. Er hatte Einzelausstellungen in Jerusalem, Tel Aviv, Schwerin, Bonn, Mannheim, Frankfurt am Main und Hamburg (Kampnagel 2005)."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Nir Alon (born 1964) is an Israeli sculptor and an installation artist based in Hamburg. Alon studied from 1988 until 1992 at the Bezalel Academy of Art and Design in Jerusalem. In 1996 he received the prize for young artists of the Israeli Ministry for education and Culture. In 1998 he participated in an exchange exhibition in Hamburg. In 2001 he received a working scholarship as a guest artist to Harburg. Since then he works and lives in Hamburg. He had solo exhibitions in Jerusalem, Tel Aviv, Schwerin, Bonn, Mannheim, Frankfurt and Hamburg. He preferably develops his sculptures from cast-off everyday life articles such as furniture, suit-cases, lamps, light bulbs and cables, whereby the installations are arranged directly at the place of exhibition and in the reference to these. Thus it"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Israeli_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Israeli_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1964_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Bezalel_Academy_of_Arts_and_Design_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "4997410"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1105629763"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schwerin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Israeli_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anke_Feuchtenberger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frankfurt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nahshon,_Israel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Israeli_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bezalel_Academy_of_Art_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1964_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buchholz_in_der_Nordheide"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bezalel_Academy_of_Arts_and_Design_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israelis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tel_Aviv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mannheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.nir-alon.com/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0cz314"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/5794884"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Nir_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/121707067"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q559555"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Nir_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Nir_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e0\u05d9\u05e8_\u05d0\u05dc\u05d5\u05df"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://tr.dbpedia.org/resource/Nir_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4kJtF"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Nir Alon (hebr\u00e4isch \u05e0\u05d9\u05e8 \u05d0\u05dc\u05d5\u05df; * 1964) ist ein israelischer Bildhauer und Installationsk\u00fcnstler. Alon studierte von 1988 bis 1992 an der Bezalel-Akademie in Jerusalem und war dort bis 1993 Assistent. 1996 erhielt er den Preis f\u00fcr junge K\u00fcnstler des israelischen Ministeriums f\u00fcr Erziehung und Kultur. 1998 konnte er an einer Austausch-Ausstellung in Hamburg teilnehmen, 2001 erhielt er ein Stipendium als K\u00fcnstler zu Gast in Harburg. Seitdem lebt und arbeitet er in Hamburg, wo er an der Hochschule f\u00fcr angewandte Wissenschaften im Fachbereich Gestaltung unterrichtet. Er hatte Einzelausstellungen in Jerusalem, Tel Aviv, Schwerin, Bonn, Mannheim, Frankfurt am Main und Hamburg (Kampnagel 2005). Seine Skulpturen entwickelt er vorzugsweise aus ausrangierten Alltagsgegenst\u00e4nden wie M\u00f6beln, Koffern, Lampen, Gl\u00fchbirnen und Kabeln, wobei die Installationen direkt am Ausstellungsort und in Bezug auf diesen zusammengestellt werden. So erzielt er mit sparsamsten Mitteln eine eindringliche Wirkung. Seine Arbeiten sind in Museen und privaten Sammlungen in Deutschland, Israel, Italien und den USA. Er kritisierte im September 2019 mit \u00fcber 250 Autoren, dass die Stadt Dortmund die Verleihung des Nelly-Sachs-Preises an die Schriftstellerin Kamila Shamsie wegen deren Unterst\u00fctzung der umstrittenen BDS-Kampagne (Boycott, Divestment and Sanctions gegen Israel), \u00fcber die die Jury nicht informiert war, widerrufen hatte."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Nir Alon (en hebreo \u05e0\u05d9\u05e8 \u05d0\u05dc\u05d5\u05df) es un escultor y artista de instalaciones israel\u00ed, nacido en 1964."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Nir Alon (born 1964) is an Israeli sculptor and an installation artist based in Hamburg. Alon studied from 1988 until 1992 at the Bezalel Academy of Art and Design in Jerusalem. In 1996 he received the prize for young artists of the Israeli Ministry for education and Culture. In 1998 he participated in an exchange exhibition in Hamburg. In 2001 he received a working scholarship as a guest artist to Harburg. Since then he works and lives in Hamburg. He had solo exhibitions in Jerusalem, Tel Aviv, Schwerin, Bonn, Mannheim, Frankfurt and Hamburg. He preferably develops his sculptures from cast-off everyday life articles such as furniture, suit-cases, lamps, light bulbs and cables, whereby the installations are arranged directly at the place of exhibition and in the reference to these. Thus it obtains an urgent effect with most economical means. His works are in public and private collections in Germany, Israel, Italy and United States."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/5794884"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Nir_Alon?oldid=1105629763&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4410"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Nir_Alon"
+    }
+]

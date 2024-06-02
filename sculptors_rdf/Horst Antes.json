@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatVillaRomanaPrizeWinners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Gambler110118844"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Painter110391653"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Printmaker110475687"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PrizeWinner109627807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanPrintmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Winner110782791"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryGermanPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Horst Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Horst Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Horst Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Horst Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Horst Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Horst Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Horst Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u043d\u0442\u0435\u0441, \u0425\u043e\u0440\u0441\u0442"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Horst Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Horst ANTES (naskigis la 28-an de oktobro 1936 en Heppenheim) estas germana pentristo, grafikisto kaj skulptisto. Karakteriza estas liaj Kopff\u00fc\u00dfler (piedkapuloj) ekestinta ekde 1962, je kiuj rolis instigoj fare de la ka\u0109ina-pupoj de la pueblo-indianoj, kiu dum longa tempo estis lia ununura motivo. Kopff\u00fc\u00dfler, tiel nomata \u201eartofigur\u201c, ne havas kolon, malmultan bruston kaj ventron, kaj kapo kaj piedoj \u015dajnas interplekti\u011di."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Horst Antes (* 28. Oktober 1936 in Heppenheim) ist ein deutscher Maler, Grafiker und Bildhauer."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Horst Antes, n\u00e9 le 28 octobre 1936 \u00e0 Heppenheim (Allemagne) est un peintre, sculpteur, graveur et lithographe allemand. Peintre du mouvement de la Nouvelle figuration, Horst Antes est l'\u00e9l\u00e8ve de l'Acad\u00e9mie des beaux-arts de Karlsruhe de 1957 \u00e0 1959, o\u00f9 il a pour ma\u00eetre le graveur sur bois HAP Grieshaber, personnage attachant qui lui inculque une solide technique."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Horst Antes (Heppenheim, 28 ottobre 1936) \u00e8 uno scultore tedesco. Dal 1965 al 1971 insegn\u00f2 all'Accademia di Karlsruhe. Svilupp\u00f2 uno stile caratterizzato da archetipi primordiali, conditi con un'abbondante dose di surrealismo."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Horst Antes (Heppenheim (Bergstra\u00dfe), 28 oktober 1936) is een Duitse schilder, graficus en beeldhouwer."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Horst Antes, f\u00f6dd 28 oktober 1936, \u00e4r en tysk m\u00e5lare, grafiker, skulpt\u00f6r och keramiker. Antes utbildades vid konstakademin Karlsruhe 1957-59. Han inspirerades av den tyska expressionismen och blev under slutet av 1950-talet en av tidigaste och mest betydande f\u00f6retr\u00e4darna f\u00f6r den nyfigurativa konsten under denna period. Ett \u00e5terkommande motiv i Antes konst \u00e4r en dv\u00e4rgliknande figur utan b\u00e5l, avbildad i profil s\u00e5som inom egyptiskt m\u00e5leri."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Horst Antes (born 28 October 1936 Heppenheim, Germany) is a German artist and sculptor. After his Abitur, he studied from 1957 to 1959 under the important woodcutter HAP Grieshaber at the Akademie der Bildenden K\u00fcnste (today known as the Staatliche Akademie der Bildenden K\u00fcnste Karlsruhe) in Karlsruhe. In 1959, the artist's work was honoured with two prizes, art prize of the city of Hanover and the prize on the occasion of the German Youth Art prize."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Horst Antes (nacido en Heppenheim el 28 de octubre de 1936) es un artista y escultor alem\u00e1n contempor\u00e1neo de tendencia expresionista. Su obra se caracteriza por la presencia de la forma Kopff\u00fc\u00dfler (\u00abcefal\u00f3podo\u00bb), que descubri\u00f3 en torno al a\u00f1o 1960 y que preocup\u00f3 al artista en numerosas variaciones y t\u00e9cnicas art\u00edsticas. Despu\u00e9s de su Abitur, Antes estudi\u00f3 desde 1957 a 1959 con en la , hoy Academia Estatal, en Karlsruhe. En 1959, la obra del artista recibi\u00f3 dos premios, el de arte de la ciudad de Han\u00f3ver y el con ocasi\u00f3n del Premio al arte juvenil alem\u00e1n."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0425\u043e\u0440\u0441\u0442 \u0410\u043d\u0442\u0435\u0441 (\u0440\u043e\u0434. 28 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1936[\u2026], \u0425\u0435\u043f\u043f\u0435\u043d\u0445\u0430\u0439\u043c, \u0413\u0435\u0441\u0441\u0435\u043d) \u2014 \u0440\u043e\u0434\u0438\u043b\u0441\u044f 28 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1936 \u0433\u043e\u0434\u0430 \u0432 \u0425\u0435\u043f\u043f\u0435\u043d\u0445\u0430\u0439\u043c\u0435, \u043d\u0435\u043c\u0435\u0446\u043a\u0438\u0439 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a, \u0433\u0440\u0430\u0444\u0438\u043a \u0438 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440. \u041e\u043d \u0443\u0447\u0438\u043b\u0441\u044f \u0441 1957 \u043f\u043e 1959 \u0433\u043e\u0434 \u0443 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u043b\u0435\u0441\u043e\u0440\u0443\u0431\u0430 \u0425\u0410\u041f\u0410 \u0413\u0440\u0438\u0448\u0430\u0431\u0435\u0440\u0430 \u0432 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u044f \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432 \u041a\u0430\u0440\u043b\u0441\u0440\u0443\u044d \u0432 \u041a\u0430\u0440\u043b\u0441\u0440\u0443\u044d. \u0412 \u0441\u0432\u043e\u0438\u0445 \u0440\u0430\u043d\u043d\u0438\u0445 \u043a\u0430\u0440\u0442\u0438\u043d\u0430\u0445 \u0410\u043d\u0442\u0435\u0441 \u0438\u0441\u043a\u0430\u043b \u043f\u0443\u0442\u044c \u0433\u0434\u0435-\u0442\u043e \u043c\u0435\u0436\u0434\u0443 \u0444\u0438\u0433\u0443\u0440\u0430\u0442\u0438\u0432\u043d\u043e\u0439 \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u044c\u044e \u0438 \u0442\u0430\u0448\u0438\u0437\u043c\u043e\u043c. \u041e\u0434\u043d\u0438\u043c \u0438\u0437 \u0435\u0433\u043e \u0441\u0430\u043c\u044b\u0445 \u0432\u0430\u0436\u043d\u044b\u0445 \u043e\u0431\u0440\u0430\u0437\u0446\u043e\u0432 \u0434\u043b\u044f \u043f\u043e\u0434\u0440\u0430\u0436\u0430\u043d\u0438\u044f \u0431\u044b\u043b \u0412\u0438\u043b\u043b\u0435\u043c \u0434\u0435 \u041a\u0443\u043d\u0438\u043d\u0433. \u0421 1990 \u0433\u043e\u0434\u0430 \u0410\u043d\u0442\u0435\u0441 \u0436\u0438\u0432\u0435\u0442 \u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u041a\u0430\u0440\u043b\u0441\u0440\u0443\u044d, \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0438\u0438 \u0438 \u0411\u0435\u0440\u043b\u0438\u043d\u0435. \u0415\u0433\u043e \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u043a\u043b\u044e\u0447\u0430\u0435\u0442 \u0432 \u0441\u0435\u0431\u044f \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u044c \u0438 \u0433\u0440\u0430\u0444\u0438\u043a\u0443, \u043d\u043e \u0438 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u044b \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043c\u0435\u0441\u0442\u0430\u0445."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Antes_Sindelfingen-014.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Horst_Antes.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1936_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Academy_of_Fine_Arts,_Karlsruhe_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "4619922"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1091335600"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scholarships"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1936_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willem_de_Kooning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HAP_Grieshaber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_of_Fine_Arts_Karlsruhe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hanover"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heppenheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abitur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karlsruhe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academy_of_Fine_Arts,_Karlsruhe_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L'Art_Informel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Antes_Sindelfingen-014.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Horst_Antes.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pankofer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.artnet.com/artist/1551/horst-antes.html"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.artcyclopedia.com/artists/antes_horst.html"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0cc_27"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Horst_Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/39479138"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/118503316"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q446519"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p069349851"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0647\u0648\u0631\u0633\u062a_\u0627\u0646\u062a\u064a\u0632"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://be.dbpedia.org/resource/\u0425\u043e\u0440\u0441\u0442_\u0410\u043d\u0442\u044d\u0441"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Horst_Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://eo.dbpedia.org/resource/Horst_Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Horst_Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Horst_Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Horst_Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Horst_Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0410\u043d\u0442\u0435\u0441,_\u0425\u043e\u0440\u0441\u0442"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sv.dbpedia.org/resource/Horst_Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/48bi8"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Germany-artist-stub"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMJ-Collections"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Horst_Antes.jpg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Horst_Antes",
+        "predicate": "http://dbpedia.org/property/accessdate",
+        "object": "September 2016"
+    }
+]

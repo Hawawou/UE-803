@@ -1,0 +1,412 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Irene Kataq Angutitok"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Irene Kataq Angutitok (1914 \u2013 1971) was an Inuit sculptor. Her name also appears as Katak Angutitaq."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Irene Kataq Angutitok"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Irene Kataq Angutitok"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Naujaat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Naujaat, Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Nunavut, Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Naujaat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1914_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1971_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Nunavut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Kitikmeot_Region"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_Inuit_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Inuit_from_the_Northwest_Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "49509386"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1117042574"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada_Post"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bathurst_Inlet,_Nunavut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bible"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vancouver_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soapstone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_C._Shumiatcher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Naujaat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MacKenzie_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1914_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1971_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Nunavut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whyte_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Winnipeg_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Kitikmeot_Region"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inuit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacqueline_Shumiatcher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_Inuit_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Inuit_from_the_Northwest_Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metropolitan_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Gallery_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naujaat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Irene_Kataq_Angutitok"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q22957943"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2AoDZ"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_year_and_age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Irene Kataq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/field",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Inuit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "1929"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": ""
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Athanasie Angutitaq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Irene Kataq Angutitok (1914 \u2013 1971) was an Inuit sculptor. Her name also appears as Katak Angutitaq."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Irene_Kataq_Angutitok?oldid=1117042574&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4145"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Irene Kataq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/field",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/Inuit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Irene_Kataq_Angutitok",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Irene_Kataq_Angutitok"
+    }
+]

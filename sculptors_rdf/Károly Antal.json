@@ -1,0 +1,467 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatNeoclassicalSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBudapest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHungarianSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0643\u0627\u0631\u0648\u0644\u064a \u0623\u0646\u062a\u0627\u0644"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "K\u00e1roly Antal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "K\u00e1roly Antal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "K\u00e1roly Antal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0643\u0627\u0631\u0648\u0644\u064a \u0623\u0646\u062a\u0627\u0644 (\u0628\u0627\u0644\u0645\u062c\u0631\u064a\u0629: Antal K\u00e1roly)\u200f \u0647\u0648 \u0646\u062d\u0627\u062a \u0645\u062c\u0631\u064a\u060c \u0648\u0644\u062f \u0641\u064a 23 \u064a\u0648\u0646\u064a\u0648 1909 \u0641\u064a \u0628\u0648\u062f\u0627\u0628\u0633\u062a \u0641\u064a \u0627\u0644\u0645\u062c\u0631\u060c \u0648\u062a\u0648\u0641\u064a \u0628\u0646\u0641\u0633 \u0627\u0644\u0645\u0643\u0627\u0646 \u0641\u064a 26 \u0645\u0627\u064a\u0648 1994."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "K\u00e1roly Antal [kAroj], hungare Antal K\u00e1roly estis hungara skulptisto kaj profesoro. K\u00e1roly Antal naski\u011dis la 23-an de junio 1909 en Budape\u015dto. Li mortis la 26-an de majo 1994 en Budape\u015dto."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "K\u00e1roly Antal fue un escultor h\u00fangaro del siglo XX, nacido el a\u00f1o 1909 en Budapest y fallecido el a\u00f1o 1994 en la misma ciudad. Su estilo escult\u00f3rico estaba pr\u00f3ximo al neoclasicismo."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "K\u00e1roly Antal (23 June 1909 \u2013 26 May 1994, in Budapest) was a twentieth century Hungarian sculptor. His sculptural style reflected neoclassicism style. Antal studied at the Academy of Fine Arts with Istv\u00e1n Szentgy\u00f6rgyi between 1928 and 1937. He received a state scholarship in Rome in 1934\u201335 and he exhibited several times in Italy. In 1962 he made the sculptural decoration on the facade of the ."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "K\u00e1roly Antal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "K\u00e1roly Antal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/KarolyAntal.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1909-06-23"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Hungarian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1909_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1982_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "7715311"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1076335647"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Hungarian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hungarians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1909_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1982_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Budapest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Esztergom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Istv\u00e1n_Szentgy\u00f6rgyi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neoclassicism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neoclassicist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cathedral_of_P\u00e9cs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20060511180650/http:/hungart.euroweb.hu/english/a/alexy/index.html"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0269qy8"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/162991272"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q771727"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0643\u0627\u0631\u0648\u0644\u064a_\u0623\u0646\u062a\u0627\u0644"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://eo.dbpedia.org/resource/K\u00e1roly_Antal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/K\u00e1roly_Antal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hu.dbpedia.org/resource/Antal_K\u00e1roly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hy.dbpedia.org/resource/\u053f\u0561\u0580\u0578\u0575_\u0531\u0576\u0569\u0561\u056c"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4vfQK"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Hungary-sculptor-stub"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/KarolyAntal.jpg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1909-06-23"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "K\u00e1roly Antal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "--05-26"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Academy of Fine Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Hungarian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/notableWorks",
+        "object": "St Gell\u00e9rt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/property/style",
+        "object": "Neoclassicism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0643\u0627\u0631\u0648\u0644\u064a \u0623\u0646\u062a\u0627\u0644 (\u0628\u0627\u0644\u0645\u062c\u0631\u064a\u0629: Antal K\u00e1roly)\u200f \u0647\u0648 \u0646\u062d\u0627\u062a \u0645\u062c\u0631\u064a\u060c \u0648\u0644\u062f \u0641\u064a 23 \u064a\u0648\u0646\u064a\u0648 1909 \u0641\u064a \u0628\u0648\u062f\u0627\u0628\u0633\u062a \u0641\u064a \u0627\u0644\u0645\u062c\u0631\u060c \u0648\u062a\u0648\u0641\u064a \u0628\u0646\u0641\u0633 \u0627\u0644\u0645\u0643\u0627\u0646 \u0641\u064a 26 \u0645\u0627\u064a\u0648 1994."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "K\u00e1roly Antal [kAroj], hungare Antal K\u00e1roly estis hungara skulptisto kaj profesoro. K\u00e1roly Antal naski\u011dis la 23-an de junio 1909 en Budape\u015dto. Li mortis la 26-an de majo 1994 en Budape\u015dto."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "K\u00e1roly Antal fue un escultor h\u00fangaro del siglo XX, nacido el a\u00f1o 1909 en Budapest y fallecido el a\u00f1o 1994 en la misma ciudad. Su estilo escult\u00f3rico estaba pr\u00f3ximo al neoclasicismo."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "K\u00e1roly Antal (23 June 1909 \u2013 26 May 1994, in Budapest) was a twentieth century Hungarian sculptor. His sculptural style reflected neoclassicism style. Antal studied at the Academy of Fine Arts with Istv\u00e1n Szentgy\u00f6rgyi between 1928 and 1937. He received a state scholarship in Rome in 1934\u201335 and he exhibited several times in Italy. His early sculptures were characterized by the neoclassicist style of the Roman School. His sculptures \"St Gell\u00e9rt\" and \"Frater Julianus\" were erected at the Fishermen's Bastion in Budapest in 1937, and at the Coronation of St Stephen in Esztergom in 1938. After 1945 he created several memorials. In 1962 he made the sculptural decoration on the facade of the ."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/K\u00e1roly_Antal?oldid=1076335647&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "2242"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/Hungarians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/K\u00e1roly_Antal",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/K\u00e1roly_Antal"
+    }
+]

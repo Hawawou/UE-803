@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Cecilia Berdichevsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Cecilia Berdichevski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Cecilia Berdichevski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Cecilia Berdichevsky or Berdichevski (n\u00e9e Tuwjasz) (1925 \u2013 2010) was a pioneering Argentinian computer scientist and began her work in 1961 using the first Ferranti Mercury computer in that country."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Cecilia Berdichevsky fue una programadora argentina, pionera en el \u00e1rea de inform\u00e1tica y en el uso de Clementina.\u200b Despu\u00e9s de la Noche de los Bastones Largos comenz\u00f3 a trabajar en la empresa de Sadosky, Guber y Chamero.\u200b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Cecilia Berdichevski (ur. 30 marca 1925, zm. 28 lutego 2010) \u2013 uznawana za pierwsz\u0105 osob\u0105 pracuj\u0105c\u0105 na stanowisku programisty w Argentynie, pionierka w dziedzinie informatyki. Jedna z pierwszych u\u017cytkownik\u00f3w komputera Ferranti Mercury, znanego jako Clementina."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Cecilia Berdichevsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Cecilia Berdichevsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/PaperTapes-5and8Hole.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Blargos1.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Cecilia_Berdichevsky_with_Clementina.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Clementina_computer_(Replica).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Vilnius"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Avellaneda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Avellaneda, Argentina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2010-02-28"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Vilnius, Lithuania-Poland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1925-03-30"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1925_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2010_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Buenos_Aires"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Argentine_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Argentine_Jews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Vilnius"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Buenos_Aires_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Argentine_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Argentine_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "63941338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1086288944"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Nations_Development_Programme"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Buenos_Aires"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vilnius"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1925_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compiler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cicely_Popplewell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_Noche_de_los_Bastones_Largos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punched_tape"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manuel_Sadosky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avellaneda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2010_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Buenos_Aires"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Turing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Argentine_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Argentine_Jews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Vilnius"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Buenos_Aires_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Argentine_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Argentine_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/High-level_programming_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Autocode"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ferranti_Mercury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rebeca_Guber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Photoelectric"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Blargos1.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernesto_Garc\u00eda_Camarero"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Clementina_computer_(Replica).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:PaperTapes-5and8Hole.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://dl.ifip.org/db/conf/ifip3/histedu2006/Berdichevsky06.pdf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/148/3239"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q52282738"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0633\u064a\u0633\u064a\u0644\u064a\u0627_\u0628\u064a\u0631\u062f\u064a\u0634\u0641\u0633\u0643\u0649"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ast.dbpedia.org/resource/Cecilia_Berdichevski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Cecilia_Berdichevski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://gl.dbpedia.org/resource/Cecilia_Berdichevski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Cecilia_Berdichevski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/5yDeB"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Convert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Cecilia_Berdichevsky_with_Clementina.jpg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1925-03-30"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Cecilia Tuwjasz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Berdichevsky with the Mercury computer, named Clementina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2010-02-28"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Work on Ferranti Mercury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Argentinian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "computer scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Mario Berdichevsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Cecilia Berdichevsky or Berdichevski (n\u00e9e Tuwjasz) (1925 \u2013 2010) was a pioneering Argentinian computer scientist and began her work in 1961 using the first Ferranti Mercury computer in that country."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Cecilia_Berdichevsky",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Cecilia Berdichevsky fue una programadora argentina, pionera en el \u00e1rea de inform\u00e1tica y en el uso de Clementina.\u200b Despu\u00e9s de la Noche de los Bastones Largos comenz\u00f3 a trabajar en la empresa de Sadosky, Guber y Chamero.\u200b"
+    }
+]

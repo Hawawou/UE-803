@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatContemporarySculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Academician109759069"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centurySculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat21st-centurySculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfTheSladeSchoolOfArt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTheCentralSchoolOfArtAndDesign"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTheRoyalCollegeOfArt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromWindermere,Cumbria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Edward Allington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Edward Allington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u043b\u043b\u0438\u043d\u0433\u0442\u043e\u043d, \u042d\u0434\u0432\u0430\u0440\u0434"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Edward Allington fue un artista y escultor ingl\u00e9s."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u042d\u0434\u0432\u0430\u0440\u0434 \u0410\u043b\u043b\u0438\u043d\u0433\u0442\u043e\u043d (\u0430\u043d\u0433\u043b. Edward Allington; 24 \u0438\u044e\u043d\u044f 1951 \u0433\u043e\u0434\u0430, Troutbeck Bridge, \u041a\u0430\u043c\u0431\u0440\u0438\u044f \u2014 21 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2017 \u0433\u043e\u0434\u0430) \u2014 \u0431\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a. \u0417\u0430\u044f\u0432\u0438\u043b \u043e \u0441\u0435\u0431\u0435 \u0432 \u043d\u0430\u0447\u0430\u043b\u0435 1980-\u0445 \u0433\u043e\u0434\u043e\u0432, \u043a\u043e\u0433\u0434\u0430 \u0435\u0433\u043e \u0440\u0430\u0431\u043e\u0442\u044b \u0431\u044b\u043b\u0438 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u044b \u0432 \u0437\u043d\u0430\u0447\u0438\u043c\u044b\u0435 \u0432\u044b\u0441\u0442\u0430\u0432\u043a\u0438 \u00ab\u041e\u0431\u044a\u0435\u043a\u0442\u044b \u0438 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u0430\u00bb \u0432 \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0435 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430 (1981) \u0438 The Sculpture Show \u0432 Hayward Gallery (1983). \u0421\u0442\u0430\u043b \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u043a\u0430\u043a \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u00ab\u041d\u043e\u0432\u0430\u044f \u0431\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u0430\u00bb (\u0430\u043d\u0433\u043b. New British Sculpture), \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u043a\u043b\u044e\u0447\u0430\u043b\u043e \u0442\u0430\u043a\u0438\u0445 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u043e\u0432, \u043a\u0430\u043a \u0422\u043e\u043d\u0438 \u041a\u0440\u044d\u0433\u0433, \u0420\u0438\u0447\u0430\u0440\u0434 \u0414\u0438\u043a\u043e\u043d, \u042d\u043d\u0442\u043e\u043d\u0438 \u0413\u043e\u0440\u043c\u043b\u0438, \u0413\u0440\u044d\u043d\u0432\u0438\u043b\u043b \u0414\u044d\u0432\u0438, \u0410\u043d\u0438\u0448 \u041a\u0430\u043f\u0443\u0440, , , , , \u0411\u0438\u043b\u043b \u0412\u0443\u0434\u0440\u043e\u0443."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Edward Thomas Allington (24 June 1951 \u2013 21 September 2017) was a British artist and sculptor, best known for his part in the 1980s New British Sculpture movement. Born at Troutbeck Bridge, Westmorland, to Ralph Allington and his wife, Evelyn, Allington studied at Lancaster College of Art from 1968 to 1971, at the Central School of Art and Design in London from 1971 to 1974 and at the Royal College of Art from 1983 to 1984. He was a fellow at Exeter College of Art and Design 1975\u201377. He won the John Moores Liverpool Exhibition Prize in 1989, was Gregory Fellow in Sculpture at University of Leeds 1991\u201393 and Research Fellow in Sculpture at Manchester Metropolitan University in 1993. He received a fine art award to work at the British School at Rome in 1997."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.edwardallington.com/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/1-allington_deluxe_vase.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward_Allington,_early_1990s,_image_courtesy_of_the_Edward_Allington_estate.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramsbottom_Tilted_Vase_010405.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Troutbeck_Bridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Westmorland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2017-09-21"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Troutbeck_Bridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Westmorland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1951-06-24"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_Slade_School_of_Fine_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1951_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Central_School_of_Art_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Royal_College_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2017_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Windermere,_Cumbria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "10368720"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1072677818"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_College_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_Slade_School_of_Fine_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_College_Hospital"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_College_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Leeds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_and_Albert_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1951_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saarbr\u00fccken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oblique_projection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greater_Manchester"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leeds_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester_Metropolitan_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slade_School_of_Fine_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Sussex"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Central_School_of_Art_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Royal_College_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_School_at_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Central_School_of_Art_and_Design"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Troutbeck_Bridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Westmorland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2017_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Irish_Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edward_Allington",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jesus_College,_Cambridge"
+    }
+]

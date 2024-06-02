@@ -1,0 +1,472 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062f\u0648\u0631\u0648\u062b\u064a \u0628\u0644\u0648\u0645"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Dorothy Blum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Dorothy Blum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Dorothy Blum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062f\u0648\u0631\u0648\u062b\u064a \u0628\u0644\u0648\u0645 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Dorothy Blum)\u200f \u0647\u064a \u0639\u064e\u0627\u0644\u0650\u0645\u064e\u0629 \u062d\u0627\u0633\u0648\u0628 \u0623\u0645\u0631\u064a\u0643\u064a\u0629\u060c \u0648\u0644\u062f\u062a \u0641\u064a 21 \u0641\u0628\u0631\u0627\u064a\u0631 1924 \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u062a\u0648\u0641\u064a\u062a \u0641\u064a \u0623\u0643\u062a\u0648\u0628\u0631 1980."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Dorothy Toplitzky Blum (February 21, 1924 \u2013 October 1980) was an American computer scientist and cryptanalyst. She worked for the National Security Agency and its predecessors from 1944 until her death in 1980."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Dorothy \u201eDottie\u201c Toplitzky Blum, geboren als Dorothy Toplitzky (geboren 21. Februar 1924 in New York City; gestorben Oktober 1980) war eine amerikanische Informatikerin und Kryptoanalytikerin. Sie arbeitete von 1944 bis zu ihrem Tod 1980 f\u00fcr die National Security Agency und ihre Vorg\u00e4ngerinstitutionen."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Dorothy Toplitzky Blum (New York, 21 febbraio 1924 \u2013 ottobre 1980) \u00e8 stata un'informatica statunitense esperta in crittoanalisi. Lavor\u00f2 per la National Security Agency dal 1944 fino alla sua morte, nel 1980. Dorothy Blum."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Dorothy Toplitzky Blum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Dorothy Toplitzky Blum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dorothy_T_Blum_1924_1980.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "New York City, NY, US"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1924-02-21"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1924_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1980_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brooklyn_College_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Austrian_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:National_Security_Agency_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Hungarian_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "50150606"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1110133110"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/US_Army"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Army"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1924_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cryptanalysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1980_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brooklyn_College_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Austrian_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:National_Security_Agency_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NSA_Hall_of_Honor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Hungarian_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Security_Agency"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cryptanalyst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Dorothy_Blum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q23806463"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u062f\u0648\u0631\u0648\u062b\u064a_\u0628\u0644\u0648\u0645"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u062f\u0648\u0631\u0648\u062b\u0649_\u0628\u0644\u0648\u0645"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Dorothy_Blum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Dorothy_Blum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2EwVV"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Maryland_Women's_Hall_of_Fame"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dorothy_T_Blum_1924_1980.jpg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Brooklyn_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1924-02-21"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/citizenship",
+        "object": "American"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Computer scientist, cryptanalyst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u062f\u0648\u0631\u0648\u062b\u064a \u0628\u0644\u0648\u0645 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Dorothy Blum)\u200f \u0647\u064a \u0639\u064e\u0627\u0644\u0650\u0645\u064e\u0629 \u062d\u0627\u0633\u0648\u0628 \u0623\u0645\u0631\u064a\u0643\u064a\u0629\u060c \u0648\u0644\u062f\u062a \u0641\u064a 21 \u0641\u0628\u0631\u0627\u064a\u0631 1924 \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u062a\u0648\u0641\u064a\u062a \u0641\u064a \u0623\u0643\u062a\u0648\u0628\u0631 1980."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Dorothy Toplitzky Blum (February 21, 1924 \u2013 October 1980) was an American computer scientist and cryptanalyst. She worked for the National Security Agency and its predecessors from 1944 until her death in 1980."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Dorothy \u201eDottie\u201c Toplitzky Blum, geboren als Dorothy Toplitzky (geboren 21. Februar 1924 in New York City; gestorben Oktober 1980) war eine amerikanische Informatikerin und Kryptoanalytikerin. Sie arbeitete von 1944 bis zu ihrem Tod 1980 f\u00fcr die National Security Agency und ihre Vorg\u00e4ngerinstitutionen."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Dorothy Toplitzky Blum (New York, 21 febbraio 1924 \u2013 ottobre 1980) \u00e8 stata un'informatica statunitense esperta in crittoanalisi. Lavor\u00f2 per la National Security Agency dal 1944 fino alla sua morte, nel 1980. Dorothy Blum."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "http://dbpedia.org/resource/US_Army"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "http://dbpedia.org/resource/National_Security_Agency"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Dorothy_Blum?oldid=1110133110&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6053"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1924"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/US_Army"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/National_Security_Agency"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Brooklyn_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Dorothy_Blum__PersonFunction__1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Cryptanalyst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Dorothy_Blum",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Dorothy_Blum"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishArchitecturalSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPaintersFromLondon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromLondon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRoyalAcademicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Academician109759501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Illustrator109812068"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Painter110391653"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishIllustrators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPre-RaphaelitePainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Henry Hugh Armstead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Henry Hugh Armstead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Henry Hugh Armstead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Henry Hugh Armstead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Henry Hugh Armstead RA (18 June 1828 \u2013 4 December 1905) was an English sculptor and illustrator, influenced by the Pre-Raphaelites."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Henry Hugh Armstead (18 de junio de 1828 - 4 de diciembre de 1905) fue un escultor e ilustrador ingl\u00e9s, influido por la Hermandad Prerrafaelista."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Henry Hugh Armstead R.A. (Bloomsbury, 18 de junho de 1828 \u2013 Cidade de Westminster, 4 de dezembro de 1905) foi um escultor e ilustrador ingl\u00eas, influenciado pela Irmandade Pr\u00e9-Rafaelita."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Henry Hugh Armstead, f\u00f6dd 18 juni 1828 i London, d\u00f6d d\u00e4r 4 december 1905, var en brittisk skulpt\u00f6r."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Henry Hugh Armstead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Henry Hugh Armstead"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/20130808_Kings_College_Front_Court_Fountain.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/EB1911_Plate_III._v24,_pg.504,_Fig_5.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Exeter_-_Guildhall_20151023-12.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Family_grave_of_Henry_Hugh_Armstead_in_Highgate_Cemetery.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry_Hugh_Armstead,_1879.png"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry_Hugh_Armstead_-_Buste_de_Mrs_Hugh_Wells_Armstead.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Holy_Trinity,_Sloane_Street,_bronze_lectern.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Stockbridge_Cup.png"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Bloomsbury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/St_John's_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "St John's Wood, London, England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1905-12-04"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Bloomsbury, London, England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1828-06-18"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Pre-Raphaelite_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1828_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1905_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_English_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_illustrators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_male_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Royal_Academicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Bloomsbury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Burials_at_Highgate_Cemetery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_architectural_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Pre-Raphaelite_illustrators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2107324"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1115655780"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camden_Town"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Maria_von_Weber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Victoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloomsbury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Kean"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lord_John_Thynne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pre-Raphaelites"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Pre-Raphaelite_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Hodges_Baily"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Gilbert_Scott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Fletcher_Waghorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sir_James_Outram,_1st_Baronet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frieze_of_Parnassus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1828_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1905_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_English_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_illustrators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_male_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Royal_Academicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Henry_Hugh_Armstead",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_London"
+    }
+]

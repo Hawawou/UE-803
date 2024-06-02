@@ -1,0 +1,447 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatMUDDevelopers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Developer110010062"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ResearchWorker110523076"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatProgrammingLanguageResearchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSwedishComputerProgrammers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSwedishComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lennart Augustsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lennart Augustsson is a Swedish computer scientist. He was previously a lecturer at the Computing Science Department at Chalmers University of Technology. His research field is functional programming and implementations of functional languages. Augustsson has worked for , , Credit Suisse, Standard Chartered Bank, Facebook, X Development, Google and is currently employed by Epic Games. Augustsson is the author of: Augustsson was intimately involved in early LPMud development, both in the LPMUD driver and the CD mudlib. His MUD community pseudonym is Marvin."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Programming_language_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Swedish_computer_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Swedish_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:MUD_developers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "1879405"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1082882727"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Programming_language_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MUD"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Swedish_computer_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Device_driver"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Credit_Suisse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Epic_Games"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Google"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ML_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Functional_programming"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Swedish_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lazy_evaluation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Facebook"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graph_reduction"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graph_reduction_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haskell_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Obfuscated_C_Code_Contest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chalmers_University_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:MUD_developers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LPMud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bluespec"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sweden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NetBSD"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CD_gamedriver_and_mudlib"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/X_(company)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programming_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miranda_programming_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Standard_Chartered_Bank"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandburst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlstedt_Research_and_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PH_compiler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://augustss.blogspot.com/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.cs.chalmers.se/~augustss/hbc/hbc.html"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.augustsson.net"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.ioccc.org/years.html%231985_august"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.ioccc.org/years.html%231986_august"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.ioccc.org/years.html%231996_august"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0636y0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Lennart_Augustsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/a/LennartAugustsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/132148995967659751892"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6522721"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4q5MK"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Primary_sources"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:MUDs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Lennart Augustsson is a Swedish computer scientist. He was previously a lecturer at the Computing Science Department at Chalmers University of Technology. His research field is functional programming and implementations of functional languages. Augustsson has worked for , , Credit Suisse, Standard Chartered Bank, Facebook, X Development, Google and is currently employed by Epic Games. Augustsson is the author of: \n* The Cayenne programming language. \n* The HBC Haskell compiler. \n* Several hardware device drivers for NetBSD. \n* The front end of the (parallel Haskell) from MIT. \n* The initial version of the Bluespec compiler. He was also a co-developer, with Thomas Johnsson, of Lazy ML, a functional programming language developed in the early 1980s, prior to Miranda and Haskell. LML is a strongly typed, statically scoped implementation of ML, with lazy evaluation. The key innovation of LML was to demonstrate how to compile a lazy functional language. Until then, lazy languages had been implemented via interpreted graph reduction. LML compiled to G-machine code. Augustsson was intimately involved in early LPMud development, both in the LPMUD driver and the CD mudlib. His MUD community pseudonym is Marvin. Augustsson has written three winning entries in the International Obfuscated C Code Contest: \n* 1985: Most obscure program (1985/august.c) \n* 1986: Best complex task done in a complex way (1986/august.c) \n* 1996: Best of Show (1996/august.c)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Lennart_Augustsson?oldid=1082882727&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4395"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lennart_Augustsson",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Lennart_Augustsson"
+    }
+]

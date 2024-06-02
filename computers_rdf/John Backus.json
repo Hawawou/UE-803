@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanInformationTheorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatColumbiaUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTuringAwardLaureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatUnitedStatesArmySoldiers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromAshland,Oregon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromPhiladelphia,Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/EnlistedPerson110058777"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Gambler110118844"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/InteriorDesigner110210648"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Laureate110249011"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Mathematician110301261"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PrizeWinner109627807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ResearchWorker110523076"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIBMFellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Winner110782791"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Serviceman110582746"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/SkilledWorker110605985"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Soldier110622053"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Theorist110706812"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDraperPrizeWinners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAcademyOfArtsAndSciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromWilmington,Delaware"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatProgrammingLanguageDesigners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatProgrammingLanguageResearchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/PersonWithOccupation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062c\u0648\u0646 \u0628\u0627\u0643\u0648\u0633"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John W. Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John W. Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30b8\u30e7\u30f3\u30fb\u30d0\u30c3\u30ab\u30b9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc874 \ubc30\ucee4\uc2a4"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u044d\u043a\u0443\u0441, \u0414\u0436\u043e\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Backus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0414\u0436\u043e\u043d \u0411\u0435\u043a\u0443\u0441"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u7d04\u7ff0\u00b7\u5df4\u79d1\u65af"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Warner Backus (* 3. Dezember 1924 in Philadelphia; \u2020 17. M\u00e4rz 2007 in Ashland, Oregon) war ein US-amerikanischer Informatiker und einer der Pioniere der Informatik. Er war Leiter des Entwicklungsteams von Fortran, der ersten (tats\u00e4chlich realisierten) Programmierhochsprache. Mit Peter Naur zusammen entwickelte er die nach ihnen benannte Backus-Naur-Form, eine Notation zur Beschreibung formaler Sprachen. Er forschte im Bereich der funktionalen Programmierung und half, dieses Programmierparadigma weiter zu verbreiten."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Matamaiticeoir Meirice\u00e1nach ab ea John Backus (3 Nollaig 1924 \u2013 17 M\u00e1rta 2007). Rugadh \u00e9 i Philadelphia, Pennsylvania. Speisialt\u00f3ir i r\u00edomhaireacht ab ea \u00e9. Dhear s\u00e9 an teanga chl\u00e1r\u00fach\u00e1in ardleibh\u00e9il FORTRAN."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Warner Backus (Filadelfia, 3 dicembre 1924 \u2013 Ashland, 17 marzo 2007) \u00e8 stato un informatico e matematico statunitense."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc874 \uc6cc\ub108 \ubc30\ucee4\uc2a4(John Warner Backus, 1924\ub144 12\uc6d4 3\uc77c ~ 2007\ub144 3\uc6d4 17\uc77c)\ub294 \ubbf8\uad6d\uc758 \ucef4\ud4e8\ud130 \uacfc\ud559\uc790\uc774\ub2e4. \uadf8\ub294 \ucd5c\ucd08\ub85c \ub110\ub9ac \uc0ac\uc6a9\ub41c \uace0\uae09 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4 (\ud3ec\ud2b8\ub780)\ub97c \ubc1c\uba85\ud55c \ud300\uc744 \uc774\ub04c\uc5c8\uace0 \ud615\uc2dd \uc5b8\uc5b4 \ubb38\ubc95\uc744 \uc815\uc758\ud558\ub294 \ubc30\ucee4\uc2a4-\ub098\uc6b0\ub974 \ud45c\uae30\ubc95\uc744 \ubc1c\uba85\ud588\ub2e4. \ub610, \uadf8\ub294 \ud568\uc218 \uc218\uc900\uc758 \ud504\ub85c\uadf8\ub798\ubc0d(function-level programming)\ub97c \uc5f0\uad6c\ud558\uace0 \uc774\ub97c \ub300\uc911\ud654\ud558\ub294\ub370 \uae30\uc5ec\ud588\ub2e4. \uc804\uae30 \uc804\uc790 \uae30\uc220\uc790 \ud611\ud68c\ub294 \ubc30\ucee4\uc2a4\uc5d0\uac8c \ud3ec\ud2b8\ub780 \uc5b8\uc5b4 \uac1c\ubc1c\uc758 \uacf5\ub85c\ub85c \ub9d0\ubbf8\uc554\uc544 1967\ub144 \uc744 \uc218\uc5ec\ud588\ub2e4. \ubc30\ucee4\uc2a4\ub294 1975\ub144 \uc744 \ubc1b\uc558\uace0, 1977\ub144\uc5d0\ub294 \ud604\uc2e4\uc801\uc778 \uace0\uae09 \ud504\ub85c\uadf8\ub798\ubc0d \uccb4\uacc4\uc758 \uc124\uacc4\uc5d0 \ub73b\uae4a\uace0 \uc601\ud5a5\ub825 \uc788\ub294 \uc9c0\uc18d\uc801\uc778 \uae30\uc5ec, \ud2b9\ud788 \ud3ec\ud2b8\ub780\uc5d0 \ub300\ud55c \uadf8\uc758 \uacf5\ub85c\ub85c \ub9d0\ubbf8\uc554\uc544, \ub610 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub4e4\uc758 \uaddc\uaca9\uc5d0 \ub300\ud55c \ud615\uc2dd \uc808\ucc28\uc758 \ucd9c\ud310\uc73c\ub85c \ub9d0\ubbf8\uc554\uc544 ACM \ud29c\ub9c1\uc0c1\uc744 \ubc1b\uc558\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Warner Backus (ur. 3 grudnia 1924 w Filadelfii \u2013 zm. 17 marca 2007 w Ashland w stanie Oregon w USA) \u2013 ameryka\u0144ski informatyk, tw\u00f3rca j\u0119zyka programowania Fortran, pierwszego powszechnie u\u017cywanego j\u0119zyka wysokiego poziomu, jeden z tw\u00f3rc\u00f3w (wraz z Naurem) notacji BNF wykorzystywanej do zapisu sk\u0142adni j\u0119zyk\u00f3w programowania. Laureat nagrody Turinga w 1977 roku za oba te dokonania."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30b8\u30e7\u30f3\u30fb\u30ef\u30fc\u30ca\u30fc\u30fb\u30d0\u30c3\u30ab\u30b9\uff08John Warner Backus, 1924\u5e7412\u67083\u65e5 - 2007\u5e743\u670817\u65e5\uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u6570\u5b66\u8005\u3002\u521d\u671f\u306e\u9ad8\u6c34\u6e96\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e (FORTRAN) \u306e\u767a\u660e\u8005\u3001\uff08\u5f62\u5f0f\u8a00\u8a9e\u306e\u6587\u6cd5\u306e\u5b9a\u7fa9\u306b\u6c4e\u7528\u7684\u306b\u7528\u3044\u3089\u308c\u308b\uff09\u30d0\u30c3\u30ab\u30b9\u30fb\u30ca\u30a6\u30a2\u8a18\u6cd5\u306e\u767a\u660e\u8005\u3001\u307e\u305f (Function-level Programming) \u306e\u63d0\u5531\u8005\u3067\u3082\u3042\u308b\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Warner Backus (Filad\u00e9lfia, 3 de dezembro de 1924 \u2014 Ashland, 17 de mar\u00e7o de 2007) foi um cientista da computa\u00e7\u00e3o estadunidense. Conhecido por criar a primeira linguagem de programa\u00e7\u00e3o de alto n\u00edvel - o Fortran - a nota\u00e7\u00e3o BNF e o conceito de programa\u00e7\u00e3o em n\u00edvel de fun\u00e7\u00f5es. Recebeu em 1977 o Pr\u00eamio Turing, por suas contribui\u00e7\u00f5es para o desenvolvimento de sistemas de programa\u00e7\u00e3o de alto n\u00edvel, principalmente por seu trabalho no Fortran e por publica\u00e7\u00f5es sobre m\u00e9todos formais na especifica\u00e7\u00e3o de linguagens de programa\u00e7\u00e3o."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Warner Backus (Philadelphia, 3 december 1924 \u2013 Ashland, 17 maart 2007) was een Amerikaanse informaticus. Hij was een van de belangrijkste pioniers op het gebied van programmeer\u00adtalen. Hij leidde het team dat FORTRAN, de eerste ge\u00efmplementeerde hogere programmeertaal, maakte, hij voerde de metataal BNF in, die vrijwel universeel wordt gebruikt om de syntaxis van computertalen te beschrijven, en deed onderzoek op het gebied van , een vorm van functioneel programmeren."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Warner Backus, f\u00f6dd 3 december 1924 i Philadelphia, Pennsylvania, USA, d\u00f6d 17 mars 2007 i Ashland, Oregon, var en amerikansk programutvecklare. John Backus \u00e4r k\u00e4nd f\u00f6r att ha lett utvecklingen av ett av de allra f\u00f6rsta h\u00f6gniv\u00e5programspr\u00e5ken, Fortran, och som en av upphovsm\u00e4nnen till Backus-Naur-form (BNF, ett vanligt s\u00e4tt att definiera syntax f\u00f6r ett formellt programmeringsspr\u00e5k), och \u00e4ven att ha myntat begreppet funktionell programmering. Han fick National Medal of Science 1975 och Turingpriset 1977. Han har f\u00e5tt asteroiden 6830 Johnbackus uppkallad efter sig."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u0436\u043e\u043d \u0411\u044d\u043a\u0443\u0441 (\u0430\u043d\u0433\u043b. John Warner Backus; 3 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 1924 \u0433\u043e\u0434\u0430 \u2014 17 \u043c\u0430\u0440\u0442\u0430 2007 \u0433\u043e\u0434\u0430) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0443\u0447\u0451\u043d\u044b\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u0435\u0439 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0432\u044b\u0441\u043e\u043a\u043e\u0443\u0440\u043e\u0432\u043d\u0435\u0432\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0424\u043e\u0440\u0442\u0440\u0430\u043d, \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0430\u0442\u0435\u043b\u044c \u0444\u043e\u0440\u043c\u044b \u0411\u044d\u043a\u0443\u0441\u0430 \u2014 \u041d\u0430\u0443\u0440\u0430 \u2014 \u043e\u0434\u043d\u043e\u0439 \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0451\u043d\u043d\u044b\u0445 \u0438 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u044b\u0445 \u043d\u043e\u0442\u0430\u0446\u0438\u0439 \u0434\u043b\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441\u0430 \u0444\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0445 \u044f\u0437\u044b\u043a\u043e\u0432, \u043b\u0430\u0443\u0440\u0435\u0430\u0442 \u043f\u0440\u0435\u043c\u0438\u0438 \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0430 (1977). \u0427\u043b\u0435\u043d \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u043d\u0430\u0443\u043a \u0421\u0428\u0410 (1974)."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u0436\u043e\u043d \u0412\u043e\u0301\u0440\u043d\u0435\u0440 \u0411\u0435\u0301\u043a\u0443\u0441 (\u0430\u043d\u0433\u043b. John Warner Backus; 3 \u0433\u0440\u0443\u0434\u043d\u044f 1924 \u2014 17 \u0431\u0435\u0440\u0435\u0437\u043d\u044f 2007) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043d\u0430\u0443\u043a\u043e\u0432\u0435\u0446\u044c \u0443 \u0433\u0430\u043b\u0443\u0437\u0456 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438 (\u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u043d\u0438\u0445 \u043d\u0430\u0443\u043a). \u0412\u0456\u043d \u0431\u0443\u0432 \u043a\u0435\u0440\u0456\u0432\u043d\u0438\u043a\u043e\u043c \u043a\u043e\u043c\u0430\u043d\u0434\u0438, \u044f\u043a\u0430 \u0440\u043e\u0437\u0440\u043e\u0431\u0438\u043b\u0430 \u0424\u043e\u0440\u0442\u0440\u0430\u043d, \u043f\u0435\u0440\u0448\u0443 \u043c\u043e\u0432\u0443 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0432\u0438\u0441\u043e\u043a\u043e\u0433\u043e \u0440\u0456\u0432\u043d\u044f, \u0432\u0438\u043d\u0430\u0445\u0456\u0434\u043d\u0438\u043a\u043e\u043c \u043d\u043e\u0442\u0430\u0446\u0456\u0457 \u0411\u0435\u043a\u0443\u0441\u0430 \u2014 \u041d\u0430\u0443\u0440\u0430 (\u0411\u0435\u043a\u0443\u0441\u0430 \u2014 \u041d\u0430\u0443\u0440\u0430 \u0444\u043e\u0440\u043c\u0430, \u0411\u041d\u0424), \u043e\u0434\u043d\u0456\u0454\u0457 \u0437 \u043d\u0430\u0439\u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u0456\u0448\u0438\u0445 \u043d\u043e\u0442\u0430\u0446\u0456\u0439, \u044f\u043a\u0430 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0432\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441\u0443 \u0444\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u0438\u0445 \u043c\u043e\u0432."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u7d04\u7ff0\u00b7\u83ef\u7d0d\u00b7\u5df4\u79d1\u65af\uff08\u82f1\u8a9e\uff1aJohn Warner Backus\uff0c1924\u5e7412\u67083\u65e5\uff0d2007\u5e743\u670817\u65e5\uff09\uff0c\u7f8e\u570b\u8a08\u7b97\u6a5f\u79d1\u5b78\u5bb6\uff0c\u662f\u65e9\u671f\u9ad8\u968e\u8a9e\u8a00\uff08High-level Language\uff09FORTRAN\u7684\u767c\u660e\u5c0f\u7d44\u7d44\u9577\u3002\u4ed6\u63d0\u51fa\u4e86\u5df4\u79d1\u65af\u7bc4\u5f0f\uff08\u7528\u4f86\u5b9a\u7fa9\u5f62\u5f0f\u8a9e\u8a00\u8a9e\u6cd5\u7684\u8a18\u865f\u6cd5\uff09\uff0c\u767c\u660e\u4e86\u51fd\u6570\u7ea7\u7f16\u7a0b\u6982\u5ff5\u53ca\u5be6\u8e10\u8a72\u6982\u5ff5\u7684FP\u8bed\u8a00\u3002\u70ba1977\u5e74\u5716\u9748\u734e\u5f97\u4e3b\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Backus",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062c\u0648\u0646 \u0628\u0627\u0643\u0648\u0633 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: John Backus)\u200f \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0627\u0634\u062a\u0647\u0631 \u0641\u064a \u0645\u062c\u0627\u0644 \u0639\u0644\u0645 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0628\u0639\u0645\u0644\u0647 \u0639\u0644\u0649 \u0644\u063a\u0629 \u0641\u0648\u0631\u062a\u0631\u0627\u0646 \u0648\u0635\u064a\u063a\u0629 \u0628\u0627\u0643\u0648\u0633 \u0646\u0648\u0631\u060c \u0641\u0627\u0632 \u0628\u062c\u0627\u0626\u0632\u0629 \u062a\u0648\u0631\u0646\u063a \u0641\u064a \u0639\u0627\u0645 1977.\u0648\u0644\u062f \u0628\u0627\u0643\u0648\u0633 (John Backus) \u0639\u0627\u0644\u0645 \u0627\u0644\u0643\u0645\u0628\u064a\u0648\u062a\u0631 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a \u0641\u064a \u0648\u0644\u0627\u064a\u0629 \u0641\u064a\u0644\u0627\u062f\u0644\u0641\u064a\u0627 \u0633\u0646\u0629 1924\u0645\u060c \u0644\u0645 \u064a\u0643\u0646 \u0637\u0627\u0644\u0628\u0627\u064b \u0645\u062c\u062a\u0647\u062f\u0627\u064b \u0641\u064a \u0627\u0644\u0645\u062f\u0631\u0633\u0629. \u0627\u0644\u062a\u062d\u0642 \u0628\u0639\u062f\u0647\u0627 \u0628\u062c\u0627\u0645\u0639\u0629 \u0641\u0631\u062c\u064a\u0646\u064a\u0627 \u0644\u062f\u0631\u0627\u0633\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0621 \u0644\u0643\u0646\u0647 \u062a\u0631\u0643 \u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0644\u064a\u0635\u0628\u062d \u062c\u0646\u062f\u064a\u0627\u064b \u0641\u064a \u0627\u0644\u062c\u064a\u0634 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u060c \u062d\u064a\u062b \u062a\u0639\u0644\u0645 \u0627\u0644\u062a\u062f\u0631\u064a\u0628 \u0627\u0644\u0637\u0628\u064a\u060c \u0648\u0641\u064a \u062a\u0644\u0643 \u0627\u0644\u0641\u062a\u0631\u0629 \u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u0637\u0628\u0627\u0621 \u0648\u062c\u0648\u062f \u0648\u0631\u0645 \u0641\u064a \u062f\u0645\u0627\u063a\u0647 \u0648\u062a\u0645 \u0625\u0632\u0627\u0644\u062a\u0647 \u0628\u0646\u062c\u0627\u062d \u0648\u0648\u0636\u0639\u0648\u0627 \u0635\u0641\u064a\u062d\u0629 \u0631\u0642\u064a\u0642\u0629 \u0645\u0643\u0627\u0646 \u0647\u0630\u0627 \u0627\u0644\u0648\u0631\u0645 \u0641\u064a \u0631\u0623\u0633\u0647. \u062a\u0631\u0643 \u0628\u0627\u0643\u0648\u0633 \u0627\u0644\u062a\u062f\u0631\u064a\u0628 \u0627\u0644\u0637\u0628\u064a \u0628\u0639\u062f 9\u0623\u0634\u0647\u0631 \u0648\u0623\u062c\u0631\u064a\u062a \u0644\u0647 \u0639\u0645\u0644\u064a\u0629 \u0644\u0627\u0633\u062a\u0628\u062f\u0627\u0644 \u0627\u0644\u0635\u0641\u064a\u062d\u0629 \u0627\u0644\u0631\u0642\u064a\u0642\u0629 \u0628\u0623\u062e\u0631\u0649 \u0645\u0646 \u062a\u0635\u0645\u064a\u0645\u0647."
+    }
+]

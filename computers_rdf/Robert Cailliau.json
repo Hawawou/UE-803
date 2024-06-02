@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBelgianAtheists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBelgianComputerProgrammers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBelgianComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBelgianEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBelgianInventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBelgianPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBelgianScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBelgianTechnologyWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatCommandersOfTheOrderOfLeopold(Belgium)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerProgrammers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Atheist109820044"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CommandingOfficer109941964"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disbeliever110015897"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Inventor110214637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/MilitaryOfficer110317007"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/NonreligiousPerson109625789"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Originator110383816"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Pioneer110434725"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGhentUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIndustrialEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatInternetPioneers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Serviceman110582746"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/SkilledWorker110605985"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFlemishPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromTongeren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0631\u0648\u0628\u0631\u062a \u0643\u0627\u064a\u0644\u064a"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ub85c\ubca0\ub974 \uce74\uc774\uc624"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30ed\u30d0\u30fc\u30c8\u30fb\u30ab\u30a4\u30ea\u30e5\u30fc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041a\u0430\u0439\u043e, \u0420\u043e\u0431\u0435\u0440\u0442"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u7f57\u4f2f\u7279\u00b7\u5361\u91cc\u5965"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0420\u043e\u0431\u0435\u0440\u0442 \u041a\u0430\u0439\u043e"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0631\u0648\u0628\u0631\u062a \u0643\u0627\u064a\u0644\u064a (\u0628\u0627\u0644\u0647\u0648\u0644\u0646\u062f\u064a\u0629: Robert Cailliau)\u200f (\u0648\u0644\u062f \u0641\u064a 26 \u064a\u0646\u0627\u064a\u0631 1947) \u0647\u0648 \u0645\u0647\u0646\u062f\u0633 \u0645\u0639\u0644\u0648\u0645\u0627\u062a\u064a\u0629 \u0648\u0639\u0627\u0644\u0645 \u0643\u0645\u0628\u064a\u0648\u062a\u0631 \u0628\u0644\u062c\u064a\u0643\u064a \u0633\u0627\u0639\u062f \u062a\u064a\u0645 \u0628\u064a\u0631\u0646\u0631\u0632 \u0644\u064a \u0641\u064a \u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0634\u0628\u0643\u0629 \u0627\u0644\u0639\u0646\u0643\u0628\u0648\u062a\u064a\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Cailliau (26 de gener de 1947, Tongeren), \u00e9s un enginyer belga que, junt amb en Tim Berners-Lee, va ser el creador de la World Wide Web."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Cailliau (\u010dti rob\u00e9r kajji\u00f3; * 26. ledna 1947, Tongeren) je belgick\u00fd in\u017een\u00fdr informatiky a po\u010d\u00edta\u010dov\u00fd v\u011bdec, kter\u00fd spolu s Sirem Timem Berners-Leem vytvo\u0159il WWW neboli World Wide Web."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Cailliau, n\u00e9 le 26 janvier 1947 \u00e0 Tongres, est un ing\u00e9nieur et informaticien belge qui a contribu\u00e9 au d\u00e9veloppement et, de fa\u00e7on cruciale, \u00e0 la diffusion du World Wide Web d\u00e8s son invention avec Tim Berners-Lee."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Cailliau (French pronunciation: \u200b[\u0281\u0254b\u025b\u0281 kajo], born 26 January 1947) is a Belgian informatics engineer, computer scientist and author who proposed the first (pre-www) hypertext system for CERN in 1987 and collaborated with Tim Berners-Lee on the World Wide Web (jointly winning the ACM ACM Software System Award) from before it got its name. He designed the historical logo of the WWW, organized the first International World Wide Web Conference at CERN in 1994 and helped transfer Web development from CERN to the global Web consortium in 1995. Together with Dr. James Gillies, Cailliau wrote How the Web Was Born, the first book-length account of the origins of the World Wide Web."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30ed\u30d0\u30fc\u30c8\u30fb\u30ab\u30a4\u30ea\u30e5\u30fc\uff08\u30ab\u30a4\u30e6\u30fc\u3001\u30ab\u30a4\u30e8\u30fc\u3001Robert Cailliau\u30011947\u5e741\u670826\u65e5 - \uff09\u306f\u3001World Wide Web\u306e\u5171\u540c\u958b\u767a\u8005\u306e\u4e00\u4eba\u3002 \u30ab\u30a4\u30ea\u30e5\u30fc\u306f\u30d9\u30eb\u30ae\u30fc\u306e\u30c8\u30f3\u30b2\u30ec\u30f3\u3067\u751f\u307e\u308c\u305f\u30021958\u5e74\u306b\u5bb6\u65cf\u3068\u5171\u306b\u30a2\u30f3\u30c8\u30a6\u30a7\u30eb\u30da\u30f3\u306b\u79fb\u308b\u30021958\u5e74\u306b\u30b2\u30f3\u30c8\u5927\u5b66\u306e\u6a5f\u68b0\u79d1\u5de5\u5b66\u3092\u5352\u696d\u3059\u308b\u3002\u307e\u305f\u3001\u30df\u30b7\u30ac\u30f3\u5927\u5b66\u3067\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fb\u60c5\u5831\u3068\u5236\u5fa1\u5de5\u5b66\uff08Computer, Information and Control Engineering\uff09\u306e\u4fee\u58eb\uff08MSc\uff09\u3092\u53d6\u5f97\u3057\u305f\u3002 1974\u5e7412\u6708\u3001\u30ab\u30a4\u30ea\u30e5\u30fc\u306f\u6b27\u5dde\u539f\u5b50\u6838\u7814\u7a76\u6a5f\u69cb\uff08CERN\uff09\u3067\u8077\u3092\u5f97\u3001\u967d\u5b50\u52a0\u901f\u88c5\u7f6e\u90e8\u9580\u306b\u914d\u5c5e\u3055\u308c\u305f\u30021987\u5e744\u6708\u306b\u30c7\u30fc\u30bf\u53d6\u6271\u90e8\u9580\u306e\u30aa\u30d5\u30a3\u30b9\u30fb\u30b3\u30f3\u30d4\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u30fb\u30b7\u30b9\u30c6\u30e0\u30c1\u30fc\u30e0\u306e\u30c1\u30fc\u30e0\u30ea\u30fc\u30c0\u30fc\u306b\u6607\u9032\u30021989\u5e74\u306b\u306f\u30c6\u30a3\u30e0\u30fb\u30d0\u30fc\u30ca\u30fc\u30ba\uff1d\u30ea\u30fc\u3068\u3068\u3082\u306bCERN\u5185\u306e\u6587\u66f8\u306b\u30a2\u30af\u30bb\u30b9\u3059\u308b\u305f\u3081\u306e\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u30b7\u30b9\u30c6\u30e0\u3092\u63d0\u6848\u3057\u305f\u3002\u3053\u306e\u30cf\u30a4\u30d1\u30fc\u30c6\u30ad\u30b9\u30c8\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u7fcc1990\u5e74\u306b\u306fWorld Wide Web\u3078\u3068\u767a\u5c55\u3057\u3066\u3044\u3063\u305f\u3002 1993\u5e74\u3001\u30ab\u30a4\u30ea\u30e5\u30fc\u306f\u30d5\u30e9\u30a6\u30f3\u30db\u30fc\u30d5\u30a1\u30fc\u5354\u4f1a\u3068\u5171\u540c\u3067\u6b27\u5dde\u59d4\u54e1\u4f1a\u521d\u306e\u30a6\u30a7\u30d6\u306b\u3088\u308b\u60c5\u5831\u6d41\u5e03\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3092\u7acb\u3061\u4e0a\u3052\u305f\u3002\u540c\u5e7412\u6708\u3001\u30ab\u30a4\u30ea\u30e5\u30fc\u306f\u7fcc1994\u5e745\u6708\u306bCERN\u3067\u958b\u304b\u308c\u305f\u56fd\u969bWWW\u4f1a\u8b70\u3078\u306e\u62db\u5f85\u3092\u53d7\u3051\u305f\u3002\u3053\u306e\u4f1a\u8b70\u306f\u4ee5\u5f8c\u6bce\u5e74\u958b\u304b\u308c\u3066\u3044\u308b\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Cailliau (Tongeren, 26 gennaio 1947) \u00e8 un informatico belga.Insieme a Tim Berners-Lee \u00e8 il co-inventore del World Wide Web."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\ub85c\ubca0\ub974 \uce74\uc774\uc624(Robert Cailliau)\ub294 \ubca8\uae30\uc5d0 \ucd9c\uc2e0 \uc815\ubcf4\ud559 \uc5d4\uc9c0\ub2c8\uc5b4, \ucef4\ud4e8\ud130 \uacfc\ud559\uc790\uc774\uc790 \uc800\uc220\uac00\uc774\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Cailliau (Tongeren, 26 januari 1947) is een Belgische informaticus en samen met Tim Berners-Lee een van de uitvinders en grondleggers van het wereldwijde web."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Cailliau (ur. 26 stycznia 1947) \u2013 belgijski programista, wsp\u00f3\u0142tw\u00f3rca us\u0142ugi WWW. W 1974 roku rozpocz\u0105\u0142 prac\u0119 w CERN."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Cailliau (Tongeren, 26 de janeiro de 1947) \u00e9 um inform\u00e1tico belga. Foi um dos pesquisadores do CERN que desenvolveu o conceito da World Wide Web, juntamente com Tim Berners-Lee."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0420\u043e\u0431\u0435\u0440\u0442 \u041a\u0430\u0439\u043e (\u043d\u0438\u0434\u0435\u0440\u043b. Robert Cailliau; \u0440\u043e\u0434. 26 \u044f\u043d\u0432\u0430\u0440\u044f 1947) \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u0441 \u0441\u044d\u0440\u043e\u043c \u0422\u0438\u043c\u043e\u043c \u0411\u0435\u0440\u043d\u0435\u0440\u0441\u043e\u043c-\u041b\u0438 \u0438\u0437\u043e\u0431\u0440\u0451\u043b \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044e \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043f\u0430\u0443\u0442\u0438\u043d\u044b (World Wide Web)."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u7f57\u4f2f\u7279\u00b7\u5361\u91cc\u5965\uff08\u6cd5\u8a9e\uff1aRobert Cailliau\uff0c\u6cd5\u8bed\u53d1\u97f3\uff1a[\u0281\u0254b\u025b\u0281 kajo]\uff1b1947\u5e741\u670826\u65e5\uff0d\uff09\uff0c\u662f\u4e00\u4f4d\u6bd4\u5229\u65f6\u4fe1\u606f\u5de5\u7a0b\u5e08\u3001\u8ba1\u7b97\u673a\u79d1\u5b66\u5bb6\u3002\u4ed6\u4e0e\u5176CERN\u540c\u4e8b\u8482\u59c6\u00b7\u4f2f\u7eb3\u65af-\u674e\u4e00\u8d77\u5f00\u53d1\u4e86\u4e07\u7ef4\u7f51\uff08WWW\uff09\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0420\u043e\u0431\u0435\u0440\u0442 \u041a\u0430\u0439\u043e (\u043d\u0456\u0434. Robert Cailliau; \u043d\u0430\u0440. 26 \u0441\u0456\u0447\u043d\u044f 1947, \u0422\u043e\u043d\u0433\u0435\u0440\u0435\u043d, \u041b\u0456\u043c\u0431\u0443\u0440\u0433, \u0411\u0435\u043b\u044c\u0433\u0456\u044f) \u2014 \u0431\u0435\u043b\u044c\u0433\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0456\u043d\u0436\u0435\u043d\u0435\u0440, \u0434\u043e\u043a\u0442\u043e\u0440 \u043d\u0430\u0443\u043a, \u0440\u0430\u0437\u043e\u043c \u0437 \u0422\u0456\u043c\u043e\u043c \u0411\u0435\u0440\u043d\u0435\u0440\u0441\u043e\u043c-\u041b\u0456 \u0440\u043e\u0437\u0440\u043e\u0431\u0438\u0432 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u044e \u0412\u0441\u0435\u0441\u0432\u0456\u0442\u043d\u044c\u043e\u0433\u043e \u043f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u044f (\u0430\u043d\u0433\u043b. World Wide Web)."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Cailliau (* 26. Januar 1947 in Tongern) ist ein belgischer Informatiker. Er wurde als Sohn eines Finanzbeamten geboren und studierte in Gent Elektrotechnik. Nach einem Masters-Abschluss in Michigan kehrte er zur\u00fcck nach Gent und arbeitete im Hybridrechenlabor der Universit\u00e4t. Ein Gent-Graduierter im CERN forderte ihn im Dezember 1974 wegen Problemen in den Netzteilen des Proton Synchrotron Boosters an, wo er erfolgreich ein CERN-Fellowship beantragte. Nach seinem Milit\u00e4rdienst in der K\u00f6niglichen Milit\u00e4rakademie, wo er u. a. mit der Programmierung von Computern besch\u00e4ftigt war, kehrte er zum CERN zur\u00fcck und erhielt dort 1980 eine Festanstellung."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Cailliau (26 de enero de 1947) es un ingeniero industrial de la Universidad belga de Gante y m\u00e1ster en Ciencias de la Computaci\u00f3n por la Universidad de M\u00edchigan (EE. UU.), es uno de los creadores del World Wide Web junto con Tim Berners-Lee. Al finalizar sus estudios y volver a Europa en 1974 entr\u00f3 en el Consejo Europeo para la Investigaci\u00f3n Nuclear (CERN) y empez\u00f3 a trabajar como jefe de la divisi\u00f3n Prot\u00f3n Synchroton (PS) trabajando en el sistema de control del acelerador."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://www.cailliau.org/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Robert Cailliau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RobertCailliau-2019-09-04_(cropped).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/WWW_logo_by_Robert_Cailliau.svg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Tongeren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Tongeren, Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_Cailliau",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1947-01-26"
+    }
+]

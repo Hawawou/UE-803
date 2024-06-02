@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Inventor110214637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatItalianEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatItalianInventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Leonardo Chiariglione"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Leonardo Chiariglione"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Leonardo Chiariglione"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Leonardo Chiariglione"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Leonardo Chiariglione (* 30. Januar 1943 in Almese) ist ein italienischer Informatiker. 1988 gr\u00fcndete er zusammen mit die MPEG-Gruppe, die aus 300 Fachleuten aus 20 L\u00e4ndern der Welt besteht. Die Gruppe entwickelte Standards wie MPEG-1, MPEG-2, MP3, MPEG-4 oder MPEG-7. Als deren Pr\u00e4sident trat er im Juni 2020 zur\u00fcck."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Leonardo Chiariglione (nacido el 30 de enero de 1943 en Almese) es un ingeniero italiano. Es conocido mundialmente por ser el creador de los formatos MPEG y MP3.\u200b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Leonardo Chiariglione (IPA: [kjari\u028e\u02c8\u028eo\u02d0ne]) (born 30 January 1943 (age 79) in Almese, Turin province, Piedmont, Italy) is an Italian engineer who has led the development of international technical standards for digital media. In particular, he was the chairman of the Moving Picture Experts Group (MPEG) from 1988 to 2020, which he co-founded together with Hiroshi Yasuda of NTT."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Leonardo Chiariglione (Almese, 30 gennaio 1943) \u00e8 un ingegnere italiano. \u00c8 noto per aver fondato, insieme a , l'MPEG, un gruppo internazionale di esperti che ha prodotto i noti standard audio-video MPEG-1, MPEG-2 e l'MP3, ed altri. Il prof. accredita a Chiariglione, in particolare, la vision dell'importanza degli standard nelle tecnologie audio-video dell'epoca di Internet."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_Chiariglione.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Almese"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_inventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:MPEG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Tokyo_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Italian_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Primetime_Emmy_Engineering_Award_winners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "7964686"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1061044675"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MPEG-2"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DAVIC"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Tokyo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_standard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Almese"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MPEG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MPEG-1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Open_standard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CSELT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_inventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Faraday_Medal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Almese"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daejeon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/European_Strategic_Program_on_Research_in_Information_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Foundation_for_Intelligent_Physical_Agents"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nippon_Telegraph_and_Telephone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_media"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Education_in_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hiroshi_Yasuda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kilby_International_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master's_degree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Broadcasting_Convention"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Electrotechnical_Commission"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Organization_for_Standardization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Technical_standard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Telecom_Italia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:MPEG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Tokyo_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Primetime_Emmy_Engineering_Award_winners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Turin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polytechnic_University_of_Turin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_of_Motion_Picture_and_Television_Engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institution_of_Engineering_and_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moving_Picture_Experts_Group"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Secure_Digital_Music_Initiative"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IEEE_Masaru_Ibuka_Consumer_Electronics_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IEEE_Spectrum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ISO/IEC_JTC_1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ISO/IEC_JTC_1/SC_29"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Piedmont,_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primetime_Engineering_Emmy_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ph.D._degree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/EUREKA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Research_and_Development_in_Advanced_Communications_Technologies_in_Europe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Leonardo_Chiariglione.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liceo_Salesiano_Valsalice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.cedeo.net/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.drmwatch.com/standards/article.php/3094961"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://mpeg.chiariglione.org/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.026lpgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/271559379"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/17202000X"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Leonardo_Chiariglione"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q3830348"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p073919535"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ast.dbpedia.org/resource/Leonardo_Chiariglione"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Leonardo_Chiariglione"
+    }
+]

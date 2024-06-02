@@ -1,0 +1,247 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alberto Ciaramella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alberto Ciaramella (born 1947) is an Italian computer engineer and scientist. He is notable for extensive pioneering contributions in the field of speech technologies and applied natural language processing, most of them at CSELT and Loquendo, with the amount of 40 papers and four patents."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://www.w3.org/2002/07/owl#differentFrom",
+        "object": "http://dbpedia.org/resource/Alberto_Caramella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1947_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_inventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sapienza_University_of_Rome_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Italian_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "52343130"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1066044243"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_language_processing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Read-only_memory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1947_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Competitive_intelligence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_Engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Ruberti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Loquendo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CSELT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_inventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Speech_technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Speaker_recognition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Speech_recognition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hidden_Markov_Model"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bootstrapping_(computing)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sapienza_University_of_Rome_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spoken_dialog_systems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VoiceXML"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Politecnico_di_Torino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_Sapienza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://abitofhistory.it/speakers/alberto-ciaramella/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Alberto_Ciaramella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/33/7162"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://orcid.org/0000-0003-3908-9738"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q27916429"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2bhmL"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Distinguish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alberto Ciaramella (born 1947) is an Italian computer engineer and scientist. He is notable for extensive pioneering contributions in the field of speech technologies and applied natural language processing, most of them at CSELT and Loquendo, with the amount of 40 papers and four patents."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Alberto_Ciaramella?oldid=1066044243&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7581"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alberto_Ciaramella",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Alberto_Ciaramella"
+    }
+]

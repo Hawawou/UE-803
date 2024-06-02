@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanInformationTheorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanSoftwareEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerProgrammers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatUnitedStatesAirForceAcademyAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSoftwareEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Employee110053808"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIBMEmployees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIBMFellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Theorist110706812"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAssociationForComputingMachinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Grady Booch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Grady Booch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Grady Booch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Grady Booch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Grady Booch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uadf8\ub798\ub514 \ubd80\uce58"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30b0\u30e9\u30c7\u30a3\u30fb\u30d6\u30fc\u30c1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Grady Booch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Grady Booch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Grady Booch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u0443\u0447, \u0413\u0440\u0430\u0434\u0438"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u845b\u4f86\u8fea\u00b7\u5e03\u5340"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0413\u0440\u0430\u0434\u0456 \u0411\u0443\u0447"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Grady Booch (born February 27, 1955) is an American software engineer, best known for developing the Unified Modeling Language (UML) with Ivar Jacobson and James Rumbaugh. He is recognized internationally for his innovative work in software architecture, software engineering, and collaborative development environments."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Grady Booch (n\u00e9 le 27 f\u00e9vrier 1955) est le cr\u00e9ateur d'une m\u00e9thode d'analyse et de conception orient\u00e9e objet qui porte son nom : la m\u00e9thode Booch ; en collaboration avec James Rumbaugh, cr\u00e9ateur de la notation OMT, et avec Ivar Jacobson, cr\u00e9ateur de la m\u00e9thode OOSE, il est \u00e0 l'origine du langage de mod\u00e9lisation UML."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uadf8\ub798\ub514 \ubd80\uce58(Grady Booch, 1955\ub144 2\uc6d4 27\uc77c ~ )\ub294 \ubbf8\uad6d\uc758 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc790\uc774\ub2e4. \uc758 \uc218\uc11d \uacfc\ud559\uc790\uc774\ub2e4. , \uc640 \ud568\uaed8 UML\uc744 \uac1c\ubc1c\ud55c \uac83\uc73c\ub85c \uc720\uba85\ud558\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30b0\u30e9\u30c7\u30a3\u30fb\u30d6\u30fc\u30c1 (\u82f1: Grady Booch \u30011955\u5e742\u670827\u65e5 - ) \u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u6280\u8853\u8005\u3067\u3042\u308b\u3002\u30d6\u30fc\u30c1\u306f\u3001\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u8005\u3067\u3042\u308a\u3001\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u958b\u767a\u65b9\u6cd5\u8ad6\u8005\u3067\u3042\u308a\u3001\u307e\u305f\u30c7\u30b6\u30a4\u30f3\u30d1\u30bf\u30fc\u30f3\u306a\u3069\u3001\u30aa\u30d6\u30b8\u30a7\u30af\u30c8\u6307\u5411\u306e\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u5de5\u5b66\u306e\u5206\u91ce\u3067\u6d3b\u52d5\u3057\u3066\u3044\u308b\u3002\u30aa\u30d6\u30b8\u30a7\u30af\u30c8\u6307\u5411\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u958b\u767a\u65b9\u6cd5\u8ad6\u3067\u3042\u308bBooch\u6cd5\u3092\u958b\u767a\u3057\u305f\u3002\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u958b\u767a\u306e\u305f\u3081\u306e\u30e2\u30c7\u30ea\u30f3\u30b0\u8a00\u8a9e UML (Unified Modeling Language; \u7d71\u4e00\u30e2\u30c7\u30ea\u30f3\u30b0\u8a00\u8a9e) \u306e\u958b\u767a\u306b\u304a\u3044\u3066\u5927\u304d\u306a\u5f79\u5272\u3092\u679c\u305f\u3057\u3066\u3044\u308b\u3002IBM \u306e\u30e9\u30b7\u30e7\u30ca\u30eb\u90e8\u9580\u306e\u4e3b\u5e2d\u6280\u8853\u8005\u3067\u3042\u308b\u3002\u307e\u305f Addison Wesley Benjamin/Cummings \u30b7\u30ea\u30fc\u30ba\u306e\u66f8\u7c4d\u306e\u7de8\u96c6\u8005\u3067\u3082\u3042\u308b\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Grady Booch (1955) \u00e8 un informatico statunitense, celebre progettista e metodologo nel campo dell'ingegneria del software object-oriented. \u00c8 noto soprattutto per il suo lavoro presso Rational Software e per aver contribuito alla definizione dello Unified Modeling Language insieme a James Rumbaugh e Ivar Jacobson (i \"\"). \u00c8 stato Chief Scientist di Rational Software (oggi parte dell'IBM) fin dalla sua fondazione nel 1981. Cura una serie di pubblicazioni tecniche per ."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Grady Booch (ur. 1955) \u2013 g\u0142\u00f3wny szef Rational Corp oraz redaktor magazynu Software Development. Opracowa\u0142 metod\u0119 obiektow\u0105 zwan\u0105 metod\u0105 Boocha. W p\u00f3\u017aniejszym czasie razem z i Jamesem Rumbaughem opracowali zunifikowany j\u0119zyk modelowania (UML). Oficjalnie pocz\u0105tek tego j\u0119zyka datuje si\u0119 na pa\u017adziernik 1995 roku."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Grady Booch (Texas, 27 februari 1955) is een Amerikaanse informaticus, en een pionier op het gebied van de modulair en objectgeori\u00ebnteerde sofwareontwikkeling, zoals de Ada (programmeertaal) en C++. Hij is verder bekend als ontwerper van de objectgeori\u00ebnteerde modelleertechniek, de Booch methode, en als medeontwikkelaar van de Unified Modeling Language."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0413\u0440\u0430\u0434\u0438 \u0411\u0443\u0447 (\u0430\u043d\u0433\u043b. Grady Booch; 27 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 1955 \u0433\u043e\u0434\u0430, \u0410\u043c\u0430\u0440\u0438\u043b\u043b\u043e, \u0422\u0435\u0445\u0430\u0441, \u0421\u0428\u0410) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u0438, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 , \u0441 2003 \u0433\u043e\u0434\u0430. \u0413\u0440\u0430\u0434\u0438 \u0411\u0443\u0447 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u043a\u0430\u043a \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c \u0443\u043d\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f UML, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u043d \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u0441 \u0418\u0432\u0430\u0440\u043e\u043c \u042f\u043a\u043e\u0431\u0441\u043e\u043d\u043e\u043c \u0438 \u0414\u0436\u0435\u0439\u043c\u0441\u043e\u043c \u0420\u0430\u043c\u0431\u043e."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Grady Booch (27 de fevereiro de 1955) \u00e9 um inform\u00e1tico estadunidense. Seu livro \"Software Engineering with Ada\" lan\u00e7ou as ra\u00edzes do projeto orientado a objetos. Esse trabalho evoluiu para uma metodologia de desenvolvimento de sistemas orientados a objetos publicada em seu livro \"Object-Oriented Analysis and Design with Applications\". Em 1996, em parceria com Ivar Jacobson e James Rumbaugh, lan\u00e7ou uma linguagem unificada para a modelagem de software que se tornou um padr\u00e3o da ind\u00fastria, a UML."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u845b\u4f86\u8fea\u00b7\u5e03\u5340\uff08\u82f1\u8a9e\uff1aGrady Booch\uff0c1955\u5e742\u670827\u65e5\uff0d\uff09\uff0c\u751f\u65bc\u7f8e\u570b\u5fb7\u5dde\u963f\u99ac\u91cc\u6d1b\uff0c\u8a08\u7b97\u6a5f\u79d1\u5b78\u5bb6\u8207\u8edf\u9ad4\u5de5\u7a0b\u5e2b\uff0c\u8207\u4f0a\u74e6\u723e\u00b7\u96c5\u5404\u5e03\u68ee\u3001\u8a79\u59c6\u58eb\u00b7\u862d\u5bf6\uff08James Rumbaugh\uff09\u5171\u540c\u958b\u767c\u4e86\u7edf\u4e00\u5efa\u6a21\u8bed\u8a00\uff08UML\uff09\u3002\u4ed6\u66fe\u70baAda\u8a9e\u8a00\u7f16\u5199\u4e86\u91cd\u8981\u7684\u6559\u79d1\u66f8\uff0c\u5728\u8edf\u9ad4\u67b6\u69cb\u3001\u8edf\u9ad4\u5de5\u7a0b\u53ca\u534f\u4f5c\u5f00\u53d1\u73af\u5883\u9886\u57df\u7684\u8ca2\u737b\u5177\u6709\u570b\u969b\u6027\u8072\u671b\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0413\u0440\u0430\u0434\u0456 \u0411\u0443\u0447 (Grady Booch; 27 \u043b\u044e\u0442\u043e\u0433\u043e 1955, \u0422\u0435\u0445\u0430\u0441) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0432\u0447\u0435\u043d\u0438\u0439 \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0439\u043d\u0438\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u0439 \u0456 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f. \u0410\u0432\u0442\u043e\u0440 \u043a\u043b\u0430\u0441\u0438\u0447\u043d\u0438\u0445 \u043f\u0440\u0430\u0446\u044c \u0437 \u043e\u0431'\u0454\u043a\u0442\u043d\u043e-\u043e\u0440\u0456\u0454\u043d\u0442\u043e\u0432\u0430\u043d\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0456\u0437\u0443. \u041e\u0434\u0438\u043d \u0437 \u0442\u0432\u043e\u0440\u0446\u0456\u0432 UML."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Grady Booch (* 27. Februar 1955 in Texas) ist ein amerikanischer Informatiker. Er gilt als Pionier auf dem Gebiet des modularen und objektorientierten Softwareentwurfs und der Klassenbibliotheken (Ada, C++). 1977 schloss er als Bachelor of Science an der United States Air Force Academy ab, 1979 erlangte er den Titel Master of Science an der University of California. 2016 wurde Booch mit dem Computer Pioneer Award der IEEE Computer Society ausgezeichnet."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Grady Booch (27 de febrero de 1955) es un dise\u00f1ador de software, un metodologista de software y prostituto entusiasta del dise\u00f1o de patrones. Es director cient\u00edfico de Rational Software (ahora parte de IBM) y editor de una serie de Benjamin/Cummings. En 1995 se recibi\u00f3 como miembro de la Asociaci\u00f3n de Maquinaria Computacional (ACM). Fue nombrado socio de IBM en 2003. Obtuvo su licenciatura en 1977 en la Academia de la Fuerza A\u00e9rea de los Estados Unidos y un m\u00e1ster en ingenier\u00eda el\u00e9ctrica en 1979 de la Universidad de California, en Santa B\u00e1rbara."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://researcher.watson.ibm.com/researcher/view.php%3Fperson=us-gbooch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Booch-diagram.png"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/GradyBoochAtIEEETechIgnite2017.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grady_Booch,_CHM_2011_2_cropped.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Texas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Amarillo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Amarillo, Texas, U.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1955-02-27"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1955_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellow_Members_of_the_IEEE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_software_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Ada_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Unified_Modeling_Language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:IBM_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Santa_Barbara_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:IBM_Fellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:IBM_Research_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Open_source_advocates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:United_States_Air_Force_Academy_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "562205"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1094989872"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grady_Booch",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Cummings"
+    }
+]

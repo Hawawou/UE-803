@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScienceWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Academician109759069"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Historian110177150"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHistoriansOfScience"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHistoriansOfTechnology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfTheUniversityOfWarwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishHistorians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Martin Campbell-Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Martin Campbell-Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Martin Campbell-Kelly is an Emeritus Professor at the University of Warwick who has specialised in the history of computing. Campbell-Kelly has served on the editorial board of the IEEE Annals of the History of Computing journal. He is a committee member of the Computer Conservation Society, a Specialist Group of the British Computer Society, and is a Gresham College lecturer."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Martin Campbell-Kelly est professeur \u00e9m\u00e9rite \u00e0 l'universit\u00e9 de Warwick et sp\u00e9cialis\u00e9 dans l'histoire de l'informatique."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://warwick.ac.uk/fac/sci/dcs/people/martin_campbell-kelly/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Warwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_historians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Historians_of_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Historians_of_technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Computer_science_writers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Sunderland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "24688403"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1062794690"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ResearchGate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Sunderland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Warwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_Conservation_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Warwick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_historians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Historians_of_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Historians_of_technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Computer_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Editorial_board"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gresham_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Computer_science_writers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Sunderland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IEEE_Annals_of_the_History_of_Computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://warwick.ac.uk/fac/sci/dcs/people/martin_campbell-kelly/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.researchgate.net/profile/Martin_Campbell-Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://ethos.bl.uk/OrderDetails.do%3Fuin=uk.bl.ethos.253210"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.05vs60c"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/94424340"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Martin_Campbell-Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/129239496"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/151531803"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/154027227"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/18658279X"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/186582897"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/58/5569"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6775113"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p075155036"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0627\u0631\u062a\u0646_\u0643\u0627\u0645\u0628\u0644_\u0643\u064a\u0644\u0649"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Martin_Campbell-Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4rGMZ"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/property/thesisTitle",
+        "object": "Foundations of computer programming in Britain 1945-1955"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/property/thesisUrl",
+        "object": "http://ethos.bl.uk/OrderDetails.do%3Fuin=uk.bl.ethos.253210"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Martin_Campbell-Kelly",
+        "predicate": "http://dbpedia.org/property/thesisYear",
+        "object": "1980"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mark Antokolski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "44152434"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "630218859"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Antokolsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Mark_Antokolsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:R_from_move"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Mark_Antokolski?oldid=630218859&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "45"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Mark_Antokolski"
+    }
+]

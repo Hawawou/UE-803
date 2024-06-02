@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromAlsace-Lorraine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CommandingOfficer109941964"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/MilitaryOfficer110317007"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Painter110391653"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Poet110444194"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFrenchSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanPoets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatKnightCommandersOfTheOrderOfMeritOfTheFederalRepublicOfGermany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Serviceman110582746"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/SkilledWorker110605985"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryFrenchPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryGermanPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlsatian-GermanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTheAcad\u00e9mieJulian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFrenchArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFrenchPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFrenchPoets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromStrasbourg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSurrealistArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSurrealistPoets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/PersonWithOccupation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062c\u0627\u0646 \u0622\u0631\u0628"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Hans Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Hans Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u03a7\u03b1\u03bd\u03c2 \u0391\u03c1\u03c0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Hans Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30b8\u30e3\u30f3\u30fb\u30a2\u30eb\u30d7"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc7a5 \uc544\ub974\ud504"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Hans Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u0440\u043f, \u0416\u0430\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Hans Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jean Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0413\u0430\u043d\u0441 \u0410\u0440\u043f"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u8ba9\u00b7\u963f\u5c14\u666e"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean (Hans) Arp (Estrasburg, imperi Alemany, Imperi Alemany, 16 de setembre de 1886 - Basilea, Su\u00efssa, 7 de juny de 1966) va ser un escultor, poeta i pintor alsaci\u00e0."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Hans Peter Wilhelm Arp, zn\u00e1m\u00fd tak\u00e9 jako Jean Arp, (16. z\u00e1\u0159\u00ed 1886 \u0160trasburk \u2013 7. \u010dervna 1966 Basilej) byl n\u011bmecko-francouzsk\u00fd socha\u0159, mal\u00ed\u0159, ilustr\u00e1tor a b\u00e1sn\u00edk. Byl \u010dlenem um\u011bleck\u00e9ho sm\u011bru, zvan\u00e9ho dadaismus."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062c\u0627\u0646 \u0622\u0631\u0628 \u0623\u0648 \u0647\u0627\u0646\u0632 \u0622\u0631\u0628 (Jean Arp \u0623\u0648 Hans Arp) (\u0648\u0644\u062f 1886 - \u062a\u0648\u0641\u064a 1966) \u0647\u0648 \u0631\u0633\u0651\u0627\u0645 \u0648\u0646\u062d\u0651\u0627\u062a \u0648\u0634\u0627\u0639\u0631 \u0641\u0631\u0646\u0633\u064a \u0623\u0644\u0645\u0627\u0646\u064a \u0634\u0647\u064a\u0631. \u0648\u0644\u062f \u0622\u0631\u0628 \u0644\u0623\u0645 \u064d \u0641\u0631\u0646\u0633\u064a\u0629 \u0648\u0623\u0628 \u0623\u0644\u0645\u0627\u0646\u064a\u060c \u0648\u0642\u062f \u0643\u0627\u0646 \u064a\u0633\u0645\u064a \u0646\u0641\u0633\u0647 \u062c\u0627\u0646 \u0622\u0631\u0628 \u0639\u0646\u062f\u0645\u0627 \u064a\u062a\u062d\u062f\u062b \u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629 \u0628\u064a\u0646\u0645\u0627 \u0643\u0627\u0646 \u064a\u0633\u062a\u062e\u062f\u0645 \u0627\u0633\u0645 \u0647\u0627\u0646\u0632 \u0622\u0631\u0628 \u0639\u0646\u062f \u0627\u0644\u062d\u062f\u064a\u062b \u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629. \u0639\u0646\u062f\u0645\u0627 \u0627\u0646\u062f\u0644\u0639\u062a \u0627\u0644\u062d\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u062c\u0623 \u062c\u0627\u0646 \u0622\u0631\u0628 \u0625\u0644\u0649 \u0632\u064a\u0648\u0631\u064a\u062e\u060c \u0648\u0641\u064a\u0647\u0627 \u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u0623\u0633\u064a\u0633 \u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0641\u0646 \u0648\u0627\u0644\u0623\u062f\u0628 \u0627\u0644\u062a\u064a \u0639\u0631\u0641\u062a \u0628\u0627\u0644\u062f\u0627\u062f\u064a\u0629 Dadaism\u060c \u0648\u0639\u0627\u0645 1924 \u0630\u0647\u0628 \u0625\u0644\u0649 \u0641\u0631\u0646\u0633\u0627 \u062d\u064a\u062b \u0628\u0631\u0632 \u0627\u0633\u0645\u0647 \u0643\u0623\u062d\u062f \u0641\u0646\u0627\u0646\u064a \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0633\u0631\u064a\u0627\u0644\u064a\u0629. \u0645\u0646 \u0623\u0639\u0645\u0627\u0644 \u0622\u0631\u0628 \u0627\u0644\u0645\u0646\u062d\u0648\u062a\u0629 \u063a\u0627\u0646\u064a\u0645\u064a\u062f Ganimede \u0648\u0627\u0644\u062a\u064a \u0623\u0646\u062c\u0632\u0647\u0627 \u0639\u0627\u0645 1959."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Hans Peter Wilhelm Arp, auch Jean Arp (* 16. September 1886 in Stra\u00dfburg; \u2020 7. Juni 1966 in Basel) war ein deutsch-franz\u00f6sischer Maler, Grafiker, Bildhauer und Lyriker."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u039f \u0396\u03b1\u03bd \u0391\u03c1\u03c0 \u03ae \u03a7\u03b1\u03bd\u03c2 \u0391\u03c1\u03c0 (Hans/Jean Arp, 16 \u03a3\u03b5\u03c0\u03c4\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 1886 \u2013 7 \u0399\u03bf\u03c5\u03bd\u03af\u03bf\u03c5 1966) \u03ae\u03c4\u03b1\u03bd \u03b3\u03bb\u03cd\u03c0\u03c4\u03b7\u03c2, \u03b6\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03bf\u03b9\u03b7\u03c4\u03ae\u03c2 \u03b3\u03b1\u03bb\u03bb\u03bf-\u03b3\u03b5\u03c1\u03bc\u03b1\u03bd\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2. \u03a3\u03c5\u03bc\u03bc\u03b5\u03c4\u03b5\u03af\u03c7\u03b5 \u03c3\u03b5 \u03bf\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b1 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c0\u03c1\u03c9\u03c4\u03bf\u03c0\u03bf\u03c1\u03b9\u03b1\u03ba\u03ac \u03ba\u03b1\u03bb\u03bb\u03b9\u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ac \u03ba\u03b9\u03bd\u03ae\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03ce\u03c4\u03bf\u03c5 \u03bc\u03b9\u03c3\u03bf\u03cd \u03c4\u03bf\u03c5 20\u03bf\u03cd \u03b1\u03b9\u03ce\u03bd\u03b1. \u039c\u03b5\u03b3\u03ac\u03bb\u03bf \u03bc\u03ad\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03ad\u03c1\u03b3\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03c6\u03b9\u03bb\u03bf\u03be\u03b5\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03bf , \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf \u03c4\u03b7\u03c2 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1\u03c2. \u0397 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c3\u03cd\u03b6\u03c5\u03b3\u03cc\u03c2 \u03c4\u03bf\u03c5, \u039c\u03b1\u03c1\u03b3\u03b5\u03c1\u03af\u03c4 \u03a7\u03ac\u03b3\u03ba\u03b5\u03bd\u03bc\u03c0\u03b1\u03c7, \u03bf\u03c1\u03b3\u03ac\u03bd\u03c9\u03c3\u03b5 \u03c4\u03bf \u038a\u03b4\u03c1\u03c5\u03bc\u03b1 \u0391\u03c1\u03c0 (Fondation Arp), \u03c0\u03bf\u03c5 \u03c3\u03c4\u03b5\u03b3\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03c3\u03c0\u03af\u03c4\u03b9 \u03ba\u03b1\u03b9 \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u03c4\u03bf\u03c5 \u0391\u03c1\u03c0 \u03c3\u03c4\u03bf \u03b4\u03ac\u03c3\u03bf\u03c2 \u03c4\u03bf\u03c5 \u039c\u03b5\u03bd\u03c4\u03cc\u03bd, \u03cc\u03c0\u03bf\u03c5 \u03ad\u03b6\u03b7\u03c3\u03b5 \u03b3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03b4\u03b9\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Hans Arp edo Jean Arp (Estrasburgo, 1886ko irailaren 16a - Basilea, 1966ko ekainaren 7a) franko-alemaniar eskultore, margolari eta olerkaria izan zen. \n* Datuak: Q153739 \n* Multimedia: Hans Arp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Hans Peter Wilhelm Arp (16 September 1886 \u2013 7 June 1966), better known as Jean Arp in English, was a German-French sculptor, painter, and poet. He was known as a Dadaist and an abstract artist."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Hans Peter Wilhelm Arp, dit Jean Arp, n\u00e9 \u00e0 Strasbourg (aujourd'hui en France) le 16 septembre 1886 et mort \u00e0 B\u00e2le (Suisse) le 7 juin 1966, est un peintre, sculpteur et po\u00e8te allemand naturalis\u00e9 fran\u00e7ais. Cofondateur du mouvement dada \u00e0 Zurich en 1916, il fut ensuite proche du surr\u00e9alisme. Il r\u00e9alisa de nombreuses \u0153uvres plastiques, en \u00e9troite collaboration avec Sophie Taeuber-Arp, son \u00e9pouse."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean (Hans) Arp (Estrasburgo, 16 de septiembre de 1887- Basilea, 7 de junio de 1966) fue un escultor, poeta y pintor francoalem\u00e1n. Fue uno de los fundadores del movimiento conocido como dada\u00edsmo."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Hans Peter Wilhelm \"Jean\" Arp (Strasburgo, 16 settembre 1887 \u2013 Basilea, 7 giugno 1966) \u00e8 stato un pittore, scultore e poeta francese, conosciuto come dadaista e pittore astratto."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30b8\u30e3\u30f3\u30fb\u30a2\u30eb\u30d7\uff08Jean Arp\uff09\u3001\u30c9\u30a4\u30c4\u540d\u30cf\u30f3\u30b9\u30fb\u30a2\u30eb\u30d7\uff08Hans Arp, 1886\u5e749\u670816\u65e5 - 1966\u5e746\u67087\u65e5\uff09\u306f\u3001\u73fe\u5728\u306e\u30d5\u30e9\u30f3\u30b9\u30fb\u30a2\u30eb\u30b6\u30b9\u5730\u65b9\u306e\u9996\u5e9c\u30b9\u30c8\u30e9\u30b9\u30d6\u30fc\u30eb\uff08\u30b7\u30e5\u30c8\u30e9\u30fc\u30b9\u30d6\u30eb\u30af\uff09\u51fa\u8eab\u306e\u5f6b\u523b\u5bb6\u3001\u753b\u5bb6\u3001\u8a69\u4eba\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean Arp, ook bekend als Hans Arp (Straatsburg, 16 september 1886 \u2013 Bazel, 7 juni 1966), was een Duits-Frans beeldhouwer, schilder en dichter. Hij speelde een belangrijke rol in de ontwikkeling van de moderne kunst en was een van de voormannen van de dada-beweging. Ook was Arp actief als sieraadontwerper."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Hans (Jean) Arp (ur. 16 wrze\u015bnia 1887 w Strasburgu, zm. 7 czerwca 1966 w Bazylei) \u2013 francuski malarz, grafik, rze\u017abiarz i poeta pochodzenia niemieckiego. Jego tw\u00f3rczo\u015b\u0107 nale\u017cy do nurtu abstrakcji organicznej \u2013 tworzy\u0142 abstrakcyjne rze\u017aby o zaokr\u0105glonych kszta\u0142tach i wyg\u0142adzonych powierzchniach. Przyczyni\u0142 si\u0119 do powstania dadaizmu. W latach 1926-1930 uczestniczy\u0142 w grupie surrealist\u00f3w."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Hans Peter Wilhem Arp (Estrasburgo, 16 de setembro de 1886 \u2014 7 de junho de 1966) foi um pintor escultor e poeta alem\u00e3o, naturalizado franc\u00eas."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean Arp, ursprungligen Hans Peter Wilhelm Arp, f\u00f6dd 16 september 1886 i Stra\u00dfburg i d\u00e5varande Tyskland, d\u00f6d 7 juni 1966 i Basel, var en tysk\u2013fransk skulpt\u00f6r, m\u00e5lare, grafiker och poet. Han var gift med Sophie Taeuber-Arp."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0413\u0430\u043d\u0441 \u0410\u0440\u043f (\u043d\u0456\u043c. Hans Arp, \u0444\u0440. Jean Arp) (1886\u20141966) \u2014 \u043d\u0456\u043c\u0435\u0446\u044c\u043a\u0438\u0439 \u0456 \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a, \u0433\u0440\u0430\u0444\u0456\u043a, \u043f\u043e\u0435\u0442 \u043d\u0456\u043c\u0435\u0446\u044c\u043a\u043e\u0433\u043e \u043f\u043e\u0445\u043e\u0434\u0436\u0435\u043d\u043d\u044f, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u043a \u0430\u0431\u0441\u0442\u0440\u0430\u043a\u0446\u0456\u043e\u043d\u0456\u0437\u043c\u0443 \u0456 \u0434\u0430\u0434\u0430\u0457\u0437\u043c\u0443; \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u0438, \u0440\u0435\u043b\u044c\u0454\u0444\u0438, \u043a\u043e\u043b\u0430\u0436\u0456, \u043b\u0456\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u043d\u0456 \u0442\u0432\u043e\u0440\u0438. \u0427\u043e\u043b\u043e\u0432\u0456\u043a \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u044c\u043a\u043e\u0457 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u0446\u0456, \u0434\u0438\u0437\u0430\u0439\u043d\u0435\u0440\u043a\u0438, \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u043a\u0438 \u0442\u0430 \u0442\u0430\u043d\u0446\u0456\u0432\u043d\u0438\u0446\u0456 \u0421\u043e\u0444\u0456 \u0422\u043e\u0439\u0431\u0435\u0440-\u0410\u0440\u043f."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0416\u0430\u043d \u0410\u0440\u043f (\u0444\u0440. Jean Arp, \u0438\u043b\u0438 \u0425\u0430\u043d\u0441 \u041f\u0435\u0442\u0435\u0440 \u0412\u0438\u043b\u044c\u0433\u0435\u043b\u044c\u043c \u0410\u0440\u043f \u043d\u0435\u043c. Hans Peter Wilhelm Arp; 16 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 1886, \u0421\u0442\u0440\u0430\u0441\u0431\u0443\u0440\u0433 \u2014 7 \u0438\u044e\u043d\u044f 1966, \u0411\u0430\u0437\u0435\u043b\u044c) \u2014 \u043d\u0435\u043c\u0435\u0446\u043a\u0438\u0439 \u0438 \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439 \u043f\u043e\u044d\u0442, \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a, \u0433\u0440\u0430\u0444\u0438\u043a, \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u8ba9\u00b7\u963f\u5c14\u666e\uff08Jean Arp\uff0c1886\u5e749\u670816\u65e5\uff0d1966\u5e746\u67087\u65e5\uff09\uff0c\u5fb7\u8bed\u540d\u6c49\u65af\uff0c\u5fb7\u88d4\u6cd5\u56fd\u96d5\u5851\u5bb6\u3001\u753b\u5bb6\u548c\u8bd7\u4eba\u30021916\u5e74\u53c2\u4e0e\u8fbe\u8fbe\u4e3b\u4e49\u8fd0\u52a8\uff0c\u7b2c\u4e00\u6b21\u4e16\u754c\u5927\u6218\u4e4b\u540e\u53c8\u4e0e\u8d85\u73b0\u5b9e\u4e3b\u4e49\u8005\u548c\u8868\u73b0\u4e3b\u4e49\u8005\u6709\u7740\u5e7f\u6cdb\u7684\u4ea4\u5f80\u3002\u963f\u5c14\u666e\u4e3b\u5f20\u827a\u672f\u7684\u5b8c\u5168\u81ea\u7531\uff0c\u6ce8\u91cd\u5185\u5728\u60c5\u611f\u7684\u8868\u8fbe\u3002\u963f\u5c14\u666e\u5ef6\u7eed\u4e86\u5eb7\u65af\u5766\u4e01\u00b7\u5e03\u6717\u5e93\u897f\u3001\u67e5\u7279\u91d1\u3001\u8d6b\u897f\u57c3\u7b49\u4eba\u7684\u9053\u8def\uff0c\u5b9e\u73b0\u4e86\u96d5\u5851\u7684\u5168\u9762\u62bd\u8c61\u5316\u3002\u5176\u96d5\u5851\u4ee3\u8868\u4f5c\u6709\u300a\u4e91\u7684\u7267\u4eba\u300b\u3001\u300a\u548c\u5e73\u5eca\u67f1\u300b\u3001\u300a\u5e73\u9762\u5ef6\u957f\u300b\u3001\u300a\u6784\u6210\u300b\u7b49\uff0c\u5e38\u5e38\u7ed9\u4eba\u6d41\u6c34\u4e00\u822c\u7684\u611f\u89c9\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Hans Jean ARP (naski\u011dis la 16-an de septembro, 1886, mortis 7-an de junio, 1966) estis germana-franca skulptisto, pentristo kaj poeto. Hans Arp naski\u011dis en Strasburgo. La filo de Alzaca patrino kaj ne-Alzaca Germana patro, li naski\u011dis dum la mallonga periodo post la Franca-Prusa Milito kiam la regiono nomi\u011dis Alzaco-Loreno (France: Alsace-Lorraine, Germane: Elsass-Lothringen) post \u011di estis redonita al Germanio de Francio. Post la reveno de Alzaco al Francio \u0109e la fino de la Unua mondmilito, Franca le\u011do determinis, ke lia nomo devis i\u011di Jean."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jean Arp (16 September 1887 \u2013 7 Juni 1966) adalah pematung, pelukis dan penyair Prancis yang merupakan pemimpin Eropa dalam seni selama awal abad ke-20. Ia pertama dilatih sebagai seorang seniman di kota asalnya, Strasbourg. Kemudian ia belajar di Weimar, Jerman dan di Akademi Julian di Paris. Pada tahun 1912 ia pergi ke Munich. Lalu, ia kembali ke Paris pada tahun 1914 dan berkenalan dengan seniman Modigliani, Picasso dan Robert Delaunay serta dengan penulis Max Jacob. Selama Perang Dunia I ia berada di Zurich dan menjadi salah satu pendiri dari gerakan Dada. Di sana ia menghasilkan lukisan pertamanya. Setelah perang ia dan istrinya (Sophie Taeuber) tinggal di Jerman sampai tahun 1924. Selama tahun 1920-an ia dikaitkan dengan surealis dan pada tahun 1930 ia adalah anggota dari kelompok Ce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jean_Arp",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc7a5 \uc544\ub974\ud504(\ud504\ub791\uc2a4\uc5b4: Jean Arp, 1886\ub144 9\uc6d4 16\uc77c \uc2a4\ud2b8\ub77c\uc2a4\ubd80\ub974 ~ 1966\ub144 6\uc6d4 7\uc77c \ubc14\uc824) \ub610\ub294 \ud55c\uc2a4 \uc544\ub974\ud504(\ub3c5\uc77c\uc5b4: Hans Arp)\ub294 \ud504\ub791\uc2a4\uc758 \ud654\uac00 \ubc0f \uc870\uac01\uac00\uc774\ub2e4. \uc2a4\ud2b8\ub77c\uc2a4\ubd80\ub974\uc5d0\uc11c \ucd9c\uc0dd\ud558\uc600\uc73c\uba70 \ud504\ub791\uc2a4\uc778 \uc5b4\uba38\ub2c8\uc640 \ub3c5\uc77c\uc778 \uc544\ubc84\uc9c0\ub97c \ub450\uc5c8\ub2e4. \uadf8\uac00 \ud0dc\uc5b4\ub09c \ub54c\ub294 \ud504\ub85c\uc774\uc13c-\ud504\ub791\uc2a4 \uc804\uc7c1 \ub54c\uc600\ub294\ub370 \uc804\uc7c1\uc774 \ub05d\ub098\uace0 \ub098\uc11c \uadf8\uac00 \uc0b4\uace0 \uc788\ub294 \uacf3\uc774 \ud504\ub791\uc2a4\ub839\uc774 \ub418\uac8c \ub418\uc5b4 \ud504\ub791\uc2a4\uc5b4\ub85c\ub294 \uc7a5 \uc544\ub974\ud504(Jean Arp)\ub77c\uace0\ub3c4 \ud55c\ub2e4. 1904\ub144 \uc2a4\ud2b8\ub77c\uc2a4\ubd80\uc2a4\uc758 \uc608\uc220\ub300\ud559\uc744 \uc878\uc5c5\ud558\uace0 \ud30c\ub9ac\ub85c \uac00\uc11c \uadf8\uc758 \uc2dc\ub97c \ucd9c\ud310\ud588\ub2e4. 1905\ub144\ubd80\ud130 1907\ub144\uae4c\uc9c0 \ub3c5\uc77c \ubc14\uc774\ub9c8\ub974 \ucfe4\uc2a4\ud2b8\uc290\uc5d0\uc11c \uacf5\ubd80\ud588\uc73c\uba70 1908\ub144\uc5d0\ub294 \ub2e4\uc2dc \ud30c\ub9ac\ub85c \ub3cc\uc544\uac00 \uc904\ub9ac\uc559 \uc544\uce74\ub370\ubbf8(Acad\u00e9mie Julian)\ub97c \ub2e4\ub154\ub2e4. 1915\ub144 \uc2a4\uc704\uc2a4\ub85c \uac00\uc11c \ub3c5\uc77c\uad70\uc5d0 \ub04c\ub824\uac00\ub294 \uac83\uc744 \ud53c\ud588\ub2e4. 1916\ub144 \uc2a4\uc704\uc2a4\uc758 \ucde8\ub9ac\ud788\uc5d0\uc11c \uc77c\uc5b4\ub09c \ub2e4\ub2e4\uc774\uc998\uc758 \ucc3d\uc2dc\uc790 \uc911 \ud55c \uba85\uc774\uba70 1920\ub144 \ub9c9\uc2a4 \uc5d0\ub978\uc2a4\ud2b8\uc640 \uc0ac\ud68c \ud65c\ub3d9\uac00\uc778 \uc54c\ud504\ub808\ud2b8 \uadf8\ub8ec\ubc1c\ud2b8(Alfred Grunwald)\uc640 \ud568\uaed8 \ud03c\ub978\uc5d0\uc11c \ub2e4\ub2e4 \uadf8\ub8f9\uc744 \ub9cc\ub4e4\uc5c8\ub2e4. \uadf8\ub7ec\ub098 \uadf8\uc758 \uc791\ud488\uc740 1925\ub144 \ud30c\ub9ac\uc758 \ud53c\uc5d0\ub974 \uac24\ub7ec\ub9ac(Galerie Pierre)\uc5d0\uc11c \uc5f4\ub9b0 \uccab \ubc88\uc9f8 \ucd08\ud604\uc2e4\uc8fc\uc758 \uc804\uc2dc\uc5d0 \ub098\ud0c0\ub0ac\ub2e4."
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanInventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanSoftwareEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/InteriorDesigner110210648"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Inventor110214637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatProgrammingLanguageDesigners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Anthony James Barr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0646\u062a\u0648\u0646\u064a \u062c\u064a\u0645\u0633 \u0628\u0627\u0631"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Anthony James Barr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0623\u0646\u062a\u0648\u0646\u064a \u062c\u064a\u0645\u0633 \u0628\u0627\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Anthony James Barr)\u200f \u0647\u0648 \u0645\u0647\u0646\u062f\u0633 \u0628\u0631\u0645\u062c\u064a\u0627\u062a \u0648\u0634\u062e\u0635\u064a\u0629 \u0623\u0639\u0645\u0627\u0644 \u0648\u0645\u062e\u062a\u0631\u0650\u0639 \u0648\u0645\u0647\u0646\u062f\u0633 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 24 \u0633\u0628\u062a\u0645\u0628\u0631 1940 \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Anthony James Barr (born September 24, 1940), aka Tony Barr or Jim Barr, is an American programming language designer, software engineer and inventor. Among his notable contributions are the Statistical Analysis System (SAS), automated lumber yield optimization, and the Automated Classification of Medical Entities (ACME)."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Anthony James Barr, tambi\u00e9n Tony Barr o Jim Barr, nacido en 1940, es un dise\u00f1ador de lenguajes de programaci\u00f3n, dise\u00f1ador software e inventor. Entre sus notables contribuciones est\u00e1 el SAS (Statistical Analysis System), la automatizaci\u00f3n y optimizaci\u00f3n de la producci\u00f3n de listones y el (Automated Classification of Medical Entities)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Anthony James Barr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Anthony James Barr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/TonyBarr.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1940-09-24"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Summit_High_School_(New_Jersey)_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1940_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_inventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Engineers_from_New_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Engineers_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Summit,_New_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_software_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_businesspeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Businesspeople_in_information_technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Businesspeople_in_software"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Businesspeople_in_timber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Programming_language_designers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "8336144"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122858880"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cade_Museum_for_Creativity_and_Invention"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Center_for_Health_Statistics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Franklin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Summit_High_School_(New_Jersey)_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Sall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joint_Chiefs_of_Staff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Information_processing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inventor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Analysis_of_variance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SAS_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gateway_(telecommunications)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gainesville,_Florida"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Government"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Pentagon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Kendall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1940_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_inventors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Engineers_from_New_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Engineers_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Summit,_New_Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Data_General_Nova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington,_D.C."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Workstation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_software_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_Carolina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_Carolina_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PDP-8"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Formatted_File_System"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harris_Corporation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Goodnight"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Assembly_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Athens,_Georgia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_businesspeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Businesspeople_in_information_technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Businesspeople_in_software"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Anthony_James_Barr",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Businesspeople_in_timber"
+    }
+]

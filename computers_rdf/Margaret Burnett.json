@@ -1,0 +1,337 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Margaret Burnett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Margaret M. Burnett (born 1949) is a computer scientist specializing in work at the intersection of human computer interaction and software engineering, and known for her pioneering work in visual programming languages, end-user software engineering, and gender-inclusive software. She is a Distinguished Professor of Computer Science at Oregon State University,, a member of the CHI Academy, and a Fellow of the Association for Computing Machinery."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1949_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Oregon_State_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_academics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Springfield,_Illinois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Miami_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Kansas_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Engineers_from_Illinois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Michigan_Technological_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "58795352"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1056748012"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Procter_&_Gamble"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santa_Fe,_New_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/End-user_development"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1949_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cherri_M._Pancake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gender_HCI"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Oregon_State_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Software_engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_academics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Springfield,_Illinois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Miami_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Kansas_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Engineers_from_Illinois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawrence,_Kansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Michigan_Technological_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CHI_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Springfield,_Illinois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miami_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michigan_Technological_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oregon_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Visual_programming_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Human_computer_interaction"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivorydale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://web.engr.oregonstate.edu/~burnett/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/36143324"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/172824737"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/b/MMBurnett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://orcid.org/0000-0001-6536-7629"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q47294258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0627\u0631\u062c\u0627\u0631\u064a\u062a_\u0627\u0645._\u0628\u0648\u0631\u0646\u064a\u062a"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sw.dbpedia.org/resource/Margaret_Burnett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4P4M9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:R"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Google_Scholar_id"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Margaret M. Burnett (born 1949) is a computer scientist specializing in work at the intersection of human computer interaction and software engineering, and known for her pioneering work in visual programming languages, end-user software engineering, and gender-inclusive software. She is a Distinguished Professor of Computer Science at Oregon State University,, a member of the CHI Academy, and a Fellow of the Association for Computing Machinery."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/36143324"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Margaret_Burnett?oldid=1056748012&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4923"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Margaret_Burnett",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Margaret_Burnett"
+    }
+]

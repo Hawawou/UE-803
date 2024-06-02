@@ -1,0 +1,407 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Armen Agop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Armen Agop (born in 1969 in Cairo) is a contemporary Egyptian artist who is changing perspectives and pushing the boundaries on contemporary art. He is known for his spiritually charged contemplative works, which were described to reminiscence the harmony, balance and purity of the human soul. Agop engages meditative practices in his processes, prioritizing inwardness and inner monumentality. Soberness, slowness and renouncement of demonstrative abilities, are features that characterize his ascetic approach."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Armen Agop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://www.armenagop.com/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Armen Agop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Armen_Agop_Untitled_2018.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Cairo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Cairo, Egypt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Armenian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Egyptian_people_of_Armenian_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Egyptian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1969_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Egyptian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Cairo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Egyptian_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Contemporary_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "48593845"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124106108"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cairo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Armenian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Villa_Empain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathaf:_Arab_Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Egyptian_people_of_Armenian_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Egyptian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sufism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1969_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Egyptian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Cairo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Egyptian_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barjeel_Art_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helwan_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Contemporary_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gezira_Center_for_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florida,_USA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Armen_Agop_Untitled_2018.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.armenagop.com/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.armenagop.com"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Armen_Agop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/304543202"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1036336743"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q22003015"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hy.dbpedia.org/resource/\u0531\u0580\u0574\u0565\u0576_\u0540\u0561\u056f\u0578\u0562"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/25cpr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Failed_verification"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Wikiquote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Armen_Agop_Untitled_2018.jpg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Spiritual Contemporary Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "https://www.armenagop.com/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Armen Agop (born in 1969 in Cairo) is a contemporary Egyptian artist who is changing perspectives and pushing the boundaries on contemporary art. He is known for his spiritually charged contemplative works, which were described to reminiscence the harmony, balance and purity of the human soul. Agop engages meditative practices in his processes, prioritizing inwardness and inner monumentality. Soberness, slowness and renouncement of demonstrative abilities, are features that characterize his ascetic approach."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/property/movement",
+        "object": "Transcontemporary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/304543202"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Armen_Agop?oldid=1124106108&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "11548"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Armen_Agop"
+    }
+]

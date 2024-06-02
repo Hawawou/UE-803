@@ -1,0 +1,42 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bartolomeo Ammanati"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "31752101"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "428722140"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bartolomeo_Ammannati"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Bartolomeo_Ammannati"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Bartolomeo_Ammanati?oldid=428722140&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "34"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Bartolomeo_Ammanati"
+    }
+]

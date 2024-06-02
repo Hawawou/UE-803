@@ -1,9 +1,0 @@
-Glenda Schroeder is an American software engineer noted for implementing the first command-line user interface shell and publishing one of the earliest research papers describing electronic mail systems while working as a member of the staff at the MIT Computation Center in 1965.
-
-
-== Biography ==
-Early operating system command-line interfaces were implemented as part of resident monitor programs, and could not easily be replaced. In 1964, MIT Computation Center staff member Louis Pouzin developed the RUNCOM tool for executing command scripts while allowing argument substitution. Pouzin coined the term "shell" to describe the technique of using commands like a programming language, and wrote a paper describing how to implement the idea in the Multics operating system. Pouzin returned to his native France in 1965, and Schroeder developed the first Multics shell with the assistance of an unnamed man from General Electric. Schroeder's Multics shell was the predecessor to the Unix shell, which is still in use today.
-Working with Pat Crisman and Louis Pouzin, she also described an early email system called "MAIL" to allow users on the Compatible Time-Sharing System (CTSS) at MIT to send notifications to others about backups of files. Each user's messages would be added to a local file called "MAIL BOX", which would have a “private” mode so that only the owner could read or delete messages. The proposed uses of the proto-email system were for communication from CTSS to notify users that files had been backed up, discussion between authors of CTSS commands, and communication from command authors to the CTSS manual editor. The service only made it possible to leave messages for the other users on the same computer. The idea to allow users to send messages between computers was developed later by Ray Tomlinson in 1971.
-
-
-== References ==

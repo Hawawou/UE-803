@@ -1,0 +1,482 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromHaarlem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mari Andriessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mari Andriessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mari Andriessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mari Andriessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mari Andriessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u043d\u0434\u0440\u0438\u0441\u0441\u0435\u043d, \u041c\u0430\u0440\u0438 \u0421\u0438\u043b\u044c\u0432\u0435\u0441\u0442\u0440"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041c\u0430\u0440\u0456 \u0410\u043d\u0434\u0440\u0456\u0441\u0441\u0435\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mari(e) Silverster Andriessen (* 4. Dezember 1897 in Haarlem; \u2020 7. Dezember 1979 ebenda) war ein niederl\u00e4ndischer Bildhauer, der mit vielen seiner Werke an die Opfer des Nationalsozialismus erinnerte."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mari(e) Silvester Andriessen (Haarlem, 4 de diciembre de 1897 - ib\u00eddem, 7 de diciembre de 1979) fue un escultor neerland\u00e9s, miembro de la segunda generaci\u00f3n del , tambi\u00e9n conocido como \u00abel Grupo\u00bb."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mari Silverster Andriessen (4 December 1897 \u2013 7 December 1979) was a Dutch sculptor, best known for his work memorializing victims of the Holocaust. Born and died in Haarlem, Andriessen is buried at the RK Begraafplaats Sint Adelberts in Bloemendaal, the Netherlands."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mari Silverster Andriessen (4 Desember 1897 \u2013 7 Desember 1979) adalah seorang pemahat Belanda, yang dikenal karena karyanya yang mengenang korban-korban Holokaus. Lahir dan meninggal di Haarlem, Andriessen dikubur di RK Begraafplaats Sint Adelberts di Bloemendaal, Belanda."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mari(e) Silvester Andriessen (Haarlem, 4 december 1897 - aldaar, 7 december 1979) was een Nederlands beeldhouwer. Hij kan worden beschouwd als lid van de tweede generatie van de Groep van de figuratieve abstractie, ook bekend als De Groep."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u0430\u0440\u0438 \u0421\u0438\u043b\u0432\u0435\u0441\u0442\u0440 \u0410\u043d\u0434\u0440\u0438\u0441\u0441\u0435\u043d (\u043d\u0438\u0434\u0435\u0440\u043b. Mari Silvester Andriessen; 4 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 1897, \u0413\u0430\u0440\u043b\u0435\u043c \u2014 7 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 1979) \u2014 \u043d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440. \u0410\u0432\u0442\u043e\u0440 \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u043e\u0432 \u0436\u0435\u0440\u0442\u0432\u0430\u043c \u0412\u0442\u043e\u0440\u043e\u0439 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0432\u043e\u0439\u043d\u044b \u0432 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u043c \u043f\u0430\u0440\u043a\u0435 \u0432 \u042d\u043d\u0441\u0445\u0435\u0434\u0435 (1946\u20141949) \u0438 \u0420\u043e\u0442\u0442\u0435\u0440\u0434\u0430\u043c\u0435 (1957), \u0434\u043e\u043a\u0435\u0440\u0430\u043c \u2014 \u0433\u0435\u0440\u043e\u044f\u043c \u0424\u0435\u0432\u0440\u0430\u043b\u044c\u0441\u043a\u043e\u0439 \u0441\u0442\u0430\u0447\u043a\u0438 1941 \u0432 \u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c\u0435 (1950\u20141952), \u043c\u043e\u043d\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e-\u0434\u0435\u043a\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0442\u0430\u0442\u0443\u0439 \u0438 \u0440\u0435\u043b\u044c\u0435\u0444\u043e\u0432."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u0430\u0440\u0456 \u0421\u0456\u043b\u0432\u0435\u0441\u0442\u0440 \u0410\u043d\u0434\u0440\u0456\u0441\u0441\u0435\u043d (\u043d\u0456\u0434. Mari Silvester Andriessen; 4 \u0433\u0440\u0443\u0434\u043d\u044f 1897, \u0413\u0430\u0440\u043b\u0435\u043c \u2014 7 \u0433\u0440\u0443\u0434\u043d\u044f 1979) \u2014 \u043d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440. \u0410\u0432\u0442\u043e\u0440 \u043f\u0430\u043c'\u044f\u0442\u043d\u0438\u043a\u0456\u0432 \u0436\u0435\u0440\u0442\u0432\u0430\u043c \u0414\u0440\u0443\u0433\u043e\u0457 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u0432\u0456\u0439\u043d\u0438 \u0443 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u043f\u0430\u0440\u043a\u0443 \u0432 \u0415\u043d\u0441\u0445\u0435\u0434\u0435 (1946\u20141949) \u0442\u0430 \u0420\u043e\u0442\u0442\u0435\u0440\u0434\u0430\u043c\u0456 (1957), \u0434\u043e\u043a\u0435\u0440\u0430\u043c \u2014 \u0433\u0435\u0440\u043e\u044f\u043c \u041b\u044e\u0442\u043d\u0435\u0432\u043e\u0433\u043e \u0441\u0442\u0440\u0430\u0439\u043a\u0443 1941 \u0432 \u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c\u0456 (1950\u20141952), \u043c\u043e\u043d\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e-\u0434\u0435\u043a\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u0438\u0445 \u0441\u0442\u0430\u0442\u0443\u0439 \u0456 \u0440\u0435\u043b\u044c\u0454\u0444\u0456\u0432."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Vrijheidsbeeld-heemstede.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dokwerker_(Amsterdam).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Mari_Andriessen.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Mariabeeld-Antoniuskerkaerdenhout.png"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ouwerkerk_Phoenixstraat_Begraafplaats-Monument_Watersn.1953.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Standbeeld_wilhelmina_in_wilhelminapark.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/VrouwtjevanPutten.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1897_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1979_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Haarlem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "5912332"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1026523830"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Putten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloemendaal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Utrecht"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornelis_Lely"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Frank"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1897_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1979_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wilhelmina_of_the_Netherlands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aerdenhout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amsterdam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ouwerkerk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haarlem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heemstede"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Haarlem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Groenendaal_park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Beeldhouwer_Mari_Andriessen_80_jaar.ogv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Mari_Andriessen.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.simonis-buunk.com/artist/mari-andriessen/artworks/2774/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0fd6ww"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/40171845"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/104726024"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Mari_Andriessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/11864520X"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q844964"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p067818471"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Mari_Andriessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Mari_Andriessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://id.dbpedia.org/resource/Mari_Andriessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Mari_Andriessen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0410\u043d\u0434\u0440\u0438\u0441\u0441\u0435\u043d,_\u041c\u0430\u0440\u0438_\u0421\u0438\u043b\u044c\u0432\u0435\u0441\u0442\u0440"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sr.dbpedia.org/resource/\u041c\u0430\u0440\u0438_\u0410\u043d\u0434\u0440\u0438\u0441\u0435\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/\u041c\u0430\u0440\u0456_\u0410\u043d\u0434\u0440\u0456\u0441\u0441\u0435\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4zsL7"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Netherlands-sculptor-stub"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ACArt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commonscatinline"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Find_a_Grave"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Mari_Andriessen.jpg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Mari(e) Silverster Andriessen (* 4. Dezember 1897 in Haarlem; \u2020 7. Dezember 1979 ebenda) war ein niederl\u00e4ndischer Bildhauer, der mit vielen seiner Werke an die Opfer des Nationalsozialismus erinnerte."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Mari(e) Silvester Andriessen (Haarlem, 4 de diciembre de 1897 - ib\u00eddem, 7 de diciembre de 1979) fue un escultor neerland\u00e9s, miembro de la segunda generaci\u00f3n del , tambi\u00e9n conocido como \u00abel Grupo\u00bb."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Mari Silverster Andriessen (4 December 1897 \u2013 7 December 1979) was a Dutch sculptor, best known for his work memorializing victims of the Holocaust. Born and died in Haarlem, Andriessen is buried at the RK Begraafplaats Sint Adelberts in Bloemendaal, the Netherlands."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Mari Silverster Andriessen (4 Desember 1897 \u2013 7 Desember 1979) adalah seorang pemahat Belanda, yang dikenal karena karyanya yang mengenang korban-korban Holokaus. Lahir dan meninggal di Haarlem, Andriessen dikubur di RK Begraafplaats Sint Adelberts di Bloemendaal, Belanda."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Mari(e) Silvester Andriessen (Haarlem, 4 december 1897 - aldaar, 7 december 1979) was een Nederlands beeldhouwer. Hij kan worden beschouwd als lid van de tweede generatie van de Groep van de figuratieve abstractie, ook bekend als De Groep."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u041c\u0430\u0440\u0438 \u0421\u0438\u043b\u0432\u0435\u0441\u0442\u0440 \u0410\u043d\u0434\u0440\u0438\u0441\u0441\u0435\u043d (\u043d\u0438\u0434\u0435\u0440\u043b. Mari Silvester Andriessen; 4 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 1897, \u0413\u0430\u0440\u043b\u0435\u043c \u2014 7 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 1979) \u2014 \u043d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440. \u0410\u0432\u0442\u043e\u0440 \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u043e\u0432 \u0436\u0435\u0440\u0442\u0432\u0430\u043c \u0412\u0442\u043e\u0440\u043e\u0439 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0432\u043e\u0439\u043d\u044b \u0432 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u043c \u043f\u0430\u0440\u043a\u0435 \u0432 \u042d\u043d\u0441\u0445\u0435\u0434\u0435 (1946\u20141949) \u0438 \u0420\u043e\u0442\u0442\u0435\u0440\u0434\u0430\u043c\u0435 (1957), \u0434\u043e\u043a\u0435\u0440\u0430\u043c \u2014 \u0433\u0435\u0440\u043e\u044f\u043c \u0424\u0435\u0432\u0440\u0430\u043b\u044c\u0441\u043a\u043e\u0439 \u0441\u0442\u0430\u0447\u043a\u0438 1941 \u0432 \u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c\u0435 (1950\u20141952), \u043c\u043e\u043d\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e-\u0434\u0435\u043a\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0442\u0430\u0442\u0443\u0439 \u0438 \u0440\u0435\u043b\u044c\u0435\u0444\u043e\u0432. \u0425\u0443\u0434\u043e\u0436\u043d\u0438\u043a-\u0433\u0443\u043c\u0430\u043d\u0438\u0441\u0442, \u0410\u043d\u0434\u0440\u0438\u0441\u0441\u0435\u043d \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u0435\u0442 \u0432 \u0441\u0432\u043e\u0438\u0445 \u0440\u0430\u0431\u043e\u0442\u0430\u0445 (\u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u043d\u044b\u0445 \u0433\u043b\u0430\u0432\u043d\u044b\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c \u0432 \u0431\u0440\u043e\u043d\u0437\u044b) \u043c\u0443\u0436\u0435\u0441\u0442\u0432\u043e, \u0441\u0442\u043e\u0439\u043a\u043e\u0441\u0442\u044c \u0438 \u0434\u043e\u0441\u0442\u043e\u0438\u043d\u0441\u0442\u0432\u043e \u043f\u0440\u043e\u0441\u0442\u044b\u0445 \u043b\u044e\u0434\u0435\u0439 \u2014 \u0442\u0440\u0443\u0436\u0435\u043d\u0438\u043a\u043e\u0432 \u0438 \u0431\u043e\u0440\u0446\u043e\u0432. \u0420\u0435\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u043d\u0430\u044f \u043c\u0430\u043d\u0435\u0440\u0430 \u043b\u0435\u043f\u043a\u0438 \u0410\u043d\u0434\u0440\u0438\u0441\u0441\u0435\u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0430 \u0438 \u0432\u044b\u0440\u0430\u0437\u0438\u0442\u0435\u043b\u044c\u043d\u0430, \u0430 \u0435\u0433\u043e \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u0438 (\u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437 \u043d\u0438\u0445 \u043e\u0431\u0440\u0430\u0437\u0443\u044e\u0442 \u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u0438) \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u0432\u0445\u043e\u0434\u044f\u0442 \u0432 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0443\u043b\u0438\u0446\u044b \u0438\u043b\u0438 \u043f\u0430\u0440\u043a\u0430."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u041c\u0430\u0440\u0456 \u0421\u0456\u043b\u0432\u0435\u0441\u0442\u0440 \u0410\u043d\u0434\u0440\u0456\u0441\u0441\u0435\u043d (\u043d\u0456\u0434. Mari Silvester Andriessen; 4 \u0433\u0440\u0443\u0434\u043d\u044f 1897, \u0413\u0430\u0440\u043b\u0435\u043c \u2014 7 \u0433\u0440\u0443\u0434\u043d\u044f 1979) \u2014 \u043d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440. \u0410\u0432\u0442\u043e\u0440 \u043f\u0430\u043c'\u044f\u0442\u043d\u0438\u043a\u0456\u0432 \u0436\u0435\u0440\u0442\u0432\u0430\u043c \u0414\u0440\u0443\u0433\u043e\u0457 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u0432\u0456\u0439\u043d\u0438 \u0443 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u043f\u0430\u0440\u043a\u0443 \u0432 \u0415\u043d\u0441\u0445\u0435\u0434\u0435 (1946\u20141949) \u0442\u0430 \u0420\u043e\u0442\u0442\u0435\u0440\u0434\u0430\u043c\u0456 (1957), \u0434\u043e\u043a\u0435\u0440\u0430\u043c \u2014 \u0433\u0435\u0440\u043e\u044f\u043c \u041b\u044e\u0442\u043d\u0435\u0432\u043e\u0433\u043e \u0441\u0442\u0440\u0430\u0439\u043a\u0443 1941 \u0432 \u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c\u0456 (1950\u20141952), \u043c\u043e\u043d\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e-\u0434\u0435\u043a\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u0438\u0445 \u0441\u0442\u0430\u0442\u0443\u0439 \u0456 \u0440\u0435\u043b\u044c\u0454\u0444\u0456\u0432. \u0425\u0443\u0434\u043e\u0436\u043d\u0438\u043a-\u0433\u0443\u043c\u0430\u043d\u0456\u0441\u0442, \u0410\u043d\u0434\u0440\u0456\u0441\u0441\u0435\u043d \u0441\u0442\u0432\u0435\u0440\u0434\u0436\u0443\u0454 \u0443 \u0441\u0432\u043e\u0457\u0445 \u0440\u043e\u0431\u043e\u0442\u0430\u0445 (\u0432\u0438\u043a\u043e\u043d\u0430\u043d\u0438\u0445 \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u043c \u0447\u0438\u043d\u043e\u043c \u0443 \u0431\u0440\u043e\u043d\u0437\u0456) \u043c\u0443\u0436\u043d\u0456\u0441\u0442\u044c, \u0441\u0442\u0456\u0439\u043a\u0456\u0441\u0442\u044c \u0456 \u0433\u0456\u0434\u043d\u0456\u0441\u0442\u044c \u043f\u0440\u043e\u0441\u0442\u0438\u0445 \u043b\u044e\u0434\u0435\u0439 \u2014 \u0442\u0440\u0443\u0434\u0456\u0432\u043d\u0438\u043a\u0456\u0432 \u0456 \u0431\u043e\u0440\u0446\u0456\u0432. \u0420\u0435\u0430\u043b\u0456\u0441\u0442\u0438\u0447\u043d\u0430 \u043c\u0430\u043d\u0435\u0440\u0430 \u043b\u0456\u043f\u043b\u0435\u043d\u043d\u044f \u0410\u043d\u0434\u0440\u0456\u0441\u0441\u0435\u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0430 \u0439 \u0432\u0438\u0440\u0430\u0437\u043d\u0430, \u0430 \u0439\u043e\u0433\u043e \u043f\u0430\u043c'\u044f\u0442\u043d\u0438\u043a\u0438 (\u0434\u0435\u044f\u043a\u0456 \u0437 \u043d\u0438\u0445 \u0443\u0442\u0432\u043e\u0440\u044e\u044e\u0442\u044c \u0432\u0435\u043b\u0438\u043a\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u0456) \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u043e \u0432\u0445\u043e\u0434\u044f\u0442\u044c \u0443 \u043f\u0440\u043e\u0441\u0442\u0456\u0440 \u0432\u0443\u043b\u0438\u0446\u0456 \u0447\u0438 \u043f\u0430\u0440\u043a\u0443."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/40171845"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Mari_Andriessen?oldid=1026523830&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "1752"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mari_Andriessen",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Mari_Andriessen"
+    }
+]

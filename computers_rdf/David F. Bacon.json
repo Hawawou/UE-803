@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David F. Bacon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Bacon is an American computer programmer."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "David Francis Bacon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "David Francis Bacon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1963-02-24"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Programming_language_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1963_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_College_(New_York)_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Berkeley_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Google_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_software_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hunter_College_High_School_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:IBM_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "52722558"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122416616"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Programming_language_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_E._Shaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_important_publications_in_computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1963_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Go_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Google"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Call_graph"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_College_(New_York)_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Berkeley_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Google_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Database_engine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Garbage_collection_(computer_science)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_College,_Columbia_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ACM_Fellow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_software_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ns_(simulator)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PHP"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hard_real-time"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Java_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hunter_College_High_School_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:IBM_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_L._Graham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symposium_on_Principles_of_Programming_Languages"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hermes_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reference_counting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spanner_(database)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DDG_1000"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soot_(software)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_J._Watson_Research_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tracing_garbage_collection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_A._Paulson_School_of_Engineering_and_Applied_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_programmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conference_on_Programming_Language_Design_and_Implementation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://dblp.uni-trier.de/pers/hd/b/Bacon:David_F="
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://patents.justia.com/inventor/david-francis-bacon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://digitalassets.lib.berkeley.edu/techreports/ucb/text/CSD-98-1017.pdf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://scholar.google.com/citations%3Fuser=guNVlmIAAAAJ"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/David_F._Bacon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/b/DavidFBacon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q28078184"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sw.dbpedia.org/resource/David_F._Bacon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2cbmh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/thesisTitle",
+        "object": "Fast and Effective Optimization of Statically Typed Object-Oriented Languages"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/thesisUrl",
+        "object": "http://digitalassets.lib.berkeley.edu/techreports/ucb/text/CSD-98-1017.pdf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/thesisYear",
+        "object": "1997"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "http://dbpedia.org/resource/Google"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "http://dbpedia.org/resource/Thomas_J._Watson_Research_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "http://dbpedia.org/resource/John_A._Paulson_School_of_Engineering_and_Applied_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:COI"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Clarify"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:For"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_F._Bacon",
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "http://dbpedia.org/resource/ACM_Fellow"
+    }
+]

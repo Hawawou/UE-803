@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kiawak Ashoona"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kiugak Ashoona"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kiawak Ashoona ou Kiugak Asuuna (\u146d\u1405\u1490\u1483 \u140a\u14f2\u14c7, en syllabaire inuktitut) est un sculpteur, dessinateur et graveur canadien inuit, n\u00e9 en 1933 et mort en 2014. Il est l'une des figures de proue de l'art inuit de Cape Dorset."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kiugak Ashoona OC RCA (September 16, 1933 \u2013 2014; also known as Kiawak; Inuktitut syllabics \u146d\u1405\u1490\u1483 \u140a\u14f2\u14c7) was a Canadian Inuk artist renowned for his sculptural work and his expansive artistic portfolio. He experienced the longest career of any Cape Dorset artist, and is a member of the Order of Canada and the Royal Canadian Academy of Arts. In 1999, he was awarded the Canada Council Molson Prize for his outstanding lifetime contribution to the cultural and intellectual life of Canada."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Kiugak Ashoona\u012a"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Kiugak Ashoona\u012a"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/KiAs_1.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Baffin_Island"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Northwest_Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Tariugajak on Baffin Island, Northwest Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1933-09-16"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Animal_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2014_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Inuit_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1933_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_male_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Royal_Canadian_Academy_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Officers_of_the_Order_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Nunavut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Inuit_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Kinngait"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Canadian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Canadian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Inuit_from_Nunavut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Inuit_from_the_Northwest_Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Canadian_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "57017303"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1116253878"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_Handicrafts_Guild"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cape_Dorset"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Canadian_Academy_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Molson_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Michigan_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Indspire_Awards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inuit_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inuit_religion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Animal_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/McCord_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/McMichael_Canadian_Art_Collection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2014_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Inuit_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shuvinai_Ashoona"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baffin_Island"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1933_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_male_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Royal_Canadian_Academy_of_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Officers_of_the_Order_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Nunavut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Inuit_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Kinngait"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angakkuq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northwest_Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nunavut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inuit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inuit_culture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Archibald_Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Canadian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Canadian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Inuit_from_Nunavut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Inuit_from_the_Northwest_Territories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Canadian_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pitseolak_Ashoona"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metropolitan_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Napachie_Pootoogook"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Gallery_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculptor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shaman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kiugak_Ashoona",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kingmeata_Etidlooie"
+    }
+]

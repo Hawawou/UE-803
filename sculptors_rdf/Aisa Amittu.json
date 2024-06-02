@@ -1,0 +1,282 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Aisa Amittu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Aisa Amittu (born September 6, 1951) is an Inuit sculptor and printmaker. He was born in Puvirnituq, Nunavik. He first exhibited publicly in 1989 at the Inuit Galerie in Mannheim, Germany. His work is included in the collections of the Mus\u00e9e national des beaux-arts du Qu\u00e9bec and the National Gallery of Canada."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Aisa Amittu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Aisa Amittu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Puvirnituq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Nunavik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Puvirnituq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Nunavik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1951-09-06"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1951_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Canadian_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "63919798"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1104302206"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Puvirnituq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1951_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mus\u00e9e_national_des_beaux-arts_du_Qu\u00e9bec"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nunavik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Canadian_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mannheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Gallery_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/61705073"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q55217641"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u064a\u0633\u0627_\u0627\u0645\u064a\u062a\u0648"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9K7AV"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Canada-artist-stub"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1951-09-06"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Sculpture, printmaking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Aisa Amittu (born September 6, 1951) is an Inuit sculptor and printmaker. He was born in Puvirnituq, Nunavik. He first exhibited publicly in 1989 at the Inuit Galerie in Mannheim, Germany. His work is included in the collections of the Mus\u00e9e national des beaux-arts du Qu\u00e9bec and the National Gallery of Canada."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Aisa_Amittu?oldid=1104302206&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "2218"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Aisa_Amittu"
+    }
+]

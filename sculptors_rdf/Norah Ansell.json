@@ -1,0 +1,322 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Norah Ansell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Norah Marjorie Ansell (6 July 1906 \u20131990) was a British sculptor who worked mostly in wood, ivory and bronze."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Norah Marjorie Ansell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Norah Marjorie Ansell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Wiltshire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Birmingham, England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Wiltshire, England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1906-07-06"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Birmingham,_West_Midlands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1906_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1990_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Birmingham_School_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Wiltshire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "62802622"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1109600765"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Birmingham,_West_Midlands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1906_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1990_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Birmingham_School_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wiltshire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edgbaston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Glasgow_Institute_of_the_Fine_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Wiltshire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_of_Women_Artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birmingham_College_of_Arts_and_Crafts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q81726127"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://mk.dbpedia.org/resource/\u041d\u043e\u0440\u0430_\u041c\u0430\u0440\u045f\u043e\u0440\u0438_\u0410\u043d\u0441\u0435\u043b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/C4pKr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_British_English"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_year_and_age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Birmingham_College_of_Arts_and_Crafts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1906-07-06"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "British"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Norah Marjorie Ansell (6 July 1906 \u20131990) was a British sculptor who worked mostly in wood, ivory and bronze."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Norah_Ansell?oldid=1109600765&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "2999"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Norah_Ansell"
+    }
+]

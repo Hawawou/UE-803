@@ -1,0 +1,392 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Rosemary Candlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rosemary Candlin (born Rosemary Shaw in 1927) is a crystallographer and computer scientist who joined the University of Edinburgh Computer Science Department shortly after it was first established, and for some time was the only woman lecturer on the staff. She worked there from 1968 to 1995, helped design the curriculum in its early years, and developed a specialist interest in parallel programming. She then went on to work for CERN: the European Organization for Nuclear Research."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rosemary Candlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rosemary Candlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1927_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_associated_with_CERN"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_women_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scientific_computing_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "50629801"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1095454544"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crystallography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parallel_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1927_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Academics_of_the_University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CBE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CERN"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_women_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_associated_with_CERN"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aide-de-camp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_women_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Real-time_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helen_Megaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atlas_(computer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ATLAS_experiment"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientific_computing_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plymouth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_History_Museum,_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/FRSE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sidney_Michaelson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Candlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Rosemary_Candlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/33/307"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q24566019"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2KF3G"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "University of Cambridge Ph.D."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1927"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "crystallographer and computer scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rosemary Candlin (born Rosemary Shaw in 1927) is a crystallographer and computer scientist who joined the University of Edinburgh Computer Science Department shortly after it was first established, and for some time was the only woman lecturer on the staff. She worked there from 1968 to 1995, helped design the curriculum in its early years, and developed a specialist interest in parallel programming. She then went on to work for CERN: the European Organization for Nuclear Research."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "http://dbpedia.org/resource/CERN"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Rosemary_Candlin?oldid=1095454544&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4948"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1927"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/CERN"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Crystallography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rosemary_Candlin",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Rosemary_Candlin"
+    }
+]

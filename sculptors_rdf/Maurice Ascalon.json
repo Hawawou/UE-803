@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfHungarian-JewishDescent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatArtDecoArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatModernSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromCuernavaca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/InteriorDesigner110210648"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHungarianEmigrantsToMandatoryPalestine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHungarianSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIndustrialDesigners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliDesigners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliPeopleOfHungarianDescent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishArtists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleWithParkinson'sDisease"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Maurice Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Maurice Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Maurice Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Maurice Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Maurice Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Maurice Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Maurice Ascalon (hebr\u00e4isch \u05de\u05d5\u05e8\u05d9\u05e1 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df; * 1913; \u2020 2003) war ein israelischer Bildhauer und K\u00fcnstler. Er gilt als der Vater der modernen israelischen Kunstbewegung."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Maurice Ascalon (Feh\u00e9rgyarmat Hungr\u00eda, 1913 - Cuernavaca, 2003) fue un escultor nacido en Hungr\u00eda y dise\u00f1ador industrial que trabaj\u00f3 en la tendencia estil\u00edstica del Art dec\u00f3. Estudi\u00f3 en Bruselas y Mil\u00e1n, y vivi\u00f3 en Israel, Estados Unidos, y Cuernavaca, M\u00e9xico. Fue el padre de los escultores David Ascalon de Estados Unidos, y Adir Ascalon (que vivi\u00f3 en Cuernavaca y colabor\u00f3 con el muralista mexicano David Alfaro Siqueiros). Maurice Ascalon fue adem\u00e1s abuelo del dise\u00f1ador estadounidense ."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Maurice Ascalon est un sculpteur art d\u00e9co et designer industriel palestinien, n\u00e9 Moshe Klein en Hongrie en 1913 et mort \u00e0 Cuernavaca en 2003."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Maurice Ascalon (Hebrew: \u05de\u05d5\u05e8\u05d9\u05e1 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df; 1913\u20132003) was an Israeli designer and sculptor. He was, by some accounts, considered the father of the modern Israeli decorative arts movement."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Maurice Ascalon, nome d'arte di Moshe Klein (Ungheria, 1913 \u2013 Cuernavaca, agosto 2003), \u00e8 stato uno scultore, designer industriale israeliano, a detta di molti il padre del moderno movimento israeliano delle arti decorative."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Maurice Ascalon (1913 - 2003) foi um designer e escultor israelense. Nasceu no vilarejo de , interior de Israel. O artista ficou famoso por participar do movimento , que contestava o design israelense entre os anos de 1998 at\u00e9 2005."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Maurice_Ascalon_1939_New_York_Worlds_Fair.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Maurice_Ascalon_2.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Mexican_Ashkenazi_Jews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1913_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2003_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Hungarian-Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Ashkenazi_Jews_in_Mandatory_Palestine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_Parkinson's_disease"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_people_of_Hungarian-Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hungarian_emigrants_to_Mandatory_Palestine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hungarian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hungarian_Jews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Ashkenazi_Jews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Modern_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Cuernavaca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Israeli_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Art_Deco_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Neurological_disease_deaths_in_Mexico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "4219860"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1117847807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brad_ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Alfaro_Siqueiros"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mexican_Ashkenazi_Jews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hungary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ascalon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Decorative_arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Designer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1913_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2003_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menorah_(Temple)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eretz_Israel_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1939_New_York_World's_Fair"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Hungarian-Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ashkenazi_Jews_in_Mandatory_Palestine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_Parkinson's_disease"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brussels"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_people_of_Hungarian-Jewish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hungarian_emigrants_to_Mandatory_Palestine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hungarian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Maurice_Ascalon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah"
+    }
+]

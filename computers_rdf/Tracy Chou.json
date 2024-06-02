@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tracy Chou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tracy Chou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tracy Chou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tracy Chou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Tracy Chou, nacida en 1987 es una ingeniera de software, trabaj\u00f3 en Pinterest de noviembre de 2011 a junio de 2016.\u200b Fue ingeniera de software en Quora, cient\u00edfica de la computaci\u00f3n en y pasante como en Facebook y en Google.\u200b\u200b Adem\u00e1s, Tracy Chou promueve disminuir la brecha de g\u00e9nero en la industria de la tecnolog\u00eda y ha presionado por una mayor demanda de ingenieras de software.\u200b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Tracy Chou (born 1987) is a software engineer and advocate for diversity in technology related fields. She previously worked at Pinterest and Quora with internship experience at Rocket Fuel, Google, and Facebook. She is best known for raising the profile of the issue of the low representation of women in technology companies, and pressuring companies to reveal more statistics about the composition of their workforce. In 2016, she co-founded the advocacy group Project Include with seven other women from the industry. In 2022, she was named one of Time's 12 Women of the Year."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Tracy Chou (lahir tahun 1987) adalah seorang insinyur perangkat lunak keturunan Tionghoa dari Amerika Serikat yang juga menjadi salah seorang pendukung adanya kesetaraan gender untuk pekerja kaum perempuan di bidang teknologi. Dia memiliki pengalaman bekerja di Pinterest dan Quora. Selain itu, ia juga pernah magang di perusahaan rintisan raksasa, seperti , Google, dan Facebook."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Tracy Chou (1987) \u00e8 un'informatica e attivista statunitense impegnata nell'ambito della diversit\u00e0 e dell'inclusione sociale in ambito digitale. Ha lavorato presso Pinterest e Quora e ha effettuato tirocini presso Rocket Fuel, Google e Facebook."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Tracy Chou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Tracy Chou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch_TechCrunch_Disrupt_San_Francisco_2019_-_Day_3_Tracy_Chou.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Tracy_Chou_TechCrunch_Disrupt_San_Francisco_2019.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1987_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_feminists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Stanford_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Facebook_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Google_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Taiwanese_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_software_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "47443487"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122886817"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rocket_Fuel_Inc."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Digital_Service"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1987_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellen_Pao"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freada_Kapor_Klein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GitHub"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Google"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mountain_View,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Machine_learning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silicon_Valley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pull_request"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B.S."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_feminists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stanford_University_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Facebook_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Google_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Taiwanese_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twitter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diversity_training"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_software_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erica_Baker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Facebook"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_Hopper_Celebration_of_Women_in_Computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isis_Anchalee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TechCrunch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artificial_intelligence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_computer_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jesse_Jackson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taiwan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diversity_(politics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pinterest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Microsoft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/OneLogin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Open_source_software"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quora"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maker_culture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Look_Like_an_Engineer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Software_engineer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Technology_companies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Block_Party_App"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:TechCrunch_TechCrunch_Disrupt_San_Francisco_2019_-_Day_3_Tracy_Chou.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://triketora.com/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Tracy_Chou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q24238925"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u062a\u0631\u064a\u0633\u0649_\u062a\u0634\u0648"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Tracy_Chou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://id.dbpedia.org/resource/Tracy_Chou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Tracy_Chou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ms.dbpedia.org/resource/Tracy_Chou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2HRpy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Github"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:About"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tracy_Chou",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    }
+]

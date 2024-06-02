@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBaroqueSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromNancy,France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFrenchSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0644\u0627\u0645\u0628\u0631\u062a \u0622\u062f\u0645"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lambert-Sigisbert Adam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lambert Sigisbert Adam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lambert Sigisbert Adam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lambert-Sigisbert Adam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lambert-Sigisbert Adam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lambert-Sigisbert Adam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lambert Sigisbert Adam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u0434\u0430\u043c, \u041b\u0430\u043c\u0431\u0435\u0440 \u0421\u0438\u0433\u0438\u0431\u0435\u0440\u0442"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041b\u0430\u043c\u0431\u0435\u0440 \u0421\u0456\u0433\u0456\u0441\u0431\u0435\u0440 \u0410\u0434\u0430\u043c"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0644\u0627\u0645\u0628\u0631\u062a \u0622\u062f\u0645 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629: Lambert Sigisbert Adam)\u200f (\u0648. 1700 \u2013 1759 \u0645) \u0647\u0648 \u0646\u062d\u0627\u062a \u0641\u0631\u0646\u0633\u064a\u060c \u0648\u0644\u062f \u0641\u064a \u0646\u0627\u0646\u0633\u064a\u060c \u0643\u0627\u0646 \u0639\u0636\u0648\u064b\u0627 \u0641\u064a \u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0645\u0644\u0643\u064a\u0629 \u0644\u0644\u0631\u0633\u0645 \u0648\u0627\u0644\u0646\u062d\u062a\u060c \u062a\u0648\u0641\u064a \u0641\u064a \u0628\u0627\u0631\u064a\u0633\u060c \u0639\u0646 \u0639\u0645\u0631 \u064a\u0646\u0627\u0647\u0632 59 \u0639\u0627\u0645\u0627\u064b."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lambert-Sigisbert Adam (* 10. Oktober 1700 in Nancy, Herzogtum Lothringen, heute Frankreich; \u2020 13. Mai 1759 in Paris) war ein franz\u00f6sischer Bildhauer des Barock und Vorbereiter des Rokoko, der von seinen Zeitgenossen besonders f\u00fcr seine Statuen in den Gartenanlagen der Schl\u00f6sser von Versailles und Sanssouci ger\u00fchmt wurde. Lambert-Sigisbert Adam \u2013 auch Adam l\u2019a\u00een\u00e9, also \u201eAdam, der \u00c4ltere\u201c genannt \u2013 wurde in Nancy als \u00e4ltester von drei S\u00f6hnen des ebenfalls renommierten Bildhauers Jacob-Sigisbert Adam (* 1670; \u2020 1747) in eine regelrechte Bildhauerdynastie hinein geboren."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lambert Sigisbert Adam (Nancy, 10 de octubre de 1700 - Par\u00eds 12 de mayo de 1759) fue un escultor franc\u00e9s."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lambert-Sigisbert Adam (10 October 1700 \u2013 12 May 1759) was a lorrain sculptor born in 1700 in Nancy. The eldest son of sculptor Jacob-Sigisbert Adam, he was known as Adam l\u2019a\u00een\u00e9 (\"the elder\") to distinguish him from his two sculptor brothers Nicolas-S\u00e9bastien Adam, known as \"Adam le jeune\" (\"the younger\"), and Fran\u00e7ois Gaspard Balthazar Adam. His sister Anne Adam married Thomas Michel, an undistinguished sculptor, and became the mother of famous sculptor Claude Michel, known as Clodion, who received his early training in the studio of his uncle Lambert-Sigisbert."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lambert Sigisbert Adam, dit Adam l'A\u00een\u00e9, n\u00e9 \u00e0 Nancy le 10 octobre 1700, et mort \u00e0 Paris le 12 mai 1759, est un sculpteur lorrain."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041b\u0430\u043c\u0431\u0435\u0440 \u0421\u0456\u0433\u0456\u0441\u0431\u0435\u0440 \u0410\u0434\u0430\u043c (\u0444\u0440. Lambert Sigisbert Adam 10 \u0436\u043e\u0432\u0442\u043d\u044f, 1700, \u041d\u0430\u043d\u0441\u0456, \u041b\u043e\u0442\u0430\u0440\u0438\u043d\u0433\u0456\u044f \u2014 13 \u0442\u0440\u0430\u0432\u043d\u044f, 1759, \u041f\u0430\u0440\u0438\u0436) \u2014 \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u0434\u043e\u0431\u0438 \u043f\u0456\u0437\u043d\u044c\u043e\u0433\u043e \u0444\u0440\u0430\u0446\u0443\u0437\u044c\u043a\u043e\u0433\u043e \u0431\u0430\u0440\u043e\u043a\u043e \u0442\u0430 \u0440\u043e\u043a\u043e\u043a\u043e."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lambert Sigisbert Adam (Nancy, 10 de Outubro de 1700 \u2014 Paris, 12 de Maio de 1759) foi um escultor franc\u00eas nascido em 1700 em Nancy. O filho mais velho do escultor Jacob-Sigisbert Adam, ele era conhecido como Adam l'a\u00een\u00e9 (\"o mais velho\") para distingui-lo de seus dois irm\u00e3os escultores Nicolas-S\u00e9bastien Adam, conhecido como \"Adam le jeune\" (\"o mais jovem\") e Fran\u00e7ois Gaspard Balthazar Adam. Sua irm\u00e3 Anne Adam se casou com Thomas Michel, um escultor indistinto, e se tornou a m\u00e3e do famoso escultor Claude Michel , conhecido como Clodion, que recebeu seu primeiro treinamento no est\u00fadio de seu tio Lambert-Sigisbert."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041b\u0430\u043c\u0431\u0435\u0440-\u0421\u0438\u0433\u0438\u0431\u0435\u0440\u0442 \u0410\u0434\u0430\u043c, \u041b\u0430\u043c\u0431\u0435\u0440-\u0421\u0438\u0433\u0438\u0441\u0431\u0435\u0440\u0442 \u0410\u0434\u0430\u043c, \u0410\u0434\u0430\u043c \u0421\u0442\u0430\u0440\u0448\u0438\u0439 (\u0444\u0440. Lambert Sigisbert Adam, Adam l'A\u00een\u00e9; 10 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1700, \u041d\u0430\u043d\u0441\u0438 \u2014 12 \u043c\u0430\u044f 1759, \u041f\u0430\u0440\u0438\u0436) \u2014 \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u044d\u043f\u043e\u0445\u0438 \u0431\u0430\u0440\u043e\u043a\u043a\u043e \u0438 \u043e\u0434\u0438\u043d \u0438\u0437 \u0437\u0430\u0447\u0438\u043d\u0430\u0442\u0435\u043b\u0435\u0439 \u0441\u0442\u0438\u043b\u044f \u0440\u043e\u043a\u043e\u043a\u043e \u0432\u043e \u0424\u0440\u0430\u043d\u0446\u0438\u0438 \u0438 \u0444\u0440\u0438\u0434\u0435\u0440\u0438\u0446\u0438\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0440\u043e\u043a\u043e\u043a\u043e \u0432 \u041f\u0440\u0443\u0441\u0441\u0438\u0438."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lambert-Sigisbert Adam, detto Adam l'a\u00een\u00e9 (Nancy, 10 ottobre 1700 \u2013 Parigi, 12 maggio 1759), \u00e8 stato uno scultore francese. Appartenente alla famiglia di scultori che faceva capo a suo padre Jacob-Sigisbert, era fratello maggiore di Nicolas-S\u00e9bastien e di Fran\u00e7ois Gaspard Balthazar. Nel 1723 ricevette il Prix de Rome per la scultura, che consisteva in un soggiorno di studio presso l'Accademia di Francia a Roma. Durante il suo soggiorno a Roma vinse il premio del concorso bandito da papa Clemente XII per un modello della Fontana di Trevi, che non pot\u00e9 realizzare perch\u00e9 richiamato in Francia. Lavor\u00f2 anche per Madame de Pompadour."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lambert-Sigisbert Adam (ur. 10 pa\u017adziernika 1700 w Nancy, zm. 12 maja 1759 w Pary\u017cu) \u2013 francuski rze\u017abiarz, syn Jacoba Sigisberta Adama. Do roku 1718 pracowa\u0142 w warsztacie swojego ojca, p\u00f3\u017aniej przeni\u00f3s\u0142 si\u0119 do Pary\u017ca, gdzie w 1723 otrzyma\u0142 wielk\u0105 nagrod\u0119 w dziedzinie rze\u017aby, z kt\u00f3r\u0105 zwi\u0105zany by\u0142 pobyt w Rzymie. Tam restaurowa\u0142 antyczne rze\u017aby dla kardyna\u0142a Melchiora de Polignac. Wykonywa\u0142 te\u017c mitologiczne i alegoryczne reliefy, oraz rze\u017aby o tematyce religijnej. Wygra\u0142 og\u0142oszony przez papie\u017ca Klemensa XII konkurs na Fontann\u0119 Trevi. Jego projekt nie zosta\u0142 jednak zrealizowany. W 1733 powr\u00f3ci\u0142 do Pary\u017ca, gdzie powoli wyzwoli\u0142 si\u0119 z wp\u0142yw\u00f3w w\u0142oskiej rze\u017aby barokowej szczeg\u00f3lnie prac Giovanniego Lorenzo Berniniego. Tworzy\u0142 pojedyncze i grupowe pos\u0105gi do fontann i ogrod\u00f3w oraz reliefy do dekor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Lambert-Sigisbert Adam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Lambert-Sigisbert Adam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Adam,_Lambert_Sigisbert.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Neptune_Adam_1725_La_County_Museum_California.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Nancy,_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Duchy_of_Lorraine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1759-05-12"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Nancy,_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Duchy_of_Lorraine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1700-10-10"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1759_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Catholic_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Prix_de_Rome_for_sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Painters_from_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1700_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:18th-century_French_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Nancy,_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2368024"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1109748567"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Potsdam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prix_de_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prussia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanssouci"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melchior_de_Polignac"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hyacinthe_Rigaud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris_Salon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Michel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_II_of_Prussia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_the_Great"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nancy,_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_XV"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luigi_Vanvitelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philipp_von_Stosch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1759_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Catholic_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trevi_Fountain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Acad\u00e9mie_royale_de_peinture_et_de_sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Accademia_di_San_Luca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alessandro_Galilei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duchy_of_Lorraine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edm\u00e9_Bouchardon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palace_of_Versailles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ch\u00e2teau_de_Saint-Cloud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Engraved_gems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Baptiste_Perronneau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Prix_de_Rome_for_sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Painters_from_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1700_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:18th-century_French_sculptors"
+    }
+]

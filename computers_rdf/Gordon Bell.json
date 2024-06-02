@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerDesigners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerHardwareEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatMicrosoftEmployees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromKirksville,Missouri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ElectricalEngineer110049017"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Employee110053808"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/InteriorDesigner110210648"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDigitalEquipmentCorporationPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatElectricalEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAcademyOfArtsAndSciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAssociationForTheAdvancementOfScience"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAssociationForComputingMachinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAustralianAcademyOfTechnologicalSciencesAndEngineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gordon Bell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u063a\u0648\u0631\u062f\u0648\u0646 \u0628\u064a\u0644"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gordon Bell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "C. Gordon Bell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gordon Bell (ing\u00e9nieur)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gordon Bell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30b4\u30fc\u30c9\u30f3\u30fb\u30d9\u30eb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gordon Bell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u0435\u043b\u043b, \u0413\u043e\u0440\u0434\u043e\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u063a\u0648\u0631\u062f\u0648\u0646 \u0628\u064a\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Gordon Bell)\u200f (\u0648. 1934 \u2013 \u0645) \u0647\u0648 \u0639\u0627\u0644\u0650\u0645 \u062d\u0627\u0633\u0628 \u0622\u0644\u064a\u060c \u0648\u0645\u0647\u0646\u062f\u0633\u060c \u0648\u0623\u0633\u062a\u0627\u0630 \u062c\u0627\u0645\u0639\u064a \u0645\u0646 \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 . \u0648\u0644\u062f \u0641\u064a \u0643\u064a\u0631\u0643\u0641\u064a\u0644 (\u0645\u064a\u0632\u0648\u0631\u064a) . \u0648\u0647\u0648 \u0639\u0636\u0648\u0627\u064b \u0641\u064a \u062c\u0645\u0639\u064a\u0629 \u0645\u0647\u0646\u062f\u0633\u064a \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0621 \u0648\u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0627\u062a\u060c \u0648\u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0647\u0646\u062f\u0633\u0629\u060c \u0648\u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0644\u0644\u0641\u0646\u0648\u0646 \u0648\u0627\u0644\u0639\u0644\u0648\u0645\u060c \u0648\u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0639\u0644\u0648\u0645\u060c \u0648\u0631\u0627\u0628\u0637\u0629 \u0645\u0643\u0627\u0626\u0646 \u0627\u0644\u062d\u0648\u0633\u0628\u0629 ."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "C. Gordon Bell (19 de agosto de 1934) es un reconocido ingeniero inform\u00e1tico y gerente, antiguo empleado de Digital Equipment Corporation (DEC) que dise\u00f1\u00f3 varias m\u00e1quinas de la serie Programmed Data Processor (PDP), para m\u00e1s tarde ascender al puesto de Vicepresidente de Ingenier\u00eda, desde donde supervisar\u00eda el desarrollo de VAX."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Chester Gordon Bell (born August 19, 1934) is an American electrical engineer and manager. An early employee of Digital Equipment Corporation (DEC) 1960\u20131966, Bell designed several of their PDP machines and later became Vice President of Engineering 1972\u20131983, overseeing the development of the VAX. Bell's later career includes entrepreneur, investor, founding Assistant Director of NSF's Computing and Information Science and Engineering Directorate 1986\u20131987, and researcher emeritus at Microsoft Research, 1995\u20132015."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Chester Gordon Bell (n\u00e9 le 19 ao\u00fbt 1934) est un ing\u00e9nieur et chercheur en informatique. Il con\u00e7oit chez Digital Equipment Corporation plusieurs des ordinateurs de la s\u00e9rie PDP. Depuis 1995 il est employ\u00e9 par Microsoft Research. Il y a travaill\u00e9 sur la t\u00e9l\u00e9pr\u00e9sence et est le sujet de l'exp\u00e9rimentation MyLifeBits."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Gordon Bell (Kirksville, 19 agosto 1934) \u00e8 un ingegnere, imprenditore e dirigente d'azienda statunitense. Dal 1960 al 1966 fu impiegato della Digital Equipment Corporation, per la quale svilupp\u00f2 diversi Programmed Data Processor, divenendo infine vicepresidente della sezione ingegneristica dal 1972 al 1983.Dopo aver supervisionato lo sviluppo del modulo VAX, dal 1986 al 1987 diresse la sezione ingegneristica della National Science Foundation e dal '95 al 2015 fu ricercatore emerito della Microsoft."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "C\u30fb\u30b4\u30fc\u30c9\u30f3\u30fb\u30d9\u30eb(C. Gordon Bell\u30011934\u5e748\u670819\u65e5 - )\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u8a08\u7b97\u6a5f\u5de5\u5b66\u8005\u3001\u5b9f\u696d\u5bb6\u3002\u8457\u540d\u306a\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u6280\u8853\u8005\u3067\u3042\u308a\u30de\u30cd\u30fc\u30b8\u30e3\u3002\u30c7\u30a3\u30b8\u30bf\u30eb\u30fb\u30a4\u30af\u30a4\u30c3\u30d7\u30e1\u30f3\u30c8\u30fb\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3(DEC)\u306e\u521d\u671f\u306e\u5f93\u696d\u54e1\u3068\u3057\u3066PDP\u30b7\u30ea\u30fc\u30ba\u306e\u3044\u304f\u3064\u304b\u306e\u6a5f\u7a2e\u3092\u8a2d\u8a08\u3057\u3001\u6280\u8853\u90e8\u9580\u306e\u526f\u793e\u9577\u3068\u3057\u3066VAX\u306e\u958b\u767a\u3092\u7d71\u62ec\u3057\u305f\u3002\u305d\u306e\u5f8c\u3001\u8d77\u696d\u5bb6\u3001\u767a\u660e\u5bb6\u3001NSF\u306e\u60c5\u5831\u79d1\u5b66\u90e8\u9580\u306e\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30c7\u30a3\u30ec\u30af\u30bf\u30fc (1986-1987)\u3001\u30de\u30a4\u30af\u30ed\u30bd\u30d5\u30c8\u3067\u306e\u7814\u7a76 (1995-) \u306a\u3069\u306e\u4ed5\u4e8b\u306b\u3064\u3044\u3066\u3044\u308b\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Chester Gordon Bell (Kirksville, 19 de agosto de 1934) \u00e9 um engenheiro de computadores e administrador estadunidense. Empregado da Digital Equipment Corporation de 1960 a 1966, Bell projetou diversas de suas m\u00e1quinas (PDP) e mais tarde tornou-se vice presidente de engenharia (1972 a 1983), supervisionando o desenvolvimento do VAX/VMS."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0427\u0435\u0441\u0442\u0435\u0440 \u0413\u043e\u0440\u0434\u043e\u043d \u0411\u0435\u043b\u043b (\u0430\u043d\u0433\u043b. Chester Gordon Bell; \u0440\u043e\u0434. 19 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1934, , \u0421\u0428\u0410) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440-, \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440 \u0438 \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440. \u0412 1960\u20141966 \u0433\u043e\u0434\u0430\u0445 \u0432 Digital Equipment Corporation (DEC) \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043b \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043c\u0438\u043d\u0438-\u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043e\u0432 PDP. \u0412 1972\u20141983 \u0433\u043e\u0434\u0430\u0445 \u0431\u044b\u043b \u0432\u0438\u0446\u0435-\u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u043e\u043c DEC, \u043a\u0443\u0440\u0438\u0440\u0443\u044f \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0443 VAX. \u0414\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0430\u044f \u043a\u0430\u0440\u044c\u0435\u0440\u0430 \u0413\u043e\u0440\u0434\u043e\u043d\u0430 \u0411\u0435\u043b\u043b\u0430 \u2014 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c, \u0438\u043d\u0432\u0435\u0441\u0442\u043e\u0440, \u0432\u0438\u0446\u0435-\u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u0443\u0447\u043d\u043e\u0433\u043e \u0444\u043e\u043d\u0434\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0447\u0451\u0442\u043d\u044b\u0439 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c Microsoft Research \u0432 1995\u20142015 \u0433\u043e\u0434\u0430\u0445. \u0412 1972 \u0433\u043e\u0434\u0443 \u0441\u0444\u043e\u0440\u043c\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043b (\u0430\u043d\u0433\u043b. Bell's law of computer classes), \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043e\u0431\u043e\u0441\u043d\u043e\u0432\u0430\u043b \u0441\u043c\u0435\u043d\u0443 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "C. Gordon Bell (* 19. August 1934 in Kirksville, Missouri) ist ein US-amerikanischer Computeringenieur und Manager. Er war in den 1960er Jahren bei DEC, f\u00fcr die er mehrere Computer der Reihe PDP entwickelte und in den 1970er Jahren die VAX-Entwicklung leitete. Mit seiner Frau Gwen Bell war er 1979 Mitgr\u00fcnder des Computermuseums in Boston (das viele Exponate von DEC erhielt). Es schloss 1999; die Ausstellungsst\u00fccke gingen teilweise an das , teilweise an das 1996 gegr\u00fcndete Computer History Museum in Mountain View."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Gordon Bell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Gordon Bell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Gordon_Bell.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Kirksville,_Missouri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Kirksville, Missouri, US"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1934-08-19"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Kirksville,_Missouri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1934_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellow_Members_of_the_IEEE"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Microsoft_Research_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Microsoft_employees"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Carnegie_Mellon_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Computer_designers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Computer_hardware_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:National_Medal_of_Technology_recipients"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:MIT_School_of_Engineering_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Silicon_Valley_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Australian_Academy_of_Technological_Sciences_and_Engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Digital_Equipment_Corporation_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "349136"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1119871458"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Mellon_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Encore_Computer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gordon_Bell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Kirksville,_Missouri"
+    }
+]

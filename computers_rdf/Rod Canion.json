@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTexasInstrumentsPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0631\u0648\u062f \u0643\u0627\u0646\u064a\u0648\u0646"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Rod Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Rod Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30ed\u30c3\u30c9\u30fb\u30ad\u30e3\u30cb\u30aa\u30f3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Rod Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Rod Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062c\u0648\u0632\u064a\u0641 \u0631\u0648\u062f\u0646\u064a \u00ab\u0631\u0648\u062f\u00bb \u0643\u0627\u0646\u064a\u0648\u0646 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Joseph Rodney \"Rod\" Canion)\u200f (\u0648\u0644\u062f \u0641\u064a 19 \u064a\u0646\u0627\u064a\u0631 1945 - ) \u0647\u0648 \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0623\u0645\u0631\u064a\u0643\u064a \u0648\u0631\u062c\u0644 \u0623\u0639\u0645\u0627\u0644 \u060c \u0645\u0639\u0631\u0648\u0641 \u0628\u0643\u0648\u0646\u0647 \u0627\u0644\u0645\u0624\u0633\u0633 \u0627\u0644\u0645\u0634\u0627\u0631\u0643 \u0644\u0634\u0631\u0643\u0629 \u0643\u0648\u0645\u0628\u0627\u0643 \u0644\u0644\u062d\u0627\u0633\u0648\u0628 \u062d\u064a\u062b \u0639\u0645\u0644 \u0643\u0623\u0648\u0644 \u0631\u0626\u064a\u0633 \u0648\u0645\u062f\u064a\u0631 \u062a\u0646\u0641\u064a\u0630\u064a \u0644\u0647\u0627."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Joseph Rodney \"Rod\" Canion (Texas, AEB, 1945eko urtarrilaren 19a) estatubatuar ingeniaria da. Ingeniaritza elektrikoa ikasi zuen, eta informatikan espezializatu zen. 1968an Texas Instruments, Inc. enpresan hasi zen lanean, eta han egon zen 1981 arte. 1982an enpresa sortu zuen. IBMren lehen ordenagailu eramangarria eta PCrekin bateragarria asmatu zuen. 1991n Compaq Portable 486c koloretako PC berria merkaturatu zuen, eta handik egun batzuetara enpresan zuen kargua galdu zuen. 1992an enpresa sortu zuen."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Joseph Rodney \"Rod\" Canion (born January 19, 1945) is an American computer scientist and businessman who co-founded Compaq Computer Corporation in 1982 and served as its first President and CEO."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30b8\u30e7\u30bb\u30d5\u30fb\u30ed\u30c9\u30cb\u30fc\u30fb\u30ad\u30e3\u30cb\u30aa\u30f3\uff08Joseph Rodney Canion\u30011945\u5e741\u670819\u65e5 - \uff09\u3001\u901a\u79f0\u30ed\u30c3\u30c9\u30fb\u30ad\u30e3\u30cb\u30aa\u30f3 (Rod Canion) \u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u5b9f\u696d\u5bb6\u3002\u30b3\u30f3\u30d1\u30c3\u30af\u306e\u5171\u540c\u8a2d\u7acb\u8005\u3068\u3057\u3066\u77e5\u3089\u308c\u308b\u3002\u30d2\u30e5\u30fc\u30b9\u30c8\u30f3\u751f\u307e\u308c\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Joseph Rodney \u201eRod\u201d Canion (ur. 19 stycznia 1945 r.) \u2013 ameryka\u0144ski informatyk i biznesmen, znany jako wsp\u00f3\u0142za\u0142o\u017cyciel firmy Compaq Computer Corporation, kt\u00f3rej by\u0142 pierwszym prezesem i dyrektorem generalnym."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Joseph Rodney \"Rod\" Canion (Houston, Texas; 19 de enero de 1945) es un comput\u00f3logo y empresario estadounidense. Canion fue uno de los fundadores en 1982 de la empresa Compaq en la que cumpli\u00f3 la funci\u00f3n de Presidente de la compa\u00f1\u00eda.\u200b Durante su permanencia como presidente de Compaq, la empresa alcanz\u00f3: r\u00e9cords por ser el negocio estadounidense con m\u00e1s ventas durante el primer a\u00f1o en la historia de ese pa\u00eds, la marca de ingresos por $1 mil millones m\u00e1s r\u00e1pido que cualquier otra compa\u00f1\u00eda en la historia, y el ingreso a la lista Fortune 500."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rod Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rod Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rod_Canion_-_SiliconCowboys-MFF16.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Texas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Texas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1945-01-19"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Compaq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_chief_executives_of_Fortune_500_companies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_electrical_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_technology_chief_executives"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_technology_company_founders"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Houston_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Texas_Instruments_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2809523"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1106533042"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Questia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_M._Rosen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compaq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compaq_Portable"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minute_Maid_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Compaq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston_Technology_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CEO"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_chief_executives_of_Fortune_500_companies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extended_Industry_Standard_Architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BlueArc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fortune_500"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Texas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Texas_Instruments"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Harris_(entrepreneur)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_electrical_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_technology_chief_executives"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_technology_company_founders"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Houston_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eckhard_Pfeiffer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Texas_Instruments_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IBM_PC_compatible"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Young_Life"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Murto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compaq_Computer_Corporation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AMVESCAP"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Harris_(Compaq)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.compaqalumnigroup.com/welcome.html"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20170729223752/http:/www.thecompaqstory.com/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.imdb.com/title/tt4938484/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.cnbc.com/2012/10/10/compaq-30th-anniversary-reunion-announced.html"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0842nx"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Rod_Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q7356151"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0631\u0648\u062f_\u0643\u0627\u0646\u064a\u0648\u0646"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Rod_Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://eu.dbpedia.org/resource/Rod_Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ja.dbpedia.org/resource/\u30ed\u30c3\u30c9\u30fb\u30ad\u30e3\u30cb\u30aa\u30f3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Rod_Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://tr.dbpedia.org/resource/Rod_Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4vA1n"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rod_Canion",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTheUniversityOfEdinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAssociationForTheAdvancementOfArtificialIntelligence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFormalMethodsPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0631\u0648\u0628\u0631\u062a \u0625\u0633. \u0628\u0648\u064a\u0631"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert S. Boyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert S. Boyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Robert S. Boyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0631\u0648\u0628\u0631\u062a \u0625\u0633. \u0628\u0648\u064a\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Robert S. Boyer)\u200f \u0647\u0648 \u0645\u0647\u0646\u062f\u0633 \u0648\u0641\u064a\u0644\u0633\u0648\u0641 \u0648\u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u0639\u0634\u0631\u064a\u0646."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Stephen Boyer is an American retired professor of computer science, mathematics, and philosophy at The University of Texas at Austin. He and J Strother Moore invented the Boyer\u2013Moore string search algorithm, a particularly efficient string searching algorithm, in 1977. He and Moore also collaborated on the Boyer\u2013Moore automated theorem prover, Nqthm, in 1992. Following this, he worked with Moore and Matt Kaufmann on another theorem prover called ACL2."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Stephen Boyer est un informaticien am\u00e9ricain. Il a \u00e9t\u00e9 professeur \u00e0 l'universit\u00e9 du Texas \u00e0 Austin."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Robert Stephen Boyer (geb. vor 1971) ist ein US-amerikanischer Informatiker. Er war Professor an der University of Texas at Austin. Boyer studierte an der University of Texas at Austin, an der er 1971 bei Woody Bledsoe promoviert wurde (Locking: A restriction to resolution). 1970/71 forschte er am AI Lab des Massachusetts Institute of Technology und 1971 bis 1973 an der University of Edinburgh. Ab 1973 war er Wissenschaftler bei SRI International in Menlo Park und ab 1981 Professor an der University of Texas at Austin. 2008 emeritierte er. 1999 erhielt er den Herbrand Award."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Robert S. Boyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Robert S. Boyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Texas_at_Austin_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_the_Advancement_of_Artificial_Intelligence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Formal_methods_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Lisp_(programming_language)_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "4384637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1079076903"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boyer\u2013Moore_string_search_algorithm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Edinburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nqthm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boyer\u2013Moore_majority_vote_algorithm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/String_searching_algorithm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematician"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Texas_at_Austin_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ACL2"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/QED_manifesto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_the_Advancement_of_Artificial_Intelligence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Formal_methods_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lisp_(programming_language)_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J_Strother_Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics_Genealogy_Project"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.cs.utexas.edu/~boyer/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.utexas.edu/cola/college_news/current/retiredfaculty08/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.genealogy.ams.org/id.php%3Fid=13163"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0b_d97"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Robert_S._Boyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/171987012"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/46821597"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/b/RobertSBoyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4588776"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p069006822"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0631\u0648\u0628\u0631\u062a_\u0625\u0633._\u0628\u0648\u064a\u0631"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Robert_S._Boyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Robert_S._Boyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://mg.dbpedia.org/resource/Robert_S._Boyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4FbDn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:US-compu-bio-stub"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:US-philosopher-stub"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:About"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Robert_S._Boyer",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal"
+    }
+]

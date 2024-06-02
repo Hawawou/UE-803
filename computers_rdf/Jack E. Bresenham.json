@@ -1,0 +1,42 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Jack_E._Bresenham",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jack E. Bresenham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jack_E._Bresenham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "17857829"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jack_E._Bresenham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "218196223"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jack_E._Bresenham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jack_Elton_Bresenham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jack_E._Bresenham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Jack_Elton_Bresenham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jack_E._Bresenham",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jack_E._Bresenham?oldid=218196223&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jack_E._Bresenham",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "34"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jack_E._Bresenham",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jack_E._Bresenham"
+    }
+]

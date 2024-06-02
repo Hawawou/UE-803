@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScienceTeachers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromRegensburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSoftwareEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Historian110177150"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/InteriorDesigner110210648"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Mathematician110301261"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHistoriansOfMathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ScienceTeacher110560548"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Teacher110694258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEthnicGermanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatProgrammingLanguageDesigners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0641\u0631\u064a\u062f\u0631\u064a\u0634 \u0628\u0627\u0648\u0631"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Friedrich L. Bauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Friedrich Ludwig Bauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Friedrich L. Bauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Friedrich L. Bauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Friedrich L. Bauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Friedrich Ludwig Bauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u0430\u0443\u044d\u0440, \u0424\u0440\u0438\u0434\u0440\u0438\u0445 \u041b\u044e\u0434\u0432\u0438\u0433"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0641\u0631\u064a\u062f\u0631\u064a\u0643 \u0644\u0648\u062f\u0641\u064a\u062c \u0628\u0627\u0648\u0631 (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629: Friedrich Ludwig Bauer)\u200f (\u0648\u0644\u062f \u0641\u064a 10 \u062c\u0648\u0627\u0646 \u060c 1924 \u0641\u064a \u0631\u064a\u063a\u0646\u0633\u0628\u0648\u0631\u063a - 26 \u0645\u0627\u0631\u0633 2015) \u0647\u0648 \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0623\u0644\u0645\u0627\u0646\u064a \u0648 \u0623\u0633\u062a\u0627\u0630 \u0641\u062e\u0631\u064a \u0641\u064a ."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Friedrich Ludwig Bauer (* 10. Juni 1924 in Regensburg; \u2020 26. M\u00e4rz 2015) war ein deutscher Pionier der Informatik. Er konstruierte in den 1950er Jahren mehrere Verschl\u00fcsselungsmaschinen, erfand 1957 das Prinzip des Kellerspeichers, hielt 1967 an der Technischen Universit\u00e4t M\u00fcnchen die erste offizielle Informatikvorlesung in Deutschland und richtete 1988 die erste Computerausstellung im Deutschen Museum aus. Seine Publikationen zur Kryptologie sind Standardwerke der Informatik."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Friedrich Ludwig \"Fritz\" Bauer (10 June 1924 \u2013 26 March 2015) was a German pioneer of computer science and professor at the Technical University of Munich."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Friedrich Ludwig Bauer, n\u00e9 le 10 juin 1924 \u00e0 Ratisbonne, et mort le 26 mars 2015, est l'un des pionniers allemands de l'informatique. Avec Klaus Samelson, il est l'inventeur, en 1957, du principe de la pile comme structure de donn\u00e9es. En 1967, il est le premier \u00e0 professer un cours d\u2019informatique \u00e0 l'universit\u00e9 technique de Munich. Il intervient activement dans l'\u00e9tablissement de cursus d'informatique en Allemagne, et organise des \u00c9coles d'\u00e9t\u00e9 r\u00e9put\u00e9es. En 1988, il organise la premi\u00e8re exposition d'ordinateurs dans le Deutsches Museum. Ses nombreux livres font historiquement partie des ouvrages standard de l'informatique."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Friedrich Ludwig Bauer (lahir 10 Juni 1924 di Regensburg) adalah seorang ilmuwan komputer asal Jerman dan seorang di ."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Friedrich Ludwig \u201eFritz\u201d Bauer (ur. 10 czerwca 1924 w Ratyzbonie, zm. 26 marca 2015) \u2013 niemiecki matematyk, pionier informatyki i profesor Politechniki Monachijskiej. W latach 50. XX wieku zbudowa\u0142 kilka maszyn szyfruj\u0105cych oraz opracowa\u0142 i opatentowa\u0142 liniow\u0105 struktur\u0119 danych zwan\u0105 stosem. Tw\u00f3rca terminu in\u017cynieria oprogramowania. Jest autorem jednej z podstawowych prac dotycz\u0105cych kryptologii."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Friedrich Ludwig Bauer (Ratisbona, 10 de junho de 1924 \u2014 26 de mar\u00e7o de 2015) foi um cientista da computa\u00e7\u00e3o alem\u00e3o. Foi professor em\u00e9rito na Universidade T\u00e9cnica de Munique. Friedrich foi o autor da primeira defini\u00e7\u00e3o de engenharia de software, em 1969, na Confer\u00eancia NATO Science Committee, que a definiu como \"o estabelecimento e uso de s\u00f3lidos princ\u00edpios de engenharia para obter software economicamente confi\u00e1vel e que trabalhe de forma eficiente em m\u00e1quinas reais\". Em 1978 ganhou a medalha Wilhelm Exner."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0424\u0440\u0438\u0434\u0440\u0438\u0445 \u041b\u044e\u0434\u0432\u0438\u0433 \u0411\u0430\u0443\u044d\u0440 (\u043d\u0435\u043c. Friedrich Ludwig Bauer; 10 \u0438\u044e\u043d\u044f 1924 \u2014 26 \u043c\u0430\u0440\u0442\u0430 2015) \u2014 \u043d\u0435\u043c\u0435\u0446\u043a\u0438\u0439 \u0443\u0447\u0451\u043d\u044b\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438, \u0437\u0430\u0441\u043b\u0443\u0436\u0435\u043d\u043d\u044b\u0439 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0422\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041c\u044e\u043d\u0445\u0435\u043d\u0430, \u0447\u043b\u0435\u043d-\u043a\u043e\u0440\u0440\u0435\u0441\u043f\u043e\u043d\u0434\u0435\u043d\u0442 \u0410\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043a\u043e\u0439 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u043d\u0430\u0443\u043a, \u0447\u043b\u0435\u043d \u0413\u0435\u0440\u043c\u0430\u043d\u0441\u043a\u043e\u0439 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u043d\u0430\u0443\u043a."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Friedrich Ludwig Bauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Friedrich Ludwig Bauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/FriedrichLBauer29-05-1995.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/FriedrichLudwigBauer.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Weimar_Republic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Regensburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2015-03-26"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Weimar_Republic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Regensburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1924-06-10"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1924_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Software_engineering_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Ludwig_Maximilian_University_of_Munich_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_military_personnel_of_World_War_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Austrian_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Technical_University_of_Munich_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2015_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Officers_Crosses_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_German_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_historians_of_mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Programming_language_designers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Computer_science_educators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Regensburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_German_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2702375"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124205505"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bauer\u2013Fike_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bavarian_Maximilian_Order_for_Science_and_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Randell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Gries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deutsches_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Friedrich_L._Bauer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Applied_mathematics"
+    }
+]

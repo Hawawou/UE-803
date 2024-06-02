@@ -1,0 +1,432 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Aljoscha (K\u00fcnstler)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Aljoscha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u043b\u0451\u0448\u0430 (\u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u043b\u044c\u043e\u0448\u0430 (\u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Aljoscha (ukrainisch \u0410\u043b\u044c\u043e\u0301\u0448\u0430; * 1974 in Gluchov als Aleksey Alekseevich Potupin, Ukrainische SSR) ist ein ukrainischer Bildhauer und Maler, der f\u00fcr konzeptionelle Installationen und Skulpturen basierend auf Ideen des Bioismus, des Biofuturismus und des bioethischen Abolitionismus bekannt ist."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Aljoscha (1974 in Hlukhiv, USSR, now Ukraine) is a Ukrainian visual artist known for conceptual installations and sculptures based on ideas of bioism, biofuturism and bioethical abolitionism."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0410\u043b\u0451\u0448\u0430 (\u0443\u043a\u0440. \u0410\u043b\u044c\u043e\u0448\u0430, \u043d\u0435\u043c. Aljoscha, \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0438\u043c\u044f \u2014 \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041f\u043e\u0442\u0443\u043f\u0438\u043d; 15 \u0438\u044e\u043b\u044f 1974) \u2014 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0439 \u0438 \u0440\u0443\u0441\u0441\u043a\u0438\u0439[\u0443\u0442\u043e\u0447\u043d\u0438\u0442\u044c] \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a \u0438 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u0432 \u043f\u0435\u0440\u0432\u0443\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c \u0441\u0432\u043e\u0438\u043c\u0438 \u043a\u043e\u043d\u0446\u0435\u043f\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0438\u043d\u0441\u0442\u0430\u043b\u043b\u044f\u0446\u0438\u044f\u043c\u0438 \u0438 \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c\u0438, \u0431\u0430\u0437\u0438\u0440\u0443\u044e\u0449\u0438\u0445\u0441\u044f \u043d\u0430 \u0438\u0434\u0435\u044f\u0445 \u0431\u0438\u043e\u0438\u0437\u043c\u0430, \u0431\u0438\u043e\u0444\u0443\u0442\u0443\u0440\u0438\u0437\u043c\u0430 \u0438 \u0431\u0438\u043e\u044d\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0430\u0431\u043e\u043b\u0438\u0446\u0438\u043e\u043d\u0438\u0437\u043c\u0430. \u0412 \u0431\u0443\u0434\u0443\u0449\u0435\u043c, \u0441\u0447\u0438\u0442\u0430\u0435\u0442 \u0430\u0432\u0442\u043e\u0440, \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u0438 \u043a\u0430\u043a \u0431\u0438\u043e\u043b\u043e\u0433\u0438 \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 \u0436\u0438\u0432\u044b\u043c\u0438 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430\u043c\u0438, \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u043d\u043e\u0432\u044b\u0435 \u0444\u043e\u0440\u043c\u044b \u0436\u0438\u0437\u043d\u0438 \u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0442\u044c \u043d\u043e\u0432\u0443\u044e \u044d\u0442\u0438\u043a\u0443."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0410\u043b\u044c\u043e\u0448\u0430 (\u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a) (\u0443\u043a\u0440. \u0410\u043b\u044c\u043e\u0448\u0430, \u043d\u0456\u043c. Aljoscha, \u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0454 \u0456\u043c'\u044f \u2014 \u041e\u043b\u0435\u043a\u0441\u0456\u0439 \u041f\u043e\u0442\u0443\u043f\u0456\u043d (\u043d\u0430\u0440.15 \u043b\u0438\u043f\u043d\u044f 1974, \u0413\u043b\u0443\u0445\u0456\u0432, \u0421\u0443\u043c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u0420\u0421\u0420, \u0421\u0420\u0421\u0420) \u2014 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0439 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u0456 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a \u0456 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aljoscha,_installation_Dortmund_2015.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Hlukhiv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Ukrainian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1974_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Ukrainian_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "53218451"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1100027343"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bergkamen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bologna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hlukhiv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ukraine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valencia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vienna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Installation_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schloss_Benrath"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cologne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Einbeck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minsk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Munich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thessaloniki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lustenau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stuttgart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Budapest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Hlukhiv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ukrainian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/USSR"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1974_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/D\u00fcsseldorf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paderborn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G\u00f6ttingen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abolitionism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ukrainian_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kamp-Lintfort"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bioethics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dortmund"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sofia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Petersburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Krefeld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ortenberg,_Hesse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Aljoscha,_installation_Dortmund_2015.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://annanova-gallery.ru/en/exhibitions/exhibition/Lotofagiya/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://salve-magazine.de/aljoscha/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.beck-eggeling.de/en/kunstler/aljoscha/%23bio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.galeriemartinakaiser.de/en/artists/aljoscha/werke.html"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://creativemindclass.com/magazine/bioism/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.artfacts.net/en/artist/aljoscha-179607/profile.html"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.aljoscha.org"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20170220172142/http:/www.sculpture.org/documents/scmag15/June_15/June15_features1.shtml"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.artsy.net/artist/aljoscha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/8608306"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/135636949"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q29044400"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Aljoscha_(K\u00fcnstler)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0410\u043b\u0451\u0448\u0430_(\u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/\u0410\u043b\u044c\u043e\u0448\u0430_(\u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2gsZe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aljoscha,_installation_Dortmund_2015.jpg?width=300"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Aljoscha (ukrainisch \u0410\u043b\u044c\u043e\u0301\u0448\u0430; * 1974 in Gluchov als Aleksey Alekseevich Potupin, Ukrainische SSR) ist ein ukrainischer Bildhauer und Maler, der f\u00fcr konzeptionelle Installationen und Skulpturen basierend auf Ideen des Bioismus, des Biofuturismus und des bioethischen Abolitionismus bekannt ist."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Aljoscha (1974 in Hlukhiv, USSR, now Ukraine) is a Ukrainian visual artist known for conceptual installations and sculptures based on ideas of bioism, biofuturism and bioethical abolitionism."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0410\u043b\u0451\u0448\u0430 (\u0443\u043a\u0440. \u0410\u043b\u044c\u043e\u0448\u0430, \u043d\u0435\u043c. Aljoscha, \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0438\u043c\u044f \u2014 \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041f\u043e\u0442\u0443\u043f\u0438\u043d; 15 \u0438\u044e\u043b\u044f 1974) \u2014 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0439 \u0438 \u0440\u0443\u0441\u0441\u043a\u0438\u0439[\u0443\u0442\u043e\u0447\u043d\u0438\u0442\u044c] \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a \u0438 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u0432 \u043f\u0435\u0440\u0432\u0443\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c \u0441\u0432\u043e\u0438\u043c\u0438 \u043a\u043e\u043d\u0446\u0435\u043f\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0438\u043d\u0441\u0442\u0430\u043b\u043b\u044f\u0446\u0438\u044f\u043c\u0438 \u0438 \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c\u0438, \u0431\u0430\u0437\u0438\u0440\u0443\u044e\u0449\u0438\u0445\u0441\u044f \u043d\u0430 \u0438\u0434\u0435\u044f\u0445 \u0431\u0438\u043e\u0438\u0437\u043c\u0430, \u0431\u0438\u043e\u0444\u0443\u0442\u0443\u0440\u0438\u0437\u043c\u0430 \u0438 \u0431\u0438\u043e\u044d\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0430\u0431\u043e\u043b\u0438\u0446\u0438\u043e\u043d\u0438\u0437\u043c\u0430. \u0412 \u0431\u0443\u0434\u0443\u0449\u0435\u043c, \u0441\u0447\u0438\u0442\u0430\u0435\u0442 \u0430\u0432\u0442\u043e\u0440, \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u0438 \u043a\u0430\u043a \u0431\u0438\u043e\u043b\u043e\u0433\u0438 \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 \u0436\u0438\u0432\u044b\u043c\u0438 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430\u043c\u0438, \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u043d\u043e\u0432\u044b\u0435 \u0444\u043e\u0440\u043c\u044b \u0436\u0438\u0437\u043d\u0438 \u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0442\u044c \u043d\u043e\u0432\u0443\u044e \u044d\u0442\u0438\u043a\u0443."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0410\u043b\u044c\u043e\u0448\u0430 (\u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a) (\u0443\u043a\u0440. \u0410\u043b\u044c\u043e\u0448\u0430, \u043d\u0456\u043c. Aljoscha, \u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0454 \u0456\u043c'\u044f \u2014 \u041e\u043b\u0435\u043a\u0441\u0456\u0439 \u041f\u043e\u0442\u0443\u043f\u0456\u043d (\u043d\u0430\u0440.15 \u043b\u0438\u043f\u043d\u044f 1974, \u0413\u043b\u0443\u0445\u0456\u0432, \u0421\u0443\u043c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u0420\u0421\u0420, \u0421\u0420\u0421\u0420) \u2014 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0439 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u0456 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a \u0456 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Aljoscha?oldid=1100027343&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "12058"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aljoscha",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Aljoscha"
+    }
+]

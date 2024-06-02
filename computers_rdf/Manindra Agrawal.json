@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatMarwariPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatNumberTheorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromAllahabad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromKanpur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Academician109759069"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Laureate110249011"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Mathematician110301261"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/NumberTheorist110366276"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatG\u00f6delPrizeLaureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIndianAcademics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIndianComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIndianMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIndianPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat21st-centuryMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlexanderVonHumboldtFellows"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheIndianAcademyOfSciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheNationalAcademyOfSciences,India"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0645\u0627\u0646\u064a\u0646\u062f\u0631\u0627 \u0623\u063a\u0631\u0627\u0648\u0627\u0644"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Manindra Agrawal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Manindra Agrawal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Manindra Agrawal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30de\u30cb\u30f3\u30c9\u30e9\u30fb\u30a2\u30b0\u30e9\u30ef\u30eb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Manindra Agrawal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0645\u0627\u0646\u064a\u0646\u062f\u0631\u0627 \u0623\u063a\u0631\u0627\u0648\u0627\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Manindra Agrawal)\u200f (\u0645\u0646 \u0645\u0648\u0627\u0644\u064a\u062f 20 \u0645\u0627\u064a\u0648 1966) \u0647\u0648 \u0623\u0633\u062a\u0627\u0630 \u0641\u064a \u0642\u0633\u0645 \u0639\u0644\u0648\u0645 \u0648\u0647\u0646\u062f\u0633\u0629 \u0627\u0644\u0643\u0645\u0628\u064a\u0648\u062a\u0631 \u0648\u0646\u0627\u0626\u0628 \u0645\u062f\u064a\u0631 \u0627\u0644\u0645\u0639\u0647\u062f \u0627\u0644\u0647\u0646\u062f\u064a \u0644\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627\u060c \u0643\u0627\u0646\u0628\u0648\u0631 \u0641\u064a \u0627\u0644\u0647\u0646\u062f. \u062d\u0635\u0644 \u0639\u0644\u0649 \u062c\u0627\u0626\u0632\u0629 \u0625\u0646\u0641\u0648\u0633\u064a\u0633 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0648\u062c\u0627\u0626\u0632\u0629 \u0634\u0627\u0646\u062a\u064a \u0633\u0648\u0627\u0631\u0648\u0628 \u0628\u0647\u0627\u062a\u0646\u0627\u063a\u0627\u0631 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0641\u064a \u0627\u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 \u0641\u064a \u0639\u0627\u0645 2003. \u062a\u0645 \u062a\u0643\u0631\u064a\u0645\u0647 \u0628\u0648\u0633\u0627\u0645 \u0628\u0627\u062f\u0645\u0627 \u0634\u0631\u064a \u0641\u064a \u0639\u0627\u0645 2013."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Manindra Agrawal (* 20. Mai 1966 in Allahabad, Indien) ist ein indischer Mathematiker und Informatiker, der sich mit Kryptographie, Komplexit\u00e4tstheorie und algorithmischer Zahlentheorie besch\u00e4ftigt."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Manindra Agrawal (born 20 May 1966) is a professor at the Department of Computer Science and Engineering and the Deputy Director at the Indian Institute of Technology, Kanpur. He was also the recipient of the first Infosys Prize for Mathematics, the Godel Prize in 2006; and the Shanti Swarup Bhatnagar Award in Mathematical Sciences in 2003. He has been honoured with Padma Shri in 2013."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Manindra Agrawal (hindi : \u092e\u0923\u0940\u0928\u094d\u0926\u094d\u0930 \u0905\u0917\u094d\u0930\u0935\u093e\u0932) (20 mai 1966 \u00e0 All\u00e2h\u00e2b\u00e2d - ) est un math\u00e9maticien indien et professeur \u00e0 l'Institut indien de technologie de Kanpur. C'est un des auteurs du test de primalit\u00e9 AKS."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30de\u30cb\u30f3\u30c9\u30e9\u30fb\u30a2\u30b0\u30e9\u30ef\u30eb\uff08Manindra Agrawal\u30011966\u5e745\u670820\u65e5\u30fb\u30ab\u30fc\u30f3\u30d7\u30eb - \uff09\u306f\u3001\u30a4\u30f3\u30c9\u5de5\u79d1\u5927\u5b66\u30ab\u30fc\u30f3\u30d7\u30eb\u6821\u306e\u8a08\u7b97\u6a5f\u79d1\u5b66\u3001\u5de5\u5b66\u3001Dean of Faculty Affairs\u306e\u6559\u6388\u3002 \u81ea\u3089\u306e\u751f\u5f92\u3067\u3042\u3063\u305f\u30cb\u30e9\u30b8\u30e5\u30fb\u30ab\u30e4\u30eb\u3001\u3068\u3068\u3082\u306b\u7d20\u6570\u554f\u984c\u306e\u8a08\u7b97\u91cf\u306b\u3064\u3044\u3066\u7814\u7a76\u3057\u3001AKS\u7d20\u6570\u5224\u5b9a\u6cd5\u3092\u69cb\u6210\u3057\u3001\u305d\u308c\u3092\u7528\u3044\u3066\u7d20\u6570\u554f\u984c\u304cP\u306b\u5c5e\u3059\u308b\u3053\u3068\u3092\u793a\u3057\u305f\u3002 \u305d\u306e\u696d\u7e3e\u3092\u8a55\u4fa1\u3055\u308c2002\u5e74\u306b\u30af\u30ec\u30a4\u7814\u7a76\u8cde\u30012006\u5e74\u306b\u30b2\u30fc\u30c7\u30eb\u8cde\u3068\u30d5\u30a1\u30eb\u30ab\u30fc\u30bd\u30f3\u8cde\u3092\u53d7\u8cde\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Manindra Agrawal (Allahabad, \u00cdndia, 20 de maio de 1966) \u00e9 um professor do departamento de Ci\u00eancia da Computa\u00e7\u00e3o e engenheiro e decano de Gera\u00e7\u00e3o e Planejamento de Recursos (DRPG) no , Kanpur. Foi o primeiro a receber o pr\u00eamio cient\u00edfico indiano intitulado . Foi co-criador, juntamente com Neeraj Kayal e , do teste de primalidade AKS, um algoritmo determin\u00edstico de tempo polinomial que avalia-se um determinado n\u00famero \u00e9 ou n\u00e3o um n\u00famero primo. Por este algoritmo ganhou juntamente com os co-autores o Clay Research Award em 2002, o Pr\u00eamio Fulkerson e o Pr\u00eamio G\u00f6del, ambos em 2006."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Manindra Agrawal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Manindra Agrawal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Manindra_Agarwal.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Uttar_Pradesh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Allahabad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/India"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Uttar_Pradesh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Allahabad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/India"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1966-05-20"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Indian_number_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1966_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Indian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Indian_mathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_The_National_Academy_of_Sciences,_India"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Indian_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Indian_National_Science_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Foreign_associates_of_the_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Indian_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Institute_for_Advanced_Study_visiting_scholars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Padma_Shri_in_science_&_engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:G\u00f6del_Prize_laureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scientists_from_Allahabad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Theoretical_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Clay_Research_Award_recipients"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:TWAS_laureates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Shanti_Swarup_Bhatnagar_Award_in_Mathematical_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:IIT_Kanpur_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:IIT_Kanpur_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Marwari_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Kanpur"
+    }
+]

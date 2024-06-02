@@ -1,0 +1,322 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Evelin Winifred Aston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Evelin Winifred Aston, later Evelin Leigh (22 January 1891 \u2013 1975) was a British artist known for her sculptures who also painted and worked in a variety of techniques."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Evelin Winifred Aston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Evelin Winifred Aston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Birmingham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Birmingham, England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1891-01-22"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Birmingham,_West_Midlands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1891_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1975_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Birmingham_School_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "64063543"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1109602166"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Birmingham_Society_of_Artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Fleetwood-Walker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birmingham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birmingham_School_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Birmingham,_West_Midlands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris_Salon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1891_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1975_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Birmingham_School_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erdington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Scottish_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_of_Women_Artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Bloyne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q95470030"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://mk.dbpedia.org/resource/\u0415\u0432\u0435\u043b\u0438\u043d_\u0412\u0438\u043d\u0438\u0444\u0440\u0435\u0434_\u0410\u0441\u0442\u043e\u043d"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/C27Sx"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_British_English"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_year_and_age"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Birmingham_School_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1891-01-22"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "British"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Evelin Winifred Aston, later Evelin Leigh (22 January 1891 \u2013 1975) was a British artist known for her sculptures who also painted and worked in a variety of techniques."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Evelin_Winifred_Aston?oldid=1109602166&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3345"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Evelin_Winifred_Aston",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Evelin_Winifred_Aston"
+    }
+]

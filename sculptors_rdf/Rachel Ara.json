@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Rachel Ara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Rachel Ara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rachel Ara (born 1965, Jersey) is a London-based contemporary British conceptual and data artist."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rachel Ara (Jersey, 1965) \u00e9 uma artista conceitual e de dados contempor\u00e2nea brit\u00e2nica sediada em Londres."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rachel Ara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://www.2ra.co/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rachel Ara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel_Ara_Conceptual_and_Data_Artist.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Channel_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Channel_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jersey_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jersey_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Goldsmiths,_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_computer_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Women_digital_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1965_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_English_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_English_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_English_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_English_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_conceptual_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Women_conceptual_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_digital_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_associated_with_the_Victoria_and_Albert_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "61403754"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1118530412"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_College_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society_of_Sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_West_of_England_Academy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jersey_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_and_Albert_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vienna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courtauld_Institute_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jersey_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vienna_Biennale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Goldsmiths,_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Applied_Arts,_Vienna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conceptual_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LinkedIn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Design_Festival"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Data_protection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbican_Centre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Goldsmiths,_University_of_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_computer_programmers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_digital_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitechapel_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1965_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fine_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_English_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_English_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_English_women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_English_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_conceptual_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_conceptual_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_digital_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Channel_Islands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_associated_with_the_Victoria_and_Albert_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jersey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Korea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Goldsmiths'_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Data_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Museum_of_Modern_and_Contemporary_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seoul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bomb_Factory_Art_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mixed_reality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lumen_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mall_Galleries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_programmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.2ra.co/"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.2ra.co"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rachel_Ara",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.linkedin.com/in/rachel-ara/"
+    }
+]

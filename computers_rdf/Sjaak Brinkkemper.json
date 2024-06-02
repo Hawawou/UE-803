@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSoftwareEngineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromWaterland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRadboudUniversityNijmegenAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sjaak Brinkkemper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jacobus Nicolaas (Sjaak) Brinkkemper (born Monnickendam, 18 January 1958) is a Dutch computer scientist, and Full Professor of organisation and information at the Department of Information and Computing Sciences of Utrecht University."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_software_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Software_engineering_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Dutch_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Monnickendam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1958_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Utrecht_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Radboud_University_Nijmegen_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Twente_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Enterprise_modelling_experts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Radboud_University_Nijmegen_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "23003153"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1084458852"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Method_engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andreas_Lothe_Opdahl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Amsterdam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Twente"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Utrecht_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Requirements_management"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alex_Verrijn_Stuart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_software_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Software_engineering_researchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monnickendam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Dutch_engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Monnickendam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer-aided_software_engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Krogstie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1958_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Utrecht_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Radboud_University_Nijmegen_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Twente_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Enterprise_modelling_experts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Henderson-Sellers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baan_Corporation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Radboud_University_Nijmegen_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colette_Rolland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Software_development"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Radboud_University_Nijmegen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/European_Journal_of_Information_Systems"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Management_Information_Systems_Quarterly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IFIP_WG_8.1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eckhard_Falkenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jolita_Ralyt\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.wi-inf.uni-duisburg-essen.de/MobisPortal/index.php%3Flang=en&&groupId=1&&contentType=JournalMembers&issue=4&showAbstract=26"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.cs.uu.nl/staff/sjaak.html"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.uu.nl/staff/default.aspx%3Flng=NL&Profielpagina=SBrinkkemper&t=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.064p2j8"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/163510961"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Sjaak_Brinkkemper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/121988279"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://dblp.org/pid/b/SjaakBrinkkemper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://orcid.org/0000-0002-2977-8911"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q7533514"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p07500707X"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4uPUc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_journal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jacobus Nicolaas (Sjaak) Brinkkemper (born Monnickendam, 18 January 1958) is a Dutch computer scientist, and Full Professor of organisation and information at the Department of Information and Computing Sciences of Utrecht University."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/163510961"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Sjaak_Brinkkemper?oldid=1084458852&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Sjaak_Brinkkemper",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6228"
+    }
+]

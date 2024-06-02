@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Engraver110058155"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Etcher110064977"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/GraphicDesigner110144055"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Illustrator109812068"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Lithographer110266486"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Painter110391653"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Printmaker110475687"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/SkilledWorker110605985"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchEngravers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchEtchers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchGraphicDesigners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchIllustrators"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchLithographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchPainters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchPrintmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromTheHague"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u064a\u0648\u0647\u0627\u0646\u064a\u0633 \u064a\u0648\u0633\u064a\u0641\u0648\u0633 \u0622\u0631\u062a\u0633"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Johan Joseph Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Johan Joseph Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Johannes Josephus Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Johannes Josephus Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Johannes Joseph Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Johannes Josephus Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Johannes Josephus Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30e8\u30cf\u30cd\u30b9\u30fb\u30e8\u30bb\u30d5\u30b9\u30fb\u30a2\u30fc\u30eb\u30c4"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u064a\u0648\u0647\u0627\u0646\u064a\u0633 \u064a\u0648\u0633\u064a\u0641\u0648\u0633 \u0622\u0631\u062a\u0633 (\u0628\u0627\u0644\u0647\u0648\u0644\u0646\u062f\u064a\u0629: Johannes Josephus Aarts)\u200f (18 \u0623\u063a\u0633\u0637\u0633 1871\u060c \u0644\u0627\u0647\u0627\u064a \u2013 19 \u0623\u0643\u062a\u0648\u0628\u0631 1934\u060c \u0623\u0645\u0633\u062a\u0631\u062f\u0627\u0645) \u0643\u0627\u0646 \u0631\u0633\u0627\u0645 \u0643\u062a\u0628\u060c \u0646\u062d\u0627\u062a\u060c \u0648\u0631\u0633\u0627\u0645 \u0647\u0648\u0644\u0646\u062f\u064a. \u0648\u064a\u0639\u0631\u0641 \u0623\u0643\u062b\u0631 \u0628\u0623\u0646\u0647 \u0646\u0642\u0634 ."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Johan Joseph Aarts (18. srpna 1871 Haag, Nizozemsko \u2013 19. \u0159\u00edjna 1934 Amsterdam, Nizozemsko) byl nizozemsk\u00fd mal\u00ed\u0159 a grafik."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Johannes Josephus Aarts (La Haya, 18 de agosto de 1871-\u00c1msterdam, 19 de octubre de 1934) fue un dibujante, lit\u00f3grafo, grabador, aguafortista, escritor, ilustrador, profesor de la Academia, director de la Academia, profesor, escultor, pintor y dise\u00f1ador de encuadernaci\u00f3n neerland\u00e9s.\u200b"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Johannes Josephus Aarts (18 August 1871, in The Hague \u2013 19 October 1934, in Amsterdam) was a Dutch painter, illustrator, lithographer, engraver, etcher, writer, academic teacher and director, lecturer, sculptor and book-cover designer."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Johannes Josephus Aarts (1871 - 1934) est un artiste peintre n\u00e9erlandais, illustrateur, lithographe, aquafortiste, \u00e9crivain, professeur et concepteur de couverture de livre."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30e8\u30cf\u30cd\u30b9\u30fb\u30e8\u30bb\u30d5\u30b9\u30fb\u30a2\u30fc\u30eb\u30c4\uff08Johannes Josephus Aarts\u30011871\u5e748\u670818\u65e5 \u2013 1934\u5e7410\u670819\u65e5\uff09\u306f\u30aa\u30e9\u30f3\u30c0\u306e\u753b\u5bb6\u3001\u7248\u753b\u5bb6\u3001\u30a4\u30e9\u30b9\u30c8\u30ec\u30fc\u30bf\u30fc\u3067\u3042\u308b\u3002\u30a2\u30e0\u30b9\u30c6\u30eb\u30c0\u30e0\u306e\u7f8e\u8853\u30a2\u30ab\u30c7\u30df\u30fc\u306a\u3069\u3067\u7248\u753b\u3092\u6559\u3048\u305f\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Johannes Josephus Aarts (Den Haag, 18 augustus 1871 \u2013 Amsterdam, 19 oktober 1934) was een Nederlandse kunstschilder, tekenaar, lithograaf, graveur, etser, publicist, illustrator, docent aan academie, directeur van academie, hoogleraar, beeldhouwer en boekbandontwerper."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Johan Joseph Aarts (* 18. August 1871 in Den Haag; \u2020 19. Oktober 1934 in Amsterdam; eigentlich Johannes Josephus Aarts) war ein niederl\u00e4ndischer Maler und Grafiker. Gemeinsam mit seinem Freund z\u00e4hlte Aarts Mitte der 1890er Jahre zu einer Gruppe von Avantgardisten, die sich mit dem Pointillismus auseinandersetzten. In diesem Stil schuf er sechs Landschaftsbilder von zarter Farbigkeit, wandte sich jedoch von der Malerei ab und der Druckgrafik zu, als er 1895 einen Lehrauftrag an der Akademie in Den Haag erhielt. 1911 wurde er zu einer Professur f\u00fcr grafische K\u00fcnste an die Rijksakademie van beeldende kunsten in Amsterdam berufen. Diese hielt er bis zu seinem Tode 1934 inne. Seine ernsten grafischen Werke, vor allem die sp\u00e4ten Kupferstiche, bilden einen eigent\u00fcmlichen Gegensatz zu der leichte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aarts_1.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aarts_2.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aarts_3.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aarts_5.jpeg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dordrecht_Juni-Sept_1987._Nationale_Tentoonstelling_van_Nijverheid_&_Kunst.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1871_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1934_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_engravers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_engravers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_The_Hague"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_male_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "34595734"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123866316"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academy_of_Art,_The_Hague"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1871_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1934_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_engravers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amsterdam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Painter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Hague"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_engravers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_The_Hague"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_male_painters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_printmakers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_List_of_Artist_Names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lithographer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Dordrecht_Juni-Sept_1987._Nationale_Tentoonstelling_van_Nijverheid_&_Kunst.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.oxfordartonline.com/subscriber/article/grove/art/T000033"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.getty.edu/vow/ULANFullDisplay%3Ffind=Aarts&role=&nation=&prev_page=1&subjectid=500095211"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0j292gv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/96380866"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Johannes_Josephus_Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/108919708X"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q370129"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p29620000X"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u064a\u0648\u0647\u0627\u0646\u064a\u0633_\u064a\u0648\u0633\u064a\u0641\u0648\u0633_\u0622\u0631\u062a\u0633"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://cs.dbpedia.org/resource/Johan_Joseph_Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Johan_Joseph_Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Johannes_Josephus_Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Johannes_Josephus_Aarts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Johannes_Josephus_Aarts",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Johannes_Joseph_Aarts"
+    }
+]

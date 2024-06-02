@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatColumbiaUniversityAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatUsenetPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithComputerSecurity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatScientistsAtBellLabs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatStuyvesantHighSchoolAlumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q901"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0633\u062a\u064a\u0641\u0646 \u0628\u064a\u0644\u0648\u0641\u064a\u0646"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Steven M. Bellovin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Steven Bellovin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Steven M. Bellovin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0633\u062a\u064a\u0641\u0646 \u0628\u064a\u0644\u0648\u0641\u064a\u0646 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Steven M. Bellovin)\u200f \u0647\u0648 \u0628\u0627\u062d\u062b \u0623\u0645\u0631\u064a\u0643\u064a \u0641\u064a \u0645\u062c\u0627\u0644 \u0634\u0628\u0643\u0627\u062a \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0648\u0623\u0645\u0646 \u0627\u0644\u062d\u0627\u0633\u0648\u0628. \u064a\u0639\u0645\u0644 \u062d\u0627\u0644\u064a\u0627 \u0623\u0633\u062a\u0627\u0630\u0627 \u0641\u064a \u0642\u0633\u0645 \u0639\u0644\u0645 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0628\u062c\u0627\u0645\u0639\u0629 \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Steven M. Bellovin (* in Brooklyn, USA) ist ein US-amerikanischer Forscher im Bereich Rechnernetze und Informationssicherheit. Zurzeit ist er Professor in der Informatik-Fakult\u00e4t der Columbia University und war vorher Mitarbeiter bei AT&T Labs Research in New Jersey."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Steven M. Bellovin is a researcher on computer networking and security. He has been a professor in the Computer Science department at Columbia University since 2005. Previously, Bellovin was a Fellow at AT&T Labs Research in Florham Park, New Jersey. In September 2012, Bellovin was appointed Chief Technologist for the United States Federal Trade Commission, replacing Edward W. Felten, who returned to Princeton University. He served in this position from September 2012 to August 2013."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Steven M. Bellovin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Steven M. Bellovin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Steven_M_Bellovin_2016.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Computer_security_academics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Usenet_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_chief_technology_officers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_College_(New_York)_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scientists_at_Bell_Labs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Stuyvesant_High_School_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_School_of_Engineering_and_Applied_Science_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Cypherpunks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Federal_Trade_Commission_personnel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2315567"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1105578833"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Encrypted_key_exchange"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Password-authenticated_key_agreement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Parnas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Computer_security_academics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_M._Matwyshyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/April_Fools'_Day_RFC"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet_Architecture_Board"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_security"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cryptography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matt_Blaze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/One-time_pad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RFC_3514"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Usenet_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Felten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gene_Spafford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nadia_Heninger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Privacy_and_Civil_Liberties_Oversight_Board"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_chief_technology_officers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_College_(New_York)_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Engineering"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientists_at_Bell_Labs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stuyvesant_High_School_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_School_of_Engineering_and_Applied_Science_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cypherpunks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/USENET"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Domain_Name_System"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/H-index"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heinz_Heise"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AT&T_Labs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Steven_M._Bellovin",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DNSSEC"
+    }
+]

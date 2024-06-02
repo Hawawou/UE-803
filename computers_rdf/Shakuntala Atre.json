@@ -1,0 +1,52 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Shakuntala_Atre",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Shakuntala Atre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shakuntala_Atre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "70787586"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shakuntala_Atre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1087977972"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shakuntala_Atre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shaku_Atre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shakuntala_Atre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Shaku_Atre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shakuntala_Atre",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:R_from_move"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shakuntala_Atre",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Redirect_category_shell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shakuntala_Atre",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Shakuntala_Atre?oldid=1087977972&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shakuntala_Atre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "71"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Shakuntala_Atre",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Shakuntala_Atre"
+    }
+]

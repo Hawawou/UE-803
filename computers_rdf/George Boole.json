@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishAcademics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishComputerScientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishLogicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishPeople"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBritishPhilosophers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLogicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatMathematicalLogicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatVictorianWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromLincoln,England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRoyalMedalWinners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Academician109759069"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Agnostic109779124"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Contestant109613191"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Deist110000459"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Golfer110136959"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Logician110269785"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Mathematician110301261"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Medalist110304914"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/NonreligiousPerson109625789"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Philosopher110423589"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Player110439851"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Philosopher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryEnglishMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryEnglishWriters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryPhilosophers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfQueensCollegeCork"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDeists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEarlyModernPhilosophers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishAgnostics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishLogicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishMathematicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEnglishPhilosophers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/PersonWithOccupation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Philosopher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062c\u0648\u0631\u062c \u0628\u0648\u0644"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u03a4\u03b6\u03bf\u03c1\u03c4\u03b6 \u039c\u03c0\u03bf\u03c5\u03bb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30b8\u30e7\u30fc\u30b8\u30fb\u30d6\u30fc\u30eb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc870\uc9c0 \ubd88"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0411\u0443\u043b\u044c, \u0414\u0436\u043e\u0440\u0434\u0436"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "George Boole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0414\u0436\u043e\u0440\u0434\u0436 \u0411\u0443\u043b\u044c"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u4e54\u6cbb\u00b7\u5e03\u5c14"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George Boole [bu\u02d0l] (Lincoln, Lincolnshire, 2 de novembre del 1815 - , Cork, 8 de desembre del 1864), va ser un matem\u00e0tic, educador, l\u00f2gic i fil\u00f2sof angl\u00e8s. Com a inventor de l'\u00e0lgebra de Boole, la base de l'aritm\u00e8tica computacional moderna, Boole \u00e9s considerat un dels fundadors de les ci\u00e8ncies de la computaci\u00f3."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George Boole (2. listopadu 1815 Lincoln, Lincolnshire, Anglie \u2013 8. prosince 1864 u Corku, Irsko) byl britsk\u00fd matematik a filosof, zn\u00e1m\u00fd jako objevitel z\u00e1klad\u016f modern\u00ed aritmetiky, nazvan\u00e9 pozd\u011bji Booleovou algebrou. Je d\u00edky tomu pova\u017eov\u00e1n za zakladatele informatiky, a\u010dkoli v jeho dob\u011b nebylo o po\u010d\u00edta\u010d\u00edch ani uva\u017eov\u00e1no."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u039f \u03a4\u03b6\u03bf\u03c1\u03c4\u03b6 \u039c\u03c0\u03bf\u03c5\u03bb (\u03b1\u03b3\u03b3\u03bb\u03b9\u03ba\u03ac: George Boole, 2 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 1815 \u2013 8 \u0394\u03b5\u03ba\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 1864) \u03ae\u03c4\u03b1\u03bd \u0386\u03b3\u03b3\u03bb\u03bf\u03c2 \u03bc\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2, \u03c6\u03b9\u03bb\u03cc\u03c3\u03bf\u03c6\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03bb\u03b5\u03c4\u03b7\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae\u03c2. \u0395\u03c1\u03b3\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c4\u03bf\u03bc\u03b5\u03af\u03c2 \u03c4\u03c9\u03bd \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b9\u03ba\u03ce\u03bd \u03b5\u03be\u03b9\u03c3\u03ce\u03c3\u03b5\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03b1\u03bb\u03b3\u03b5\u03b2\u03c1\u03b9\u03ba\u03ae\u03c2 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c5\u03c1\u03cd\u03c4\u03b5\u03c1\u03b1 \u03b3\u03bd\u03c9\u03c3\u03c4\u03cc\u03c2 \u03c9\u03c2 \u03bf \u03c3\u03c5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ad\u03b1\u03c2 \u03c4\u03bf\u03c5 \u039f\u03b9 \u03bd\u03cc\u03bc\u03bf\u03b9 \u03c4\u03b7\u03c2 \u039b\u03bf\u03b3\u03b9\u03ba\u03ae\u03c2. \u0391\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af \u03c4\u03bf \u03b8\u03b5\u03bc\u03b5\u03bb\u03b9\u03c9\u03c4\u03ae \u03c4\u03b7\u03c2 \u03c3\u03c5\u03c3\u03c4\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03b3\u03b5\u03bd\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 \u03c0\u03bf\u03c5 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7 \u03c4\u03c9\u03bd \u03bc\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd. \u039f \u039c\u03c0\u03bf\u03c5\u03bb \u03ad\u03bb\u03b5\u03b3\u03b5 \u03cc\u03c4\u03b9, \u03c0\u03c9\u03c2 \u03ba\u03b1\u03bc\u03af\u03b1 \u03b3\u03b5\u03bd\u03b9\u03ba\u03ae \u03bc\u03ad\u03b8\u03bf\u03b4\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03af\u03bb\u03c5\u03c3\u03b7 \u03b5\u03c1\u03c9\u03c4\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03b7\u03bd \u03b8\u03b5\u03c9\u03c1\u03af\u03b1 \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03b1\u03bd\u03bf\u03c4\u03ae\u03c4\u03c9\u03bd \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b5\u03b4\u03c1\u03b1\u03b9\u03c9\u03b8\u03b5\u03af \u03b5\u03ac\u03bd \u03b4\u03b5\u03bd \u03b1\u03bd\u03b1\u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03b5\u03b9 \u03be\u03b5\u03ba\u03ac\u03b8\u03b1\u03c1\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c5\u03c2 \u03bd\u03cc\u03bc\u03bf\u03c5\u03c2 \u03c4\u03b7\u03c2 \u03c3\u03ba\u03ad\u03c8\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03b2\u03ac\u03c3\u03b7 \u03ba\u03ac\u03b8\u03b5 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae\u03c2."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062c\u0648\u0631\u062c \u0628\u0648\u0644 (2 \u0646\u0648\u0641\u0645\u0628\u0631 1815 - 8 \u062f\u064a\u0633\u0645\u0628\u0631 1864)(\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: George Boole)\u200f \u0647\u0648 \u0639\u0627\u0644\u0645 \u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0628\u0631\u064a\u0637\u0627\u0646\u064a \u0627\u0628\u062a\u0643\u0631 \u0646\u0648\u0639\u0627 \u0645\u0646 \u0627\u0644\u062c\u0628\u0631 \u064a\u062a\u064a\u062d \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0648\u0627\u0644\u062d\u0631\u0648\u0641 \u0648\u0627\u0644\u0623\u0634\u064a\u0627\u0621 \u0648\u0627\u0644\u0639\u0628\u0627\u0631\u0627\u062a \u0648\u0627\u0644\u0641\u0631\u0636\u064a\u0627\u062a \u0643\u0645\u0627 \u0644\u0648 \u0643\u0627\u0646\u062a \u0623\u0631\u0642\u0627\u0645\u0627 \u0628\u062d\u062a\u0629\u061b \u0648\u0642\u062f\u0645 \u0644\u0644\u0628\u0634\u0631\u064a\u0629 \u0627\u0644\u062c\u0628\u0631 \u0627\u0644\u0645\u0646\u0637\u0642\u064a \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0627\u0644\u062d\u0648\u0627\u0633\u064a\u0628."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George Boole [\u02ccd\u0292\u0254\u02d0d\u0292 \u02c8bu\u02d0l] (* 2. November 1815 in Lincoln, England; \u2020 8. Dezember 1864 in Ballintemple, in der Grafschaft Cork, Irland) war ein englischer Mathematiker (Autodidakt), Logiker und Philosoph. Er ist vor allem dadurch bekannt, dass die f\u00fcr die Computertechnik grundlegende boolesche Algebra nach ihm benannt wurde. Boole erkannte als erster, dass die Aussagenlogik als eine Algebra aufgefasst werden kann, die zwei Elemente hat (heute als die zwei Wahrheitswerte bezeichnet). Seine Arbeiten markieren dadurch den Beginn einer Entwicklung, mit der die traditionelle Aristotelische Logik abgel\u00f6st wurde und die Logik in die Mathematik integriert wurde."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George Boole (/bu\u02d0l/; 2 November 1815 \u2013 8 December 1864) was a largely self-taught English mathematician, philosopher, and logician, most of whose short career was spent as the first professor of mathematics at Queen's College, Cork in Ireland. He worked in the fields of differential equations and algebraic logic, and is best known as the author of The Laws of Thought (1854) which contains Boolean algebra. Boolean logic is credited with laying the foundations for the Information Age."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30b8\u30e7\u30fc\u30b8\u30fb\u30d6\u30fc\u30eb\uff08George Boole, 1815\u5e7411\u67082\u65e5 - 1864\u5e7412\u67088\u65e5\uff09\u306f\u3001\u30a4\u30ae\u30ea\u30b9\u306e\u6570\u5b66\u8005\u30fb\u54f2\u5b66\u8005\u3002\u591a\u304f\u306e\u5b9f\u7e3e\u304c\u3042\u308b\u304c\u3001\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u79d1\u5b66\u306e\u5206\u91ce\u306e\u57fa\u790e\u7684\u306a\u7406\u8ad6\u306e\u3072\u3068\u3064\u3067\u3042\u308b\u30d6\u30fc\u30eb\u4ee3\u6570\uff08\u30d6\u30fc\u30eb\u8ad6\u7406\uff09\u304c\u73fe\u4ee3\u3067\u306f\u5e83\u304f\u77e5\u3089\u308c\u3066\u3044\u308b\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc870\uc9c0 \ubd88(\uc601\uc5b4: George Boole IPA: [d\u0292\u0254\u02d0(\u0279)d\u0292 bu\u02d0l], 1815\ub144 11\uc6d4 2\uc77c ~ 1864\ub144 12\uc6d4 8\uc77c)\uc740 \uc601\uad6d\uc758 \uc218\ud559\uc790, \ub17c\ub9ac\ud559\uc790\uc774\ub2e4.\ub17c\ub9ac\ub300\uc218\uc778 \ubd88 \ub300\uc218\ub97c \ucc3d\uc548\ud574, \uae30\ud638\ub17c\ub9ac\ud559 \ubd84\uc57c\uc5d0 \ud070 \uc5c5\uc801\uc744 \ub0a8\uacbc\ub2e4."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George Boole (Lincoln, 2 novembre 1815 \u2013 Ballintemple, 8 dicembre 1864) \u00e8 stato un matematico e logico britannico, considerato il fondatore della logica matematica.La sua opera influenz\u00f2 anche settori della filosofia e diede vita alla scuola degli ."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George Boole ([bu\u02d0l], ur. 2 listopada 1815 w Lincoln, Anglia, zm. 8 grudnia 1864 w Ballintemple, hrabstwo Cork, Irlandia) \u2013 angielski matematyk i filozof, najbardziej znany z wprowadzenia metod algebraicznych do logiki, wsp\u00f3\u0142tworz\u0105c logik\u0119 matematyczn\u0105."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George Boole (Lincoln, 2 de novembro de 1815 \u2014 Ballintemple, 8 de dezembro de 1864) foi um matem\u00e1tico, fil\u00f3sofo brit\u00e2nico, criador da \u00e1lgebra booleana, fundamental para o desenvolvimento da computa\u00e7\u00e3o moderna."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u0436\u043e\u0440\u0434\u0436 \u0411\u0443\u043b\u044c (\u0430\u043d\u0433\u043b. George Boole; 2 \u043d\u043e\u044f\u0431\u0440\u044f 1815, \u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d \u2014 8 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 1864, \u0411\u0430\u043b\u043b\u0438\u043d\u0442\u0435\u043c\u043f\u043b, \u0433\u0440\u0430\u0444\u0441\u0442\u0432\u043e \u041a\u043e\u0440\u043a, \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f) \u2014 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a \u0438 \u043b\u043e\u0433\u0438\u043a. \u041f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u043a\u043e\u043b\u043b\u0435\u0434\u0436\u0430 \u041a\u043e\u0440\u043a\u0430 (\u043d\u044b\u043d\u0435 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043a\u0438\u0439 \u043a\u043e\u043b\u043b\u0435\u0434\u0436 \u041a\u043e\u0440\u043a) \u0441 1849 \u0433\u043e\u0434\u0430. \u041e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043b\u043e\u0433\u0438\u043a\u0438."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u55ac\u6cbb\u00b7\u5e03\u723e\uff08\u82f1\u8a9e\uff1aGeorge Boole\uff0c1815\u5e7411\u67082\u65e5\uff0d1864\u5e7412\u67088\u65e5\uff0c\u82f1\u8a9e\u767c\u97f3 [ \u02a4\u0254\u02d0\u02a4 bu\u02d0l ]\uff09\uff0c\u82f1\u683c\u5170\u6570\u5b66\u5bb6\u548c\u54f2\u5b66\u5bb6\uff0c\u6570\u7406\u903b\u8f91\u5b66\u5148\u9a71\u3002"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u0436\u043e\u0440\u0434\u0436 \u0411\u0443\u043b\u044c (\u0430\u043d\u0433\u043b. George Boole; 2 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0430 1815, \u041b\u0456\u043d\u043a\u043e\u043b\u044c\u043d, \u0410\u043d\u0433\u043b\u0456\u044f \u2014 8 \u0433\u0440\u0443\u0434\u043d\u044f 1864, , \u041a\u043e\u0440\u043a, \u0406\u0440\u043b\u0430\u043d\u0434\u0456\u044f) \u2014 \u0431\u0440\u0438\u0442\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a \u0456 \u0444\u0456\u043b\u043e\u0441\u043e\u0444."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George BOOLE [\u011dor\u011d bu:l], esperantigata kiel Georgo Buleo (naski\u011dis la 2-an de novembro 1815 en Lincoln, Lincolnshire, Anglio,kaj mortis la 8-an de decembro 1864 en , Irlando) estis brita a\u016dtodidakta matematikistokaj filozofo. Buleo formulis la bulean algebron, poste nomitan la\u016d li, kiu formaligas logikajn deduktojn. La\u016d li oni nomis anka\u016d ver-valoran bulean datumtipon en pluraj programadlingvoj,ekz. bool en kaj C++, kaj boolean en Java. George Boole estis edzo de Mary Everest kaj havis kvin filinojn. La lasta Etelo fami\u011dis poste kiel verkistino Ethel Lilian Voynich."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George Boole (/bu\u02d0l/) (Lincoln, Lincolnshire, Inglaterra, 2 de noviembre de 1815-, Condado de Cork, Irlanda, 8 de diciembre de 1864) fue un matem\u00e1tico y l\u00f3gico brit\u00e1nico. Como inventor del \u00e1lgebra de Boole, que marca los fundamentos de la aritm\u00e9tica computacional moderna, Boole es considerado como uno de los fundadores del campo de las ciencias de la computaci\u00f3n. En 1854 public\u00f3 An Investigation of the Laws of Thought on Which are Founded the Mathematical Theories of Logic and Probabilities, donde desarroll\u00f3 un sistema de reglas que le permit\u00edan expresar, manipular y simplificar problemas l\u00f3gicos y filos\u00f3ficos cuyos argumentos admiten dos estados (verdadero o falso) por procedimientos matem\u00e1ticos. Se podr\u00eda decir que es el padre de los operadores l\u00f3gicos simb\u00f3licos y que gracias a su \u00e1lgeb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/George_Boole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George Boole (Lincoln, Lincolnshire, Ingalaterra, 1815 azaroaren 2 \u2013 , Cork City, Irlanda, 1864 abenduaren 8) matematikari, filosofo eta logikari britainiarra zen. George Boolek 1849tik bere heriotza arte matematika irakatsi zuen. 1847an Logikaren analisi matematikoa argitaratu zuen, gaur eguneko logikan hain eragin handia izan duena. Beste obra hauek ere bereak dira: Ekuazio diferentzialei buruzko tratatua (1859) eta Diferentzia finituen kalkuluari buruzko tratatua (1860). Zenbaki-sistema bitarren aljebra garatu zuen. Bere izeneko ekarpen nagusia: Booleren aljebra."
+    }
+]

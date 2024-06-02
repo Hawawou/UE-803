@@ -1,0 +1,447 @@
+[
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatItalianEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatItalianSculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Writer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Louis Amateis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Louis Amateis, American sculptor born in Turin, Italy on December 13, 1855. Studying architecture at Istituto Italiano di Tecnologia and sculpture at the Royal Academy of Fine Art. He also studied in Milan and Paris before moving to New York City in 1884. While working as an architectural sculptor for McKim, Mead, and White he married his wife, Dora Ballin, in 1889. After getting married, the couple and their four sons moved to Washington, D.C. where he founded the School of Architecture and Fine Arts at what became George Washington University. He served as chairman from 1892 to 1902. He died March 18, 1913, of apoplexy. His son, Edmond, went on to be a prominent sculptor as well."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1855_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1913_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Italian_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_bleeding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "41561182"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1074140519"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Sculpture_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corsicana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Capitol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Washington_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Carnegie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apoplexy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Major_General_John_A._Logan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbian_College_of_Arts_and_Sciences"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1855_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1913_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Turin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_bleeding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edmond_Amateis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heurich_Mausoleum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Istituto_Italiano_di_Tecnologia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Texas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Texas_Heroes_Monument"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_male_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chester_A._Arthur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spirit_of_the_Confederacy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/McKim,_Mead,_and_White"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galveston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_Winfield_Scott_Hancock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0_1jp0v"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Louis_Amateis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/11654231"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q16058639"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/aYjp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:US-sculptor-stub"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Louis Amateis, American sculptor born in Turin, Italy on December 13, 1855. Studying architecture at Istituto Italiano di Tecnologia and sculpture at the Royal Academy of Fine Art. He also studied in Milan and Paris before moving to New York City in 1884. While working as an architectural sculptor for McKim, Mead, and White he married his wife, Dora Ballin, in 1889. After getting married, the couple and their four sons moved to Washington, D.C. where he founded the School of Architecture and Fine Arts at what became George Washington University. He served as chairman from 1892 to 1902. He died March 18, 1913, of apoplexy. His son, Edmond, went on to be a prominent sculptor as well. Amateis was a member of the National Sculpture Society."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/11654231"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Louis_Amateis?oldid=1074140519&ns=0"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "2421"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Louis_Amateis",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Louis_Amateis"
+    }
+]
