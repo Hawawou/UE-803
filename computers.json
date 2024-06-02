@@ -1,0 +1,42 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Computer_Scientists>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Computer Scientists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Computer_Scientists>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "220093"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Computer_Scientists>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "725315449"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Computer_Scientists>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Computer_Scientists>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Computer_Scientists>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Computer_Scientists?oldid=725315449&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Computer_Scientists>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "32"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Computer_Scientists>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Computer_Scientists"
+    }
+]
