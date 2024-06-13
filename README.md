@@ -43,18 +43,20 @@ The goal of this project is to collect and analyze biographies from Wikipedia fo
 ## Data Collection
 We collected biographies from Wikipedia and extracted associated knowledge graph facts for sculptors and computer scientists. 
 ## Data Analysis
-   Using the collected data, we performed detailed analyses to uncover patterns and differences between the two categories of text. Various visualizations such histograms,boxplots,wordclouds ,RDF properties,Tokens,sentences and Facts were created to illustrate these findings, helping to provide insights into the characteristics and distinctions of sculptors and computer scientists.
+   Using the collected data, we performed detailed analyses to uncover patterns and differences between the two categories of text. Various visualizations such 
+   histograms,boxplots,wordclouds ,RDF properties,Tokens,sentences and Facts were created to illustrate these findings, helping to provide insights into the characteristics and 
+   distinctions of sculptors and computer scientists.
 
 ## Clustering
 
-**Model Training**:raining various clustering algorithms such as K-Means on the prepared data.
+**Model Training:**Training various clustering algorithms such as K-Means on the prepared data.
 
-**Model Evaluation**:Testing the trained models to evaluate their performance using metrics like silhouette score,We also visualized the clusters to understand their composition and characteristics.
+**Model Evaluation:**Testing the trained models to evaluate their performance using metrics like silhouette score,We also visualized the clusters to understand their composition and characteristics.
 
 ## Linguistic Comparison
 **Named Entity Recognition (NER)**:Compare the performance of Stanza and Spacy on NER tasks.
 
-**Named Entity Recognition: Analysis by Entity Type**:Analyze the results between Stanza and Spacy on the types of entities recognized.
+**Named Entity Recognition Analysis by Entity Type**:Analyze the results between Stanza and Spacy on the types of entities recognized.
 
 **NER Verification Against Knowledge Graph**:Compare the named entities recognized by Stanza and Spacy with the entities in the knowledge graph.  
 ## Contributing
