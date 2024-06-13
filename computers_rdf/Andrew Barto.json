@@ -1,263 +1,58 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAssociationForTheAdvancementOfScience"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0623\u0646\u062f\u0631\u0648 \u0628\u0627\u0631\u062a\u0648"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Andrew Barto"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Andrew Barto"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0415\u043d\u0434\u0440\u044e \u0411\u0430\u0440\u0442\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0623\u0646\u062f\u0631\u0648 \u0628\u0627\u0631\u062a\u0648 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Andrew Barto)\u200f \u0647\u0648 \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0648\u0645\u0647\u0646\u062f\u0633 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 1948."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Andrew G. Barto (born c. 1948) is an American computer scientist, currently Professor Emeritus of computer science at University of Massachusetts Amherst. Barto is best known for his foundational contributions to the field of modern computational reinforcement learning."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0415\u043d\u0434\u0440\u044e \u0413. \u0411\u0430\u0440\u0442\u043e (\u043d\u0430\u0440\u043e\u0434\u0438\u0432\u0441\u044f \u0431\u043b\u0438\u0437\u044c\u043a\u043e 1948 \u0440.) \u2014 \u043f\u043e\u0447\u0435\u0441\u043d\u0438\u0439 \u043f\u0440\u043e\u0444\u0435\u0441\u043e\u0440 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438 . \u0412\u0456\u043d \u043f\u0440\u0438\u0454\u0434\u043d\u0430\u0432\u0441\u044f \u0434\u043e \u043a\u0430\u0444\u0435\u0434\u0440\u0438 \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u043d\u0438\u0445 \u043d\u0430\u0443\u043a \u0432 1977 \u0440\u043e\u0446\u0456 \u0456 \u043e\u0431\u0456\u0439\u043c\u0430\u0432 \u043f\u043e\u0441\u0430\u0434\u0443 \u0457\u0457 \u0437\u0430\u0432\u0456\u0434\u0443\u0432\u0430\u0447\u0430 \u0437 2007 \u043f\u043e 2011 \u0440\u0456\u043a. \u041e\u0441\u043d\u043e\u0432\u043d\u0438\u043c \u043d\u0430\u043f\u0440\u044f\u043c\u043a\u043e\u043c \u0439\u043e\u0433\u043e \u0434\u043e\u0441\u043b\u0456\u0434\u0436\u0435\u043d\u044c \u0454 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u0437 \u043f\u0456\u0434\u043a\u0440\u0456\u043f\u043b\u0435\u043d\u043d\u044f\u043c."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Andrew Gehret Barto (* um 1948) ist ein US-amerikanischer Informatiker, der sich mit K\u00fcnstlicher Intelligenz und besonders Maschinenlernen befasst. Barto studierte Mathematik an der University of Michigan mit dem Bachelor-Abschluss 1970 und wurde dort 1975 in Informatik bei promoviert (Cellular Automata as Models of Natural Systems). Er ist Professor an der University of Massachusetts in Amherst."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Andrew G. Barto"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "http://www-all.cs.umass.edu/~barto/"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Andrew G. Barto"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_G._Barto.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1940s_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Fellow_Members_of_the_IEEE"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Association_for_the_Advancement_of_Science"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Michigan_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Massachusetts_Amherst_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artificial_intelligence_researchers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "6151319"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1110378918"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Bowles_(economist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Richard_S._Sutton"
+        "object": "http://dbpedia.org/resource/Samuel_R._Delany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morihiko_Nakahara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Minear"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Svistunov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Nagurney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Hooton_Taylor,_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Levine_(philosopher)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Musgrave"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_D._Wolff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Paul_Alexander"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
@@ -267,62 +62,97 @@
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Michigan"
+        "object": "http://dbpedia.org/resource/Valerie_Martin"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1940s_births"
+        "object": "http://dbpedia.org/resource/Vincent_Dethier"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Kyle_Cave"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)"
+        "object": "http://dbpedia.org/resource/Max_Roach"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+        "object": "http://dbpedia.org/resource/Chuck_Close"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mathematics"
+        "object": "http://dbpedia.org/resource/Fred_Feldman_(philosopher)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Computer_science"
+        "object": "http://dbpedia.org/resource/George_N._Parks"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Computer_scientist"
+        "object": "http://dbpedia.org/resource/Category:University_of_Massachusetts_Amherst"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Michael_A._Arbib"
+        "object": "http://dbpedia.org/resource/Andrew_Barto"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Fellow_Members_of_the_IEEE"
+        "object": "http://dbpedia.org/resource/Ann_Ferguson"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Association_for_the_Advancement_of_Science"
+        "object": "http://dbpedia.org/resource/Lee_Badgett"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Michigan_alumni"
+        "object": "http://dbpedia.org/resource/Lynn_Margulis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madeleine_Blais"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shona_Macdonald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Resnick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Albert_Waugh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pablo_Visconti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Wex"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Partee"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
@@ -332,171 +162,341 @@
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Walter_Pitts"
+        "object": "http://dbpedia.org/resource/Warren_McGuirk"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Warren_Sturgis_McCulloch"
+        "object": "http://dbpedia.org/resource/Miriam_Usher_Chrisman"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Americans"
+        "object": "http://dbpedia.org/resource/Sheldon_Goldman"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Fellow_of_the_American_Association_for_the_Advancement_of_Science"
+        "object": "http://dbpedia.org/resource/E._Wayne_Abercrombie"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artificial_intelligence_researchers"
+        "object": "http://dbpedia.org/resource/Angelika_Kratzer"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IJCAI_Award_for_Research_Excellence"
+        "object": "http://dbpedia.org/resource/Brian_Vibberts"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IEEE_Neural_Networks_Society"
+        "object": "http://dbpedia.org/resource/Carl_R._Fellers"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/American_Association_for_Artificial_Intelligence"
+        "object": "http://dbpedia.org/resource/Kalidas_Shetty"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www-all.cs.umass.edu/~barto/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hava_Siegelmann"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.0fsvt9"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isenberg_School_of_Management"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Andrew_Barto"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Tate_(writer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/16510975"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jane_Humphries"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/1099442664"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Bethke_Elshtain"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/159527643"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ted_Hughes"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://dblp.org/pid/a/AndrewGBarto"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Kurose"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q4756294"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archie_Shepp"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://data.bibliotheken.nl/id/thes/p068581181"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arindrajit_Dube"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ar.dbpedia.org/resource/\u0623\u0646\u062f\u0631\u0648_\u0628\u0627\u0631\u062a\u0648"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Anthony_Goessmann"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/Andrew_Barto"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_H._Fernald"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://mg.dbpedia.org/resource/Andrew_Barto"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_McCarthy_(linguist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://uk.dbpedia.org/resource/\u0415\u043d\u0434\u0440\u044e_\u0411\u0430\u0440\u0442\u043e"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sut_Jhally"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4Q4Ph"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edwin_Gentzler"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/workplaces",
-        "object": "http://dbpedia.org/resource/University_of_Massachusetts_Amherst"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Don_Towsley_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:US-compu-bio-stub"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marshall_Harvey_Stone"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Abbr"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mart\u00edn_Espada"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gretchen_Gerzina"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Official_site"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sheila_Bair"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Appy"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Birth_year_and_age"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neil_Immerman"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Hamilton_Meeks,_III"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:GoogleScholar"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ramesh_Sitaraman"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_G._Barto.jpg?width=300"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_people_by_university_or_college_in_Massachusetts"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/almaMater",
-        "object": "http://dbpedia.org/resource/University_of_Michigan"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Center_for_Digital_Government"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Barto",
-        "predicate": "http://dbpedia.org/property/awards",
-        "object": "IEEE Neural Networks Society Pioneer Award, IJCAI Award for Research Excellence"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_B._Denny"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Schneeweis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_Agricultural_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jane_E._Fountain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professor_Emerita"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caltech"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_R._de_Boor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carleton_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Jantsch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Parker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cartographer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Institute_of_Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ames_Research_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Behavioural_genetics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Franklin_Bailey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prairie_Band_Potawatomi_Nation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Project_Gemini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Project_Mercury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_Broadcasting_Service"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quarks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_M._Warner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Roosa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Wurtz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberta_Karmel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Givhan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Wright_(author)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rock_and_Roll_Hall_of_Fame"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Brown_(psychologist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_L._Easton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Barto",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Reynolds"
     }
 ]

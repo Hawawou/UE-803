@@ -1,248 +1,238 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfItalianDescent"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromNewYorkCity"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromHell'sKitchen,Manhattan"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromManhattan"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGuggenheimFellows"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/University"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Peter Agostini"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0628\u064a\u062a\u0631 \u0623\u063a\u0648\u0633\u062a\u064a\u0646\u064a"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Peter Agostini"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Peter Agostini"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0628\u064a\u062a\u0631 \u0623\u063a\u0648\u0633\u062a\u064a\u0646\u064a (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Peter Agostini)\u200f \u0647\u0648 \u0646\u062d\u0627\u062a \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 13 \u0641\u0628\u0631\u0627\u064a\u0631 1913 \u0641\u064a Hell's Kitchen \u200f \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 27 \u0645\u0627\u0631\u0633 1993 \u0641\u064a \u0645\u0627\u0646\u0647\u0627\u062a\u0646 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Peter Agostini, nacido el a\u00f1o 1913 en Nueva York y fallecido el 27 de marzo de 1993 en Manhattan, fue un escultor estadounidense.\u200b"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Peter Agostini (February 13, 1913 Hell's Kitchen, Manhattan \u2013 March 27, 1993) was an American sculptor."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Peter Agostini, n\u00e9 le 13 f\u00e9vrier 1913 \u00e0 New York et mort le 27 mars 1993 dans la m\u00eame ville, est un sculpteur am\u00e9ricain."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Hell's_Kitchen,_Manhattan"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1913_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_New_York_City"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1993_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Columbia_University_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_North_Carolina_at_Greensboro_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_New_York_(state)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Parsons_School_of_Design_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "32415066"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1074078091"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cali"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Hell's_Kitchen,_Manhattan"
+        "object": "http://dbpedia.org/resource/California"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_North_Carolina_at_Greensboro"
+        "object": "http://dbpedia.org/resource/Carnegie_Endowment_for_International_Peace"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1913_births"
+        "object": "http://dbpedia.org/resource/Carnegie_Mellon_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_New_York_City"
+        "object": "http://dbpedia.org/resource/Cartagena,_Colombia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pratt_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Ryman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Lichtenstein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sauve,_Gard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Participatory_democracy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bir_Mourad_Ra\u00efs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_von_Schlegell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delft_University_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Appropriate_technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honfleur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hunter_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Naar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josef_Albers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_(Yoske)_Levy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Davidoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Rudolph_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rensselaer_Polytechnic_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Crumb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Nations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Nations_Development_Programme"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Bicentennial"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Department_of_Housing_and_Urban_Development"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Nebraska\u2013Lincoln"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_North_Dakota"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Virginia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vassar_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dore_Ashton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Agostini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Postmodern_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L'Express_(France)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colombia"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
@@ -252,241 +242,261 @@
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ellen_Murray"
+        "object": "http://dbpedia.org/resource/Coney_Island"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1993_deaths"
+        "object": "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+        "object": "http://dbpedia.org/resource/Meknes"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Anita_Shapolsky_Gallery"
+        "object": "http://dbpedia.org/resource/Saint-L\u00f4"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Leonardo_da_Vinci_Art_School"
+        "object": "http://dbpedia.org/resource/Escuela_Nueva"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
+        "object": "http://dbpedia.org/resource/Choc\u00f3_department"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+        "object": "http://dbpedia.org/resource/City_College_of_New_York"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+        "object": "http://dbpedia.org/resource/Civil_Rights_Movement"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Columbia_University_faculty"
+        "object": "http://dbpedia.org/resource/Claes_Oldenburg"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_North_Carolina_at_Greensboro_faculty"
+        "object": "http://dbpedia.org/resource/El_Diario_La_Prensa"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Walker_Art_Center"
+        "object": "http://dbpedia.org/resource/Frank_Lloyd_Wright"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Whitney_Museum_of_American_Art"
+        "object": "http://dbpedia.org/resource/Frankfurter_Rundschau"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Parsons_School_of_Design"
+        "object": "http://dbpedia.org/resource/George_Rickey"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Hell's_Kitchen,_Manhattan"
+        "object": "http://dbpedia.org/resource/George_Segal_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Hirshhorn_Museum_and_Sculpture_Garden"
+        "object": "http://dbpedia.org/resource/Graham_Foundation_for_Advanced_Studies_in_the_Fine_Arts"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_New_York_(state)"
+        "object": "http://dbpedia.org/resource/Morocco"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Parsons_School_of_Design_faculty"
+        "object": "http://dbpedia.org/resource/Conseil_international_de_la_langue_fran\u00e7aise"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum"
+        "object": "http://dbpedia.org/resource/The_New_School"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Metropolitan_Museum_of_Art"
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/New_York_Studio_School"
+        "object": "http://dbpedia.org/resource/Pratt_Center_for_Community_Development"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://web.archive.org/web/20110707144735/http:/www.anitashapolskygallery.com/agostini.html"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pratt_Institute_School_of_Architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.aaa.si.edu/collections/oral-history-interview-peter-agostini-12490"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plastics"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://artcritical.com/2006/06/01/peter-agostini/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1964_New_York_World's_Fair"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://artistprofilesproject.blogspot.com/2010/01/peter-agostini-1913-1993.html"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.artnet.com/artists/peter-agostini/past-auction-results"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antony,_Hauts-de-Seine"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.0gyv394"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Len_Lye"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/289141100"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Life_(magazine)"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Peter_Agostini"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Kahn"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/122675622"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIT"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q7172472"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mali"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ar.dbpedia.org/resource/\u0628\u064a\u062a\u0631_\u0623\u063a\u0648\u0633\u062a\u064a\u0646\u064a"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9cole_nationale_sup\u00e9rieure_des_Beaux-Arts"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/Peter_Agostini"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7oise_Choay"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fr.dbpedia.org/resource/Peter_Agostini"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop_art"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4tDdu"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Microcredit"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bamako"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1931_births"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_architects"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn_Bridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:US-sculptor-stub"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buenaventura,_Valle_del_Cauca"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "\u0628\u064a\u062a\u0631 \u0623\u063a\u0648\u0633\u062a\u064a\u0646\u064a (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Peter Agostini)\u200f \u0647\u0648 \u0646\u062d\u0627\u062a \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 13 \u0641\u0628\u0631\u0627\u064a\u0631 1913 \u0641\u064a Hell's Kitchen \u200f \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 27 \u0645\u0627\u0631\u0633 1993 \u0641\u064a \u0645\u0627\u0646\u0647\u0627\u062a\u0646 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Burkina_Faso"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Peter Agostini, nacido el a\u00f1o 1913 en Nueva York y fallecido el 27 de marzo de 1993 en Manhattan, fue un escultor estadounidense.\u200b"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Wesselmann"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Peter Agostini (February 13, 1913 Hell's Kitchen, Manhattan \u2013 March 27, 1993) was an American sculptor."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toulon"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Peter Agostini, n\u00e9 le 13 f\u00e9vrier 1913 \u00e0 New York et mort le 27 mars 1993 dans la m\u00eame ville, est un sculpteur am\u00e9ricain."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toulouse"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://purl.org/linguistics/gold/hypernym",
-        "object": "http://dbpedia.org/resource/Sculptor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tumaco"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://schema.org/sameAs",
-        "object": "http://viaf.org/viaf/289141100"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UC_Berkeley"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Peter_Agostini?oldid=1074078091&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UNDP"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "3066"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UNESCO"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Agostini",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Peter_Agostini"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WEVD"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WLOA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willoughby_Sharp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ecole_nationale_des_beaux-arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Agostini",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ecole_nationale_superieure_des_Beaux-Arts"
     }
 ]

@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanWomenInstallationArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanWomenSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBahamianArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBahamianEmigrantsToTheUnitedStates"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatContemporaryArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatMacArthurFellows"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromGrandBahama"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatSarahLawrenceCollegeAlumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Migrant110314952"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGuggenheimFellows"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Traveler109629752"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFeministArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u062c\u0627\u0646\u064a\u0646 \u0623\u0646\u062a\u0648\u0646\u064a"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Janine Antoni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Janine Antoni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Janine Antoni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u062c\u0627\u0646\u064a\u0646 \u0623\u0646\u062a\u0648\u0646\u064a (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Janine Antoni)\u200f \u0647\u064a \u0641\u0646\u0627\u0646\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629\u060c \u0648\u0644\u062f\u062a \u0641\u064a 19 \u064a\u0646\u0627\u064a\u0631 1964 \u0641\u064a \u0641\u0631\u064a\u0628\u0648\u0631\u062a \u0641\u064a \u0628\u0627\u0647\u0627\u0645\u0627\u0633."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Janine Antoni (* 19. Januar 1964 in Freeport, Bahamas) ist eine bahamaisch-US-amerikanische Performance-K\u00fcnstlerin und Bildhauerin."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Janine Antoni (ur. 19 stycznia 1964 we Freeport) \u2013 ameryka\u0144ska artystka wsp\u00f3\u0142czesna."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Janine Antoni (born January 19, 1964) is a Bahamian\u2013born American artist, who creates contemporary work in performance art, sculpture, and photography. Antoni's work focuses on process and the transitions between the making and finished product, often portraying feminist ideals. She emphasizes the human body in her pieces, such as her mouth, hair, eyelashes, and, through technological scanning, brain, using it as a tool of creation or as the subject of her pieces, exploring intimacy between the spectator and the artist. Her work blurs the distinction between performance art and sculpture."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Janine Antoni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Janine Antoni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Freeport,_Bahamas"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Freeport,_Bahamas"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1964-01-19"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Bahamian_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_women_performance_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Freeport,_Bahamas"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Bahamian_emigrants_to_the_United_States"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1964_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:MacArthur_Fellows"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sarah_Lawrence_College_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_women_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_installation_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_performance_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Feminist_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Rhode_Island_School_of_Design_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_women_installation_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "3639548"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Janine_Antoni",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1103432822"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Bahamian_artists"
+        "object": "http://dbpedia.org/resource/Cargill_MacMillan_Jr."
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Public_Broadcasting_Service"
+        "object": "http://dbpedia.org/resource/Carl_Andre"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/San_Francisco_Museum_of_Modern_Art"
+        "object": "http://dbpedia.org/resource/Carnegie_Museum_of_Art"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sarah_Lawrence_College"
+        "object": "http://dbpedia.org/resource/American_Academy_in_Rome"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:American_women_performance_artists"
+        "object": "http://dbpedia.org/resource/American_Art_Directory"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Freeport,_Bahamas"
+        "object": "http://dbpedia.org/resource/Category:1909_establishments_in_the_United_States"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Bahamian_emigrants_to_the_United_States"
+        "object": "http://dbpedia.org/resource/Category:Arts_organizations_established_in_1909"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Human_body"
+        "object": "http://dbpedia.org/resource/Robert_Morris_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Paul_Ramirez_Jonas"
+        "object": "http://dbpedia.org/resource/Robert_Motherwell"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rhode_Island_School_of_Design"
+        "object": "http://dbpedia.org/resource/Robert_Smithson"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Installation_art"
+        "object": "http://dbpedia.org/resource/Robert_W._DeForest"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "object": "http://dbpedia.org/resource/Robert_Woods_Bliss"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/!Women_Art_Revolution"
+        "object": "http://dbpedia.org/resource/Roberta_Smith"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_artists"
+        "object": "http://dbpedia.org/resource/Roy_Neuberger"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Columbia_University"
+        "object": "http://dbpedia.org/resource/National_Museum_Wales"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Childbirth"
+        "object": "http://dbpedia.org/resource/Bill_Viola"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Freeport,_Bahamas"
+        "object": "http://dbpedia.org/resource/Brice_Marden"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Green-Wood_Cemetery"
+        "object": "http://dbpedia.org/resource/Degas"
     },
     {
         "subject": "http://dbpedia.org/resource/Janine_Antoni",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Crown_molding"
+        "object": "http://dbpedia.org/resource/Hunter_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jules_Olitski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peabody_Essex_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Serra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Bechtle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice_Biennale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interstate_Commerce_Commission"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Arts_organizations_based_in_New_York_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corcoran_Gallery_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matisse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maya_Lin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chola_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_Federation_of_Women's_Clubs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christo_and_Jeanne-Claude"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cindy_Sherman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claes_Oldenburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claremont_Graduate_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colby_College_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edythe_Broad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Broad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliel_Saarinen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elihu_Root"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Murray_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellsworth_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Stella"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhard_Richter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Getty_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Getty_Leadership_Institute_at_Claremont_Graduate_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_&_George"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_Louis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nam_June_Paik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_Yorker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Washington_Star"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodore_Roosevelt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Krens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_W._Mellon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_d'Harnoncourt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lincoln_Center_for_the_Performing_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lorna_Simpson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Bourgeois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louvre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lubbock,_Texas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shirin_Neshat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stuart_Davis_(painter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bard_Graduate_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buddy_Holly_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cecilia_Beaux"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Oursler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wangechi_Mutu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitney_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitney_Museum_of_American_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Who's_Who_in_American_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Howard_Taft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Merritt_Chase"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Wegman_(photographer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Winslow_Homer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Currin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_H._Bryan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Small"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ARTnews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Gopnik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Africa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agnes_Martin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alberto_Giacometti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Stieglitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Walton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Altria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Fine_Arts_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Institute_of_Architects"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C\u00e9zanne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Earl_A._Powell_III"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Europe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eva_Hesse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Davis_Millet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Janine_Antoni",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norman_Bel_Geddes"
     }
 ]

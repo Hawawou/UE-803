@@ -1,313 +1,393 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromFlorence"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Architect109805475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianArchitects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRenaissanceSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0433\u043e\u0441\u0442\u0438\u043d\u043e \u0434\u0438 \u0414\u0443\u0447\u0447\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0433\u043e\u0441\u0442\u0456\u043d\u043e \u0434\u0456 \u0414\u0443\u0447\u0447\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u963f\u6208\u65af\u8482\u8bfa\u00b7\u8fea\u00b7\u675c\u4e54"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio (Flor\u00e8ncia, Rep\u00fablica de Flor\u00e8ncia, 1418 - Perusa, 1481) fou un escultor florent\u00ed. Nascut a Flor\u00e8ncia, la seva formaci\u00f3 es va realitzar al costat de Donatello i Michelozzo durant les obres del p\u00falpit de Prato. De Donatello va aprendre la t\u00e8cnica dels relleus a stiacciato, utilitzant-la profusament per cercar efectes de mera decoraci\u00f3 superficial. El 1441, despr\u00e9s d'una acusaci\u00f3 de robatori, va abandonar la seva ciutat natal, refugiant-se a M\u00f2dena. En aquesta ciutat va realitzar l'altar de San Geminiano per a la catedral, on \u00e9s visible la influ\u00e8ncia de Michelozzo. El 1446 va ser a Ven\u00e8cia, on va estudiar l'escultura g\u00f2tica, present a nombrosos dels monuments de la ciutat, i va establir contacte amb , amb el que va col\u00b7laborar posteriorment a la decoraci\u00f3 del de R\u00edmini."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio, auch Agostino da Firenze (* 1418 in Florenz; \u2020 um 1481 in Perugia) war ein italienischer Bildhauer in der Renaissance."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio (Florentzia 1418 - Perugia 1481) Errenazimendu hasierako eskultore italiarra izan zen."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio (Florence, 1418 \u2013 P\u00e9rouse, 1481 environ) est un sculpteur italien."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio (ur. 1418 we Florencji, zm. 1481 w Perugii) \u2013 w\u0142oski rze\u017abiarz okresu wczesnego renesansu."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio (Firenze, 1418 \u2013 Perugia, 1481 circa) \u00e8 stato uno scultore italiano. Da Donatello riprese la tecnica dello stiacciato, utilizzandola per ricercare effetti di decorazione superficiale pi\u00f9 fluida, dalla grazia un po' fredda, definita \"neoattica\"."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio, \u00e4ven kallad Agostino av Florens, f\u00f6dd omkring 1418, d\u00f6d efter 1469, var en italiensk skulpt\u00f6r, guldsmed och arkitekt. Agostino di Duccio kallades 1446 till Rimini, d\u00e4r han deltog i utsmyckningen i det av Leon Battista Alberti ritade Tempio Malatestiano. Hans ikonografiskt intressanta reliefer i byggnaden utm\u00e4rks av en linj\u00e4r stil, som m\u00f6jligen influerade Sandro Botticelli. I Perugia gjorde han majolikarelieferna p\u00e5 fasaden till kyrkan San Bernardino och ritade Porta di San Pietro. Under en mellanperiod i Florens utf\u00f6rde han bland annat Kristi uppst\u00e5ndelse i terrakotta till kyrkan Santissima Annunziata."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u0433\u043e\u0441\u0442\u0456\u043d\u043e \u0434\u0456 \u0414\u0443\u0447\u0447\u043e (\u0456\u0442\u0430\u043b. Agostino di Duccio; 1418 \u2014 1481) \u2014 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u0440\u0430\u043d\u043d\u044c\u043e\u0457 \u0435\u043f\u043e\u0445\u0438 \u0412\u0456\u0434\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u0433\u043e\u0441\u0442\u0438\u043d\u043e \u0434\u0438 \u0414\u0443\u0447\u0447\u043e (\u0438\u0442\u0430\u043b. Agostino di Duccio; 1418, \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0438\u044f \u2014 \u043e\u043a. 1481, \u041f\u0435\u0440\u0443\u0434\u0436\u0430) \u2014 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440 \u0438 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u043f\u0435\u0440\u0438\u043e\u0434\u0430 \u043a\u0432\u0430\u0442\u0440\u043e\u0447\u0435\u043d\u0442\u043e \u044d\u043f\u043e\u0445\u0438 \u0412\u043e\u0437\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u963f\u6208\u65af\u8482\u8bfa\u00b7\u8fea\u00b7\u675c\u4e54\uff08\u82f1\u8a9e\uff1aAgostino di Duccio\uff09\uff0c\uff081418\u5e74\uff0d1481\u5e74\uff09\uff0c\u6587\u827a\u590d\u5174\u65f6\u671f\u6b27\u6d32\u4f5b\u7f57\u4f26\u8428\u96d5\u5851\u5bb6\u3002\u4ed6\u4e5f\u66fe\u5728\u91cc\u7c73\u5c3c\u7684\u5723\u5802\uff08\u539f\u4e3a\u5723\u65b9\u6d4e\u5404\u6559\u5802\uff09\u5de5\u4f5c\u3002\u4ed6\u7684\u6d45\u6d6e\u4f5c\u54c1\u98ce\u683c\u72ec\u7279\uff0c\u4f46\u4ed6\u7684\u6559\u80b2\u7ecf\u5386\u5374\u4e8e\u53f2\u65e0\u8f7d\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio (1418, Florencie \u2013 asi 1481, Perugia) byl italsk\u00fd socha\u0159 v obdob\u00ed renesance. Byl ovlivn\u011bn Donatellem a Michelozzem, s kter\u00fdmi pracoval v Pratu. Roku 1441 byl obvin\u011bn z kr\u00e1de\u017ee a vyhn\u00e1n z Florencie. N\u00e1sleduj\u00edc\u00ed rok pokra\u010doval v pr\u00e1ci na olt\u00e1\u0159i sv. Gemini\u00e1na pro modenskou katedr\u00e1lu Nanebevzet\u00ed Panny Marie. Roku 1446 studoval pozdn\u011b gotick\u00e1 socha\u0159sk\u00e1 d\u00edla v Ben\u00e1tk\u00e1ch a setkal se s , kter\u00fd jej povolal k v\u00fdzdob\u011b Tempio Malatestiano v Rimini, kde Agostino pob\u00fdval v letech 1449 a\u017e 1457."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio (1418 \u2013 c.\u20091481) was an early Renaissance Italian sculptor. Born in Florence, he worked in Prato with Donatello and Michelozzo, who influenced him greatly. In 1441, he was accused of stealing precious materials from a Florentine monastery and was banished from his native city as a result. The following year he continued the work on the altar of S. Geminiano for the Cathedral of Modena, a work noticeable for the influence of Michelozzo. Wikimedia Commons has media related to Agostino di Duccio."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio (1418 \u2013 \u0109irka\u016d 1481) estis skulptisto de la frua Itala Renesanco. Naski\u011dinta en Florenco, li laboris en Prato kun Donatello kaj Michelozzo, kiuj ege influis lin. En 1441, li estis akuzita pro \u015dtelado de valoraj materialoj el mona\u0125ejo de Florenco kaj estis forpelita el sia naskurbo kiel rezulto. La venontan jaron li plue laboris por la altaro de Sankta Geminiano por la Katedralo de Modeno, laboro notinda pro la influo de Michelozzo."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio (Florencia 1418 - Perugia 1481) fue un escultor italiano. Naci\u00f3 en Florencia, y su formaci\u00f3n se realiz\u00f3 con Donatello y Michelozzo durante las obras del p\u00falpito de Prato. De Donatello aprendi\u00f3 la t\u00e9cnica de los relieves en stiacciato o en italiano schiacciato, utiliz\u00e1ndola profusamente para buscar efectos de pura decoraci\u00f3n superficial. \n* Datos: Q395755 \n* Multimedia: Agostino di Duccio / Q395755"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Duccio (Floren\u00e7a, 1418 \u2014 Perugia, post 1481) foi um escultor renascentista italiano. Ainda muito jovem, trabalhou como mercen\u00e1rio a servi\u00e7o do capit\u00e3o . Como escultor, trabalhou em Prato com Donatello e Michelozzo, que exerceram grande influ\u00eancia sobre sua obra. Em 1442, assina com o nome \"Augustinus de Florentia\" um relevo representando a hist\u00f3ria de S\u00e3o Gemignano, feito para o altar do Duomo de M\u00f3dena, sob a encomenda de . O altar foi posteriormente desmontado e o relevo foi colocado no exterior do Duomo."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/IMG_0789_-_Perugia_-_San_Bernardino,_di_Agostino_di_Duccio_-1457-61-_-_Foto_G._Dall'Orto_-_6_ago_2006_-.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Renaissance_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1418_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Florence"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1481_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:15th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "3149485"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1085539503"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cancer"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Carrara"
+        "object": "http://dbpedia.org/resource/Cancer_(constellation)"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Prato"
+        "object": "http://dbpedia.org/resource/Capricorn_(astrology)"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/David_(Michelangelo)"
+        "object": "http://dbpedia.org/resource/Sa\u00f4ne-et-Loire"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Antonio_Rossellino"
+        "object": "http://dbpedia.org/resource/Scorpio_(astrology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Western_astrological_signs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_astrology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cusp_(astrology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Verona"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/De_Grey_Hours"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardinal_sign_(astrology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jupiter_(astrology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Water_sign"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crab"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crayfish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint-Philibert_de_Tournus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Egypt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giorgio_Vasari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greek_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greek_mythology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moon_(astrology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lobster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_&_Schuster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lernaean_Hydra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paradiso_(Dante)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Planets_in_astrology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Summer_solstice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celestial_longitude"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agostino_di_Duccio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Turtle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Maria_Falconetto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/June_solstice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dante_Alighieri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hindu_astrology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Astrological_sign"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacob_Jordaens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Astronomical_symbols"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mythological_aquatic_creatures"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chinese_zodiac"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juno_(mythology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karkinos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sun_(astrology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hera"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heracles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zodiac"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_mythology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diana_(mythology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Book_of_Wonders"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pisces_(astrology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Circle_of_stars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fresco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Indo-European_languages"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kupa_Synagogue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mesopotamia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neptune"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cancer_in_astrology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mythological_arthropods"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northern_Hemisphere"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luna_(goddess)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mars_(astrology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Middle_Ages"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturn_(astrology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scarabaeidae"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Negative_sign_(astrology)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Triplicity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oxford_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Krak\u00f3w,_Poland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elements_of_the_zodiac"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Hinckley_Allen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruling_planet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sheckley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Zelazny"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandro_Botticelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Savonarola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernardino_of_Siena"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boccaccio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Medici"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
@@ -322,181 +402,101 @@
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rimini"
+        "object": "http://dbpedia.org/resource/Vasari"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Venice"
+        "object": "http://dbpedia.org/resource/Lorenzo_de'_Medici"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Louvre"
+        "object": "http://dbpedia.org/resource/Lorenzo_di_Credi"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Matteo_de'_Pasti"
+        "object": "http://dbpedia.org/resource/The_Vampire_Armand"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Renaissance_sculptors"
+        "object": "http://dbpedia.org/resource/Romola"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1418_births"
+        "object": "http://dbpedia.org/resource/Category:15th-century_Christianity"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Florence"
+        "object": "http://dbpedia.org/resource/Category:Book_burnings"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Florence"
+        "object": "http://dbpedia.org/resource/Medici_(TV_series)"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Florence_Cathedral"
+        "object": "http://dbpedia.org/resource/Christmas_Eve"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gothic_sculpture"
+        "object": "http://dbpedia.org/resource/George_Eliot"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Italians"
+        "object": "http://dbpedia.org/resource/Girolamo_Savonarola"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Tempio_Malatestiano"
+        "object": "http://dbpedia.org/resource/Crucifixion"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
+        "object": "http://dbpedia.org/resource/The_Mystical_Nativity"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1481_deaths"
+        "object": "http://dbpedia.org/resource/Oratory_of_San_Bernardino,_Perugia"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:15th-century_Italian_sculptors"
+        "object": "http://dbpedia.org/resource/Anne_Rice"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Donatello"
+        "object": "http://dbpedia.org/resource/Category:1497_in_Europe"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Piero_di_Cosimo_de'_Medici"
+        "object": "http://dbpedia.org/resource/Showtime_(TV_network)"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Michelangelo"
+        "object": "http://dbpedia.org/resource/Shrove_Tuesday"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Michelozzo"
+        "object": "http://dbpedia.org/resource/Friar"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/San_Pietro,_Perugia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Leone_Battista_Alberti"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/National_Gallery_of_Umbria"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Amelia,_Italy"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cathedral_of_Modena"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:IMG_0789_-_Perugia_-_San_Bernardino,_di_Agostino_di_Duccio_-1457-61-_-_Foto_G._Dall'Orto_-_6_ago_2006_-.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.08vly2"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Agostino_di_Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/79408383"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/119036363"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/172921546"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q395755"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://data.bibliotheken.nl/id/thes/p160672775"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ca.dbpedia.org/resource/Agostino_di_Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://cs.dbpedia.org/resource/Agostino_di_Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/Agostino_di_Duccio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_di_Duccio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://eo.dbpedia.org/resource/Agostino_di_Duccio"
+        "object": "http://dbpedia.org/resource/Outward_holiness"
     }
 ]

@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Andre"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carla_Accardi"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amedeo_di_Castellamonte"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Rhode"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Turin"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudi_Fuchs"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morganatic_marriage"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Salle"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andro_Wekua"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromAmsterdam"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Imhof"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hito_Steyerl"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Savoy"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Kosuth"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatCommandersOfTheOrderOfTheNetherlandsLion"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Per_Kirkeby"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Galison"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatModernPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9_Magritte"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatModernSculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Residences_of_the_Royal_House_of_Savoy"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromAmsterdam"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Long_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Abstractionist109758424"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rivoli,_Piedmont"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Browning"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanessa_Beecroft"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CommandingOfficer109941964"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Amadeus_II_of_Sardinia"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Design"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doris_Salcedo"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duke"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/MilitaryOfficer110317007"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Richards_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_Dibbets"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olafur_Eliasson"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Painter110391653"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Contemporary_art_galleries_in_Italy"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comune"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coosje_van_Bruggen"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Poet110444194"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurizio_Cattelan"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Worker109632518"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Ernst"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Writer110794014"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Neuhaus"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint-Georges-d'Esp\u00e9ranche"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roni_Horn"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claes_Oldenburg"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Peyton"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Serviceman110582746"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmanuel_Philibert,_Duke_of_Savoy"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/SkilledWorker110605985"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emperor"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enzo_Cucchi"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Gehry"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAbstractArtists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franz_Kline"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAbstractPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_Barbarossa"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_&_George"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giorgio_de_Chirico"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchPeopleOfHuguenotDescent"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Penone"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchPoets"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grazia_Toderi"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchSculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mona_Hatoum"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0643\u0627\u0631\u064a\u0644 \u0623\u0628\u064a\u0644"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mont_Cenis"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nalini_Malani"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nan_Goldin"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_art"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Demand"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Sch\u00fctte"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Bellini_(curator)"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Bruno"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andreas_Gursky"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Boghiguian"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30ab\u30ec\u30eb\u30fb\u30a2\u30da\u30eb"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Gaskell"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anri_Sala"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anton_Corbijn"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arata_Isozaki"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043f\u043f\u0435\u043b, \u041a\u0430\u0440\u0435\u043b"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armando_Testa"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arnulf_Rainer"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u5361\u96f7\u5c14\u00b7\u963f\u4f69\u5c14"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Filippo_Juvarra_buildings"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u041a\u0430\u0440\u0435\u043b \u0410\u043f\u043f\u0435\u043b"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernd_and_Hilla_Becher"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Appel (* jako Christiaan Karel Appel; 25. dubna 1921, Amsterdam, Nizozemsko \u2013 3. kv\u011btna 2006, Z\u00fcrich, \u0160v\u00fdcarsko) byl nizozemsk\u00fd mal\u00ed\u0159, socha\u0159 a b\u00e1sn\u00edk, spoluzakladatel avantgardn\u00ed skupiny CoBrA."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucio_Fontana"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646 \u0643\u0627\u0631\u064a\u0644 \u0623\u0628\u064a\u0644 (25 \u0623\u0628\u0631\u064a\u0644 1921 - 3 \u0645\u0627\u064a\u0648 2006) \u0643\u0627\u0646 \u0631\u0633\u0627\u0645 \u0648\u0646\u062d\u0627\u062a \u0648\u0634\u0627\u0639\u0631 \u0647\u0648\u0644\u0646\u062f\u064a. \u0628\u062f\u0623 \u0627\u0644\u0631\u0633\u0645 \u0641\u064a \u0633\u0646 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0639\u0634\u0631\u0629 \u0648\u062f\u0631\u0633 \u0641\u064a \u0623\u0645\u0633\u062a\u0631\u062f\u0627\u0645 \u0641\u064a \u0627\u0644\u0623\u0631\u0628\u0639\u064a\u0646\u064a\u0627\u062a. \u0643\u0627\u0646 \u0648\u0627\u062d\u062f\u0627\u064b \u0645\u0646 \u0645\u0624\u0633\u0633\u064a \u0627\u0644\u062d\u0631\u0643\u0629 \u0627\u0644\u0637\u0644\u064a\u0639\u064a\u0629 \u0643\u0648\u0628\u0631\u0627 \u0641\u064a \u0639\u0627\u0645 1948. \u0648\u0643\u0627\u0646 \u0623\u064a\u0636\u0627 \u0646\u062d\u0627\u062a\u0627\u064b \u0645\u062a\u0639\u0637\u0634\u0627\u064b."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Art_museums_established_in_1984"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Appel (eigentlich Christiaan Karel Appel; * 25. April 1921 in Amsterdam; \u2020 3. Mai 2006 in Z\u00fcrich) war ein niederl\u00e4ndischer Maler, Grafiker und Bildhauer. Er war Mitbegr\u00fcnder der K\u00fcnstlergruppe CoBrA."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shirin_Neshat"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Christiaan Karel Appel (pronounced [\u02c8kr\u026astija\u02d0n \u02c8ka\u02d0r\u0259l \u02c8\u0251p\u0259l]; 25 April 1921 \u2013 3 May 2006) was a Dutch painter, sculptor, and poet. He started painting at the age of fourteen and studied at the Rijksakademie in Amsterdam in the 1940s. He was one of the founders of the avant-garde movement CoBrA in 1948. He was also an avid sculptor and has had works featured in MoMA and other museums worldwide."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shroud_of_Turin"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Christiaan Karel Appel, conocido como Karel Appel (\u00c1msterdam, 25 de abril de 1921 \u2013 Z\u00farich, 3 de mayo de 2006\u200b) fue un pintor neerland\u00e9s, miembro fundador del grupo CoBrA."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claudia_Comte"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Appel (25 April 1921 \u2013 3 Mei 2006) merupakan seorang pelukis dan pemahat berkebangsaan belanda. Dia dilahirkan di Amsterdam. Dia belajar di dari tahun 1940 hingga 1943 dan pertama kali menonton di Groningen pada tahun 1946. Dia dipengaruhi oleh Pablo Picasso, Henri Matisse, dan ; dia ikut serta dengan dan ikut serta dengan pada 1948 bersama-sama dengan , dan . Dia meninggal dunia pada 3 Mei 2006 di Zurich."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Combal.Zero"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Appel n\u00e9 le 25 avril 1921 \u00e0 Amsterdam et mort le 3 mai 2006 \u00e0 Zurich, est un peintre et sculpteur n\u00e9erlandais, cofondateur du groupe CoBrA."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emilio_Vedova"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Appel (Amsterdam, 25 april 1921 \u2013 Z\u00fcrich, 3 mei 2006) was een Nederlands schilder en beeldhouwer in de moderne kunst uit de tweede helft van de twintigste eeuw, die tot de expressionisten kan worden gerekend. Hij brak door met zijn lidmaatschap van de Cobra-groep."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federico_Cerruti"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041a\u0430\u0440\u0435\u043b \u0410\u043f\u043f\u0435\u043b (\u043d\u0438\u0434\u0435\u0440\u043b. Christiaan Karel Appel, 25 \u0430\u043f\u0440\u0435\u043b\u044f 1921, \u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c \u2014 3 \u043c\u0430\u044f 2006, \u0426\u044e\u0440\u0438\u0445) \u2014 \u043d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a, \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0433\u0440\u0430\u0444\u0438\u043a, \u043e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0430\u0432\u0430\u043d\u0433\u0430\u0440\u0434\u043d\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b \u00ab\u041a\u041e\u0411\u0420\u0410\u00bb. \u0412 \u0441\u0432\u043e\u0438\u0445 \u0440\u0430\u0431\u043e\u0442\u0430\u0445 \u0441\u043e\u0447\u0435\u0442\u0430\u043b \u0444\u0438\u0433\u0443\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0438 \u0430\u0431\u0441\u0442\u0440\u0430\u043a\u0442\u043d\u043e-\u044d\u043a\u0441\u043f\u0440\u0435\u0441\u0441\u0438\u043e\u043d\u0438\u0441\u0442\u0441\u043a\u0438\u0435 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u044b."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francesco_Vezzoli"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Appel (ur. 25 kwietnia 1921 w Amsterdamie, zm. 3 maja 2006 w Zurychu) \u2013 holenderski malarz, grafik, rze\u017abiarz, poeta."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Al\u00ffs"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u5361\u96f7\u5c14\u00b7\u963f\u4f69\u5c14\uff08\u8377\u862d\u8a9e\uff1aChristiaan Karel Appel\uff1b1921\u5e744\u670825\u65e5\uff0d2006\u5e745\u67083\u65e5\uff09\uff0c\u53c8\u8bd1\u4f5c\u5361\u00b7\u963f\u8d1d\u5c14\u3001\u5361\u5c14\u00b7\u963f\u88f4\u5c14\uff0c\u662f\u8377\u5170\u5f53\u4ee3\u7684\u4e00\u4f4d\u753b\u5bb6\u3001\u96d5\u5851\u5bb6\u4e0e\u8bd7\u4eba\u3002\u5361\u96f7\u5c14\u00b7\u963f\u4f69\u5c14\u4ece14\u5c81\u5f00\u59cb\u7ed8\u753b\uff0c\u5e76\u4e8e20\u4e16\u7eaa40\u5e74\u4ee3\u524d\u5f80\u963f\u59c6\u65af\u7279\u4e39\u89c6\u89c9\u827a\u672f\u7687\u5bb6\u5b66\u9662\u5b66\u4e60\u3002\u4ed6\u4e5f\u662f1948\u5e74\u6b27\u6d32\u5148\u950b\u6d3e\u8fd0\u52a8\u7684\u7b79\u5212\u4eba\u4e4b\u4e00\u3002"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Bacon_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041a\u0430\u0440\u0435\u043b \u0410\u043f\u043f\u0435\u043b (\u043d\u0456\u0434. Karel Appel; 25 \u043a\u0432\u0456\u0442\u043d\u044f 1921, \u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c \u2014 3 \u0442\u0440\u0430\u0432\u043d\u044f 2006, \u0426\u044e\u0440\u0438\u0445) \u2014 \u043d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0438\u0439 \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0435\u0446\u044c, \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0433\u0440\u0430\u0444\u0456\u043a, \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0433\u043e \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u0430."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franz_Ackermann"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "(Amsterdam, 25 d'abril de 1921 - Zuric, 3 de maig de 2006) o Christiaan Karel Appel va ser un pintor i escultor neerland\u00e8s, membre fundador del moviment art\u00edstic Cobra. Fill d'un perruquer, Appel va cursar estudis en la Rijksakademie van Beeldende Kunsten (Acad\u00e8mia de Belles Arts) d'Amsterdam entre 1940 i 1943 a pesar de la resist\u00e8ncia dels seus pares. All\u00ed va con\u00e8ixer Guillaume Corneille i Constant. La seva primera exposici\u00f3 data de 1946 i va ser a Groninga, seguida d'una altra a Amsterdam. Entre les seves influ\u00e8ncies estan Pablo Picasso, Henri Matisse i Jean Dubuffet. S'uneix al al costat de Guillaume Corneille i Constant i amb qui funda posteriorment el moviment el \u00ab1948\u00bb, juntament amb Asger Jorn, i ."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fridericianum"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Appel (naski\u011dis la 25-an de aprilo 1921 en Amsterdamo, mortis la 3-an de majo 2006 en Zuriko) estis pentristo kaj unu el la plej gravaj membroj de la arta movado . Appel estis ano de la artmovado Cobra, kiu estis formita en la jaro 1948 de grupoj de artistoj el Kopenhago, Bruselo kaj Amsterdamo. La anoj de la movado Cobra rifuzis abstrakton de postmilita e\u016dropa pentrado, kiun ili konsideris kiel pasiva kaj senviva. Ili anstata\u016de lasis sin inspiri de infanaj pentra\u0135oj kaj mitologiaj temoj. Ili ektrovis pla\u0109on en kombinado de pura energio, kreata tra sova\u011daj koloroj kaj frenezaj temoj, kaj abstraktaj kaj figuraj. Ili preferis trovadon de aparta esprimo kvaza\u016d eksprimo de subkonscio."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haim_Steinbach"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Appel (Amsterdam, 1921eko apirilaren 25a - Zurich, 2006ko maiatzaren 3a) herbeheretar margolaria izan zen. Figurazioaren eta arteko erdibidean dago bere obra; keinuaren nagusitasuna azpimarratzen zuen, kolore gordinak erabiliz. Cobra taldeko kide izan zen."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stefano_Arienti"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30ab\u30ec\u30eb\u30fb\u30a2\u30da\u30eb\uff08Karel Appel, 1921\u5e744\u670825\u65e5 - 2006\u5e745\u67083\u65e5\uff09\u306f\u3001\u30aa\u30e9\u30f3\u30c0\u306e\u753b\u5bb6\u3002\u30a2\u30e0\u30b9\u30c6\u30eb\u30c0\u30e0\u306b\u751f\u307e\u308c\u3001\u6fc0\u3057\u3044\u7b46\u81f4\u306e\u539f\u8272\u306e\u62bd\u8c61\u753b\u3084\u591a\u5f69\u306a\u8272\u3092\u7528\u3044\u305f\u7acb\u4f53\u4f5c\u54c1\u306a\u3069\u3092\u5236\u4f5c\u3057\u3001\u30aa\u30e9\u30f3\u30c0\u73fe\u4ee3\u7f8e\u8853\u306e\u4ee3\u8868\u7684\u306a\u4f5c\u5bb6\u3068\u306a\u3063\u305f\u3002 \u30ed\u30a4\u30e4\u30eb\u30fb\u30a2\u30ab\u30c7\u30df\u30fc\u30fb\u30aa\u30d6\u30fb\u30f4\u30a3\u30b8\u30e5\u30a2\u30eb\u30fb\u30a2\u30fc\u30c4\u30fb\u30a2\u30e0\u30b9\u30c6\u30eb\u30c0\u30e0\uff08\u738b\u7acb\u7f8e\u8853\u5b66\u6821\uff09\u30671940\u5e74\u304b\u30891943\u5e74\u307e\u3067\u5b66\u3073\u3001\u521d\u500b\u5c55\u30921946\u5e74\u306b\u30d5\u30ed\u30fc\u30cb\u30f3\u30b2\u30f3\u3067\u958b\u50ac\u3059\u308b\u3002\u30a2\u30da\u30eb\u306f\u30d1\u30d6\u30ed\u30fb\u30d4\u30ab\u30bd\u3001\u30a2\u30f3\u30ea\u30fb\u30de\u30c6\u30a3\u30b9\u3001\u304a\u3088\u3073\u30b8\u30e3\u30f3\u30fb\u30c7\u30e5\u30d3\u30e5\u30c3\u30d5\u30a7\u306e\u5f71\u97ff\u3092\u53d7\u3051\u3001\u539f\u521d\u7684\u306a\u30a8\u30cd\u30eb\u30ae\u30fc\u306b\u6e80\u3061\u305f\u6fc0\u3057\u3044\u539f\u8272\u306e\u4eba\u7269\u50cf\u306a\u3069\u3092\u63cf\u3044\u305f\u3002\u30aa\u30e9\u30f3\u30c0\u306e\u5b9f\u9a13\u7684\u306a\u82b8\u8853\u5bb6\u96c6\u56e3\u300c\u30ec\u30d5\u30ec\u30c3\u30af\u30b9\uff08Reflex\uff09\u300d\u306b\u95a2\u308f\u3063\u305f\u5f8c\u3001\u30b3\u30f3\u30b9\u30bf\u30f3\u3001\u3001\u30d4\u30a8\u30fc\u30eb\u30fb\u30a2\u30ec\u30b7\u30f3\u30b9\u30ad\u30fc\u3089\u3068\u3068\u3082\u306b\u30aa\u30e9\u30f3\u30c0\u3084\u30d9\u30eb\u30ae\u30fc\u3001\u5317\u6b27\u3092\u62e0\u70b9\u3068\u3059\u308b\u82b8\u8853\u5bb6\u96c6\u56e3\u300c\u30b3\u30d6\u30e9\uff08CoBrA\uff09\u300d\u306e\u7d50\u6210\u306b\u53c2\u52a0\u3057\u305f\u3002\u30a2\u30da\u30eb\u304c1949\u5e74\u306b\u30a2\u30e0\u30b9\u30c6\u30eb\u30c0\u30e0\u5e02\u5e81\u820e\u306b\u63cf\u3044\u305f\u30d5\u30ec\u30b9\u30b3\u753b\u306f\u8b70\u8ad6\u3092\u547c\u3073\u300110\u5e74\u9593\u3082\u8986\u3044\u3092\u304b\u3051\u3089\u308c\u3066\u3044\u305f\u3002 \u30a2\u30da\u30eb\u306f1950\u5e74\u306b\u30d1\u30ea\u306b\u79fb\u8ee2\u3057\u3001\u30e1\u30ad\u30b7\u30b3\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u3001\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2\u3001\u30d6\u30e9\u30b8\u30eb\uff08\u30b5\u30f3\u30d1\u30a6\u30ed\u30fb\u30d3\u30a8\u30f3\u30ca\u30fc\u30ec\uff09\u3001\u30a4\u30bf\u30ea\u30a2\uff08\u30f4\u30a7\u30cd\u30c4\u30a3\u30a2\u30fb\u30d3\u30a8\u30f3\u30ca\u30fc\u30ec\uff09\u306a\u3069\u3067\u306e\u5927\u304d\u306a\u5c55\u89a7\u4f1a\u3067\u56fd\u969b\u7684\u306a\u540d\u58f0\u3092\u9ad8\u3081\u305f\u30021951\u5e74\u306b\u306f\u8a55\u8ad6\u5bb6\u30df\u30b7\u30a7\u30eb\u30fb\u30bf\u30d4\u30a8\u3068\u51fa\u4f1a\u3044\u3001\u30d5\u30e9\u30f3\u30b9\u3067\u8d77\u3053\u308d\u3046\u3068\u3057\u3066\u3044\u305f\u62bd\u8c61\u753b\u306e\u7f8e\u8853\u904b\u52d5\u30a2\u30f3\u30d5\u30a9\u30eb\u30e1\u30eb\u306b\u53c2\u52a0\u3057\u3066\u3044\u308b\u3002 \n*"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Photography"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Appel (Amsterdam, 25 aprile 1921 \u2013 Zurigo, 4 maggio 2006) \u00e8 stato un pittore e scultore olandese. Ha studiato al di Amsterdam dal 1940 al 1943.La sua prima mostra \u00e8 del 1946 a Groninga. Nella pittura \u00e8 stato influenzato da Pablo Picasso, Henri Matisse e Jean Dubuffet.Nel 1948 fond\u00f2 il movimento CoBrA con Pierre Alechinsky, Guillaume Corneille, , Asger Jorn, e . Nel 1950 si trasfer\u00ec a Parigi e da quel momento svilupp\u00f2 la sua notoriet\u00e0 in tutto il mondo compiendo frequenti viaggi negli Stati Uniti d'America, in Messico e in Brasile. Sue opere si trovano nei seguenti musei:"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Nauman"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Christiaan Karel Appel, conhecido como Karel Appel (Amesterd\u00e3o, 25 de Abril de 1921 \u2014 Zurique, 3 de Maio de 2006) foi um pintor, designer, artista gr\u00e1fico, escritor e escultor neerland\u00eas e co-fundador do grupo CoBrA, em 1948. Estudou na Rijksakademie van Bee hldende Kunsten (1940-1943), onde se tornou amigo de Guillaume Corneille, seu futuro companheiro no CoBrA. Appel viveu em Paris, a partir do in\u00edcio da d\u00e9cada de 1950; em Nova Iorque, na d\u00e9cada seguinte, na It\u00e1lia e na Su\u00ed\u00e7a, onde faleceu."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UNESCO"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Appel, f\u00f6dd 25 april 1921 i Amsterdam i Nederl\u00e4nderna, d\u00f6d 3 maj 2006 i Z\u00fcrich i Schweiz, var en nederl\u00e4ndsk m\u00e5lare, grafiker, skulpt\u00f6r och keramiker. Karel Appel studerade vid den statliga akademin i Amsterdam 1940-1943. Efter andra v\u00e4rldskriget arbetade han med teckningar utf\u00f6rda av barn, och han hade sin f\u00f6rsta utst\u00e4llning i Groningen 1946."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wassily_Kandinsky"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Kentridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Karel Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Anselmo"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aanbouw_tentoonstelling_E55_Rotterdam,_Bestanddeelnr_907-0823.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giulio_Paolini"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Den_Haag_Spui_Beeld_Karel_Appel.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Land_art"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Epreuve_d'artiste_Appel.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aaajiao"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Interieur,_aanzicht_glas-in-loodraam_-_Geleen_-_20367838_-_RCE.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alberto_Giacometti"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel_Appel_and_Rudolf_Bikkers.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alighiero_Boetti"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Naoshima_(7046729115).jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amedeo_Modigliani"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret_van_de_kunstschilder_Karel_Appel_(1921-2006)_tijdens_een_interview,_Bestanddeelnr_133-1171.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ana_Mendieta"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Schilderij_I84391.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_and_structures_completed_in_the_12th_century"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/The_Elephant_Karel_Appel.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Graham"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel_Appel_(1982).jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ed_Atkins"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Appel",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Amsterdam"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Filippo_Juvarra"
     }
 ]

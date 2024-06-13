@@ -1,388 +1,78 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cannes_Film_Festival"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardinal_Mazarin"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Verdone"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Universities_and_colleges_in_Rome"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abdirashid_Ali_Shermarke"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Castelli"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Predrag_Matvejevi\u0107"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Italy"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Somalia"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_European_Central_Bank"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Italy"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professor_emeritus"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_university"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/QS_World_University_Rankings"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMilan"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianInformationTheorists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianPeopleOfGermanDescent"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat\u00c9colePolytechniqueF\u00e9d\u00e9raleDeLausanneAlumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Theorist110706812"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatETHZurichAlumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatSwissComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatSwissEngineers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Corrado B\u00f6hm"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Corrado B\u00f6hm"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Corrado B\u00f6hm"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Corrado B\u00f6hm"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Corrado B\u00f6hm"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30b3\u30e9\u30c9\u30fb\u30d9\u30fc\u30e0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Corrado B\u00f6hm"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0411\u0451\u043c, \u041a\u043e\u0440\u0440\u0430\u0434\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Corrado B\u00f6hm (* 17. Januar 1923 in Mailand; \u2020 23. Oktober 2017) war ein italienischer theoretischer Informatiker und Computerpionier. Er war Professor an der Universit\u00e4t La Sapienza (Rom)."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Corrado B\u00f6hm (17 January 1923 \u2013 23 October 2017) was a Professor Emeritus at the University of Rome \"La Sapienza\" and a computer scientist known especially for his contributions to the theory of structured programming, constructive mathematics, combinatory logic, lambda calculus, and the semantics and implementation of functional programming languages."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Corrado B\u00f6hm, n\u00e9 le 17 janvier 1923 \u00e0 Milan et mort le 23 octobre 2017 \u00e0 Rome, est un informaticien th\u00e9oricien italien. Professeur \u00e9m\u00e9rite \u00e0 l'universit\u00e9 de Rome \u00ab La Sapienza \u00bb, il est connu principalement pour ses contributions \u00e0 la th\u00e9orie de la programmation structur\u00e9e, aux math\u00e9matiques constructives, \u00e0 la logique combinatoire, au lambda-calcul, \u00e0 la s\u00e9mantique et \u00e0 l'impl\u00e9mentation des langages de programmation fonctionnelle."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30b3\u30e9\u30c9\u30fb\u30d9\u30fc\u30e0\uff08Corrado B\u00f6hm, 1923\u5e741\u670817\u65e5 - 2017\u5e7410\u670823\u65e5\uff09\u306f\u3001\u30a4\u30bf\u30ea\u30a2\u30df\u30e9\u30ce\u51fa\u8eab\u306e\u8a08\u7b97\u6a5f\u79d1\u5b66\u8005\u3002\u30ed\u30fc\u30de\u30fb\u30e9\u30fb\u30b5\u30d4\u30a8\u30f3\u30c4\u30a1\u5927\u5b66\u540d\u8a89\u6559\u6388\u3002 1946\u5e74\u306b\u30ed\u30fc\u30b6\u30f3\u30cc\u5927\u5b66\u3067\u96fb\u6c17\u5de5\u5b66\u3092\u4fee\u4e86\u3057\u305f\u5f8c\u3001\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u79d1\u5b66\u306e\u7814\u7a76\u3092\u59cb\u3081\u30011966\u5e74\u306b\u3068\u3068\u3082\u306b\u69cb\u9020\u5316\u5b9a\u7406\u3092\u8a3c\u660e\u3057\u305f\u3002\u3053\u306e\u69cb\u9020\u5316\u5b9a\u7406\u306f\u3001\u30a8\u30c9\u30ac\u30fc\u30fb\u30c0\u30a4\u30af\u30b9\u30c8\u30e9\u304c\u63d0\u5531\u3057\u305f\u69cb\u9020\u5316\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u3068\u3088\u304f\u6df7\u540c\u3055\u308c\u308b\u304c\u3001\u672c\u6765\u306f\u3042\u307e\u308a\u95a2\u4fc2\u306e\u306a\u3044\u3082\u306e\u3067\u3042\u308b\u3002 \u305d\u306e\u4ed6\u3001\u30e9\u30e0\u30c0\u8a08\u7b97\u3084\u95a2\u6570\u578b\u8a00\u8a9e\u306e\u7814\u7a76\u3067\u3082\u77e5\u3089\u308c\u308b\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Corrado B\u00f6hm (Milano, 17 gennaio 1923 \u2013 Roma, 23 ottobre 2017) \u00e8 stato un matematico e informatico italiano, professore emerito dell'Universit\u00e0 \"La Sapienza\" di Roma."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Corrado B\u00f6hm (Mil\u00e3o, 17 de janeiro de 1923 \u2013 Roma, 23 de outubro de 2017) foi um cientista da computa\u00e7\u00e3o italiano. Contribuiu com as teorias de programa\u00e7\u00e3o estruturada, c\u00e1lculo Lambda, l\u00f3gica combinat\u00f3ria e com as sem\u00e2nticas e com a implementa\u00e7\u00e3o de linguagens de programa\u00e7\u00e3o funcional. Foi o criador da linguagem P\u2032\u2032, uma linguagem Turing completa, ou seja, com o mesmo poder computacional de uma M\u00e1quina de Turing."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041a\u043e\u0440\u0440\u0430\u0434\u043e \u0411\u0451\u043c (Corrado B\u00f6hm; 17 \u044f\u043d\u0432\u0430\u0440\u044f 1923 \u0433\u043e\u0434\u0430, \u041c\u0438\u043b\u0430\u043d \u2014 23 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2017 \u0433\u043e\u0434\u0430, \u0420\u0438\u043c) \u2014 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a, \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438 \u0438 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043b\u043e\u0433\u0438\u043a\u0438, \u0432\u043d\u0451\u0441\u0448\u0438\u0439 \u0440\u0435\u0448\u0430\u044e\u0449\u0438\u0439 \u0432\u043a\u043b\u0430\u0434 \u0432 \u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0431\u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u0430\u0440\u0430\u0434\u0438\u0433\u043c\u044b \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u0432\u0448\u0438\u0439 \u0432\u0430\u0436\u043d\u044b\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0432 \u03bb-\u0438\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0438, \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442\u043e\u0440\u043d\u043e\u0439 \u043b\u043e\u0433\u0438\u043a\u0435, \u0441\u0435\u043c\u0430\u043d\u0442\u0438\u043a\u0435 \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f; \u043e\u0434\u0438\u043d \u0438\u0437 \u0440\u0430\u043d\u043d\u0438\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0442\u0435\u043e\u0440\u0438\u0438 \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f. \u041f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0440\u0438\u043c\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u00ab\u0421\u0430\u043f\u0438\u0435\u043d\u0446\u0430\u00bb, \u0441\u043e\u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0435\u0442\u043e\u0432 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438 \u0422\u0443\u0440\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0438 \u00ab\u0421\u0430\u043f\u0438\u0435\u043d\u0446\u044b\u00bb."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Corrado B\u00f6hm (Mil\u00e1n, 17 de enero de 1923-Roma, 23 de octubre de 2017)\u200b fue un inform\u00e1tico te\u00f3rico italiano, profesor em\u00e9rito de la Universidad de La Sapienza, conocido principalmente por sus contribuciones en la teor\u00eda de programaci\u00f3n estructurada, matem\u00e1tica constructiva, l\u00f3gica combinatoria, c\u00e1lculo lambda, y la sem\u00e1ntica e implementaci\u00f3n de lenguajes de programaci\u00f3n funcional."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Corrado B\u00f6hm"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Corrado B\u00f6hm"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/CorradoBoemETAPS2013_2013-03-22_0.33.36.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Milan"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Rome"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/Rome"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "2017-10-23"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Milan"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1923-01-17"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1923_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:2017_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:\u00c9cole_Polytechnique_F\u00e9d\u00e9rale_de_Lausanne_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sapienza_University_of_Rome_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Italian_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_people_of_German_descent"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "2462324"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1120698733"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roma_Tiburtina_railway_station"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
@@ -392,111 +82,421 @@
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sapienza_University_of_Rome"
+        "object": "http://dbpedia.org/resource/Royal_Institute_of_British_Architects"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/List_of_pioneers_in_computer_science"
+        "object": "http://dbpedia.org/resource/San_Pietro_in_Vincoli"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Paul_Bernays"
+        "object": "http://dbpedia.org/resource/Sant'Ivo_alla_Sapienza"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1923_births"
+        "object": "http://dbpedia.org/resource/Nuovo_Trasporto_Viaggiatori"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Combinatory_logic"
+        "object": "http://dbpedia.org/resource/Partnership_of_a_European_Group_of_Aeronautics_and_Space_Universities"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/GOTO"
+        "object": "http://dbpedia.org/resource/Barnaba_Tortolini"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Giorgio_Ausiello"
+        "object": "http://dbpedia.org/resource/Bernardo_Bertolucci"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Structured_programming"
+        "object": "http://dbpedia.org/resource/Beta_decay"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Computer_science"
+        "object": "http://dbpedia.org/resource/David_di_Donatello_for_Best_Director"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Computer_scientist"
+        "object": "http://dbpedia.org/resource/Allergy"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Emeritus"
+        "object": "http://dbpedia.org/resource/Andrea_Zitolo"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Functional_programming"
+        "object": "http://dbpedia.org/resource/Anna_Maria_Bisi"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/P\u2032\u2032"
+        "object": "http://dbpedia.org/resource/Antonio_Nibby"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/B\u00f6hm_tree"
+        "object": "http://dbpedia.org/resource/Holy_See"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Algebraic_data_type"
+        "object": "http://dbpedia.org/resource/List_of_medieval_universities"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/ETH_Z\u00fcrich"
+        "object": "http://dbpedia.org/resource/Ugo_Cerletti"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Eduard_Stiefel"
+        "object": "http://dbpedia.org/resource/Umberto_Guidoni"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mariangiola_Dezani-Ciancaglini"
+        "object": "http://dbpedia.org/resource/University_of_Bologna"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:2017_deaths"
+        "object": "http://dbpedia.org/resource/University_of_Padua"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Italy"
+        "object": "http://dbpedia.org/resource/Venice_Film_Festival"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:\u00c9cole_Polytechnique_F\u00e9d\u00e9rale_de_Lausanne_alumni"
+        "object": "http://dbpedia.org/resource/Vito_Volterra"
     },
     {
         "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Sapienza_University_of_Rome_faculty"
+        "object": "http://dbpedia.org/resource/Von_der_Leyen_Commission"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Decadent_movement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Domenico_Pacini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neurotransmitter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gabriele_d'Annunzio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_oldest_universities_in_continuous_operation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_European_Parliament"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/College_of_Europe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cora_Sternberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corrado_B\u00f6hm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corrado_Gini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massimiliano_Fuksas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sabino_Cassese"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sack_of_Rome_(1527)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvatore_Dierna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliptic_partial_differential_equation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paola_S._Timiras"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Piero_Boitani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santander_Network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chrysoula_Zacharopoulou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emanuele_Patern\u00f2"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ennio_de_Giorgi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Fermi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Giovannini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franco_Rasetti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galileo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giorgio_Gaja"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giorgio_Parisi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Jona-Lasinio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Vincenzo_Gravina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuliano_Amato"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giulio_Natta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Conte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Tucci"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Ungaretti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Golden_Lion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Goldman_Sachs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Botanical_garden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Musine_Kokalari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NASA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NATO"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Last_Emperor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Sheltering_Sky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ordre_des_Arts_et_des_Lettres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Cesalpino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antihistamines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antiproton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Salandra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Signorini_(physicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Tajani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernardino_Varisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernstein's_problem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luca_Cordero_di_Montezemolo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caccioppoli_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9lisabeth_Borne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_di_Donatello_for_Best_Script"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcello_Piacentini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palme_d'Or"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Physics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_physics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Augusto_Del_Noce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Banca_d'Italia"
     }
 ]

@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cambridge_University_Library"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cambridge_University_Press"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Penrose"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_journal"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Stevens_Henslow"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_William_Strutt,_3rd_Baron_Rayleigh"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Larmor"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBritishAstronomers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Dirac"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBritishBusinessTheorists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBritishComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Clubs_and_societies_of_the_University_of_Cambridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBritishInformationTheorists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/On_the_Origin_of_Species"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBritishInventors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christ's_College,_Cambridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBritishMathematicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Daniel_Clarke"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBritishPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geological_Society_of_London"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBritishPhilosophers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antony_Hewish"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Philosophical_societies_in_the_United_Kingdom"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cambridge_University_Moral_Sciences_Club"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Organizations_established_in_1819"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Hawking"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fellow"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Proceedings_of_the_Cambridge_Philosophical_Society"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLogicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Sedgwick"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLucasianProfessorsOfMathematics"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Turing"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatMechanicalCalculators"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientific_societies_based_in_the_United_Kingdom"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleEducatedAtTotnesGrammarSchool"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernest_Rutherford"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Crick"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Academician109759069"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize_in_Physics"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HMS_Beagle"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hendrik_Lorentz"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Astronomer109818343"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._J._Thomson"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Calculator109887034"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Francis_Stephens"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1819_establishments_in_England"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Babbage"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Darwin"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/King_William_IV"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Law"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Economist110043643"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawrence_Bragg"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Educator110045713"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Hodgkin"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie_Curie"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Expert109617867"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Rees"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philosophy"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Inventor110214637"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pieter_Zeeman"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Second_voyage_of_HMS_Beagle"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Logician110269785"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Medicine"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Mathematician110301261"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extracts_from_Letters_to_Henslow"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theology"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Stephen_Hawking.StarChild.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Cambridge-philosophical-society-blue-plaque.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Extracts_from_letters_to_Henslow.jpeg"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Philosopher110423589"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:On-the-fishes-of-madeira.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Captain_America"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Physicist110428004"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_United_States"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Professional110480253"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Victoria"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Professor110480730"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Stern"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatInventors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sidewise_in_Time"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Batman"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Atlanta"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Chickamauga"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Gettysburg"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/SocialScientist110619642"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Hampton_Roads"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Theorist110706812"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_North_Anna"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Shiloh"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryEconomists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_H._Winters"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryEnglishMathematicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Best_of_the_Best:_20_Years_of_the_Year's_Best_Science_Fiction"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryEnglishPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_American"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryMathematicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Southerners"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfTheUniversityOfCambridge"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Braxton_Bragg"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfPeterhouse,Cambridge"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brigadier_(United_Kingdom)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTheUniversityOfCambridge"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Mason_(writer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTrinityCollege,Cambridge"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Poyer"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEnglishComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Rice_Atchison"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEnglishEngineers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Davy_Crockett"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEnglishMathematicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alternate_history"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEnglishPhilosophers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All_the_Myriad_Ways"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAcademyOfArtsAndSciences"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holocaust"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalAstronomicalSociety"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/How_Few_Remain"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Waldrop"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSocietyOfEdinburgh"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Wilkes_Booth"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromSouthwark(LondonBorough)"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_E._Johnston"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleOfTheIndustrialRevolution"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joshua_Chamberlain"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/PersonWithOccupation"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jubal_Early"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Moffett"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_alternate_histories_diverging_at_the_American_Civil_War"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u062a\u0634\u0627\u0631\u0644\u0632 \u0628\u0627\u0628\u064a\u062c"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Little_Round_Top"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_Cleburne"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pennsylvania"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Republic_of_New_Afrika"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u03a4\u03c3\u03b1\u03c1\u03bb\u03c2 \u039c\u03c0\u03ac\u03bc\u03c0\u03b1\u03c4\u03b6"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Republic_of_Texas"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhode_Island"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_E._Lee"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ulysses_S._Grant"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Underground_Railroad"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_(American_Civil_War)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_Army"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\ucc30\uc2a4 \ubc30\ube44\uc9c0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Marine_Corps"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30c1\u30e3\u30fc\u30eb\u30ba\u30fb\u30d0\u30d9\u30c3\u30b8"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vampire"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Babbage",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Babbage"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_II"
     }
 ]

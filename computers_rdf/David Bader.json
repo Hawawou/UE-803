@@ -1,77 +1,27 @@
 [
     {
         "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "David Bader"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "11297367"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "942256175"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Bader"
     },
     {
         "subject": "http://dbpedia.org/resource/David_Bader",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/David_Bader_(computer_scientist)"
+        "object": "http://dbpedia.org/resource/David_Bader"
     },
     {
         "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/David_Bader_(footballer)"
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/David_Bader"
     },
     {
         "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/David_Bader_(writer)"
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/David_Bader"
     },
     {
         "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/David_Bader_(computer_scientist)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/David_Bader_(footballer)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/David_Bader_(writer)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q5231034"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4jBga"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Hndis"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/David_Bader?oldid=942256175&ns=0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "278"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_Bader",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/David_Bader"
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/David_Bader"
     }
 ]

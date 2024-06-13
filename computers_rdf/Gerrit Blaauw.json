@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Employee110053808"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatHarvardUniversityAlumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIBMEmployees"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Worker109632518"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromTheHague"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Gerrit Blaauw"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Gerrit Blaauw"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Gerrit Blaauw"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Gerrit Blaauw"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Gerrit Blaauw (wetenschapper)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Gerrit Blaauw"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Gerrit Anne (Gerry) Blaauw (July 17, 1924 \u2013 March 21, 2018) was a Dutch computer scientist, known as one of the principal designers of the IBM System/360 line of computers, together with Fred Brooks, Gene Amdahl, and others."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Gerrit Anne \"Gerry\" Blaauw (el 17 de julio de 1924 - 21 de marzo de 2018) es un cient\u00edfico inform\u00e1tico holand\u00e9s que se le conoce como uno de los dise\u00f1adores principales de la l\u00ednea de computadores IBM System/360, junto con Fred Brooks, Gen Amdahl, y otros.\u200b"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Gerrit Anne Blaauw (L'Aia, 17 luglio 1924 \u2013 Utrecht, 21 marzo 2018) \u00e8 stato un informatico olandese, noto per essere uno dei principali progettisti della linea di computer IBM System/360, insieme a Fred Brooks, Gen Amdahl, e altri."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Gerrit Anne (Gerry) Blaauw (17 de julho de 1924) foi um cientista da computa\u00e7\u00e3o neerland\u00eas, conhecido como um dos principais projetistas do IBM System/360, com Fred Brooks, Gene Amdahl e outros."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Gerrit Anne Blaauw, genannt Gerry, (* 17. Juli 1924 in Den Haag; \u2020 21. M\u00e4rz 2018 in Utrecht) war ein niederl\u00e4ndischer Computeringenieur. Blaauw studierte an der TU Delft Elektrotechnik mit dem Abschluss magna cum laude 1946 und danach mit einem Stipendium von IBM ab 1947 am Lafayette College in Pennsylvania und danach an der Harvard University, wo er 1949 seinen Master-Abschluss machte und bei Howard Aiken an den Mark III und Mark IV Computern arbeitete. Aiken entwickelte diese mit bew\u00e4hrter Technologie f\u00fcr die US Navy, und sie erwiesen sich als sehr zuverl\u00e4ssig, was sich sp\u00e4ter in dem bei IBM Blaauw zugeschriebenen Satz widerspiegelte: Established technology tends to persist in the face of new technology (Etablierte Technologie neigt dazu sich gegen neue Technologie zu behaupten). Daneben"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Gerrit Anne (Gerry) Blaauw (Den Haag, 17 juli 1924 \u2013 Utrecht, 21 maart 2018) was een Nederlands informaticus en computerpionier. Hij verwierf faam door zijn baanbrekende werk op het gebied van computerarchitectuur. Tijdens zijn studie elektrotechniek aan de TU Delft weigerde hij in de oorlog de loyaliteitsverklaring te tekenen. Hij dook onder en begon met een vriend een verzetskrantje. Van 1965 tot 1989 was hij hoogleraar digitale technieken aan de Universiteit Twente. In 1989 ging hij met emeritaat Gerrit Blaauw was vasthoudend, maar ook bescheiden en kalm."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit_Blaauw.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1924_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:2018_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Dutch_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Harvard_University_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Members_of_the_Royal_Netherlands_Academy_of_Arts_and_Sciences"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Twente_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:IBM_employees"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_inventors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Scientists_from_The_Hague"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:VM_(operating_system)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "1267002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1118211543"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calculator"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Project_MAC"
+        "object": "http://dbpedia.org/resource/Carl_Sassenrath"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Netherlands_Academy_of_Arts_and_Sciences"
+        "object": "http://dbpedia.org/resource/Carroll_Morgan_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Delft_University_of_Technology"
+        "object": "http://dbpedia.org/resource/Cascading_Style_Sheets"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Pennsylvania"
+        "object": "http://dbpedia.org/resource/Case-based_reasoning"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/System/360"
+        "object": "http://dbpedia.org/resource/Poul-Henning_Kamp"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1924_births"
+        "object": "http://dbpedia.org/resource/Process_mining"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:2018_deaths"
+        "object": "http://dbpedia.org/resource/Program_optimization"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Fred_Brooks"
+        "object": "http://dbpedia.org/resource/Programmer"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gene_Amdahl"
+        "object": "http://dbpedia.org/resource/Prolog"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Thomas_J._Watson"
+        "object": "http://dbpedia.org/resource/Punched_card"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/MIT_Press"
+        "object": "http://dbpedia.org/resource/Python_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Dutch_computer_scientists"
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Harvard_University_alumni"
+        "object": "http://dbpedia.org/resource/QuickCheck"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Members_of_the_Royal_Netherlands_Academy_of_Arts_and_Sciences"
+        "object": "http://dbpedia.org/resource/Robert_Sedgewick_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Twente_faculty"
+        "object": "http://dbpedia.org/resource/Robert_Sproull"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Thrashing_(computer_science)"
+        "object": "http://dbpedia.org/resource/Robert_Tappan_Morris"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Paging"
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Harvard_Mark_III"
+        "object": "http://dbpedia.org/resource/Robert_W._Floyd"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Harvard_Mark_IV"
+        "object": "http://dbpedia.org/resource/Roberto_Ierusalimschy"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Harvard_University"
+        "object": "http://dbpedia.org/resource/Roberto_Pieraccini"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/ARRA_(computer)"
+        "object": "http://dbpedia.org/resource/Robin_Milner"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:IBM_employees"
+        "object": "http://dbpedia.org/resource/Robotics"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_inventors"
+        "object": "http://dbpedia.org/resource/Rod_Canion"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Scientists_from_The_Hague"
+        "object": "http://dbpedia.org/resource/Roger_Hui"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Dutch_scientists"
+        "object": "http://dbpedia.org/resource/Roger_Moore_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lafayette_College"
+        "object": "http://dbpedia.org/resource/Roger_Needham"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:VM_(operating_system)"
+        "object": "http://dbpedia.org/resource/Roland_Carl_Backhouse"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IBM_System/360-67"
+        "object": "http://dbpedia.org/resource/Ron_Rivest"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IBM"
+        "object": "http://dbpedia.org/resource/Ruby_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IBM_8000"
+        "object": "http://dbpedia.org/resource/Rudolf_Bayer"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IBM_System/370"
+        "object": "http://dbpedia.org/resource/Rudy_Rucker"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Word_(computer_architecture)"
+        "object": "http://dbpedia.org/resource/Samir_Das"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Virtual_memory"
+        "object": "http://dbpedia.org/resource/Samson_Abramsky"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Universiteit_Twente"
+        "object": "http://dbpedia.org/resource/Sanjay_Ghemawat"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IBM_7030"
+        "object": "http://dbpedia.org/resource/Sanjeev_Arora"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Atlas_Computer"
+        "object": "http://dbpedia.org/resource/Sargur_Srihari"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Poughkeepsie_(city),_New_York"
+        "object": "http://dbpedia.org/resource/Scala_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mathematical_Centre"
+        "object": "http://dbpedia.org/resource/Scheme_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Howard_Aiken"
+        "object": "http://dbpedia.org/resource/Scientific_Time_Sharing_Corporation"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Gerrit_Blaauw.jpg"
+        "object": "http://dbpedia.org/resource/Scott_Aaronson"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://webcache.googleusercontent.com/search%3Fq=cache:dYydu9tSckQJ:https:/www.geloofenwetenschap.nl/index.php/artikelen/item/download/82_d73107598dc34924a719d910ea64d403+&cd=1&hl=en&ct=clnk&gl=uk&client=safari"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Fahlman"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www-set.win.tue.nl/UnsungHeroes/heroes/blaauw.html"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Shenker"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://archive.org/details/ibms360early370s0000pugh%7Curl-access=registration%7Cyear=1991%7Cpublisher="
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eldon_C._Hall"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://archive.today/20130811102033/http:/www.utwente.nl/ewi/geschiedenisinf/deel_2/diesrede_blaauw.doc/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_design_automation"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://web.archive.org/web/20110724171300/http:/www-set.win.tue.nl/UnsungHeroes/heroes/blaauw.html"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/End-user_development"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.04nl58"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_architecture_planning"
     },
     {
         "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/23520849"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entity-relationship_model"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_computing_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MINIX"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIX"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mihai_Nadin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monitor_(synchronization)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moore_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_worm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_language_processing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Normalized_compression_distance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MD5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MMIX"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mesh_networking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meta-learning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Bernus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SECD_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/On_Lisp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partially_observable_Markov_decision_process"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ubiquitous_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programmable_calculator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ken_Thompson_(computer_programmer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Really_Achieving_Your_Childhood_Dreams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cray_Research"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeffrey_D._Ullman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eugene_Luks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nondeterministic_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sankar_Pal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bauer\u2013Fike_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bayesian_network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Shneiderman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley_Software_Distribution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Galler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernhard_Sch\u00f6lkopf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernhard_Thalheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Bos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Sutherland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_Meyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Holberton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bigtable"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Gates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Joy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bjarne_Stroustrup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BlueJ"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bourne_shell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_Eich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Kernighan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Randell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_A._Huffman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_A._Wagner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_C._Evans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Canfield_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_E._Shaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Gerrit_Blaauw",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Eppstein"
     }
 ]

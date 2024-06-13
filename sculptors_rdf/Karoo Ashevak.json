@@ -1,168 +1,83 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karoo Ashevak"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karoo Ashevak"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u041a\u0430\u0440\u0443 \u0410\u0441\u0430\u0432\u0430"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karoo Ashevak (1940-1974) est un sculpteur canadien inuit. D\u00e9c\u00e9d\u00e9 tragiquement dans un incendie \u00e0 l'\u00e2ge de 34 ans, Karoo Ashevak est consid\u00e9r\u00e9 comme une figure majeure de l'art inuit canadien. Ses repr\u00e9sentations de l'esprit des shamans et de la culture inuite traditionnelle en font un artiste recherch\u00e9. Les traits exag\u00e9r\u00e9s de ses personnages caract\u00e9risent son style. Sa production faite avec des os et des fanons de baleine, de la pierre et de l'ivoire compte environ 250 sculptures."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karoo Ashevak (Inuktitut: \u1472\u1548 \u140a\u14f4\u1559) (1940 \u2013 October 19, 1974) was an Inuk sculptor who lived a nomadic hunting life in the Kitikmeot Region of the central Arctic before moving into Spence Bay, Northwest Territories (now Taloyoak, Nunavut) in 1960. His career as an artist started in 1968 by participating in a government-funded carving program. Working with the primary medium of fossilized whale bone, Ashevak created approximately 250 sculptures in his lifetime, and explored themes of shamanism and Inuit spirituality through playful depictions of human figures, angakuit (shamans), spirits, and Arctic wildlife."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041a\u0430\u0440\u0443 \u0410\u0441\u0430\u0432\u0430 (\u0438\u043d\u0443\u043a\u0442\u0438\u0442\u0443\u0442 \u1472\u1548 \u140a\u14f4\u1559; 1940 \u2014 19 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1974) \u2014 \u0438\u043d\u0443\u0438\u0442\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0436\u0438\u0432\u0448\u0438\u0439 \u043a\u0430\u043a \u043a\u043e\u0447\u0435\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u043d\u0438\u043a \u0432 \u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0440\u0435\u0433\u0438\u043e\u043d\u0435 \u041a\u0438\u0442\u0438\u043a\u043c\u0435\u043e\u0442 \u0434\u043e 1960 \u0433\u043e\u0434\u0430. \u0417\u0430\u0442\u0435\u043c \u043e\u043d \u043f\u0435\u0440\u0435\u0441\u0435\u043b\u0438\u043b\u0441\u044f \u0432 \u0421\u043f\u0435\u043d\u0441-\u0411\u044d\u0439, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0435 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 (\u043d\u044b\u043d\u0435 \u0422\u0430\u043b\u043e\u0439\u043e\u0430\u043a, \u041d\u0443\u043d\u0430\u0432\u0443\u0442, \u041a\u0430\u043d\u0430\u0434\u0430). \u0418\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u043c \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u043e\u043c \u0441\u0442\u0430\u043b \u0432 1968 \u0433\u043e\u0434\u0443, \u043f\u0440\u0438\u043d\u044f\u0432 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0444\u0438\u043d\u0430\u043d\u0441\u0438\u0440\u0443\u0435\u043c\u043e\u0439 \u0432\u043b\u0430\u0441\u0442\u044f\u043c\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0440\u0435\u0437\u044c\u0431\u044b. \u041e\u0441\u043d\u043e\u0432\u043d\u044b\u043c \u0440\u0430\u0431\u043e\u0447\u0438\u043c \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u043c \u0434\u043b\u044f \u0410\u0441\u0430\u0432\u044b \u0431\u044b\u043b\u0438 \u043e\u043a\u0430\u043c\u0435\u043d\u0435\u0432\u0448\u0438\u0435 \u043a\u043e\u0441\u0442\u0438 \u043a\u0438\u0442\u043e\u0432. \u0412 \u0435\u0433\u043e \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u0442\u0432\u0435 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0437\u0430\u043d\u0438\u043c\u0430\u043b\u0430 \u0442\u0435\u043c\u0430 \u0448\u0430\u043c\u0430\u043d\u0438\u0437\u043c\u0430 \u0438 \u0438\u043d\u0443\u0438\u0442\u0441\u043a\u043e\u0439 \u0434\u0443\u0445\u043e\u0432\u043d\u043e\u0441\u0442\u0438 \u0432 \u0444\u043e\u0440\u043c\u0435 \u0438\u0433\u0440\u0438\u0432\u044b\u0445 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u0445 \u0444\u0438\u0433\u0443\u0440 \u2014 \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, (\u0448\u0430\u043c\u0430\u043d\u043e\u0432-\u0446\u0435\u043b\u0438\u0442\u0435\u043b\u0435\u0439), \u0430 \u0442\u0430\u043a\u0436\u0435 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0434\u0443\u0445\u043e\u0432 \u0438 \u0434\u0438\u043a\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0410\u0440\u043a\u0442\u0438\u043a\u0438."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Karoo_Ashevak.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sculpture_inuit_(Montr\u00e9al,_Canada)_(274814399).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1940_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1974_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Nunavut"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Deaths_from_fire"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Inuit_from_Nunavut"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Taloyoak"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "56958241"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1096765642"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_Handicrafts_Guild"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Canadian_Museum_of_History"
+        "object": "http://dbpedia.org/resource/Amulet"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Primitivism"
+        "object": "http://dbpedia.org/resource/Category:Canadian_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pre-Dorset"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Missionary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Motif_(textile_arts)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bering_Strait"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ruben_Piqtoukun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annie_Niviaxie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arctic_Experience_McNaught_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arctic_small_tool_tradition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Argillite"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hudson's_Bay_Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Tiktak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josephina_Kalleo"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
@@ -172,7 +87,22 @@
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Inuit_art"
+        "object": "http://dbpedia.org/resource/University_of_Michigan_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian_Museum_of_Civilization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inlay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inuit_fashion"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
@@ -182,7 +112,27 @@
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/McMichael_Canadian_Art_Collection"
+        "object": "http://dbpedia.org/resource/List_of_indigenous_artists_of_the_Americas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soapstone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Pitseolak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Pitsiulak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Common_Era"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
@@ -192,42 +142,92 @@
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Glenbow_Museum"
+        "object": "http://dbpedia.org/resource/Narwhal"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Montreal"
+        "object": "http://dbpedia.org/resource/Nomad"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Montreal_Museum_of_Fine_Arts"
+        "object": "http://dbpedia.org/resource/Germaine_Arnaktauyok"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Polar_bear"
+        "object": "http://dbpedia.org/resource/Government_of_Canada"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Avrom_Isaacs"
+        "object": "http://dbpedia.org/resource/Museum_of_Inuit_Art"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1940_births"
+        "object": "http://dbpedia.org/resource/Oral_history"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1974_deaths"
+        "object": "http://dbpedia.org/resource/Andrew_Qappik"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Nunavut"
+        "object": "http://dbpedia.org/resource/Annie_Pootoogook"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aron_of_Kangeq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucy_Qinnuayuak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shuvinai_Ashoona"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siasi_Atitu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siberia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Pangnark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parr_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pendant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Totem_pole"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baffin_Island"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
@@ -242,17 +242,42 @@
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Washington,_D.C."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Winnipeg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
         "object": "http://dbpedia.org/resource/Winnipeg_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helen_Kalvak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joe_Talirunili"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johnny_Inukpuk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karoo_Ashevak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lissie_Saggiak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natar_Ungalaaq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ningiukulu_Teevee"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
@@ -262,7 +287,12 @@
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Fort_Smith,_Northwest_Territories"
+        "object": "http://dbpedia.org/resource/Alootook_Ipellie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Miki"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
@@ -272,27 +302,62 @@
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Baleen"
+        "object": "http://dbpedia.org/resource/Category:Canadian_culture"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Northwest_Territories"
+        "object": "http://dbpedia.org/resource/North_America_Native_Museum"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Nunavut"
+        "object": "http://dbpedia.org/resource/Northern_Canada"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ottawa"
+        "object": "http://dbpedia.org/resource/Osuitok_Ipeelee"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Henry_Moore"
+        "object": "http://dbpedia.org/resource/Ovilu_Tunnillie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Floyd_Kuptana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Caribou_by_Osuitok_Ipeelee.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Visual_arts_by_indigenous_peoples_of_the_Americas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Greenlandic_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Power_tool"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Printmaking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greenland"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
@@ -302,12 +367,37 @@
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inuit_clothing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
         "object": "http://dbpedia.org/resource/Inuit_culture"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Taloyoak"
+        "object": "http://dbpedia.org/resource/Inuktitut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Irene_Avaalaaqiaq_Tiktaalaaq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Archibald_Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tanya_Tagaq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Masks_among_Eskimo_peoples"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
@@ -317,161 +407,96 @@
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Deaths_from_fire"
+        "object": "http://dbpedia.org/resource/Art_Gallery_of_Ontario"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Inuit_from_Nunavut"
+        "object": "http://dbpedia.org/resource/Abstract_art"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Taloyoak"
+        "object": "http://dbpedia.org/resource/Alaska_Native_art"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+        "object": "http://dbpedia.org/resource/Jessie_Oonark"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Whaling"
+        "object": "http://dbpedia.org/resource/Kananginak_Pootoogook"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kitikmeot_Region"
+        "object": "http://dbpedia.org/resource/Kenojuak_Ashevak"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/National_Gallery_of_Canada"
+        "object": "http://dbpedia.org/resource/Labrador"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Netsilik_Inuit"
+        "object": "http://dbpedia.org/resource/Category:Indigenous_art_of_the_Americas"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/New_York_City"
+        "object": "http://dbpedia.org/resource/Category:Indigenous_art_in_Canada"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Yellowknife"
+        "object": "http://dbpedia.org/resource/Trim_(sewing)"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Prehistory"
+        "object": "http://dbpedia.org/resource/Whaler"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Walrus"
+        "object": "http://dbpedia.org/resource/Dorset_culture"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Walrus_ivory"
+        "object": "http://dbpedia.org/resource/Category:Inuit_art"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Sculpture_inuit_(Montr\u00e9al,_Canada)_(274814399).jpg"
+        "object": "http://dbpedia.org/resource/Marine_mammal"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://www.invaluable.com/artist/ashevak-karoo-2z2whovizy%3C/nowiki%3E."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marion_Tuu'luq"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/25889990"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pitseolak_Ashoona"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q21289350"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Figurative_art"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fr.dbpedia.org/resource/Karoo_Ashevak"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naturalism_(visual_art)"
     },
     {
         "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ru.dbpedia.org/resource/\u041a\u0430\u0440\u0443_\u0410\u0441\u0430\u0432\u0430"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/21Q2e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:'s"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Karoo_Ashevak.jpg?width=300"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Karoo Ashevak (Inuktitut: \u1472\u1548 \u140a\u14f4\u1559) (1940 \u2013 October 19, 1974) was an Inuk sculptor who lived a nomadic hunting life in the Kitikmeot Region of the central Arctic before moving into Spence Bay, Northwest Territories (now Taloyoak, Nunavut) in 1960. His career as an artist started in 1968 by participating in a government-funded carving program. Working with the primary medium of fossilized whale bone, Ashevak created approximately 250 sculptures in his lifetime, and explored themes of shamanism and Inuit spirituality through playful depictions of human figures, angakuit (shamans), spirits, and Arctic wildlife. In 1970, the Canadian Eskimo Art Council held the Centennial competition in Yellowknife. Ashevak's sculptures won third prize in that competition, and he became a recognizable artist after his solo exhibition at the American Indian Art Centre in New York in 1973. Unlike other Inuit primitivist carvings, Ashevak's work abandoned cultural references and adopted a modern expressionistic style, which visually appealed to a broader audience than collectors of Inuit art. An extensive collection of Ashevak's sculptures went on solo or group exhibitions at commercial galleries around the world, including Franz Bader Gallery at Washington, D.C., Lippel Gallery in Montreal, the Upstairs Gallery in Winnipeg and the Inuit Gallery in Toronto. Ashevak's works were also widely traded on the auction market. Despite his short and tragic passing \u2014 he died in October 1974 from a house fire, Ashevak was crucial to the development of Inuit sculpture by visualizing an imaginative world with supernatural beings and shamanistic practices."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Karoo Ashevak (1940-1974) est un sculpteur canadien inuit. D\u00e9c\u00e9d\u00e9 tragiquement dans un incendie \u00e0 l'\u00e2ge de 34 ans, Karoo Ashevak est consid\u00e9r\u00e9 comme une figure majeure de l'art inuit canadien. Ses repr\u00e9sentations de l'esprit des shamans et de la culture inuite traditionnelle en font un artiste recherch\u00e9. Les traits exag\u00e9r\u00e9s de ses personnages caract\u00e9risent son style. Sa production faite avec des os et des fanons de baleine, de la pierre et de l'ivoire compte environ 250 sculptures."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "\u041a\u0430\u0440\u0443 \u0410\u0441\u0430\u0432\u0430 (\u0438\u043d\u0443\u043a\u0442\u0438\u0442\u0443\u0442 \u1472\u1548 \u140a\u14f4\u1559; 1940 \u2014 19 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1974) \u2014 \u0438\u043d\u0443\u0438\u0442\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0436\u0438\u0432\u0448\u0438\u0439 \u043a\u0430\u043a \u043a\u043e\u0447\u0435\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u043d\u0438\u043a \u0432 \u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0440\u0435\u0433\u0438\u043e\u043d\u0435 \u041a\u0438\u0442\u0438\u043a\u043c\u0435\u043e\u0442 \u0434\u043e 1960 \u0433\u043e\u0434\u0430. \u0417\u0430\u0442\u0435\u043c \u043e\u043d \u043f\u0435\u0440\u0435\u0441\u0435\u043b\u0438\u043b\u0441\u044f \u0432 \u0421\u043f\u0435\u043d\u0441-\u0411\u044d\u0439, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0435 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 (\u043d\u044b\u043d\u0435 \u0422\u0430\u043b\u043e\u0439\u043e\u0430\u043a, \u041d\u0443\u043d\u0430\u0432\u0443\u0442, \u041a\u0430\u043d\u0430\u0434\u0430). \u0418\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u043c \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u043e\u043c \u0441\u0442\u0430\u043b \u0432 1968 \u0433\u043e\u0434\u0443, \u043f\u0440\u0438\u043d\u044f\u0432 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0444\u0438\u043d\u0430\u043d\u0441\u0438\u0440\u0443\u0435\u043c\u043e\u0439 \u0432\u043b\u0430\u0441\u0442\u044f\u043c\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0440\u0435\u0437\u044c\u0431\u044b. \u041e\u0441\u043d\u043e\u0432\u043d\u044b\u043c \u0440\u0430\u0431\u043e\u0447\u0438\u043c \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u043c \u0434\u043b\u044f \u0410\u0441\u0430\u0432\u044b \u0431\u044b\u043b\u0438 \u043e\u043a\u0430\u043c\u0435\u043d\u0435\u0432\u0448\u0438\u0435 \u043a\u043e\u0441\u0442\u0438 \u043a\u0438\u0442\u043e\u0432. \u0412 \u0435\u0433\u043e \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u0442\u0432\u0435 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0437\u0430\u043d\u0438\u043c\u0430\u043b\u0430 \u0442\u0435\u043c\u0430 \u0448\u0430\u043c\u0430\u043d\u0438\u0437\u043c\u0430 \u0438 \u0438\u043d\u0443\u0438\u0442\u0441\u043a\u043e\u0439 \u0434\u0443\u0445\u043e\u0432\u043d\u043e\u0441\u0442\u0438 \u0432 \u0444\u043e\u0440\u043c\u0435 \u0438\u0433\u0440\u0438\u0432\u044b\u0445 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u0445 \u0444\u0438\u0433\u0443\u0440 \u2014 \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, (\u0448\u0430\u043c\u0430\u043d\u043e\u0432-\u0446\u0435\u043b\u0438\u0442\u0435\u043b\u0435\u0439), \u0430 \u0442\u0430\u043a\u0436\u0435 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0434\u0443\u0445\u043e\u0432 \u0438 \u0434\u0438\u043a\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0410\u0440\u043a\u0442\u0438\u043a\u0438. \u0412 1970 \u0433\u043e\u0434\u0443 \u0437\u0430\u043d\u044f\u043b \u0442\u0440\u0435\u0442\u044c\u0435 \u043c\u0435\u0441\u0442\u043e \u043d\u0430 \u00ab\u0412\u0435\u043a\u043e\u0432\u043e\u043c \u0441\u043e\u0441\u0442\u044f\u0437\u0430\u043d\u0438\u0438\u00bb (\u0430\u043d\u0433\u043b. Centennial competition) \u0432 \u0419\u0435\u043b\u043b\u043e\u0443\u043d\u0430\u0439\u0444\u0435, \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u043c \u0421\u043e\u0432\u0435\u0442\u043e\u043c \u043f\u043e \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0435 \u043a\u0430\u043d\u0430\u0434\u0441\u043a\u0438\u0445 \u044d\u0441\u043a\u0438\u043c\u043e\u0441\u043e\u0432 (Canadian Eskimo Art Council). \u0410 \u0432 1973 \u0443 \u043d\u0435\u0433\u043e \u0431\u044b\u043b\u0430 \u0441\u0432\u043e\u044f \u0432\u044b\u0441\u0442\u0430\u0432\u043a\u0430 \u0432 \u00ab\u0426\u0435\u043d\u0442\u0440\u0435 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u0438\u043d\u0434\u0435\u0439\u0446\u0435\u0432\u00bb (American Indian Art Centre) \u0432 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a\u0435. \u0412 \u043e\u0442\u043b\u0438\u0447\u0438\u0435 \u043e\u0442 \u043c\u043d\u043e\u0433\u0438\u0445 \u0434\u0440\u0443\u0433\u0438\u0445 \u0438\u043d\u0443\u0438\u0442\u0441\u043a\u0438\u0445 \u0440\u0435\u0437\u0447\u0438\u043a\u043e\u0432, \u041a\u0430\u0440\u0443 \u0410\u0441\u0430\u0432\u0430 \u043e\u0442\u043e\u0448\u0451\u043b \u043e\u0442 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u043f\u0440\u0438\u043c\u0438\u0442\u0438\u0432\u0438\u0437\u043c\u0430, \u0438 \u0435\u0433\u043e \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u043b\u0438\u0441\u044c \u043e\u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u0435\u043d\u043d\u044b\u043c\u0438, \u044d\u043a\u0441\u043f\u0440\u0435\u0441\u0441\u0438\u043e\u043d\u0438\u0441\u0442\u0441\u043a\u0438\u043c\u0438, \u043f\u043e\u0442\u043e\u043c\u0443 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0438\u0441\u044c \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u044c\u044e \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0441\u0440\u0435\u0434\u0438 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043e\u0432 \u0438\u043d\u0443\u0438\u0442\u0441\u043a\u043e\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430, \u0432 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u043f\u0440\u043e\u0434\u0430\u0432\u0430\u043b\u0438\u0441\u044c \u043d\u0430 \u0430\u0443\u043a\u0446\u0438\u043e\u043d\u0430\u0445 \u0438 \u0432\u044b\u0441\u0442\u0430\u0432\u043b\u044f\u043b\u0438\u0441\u044c \u0432 \u0447\u0430\u0441\u0442\u043d\u044b\u0445 \u0433\u0430\u043b\u0435\u0440\u0435\u044f\u0445 \u2014 \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u00ab\u0424\u0440\u0430\u043d\u0446 \u0411\u0430\u0434\u0435\u0440\u00bb (Franz Bader) \u0432 \u0412\u0430\u0448\u0438\u043d\u0433\u0442\u043e\u043d\u0435, \u00ab\u041b\u0438\u043f\u043f\u0435\u043b\u00bb \u0432 \u041c\u043e\u043d\u0440\u0435\u0430\u043b\u0435, \u00ab\u0410\u043f\u0441\u0442\u0430\u0439\u0440\u0441\u00bb (Upstairs) \u0432 \u0412\u0438\u043d\u043d\u0438\u043f\u0435\u0433\u0435 \u0438 \u00ab\u0418\u043d\u0443\u0438\u0442\u0441\u043a\u0430\u044f \u0433\u0430\u043b\u0435\u0440\u0435\u044f\u00bb \u0432 \u0422\u043e\u0440\u043e\u043d\u0442\u043e. \u0412 \u043e\u043a\u0442\u044f\u0431\u0440\u0435 1974 \u0433\u043e\u0434\u0430 \u041a\u0430\u0440\u0443 \u0410\u0441\u0430\u0432\u0430 \u043f\u043e\u0433\u0438\u0431 \u043e\u0442 \u043f\u043e\u0436\u0430\u0440\u0430 \u0432 \u0434\u043e\u043c\u0435, \u043d\u0435 \u0434\u043e\u0436\u0438\u0432 \u0434\u043e \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u0438 \u043f\u044f\u0442\u0438. \u0412\u0441\u0435\u0433\u043e \u043e\u043d \u0441\u043e\u0437\u0434\u0430\u043b \u043e\u043a\u043e\u043b\u043e 250 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440, \u0438 \u0435\u0433\u043e \u0440\u0430\u0431\u043e\u0442\u044b \u0438\u043c\u0435\u043b\u0438 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0432\u0430\u0436\u043d\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0438\u043d\u0443\u0438\u0442\u0441\u043a\u043e\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u044b."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://schema.org/sameAs",
-        "object": "http://viaf.org/viaf/25889990"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Karoo_Ashevak?oldid=1096765642&ns=0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "24984"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karoo_Ashevak",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Karoo_Ashevak"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kinngait"
     }
 ]

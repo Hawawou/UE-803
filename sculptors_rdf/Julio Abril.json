@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatColombianPainters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatColombianSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatColombianSculptorsInMexico"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatContemporarySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatModernPainters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatModernSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMoniquir\u00e1"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Painter110391653"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centurySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u062e\u0648\u0644\u064a\u0648 \u0623\u0628\u0631\u064a\u0644"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Julio Abril"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Julio Abril"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u062e\u0648\u0644\u064a\u0648 \u0623\u0628\u0631\u064a\u0644 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a\u0629: Julio Abril)\u200f \u0647\u0648 \u0646\u062d\u0627\u062a \u0648\u0631\u0633\u0627\u0645 \u0645\u0643\u0633\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 20 \u0623\u063a\u0633\u0637\u0633 1911\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 23 \u0633\u0628\u062a\u0645\u0628\u0631 1973."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Julio Vicente Agapito Abril Mayorga (Moniquir\u00e1, Boyac\u00e1, Colombia; 20 de agosto de 1911-Villavicencio, Meta, Colombia, 24 de abril de 1979) fue un escultor, pintor, y dibujante colombiano."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Julio Vicente Agapito Abril Mayorga (20 August 1911 \u2013 24 April 1979) was a Colombian sculptor, painter, and draughtsman."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Julio Abril"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Julio Abril"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Inaugural_Act_Julio_Abril_&_Viola_Horpel_de_Abril_Mexico_City_1942.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Julio_Abril_Escultor_Colombiano_1960.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Moniquir\u00e1"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Villavicencio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "Villavicencio, Colombia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "1979-04-24"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "Moniquir\u00e1, Colombia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1911-08-20"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Moniquir\u00e1"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1911_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1979_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Modern_painters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Colombian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Modern_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Colombian_male_painters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Colombian_painters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "31026735"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1101302369"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camilo_Mori"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Villavicencio"
+        "object": "http://dbpedia.org/resource/Carla_Arocha"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "object": "http://dbpedia.org/resource/Carlos_Almaraz"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Moniquir\u00e1"
+        "object": "http://dbpedia.org/resource/Carlos_Enrique_Prado_Herrera"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/El_Tiempo_(Colombia)"
+        "object": "http://dbpedia.org/resource/Carlos_Francisco_Chang_Mar\u00edn"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Moniquir\u00e1"
+        "object": "http://dbpedia.org/resource/Carlos_Jacanamijoy"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Leo_Matiz"
+        "object": "http://dbpedia.org/resource/Carlos_Mauricio_Valenti_Perrillat"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Porfirio_Barba-Jacob"
+        "object": "http://dbpedia.org/resource/Carlos_M\u00e9rida"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Painting"
+        "object": "http://dbpedia.org/resource/Carlos_P\u00e1ez_Vilar\u00f3"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1911_births"
+        "object": "http://dbpedia.org/resource/Carmelo_Fern\u00e1ndez"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1979_deaths"
+        "object": "http://dbpedia.org/resource/Carmen_Herrera"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Modern_painters"
+        "object": "http://dbpedia.org/resource/Catalina_Parra"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Drawing"
+        "object": "http://dbpedia.org/resource/Amelia_Pel\u00e1ez"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Pablo_Neruda"
+        "object": "http://dbpedia.org/resource/Beatriz_Cortez"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Colombian_sculptors"
+        "object": "http://dbpedia.org/resource/Roberto_Aizenberg"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Modern_sculptors"
+        "object": "http://dbpedia.org/resource/Roberto_Jacoby"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Colombian_male_painters"
+        "object": "http://dbpedia.org/resource/Roberto_Mamani_Mamani"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Colombian_painters"
+        "object": "http://dbpedia.org/resource/Roberto_Matta"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Guillermo_Ruiz"
+        "object": "http://dbpedia.org/resource/Rosa_Tavarez"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Carlos_Pellicer"
+        "object": "http://dbpedia.org/resource/Rufino_Tamayo"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/R\u00f3mulo_Rozo"
+        "object": "http://dbpedia.org/resource/Sandra_Ramos"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Chibcha"
+        "object": "http://dbpedia.org/resource/Enrique_Grau"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Carlos_Reyes_(artist)"
+        "object": "http://dbpedia.org/resource/Category:Latin_American_artists"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Dario_Jimenez_Villegas"
+        "object": "http://dbpedia.org/resource/Miguel_Cabrera_(painter)"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Inaugural_Act_Julio_Abril_&_Viola_Horpel_de_Abril_Mexico_City_1942.jpg"
+        "object": "http://dbpedia.org/resource/L\u00eda_Berm\u00fadez"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gabriel_Camargo_P\u00e9rez"
+        "object": "http://dbpedia.org/resource/Harry_Gamboa,_Jr."
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gustavo_Arcila_Uribe"
+        "object": "http://dbpedia.org/resource/Hermann_Mejia"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Jos\u00e9_Domingo_Rodr\u00edguez"
+        "object": "http://dbpedia.org/resource/Omar_D'Le\u00f3n"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Juan_Sanz_Santamar\u00eda"
+        "object": "http://dbpedia.org/resource/Teresa_Margolles"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Luis_Alberto_Acuna"
+        "object": "http://dbpedia.org/resource/Santos_Ch\u00e1vez"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ortiz_Monasterio"
+        "object": "http://dbpedia.org/resource/Baruj_Salinas"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.0gyt4j6"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benito_Quinquela_Mart\u00edn"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Julio_Abril"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_Vallejo"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q6309071"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Alfaro_Siqueiros"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ar.dbpedia.org/resource/\u062e\u0648\u0644\u064a\u0648_\u0623\u0628\u0631\u064a\u0644"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Gonzales_(cartoonist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/Julio_Abril"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delia_Weber"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4p69v"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfredo_Prior"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/property/training",
-        "object": ""
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfredo_Sinclair"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/property/training",
-        "object": "Escuela Nacional de Artes Pl\u00e1sticas Academia de San Carlos"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alicia_Creus"
     },
     {
         "subject": "http://dbpedia.org/resource/Julio_Abril",
-        "predicate": "http://dbpedia.org/property/training",
-        "object": "Escuela de Bellas Artes Universidad Nacional"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Maria_Maiolino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/An\u00edbal_L\u00f3pez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/An\u00edbal_Villac\u00eds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jorge_Blanco_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jose_Acosta_Hernandez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Bernal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Campeche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Clemente_Orozco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Luis_Rodr\u00edguez_Pitt\u00ed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Luis_Zorrilla_de_San_Mart\u00edn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Mar\u00eda_Velasco_G\u00f3mez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juan_Calzadilla"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juan_Fernando_Cobo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juan_T._V\u00e1zquez_Mart\u00edn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juan_Villafuerte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Guti\u00e9rrez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Baca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julio_Abril"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julio_Valle_Castillo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_van_Dalen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Giudicelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedro_Le\u00f3n_Zapata"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedro_\u00c1lvarez_Castell\u00f3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petrona_Viera"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Regina_Jos\u00e9_Galindo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Dominguez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Graham_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C\u00e9sar_Rengifo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ver\u00f3nica_Ruiz_de_Velasco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_Santa_Cruz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vik_Muniz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doris_Salcedo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/D\u00e9bora_Arango"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Latin_America-related_lists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaime_Colson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaime_Gili"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaime_Hernandez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santiago_Mart\u00ednez_Delgado"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodolfo_Abularach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liliana_Angulo_Cort\u00e9s"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_indigenous_artists_of_the_Americas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Humberto_Jes\u00fas_Castro_Garc\u00eda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedro_Lira"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Fabelo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zoma_Baitler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crist\u00f3bal_Rojas_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mar\u00eda_Luisa_Pacheco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mar\u00eda_Magdalena_Campos_Pons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mar\u00eda_Rivas_(singer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salarru\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Esteban_Lisa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Esteban_Villa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miguel_Angel_Reyes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miguel_Jorge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Berdecio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cildo_Meireles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clara_Ledesma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coco_Fusco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfonso_Arana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Telleria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Julio_Abril",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Efra\u00edn_Andrade_Viteri"
     }
 ]

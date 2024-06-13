@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabinet_of_the_United_States"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cadence_Design_Systems"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caity_Lotz"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Institute_of_Technology"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caltech"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carbon-14"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Sagan"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Mellon_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanAcademics"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_W._Greider"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanBiologists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Bertozzi"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerProgrammers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_R._Bertozzi"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catch_Me_If_You_Can"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanCryptographers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Limited_or_Anthology_Series_or_Movie"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanInformationTheorists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyanka_Chopra"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanScienceWriters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proton"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize_for_Editorial_Cartooning"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantico_(TV_series)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_computer"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_electronics"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_field_theory"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Elizabeth_II"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Lucas_Jr."
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatModernCryptographers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Penn_Warren"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatMolecularBiologists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_R._Wilson"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatTuringAwardLaureates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Zemeckis"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatWritersFromSanFrancisco,California"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Williams"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithComputerSecurity"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Revelle"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromSanFrancisco,California"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxann_Dawson"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatScientistsFromTheSanFranciscoBayArea"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rube_Goldberg"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Park"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Academician109759069"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Raimi"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Bay_Area"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Bay_area"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Oh"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Biologist109855630"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandy_Cohen"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjeev_Arora"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Sidle"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Perlmutter"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Savages_(2012_film)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Adams"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Cryptanalyst109981540"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Mechlowicz"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Decoder109995398"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electron_nuclear_double_resonance"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Educator110045713"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Fermi_Award"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extra_(U.S._TV_program)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_University_of_California,_Berkeley_faculty"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_characters_in_mythology_novels_by_Rick_Riordan"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Laureate110249011"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_companies_founded_by_UC_Berkeley_alumni"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MicroRNA"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Mathematician110301261"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moni_Naor"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/MolecularBiologist110327143"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morning_Call_(CNBC)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neptunium"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nerve"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Megan_Mylan"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Repressilator"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Professional110480253"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Space_tourism"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priti_Krishtel"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prix_Italia"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nondeterministic_machine"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Writer110794014"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Barish"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Kerzin"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basic_Instinct"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben-Hur_(1959_film)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Theorist110706812"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berni_Alder"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_Halperin"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryMathematicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Crystal"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAcademyOfArtsAndSciences"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blade_Runner"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPublic-keyCryptographers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_&_Carol_&_Ted_&_Alice"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/PersonWithOccupation"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0644\u064a\u0648\u0646\u0627\u0631\u062f \u0623\u062f\u0644\u064a\u0645\u0627\u0646"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Breakthrough_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonard Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Breakthrough_Prize_in_Life_Sciences"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonard Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brent_Dalrymple"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonard Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bret_Wallach"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonard Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bridgette_Wilson"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonard Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Franco"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonard Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_B._Goldstein_(energy_policy_expert)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonard Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Baker_(biochemist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonard Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Gross"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30ec\u30aa\u30ca\u30eb\u30c9\u30fb\u30a8\u30fc\u30c7\u30eb\u30de\u30f3"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hawkins_(philosopher)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Len Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_J._Wineland"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonard Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Julius"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonard Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Peoples"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0434\u043b\u0435\u043c\u0430\u043d, \u041b\u0435\u043e\u043d\u0430\u0440\u0434 \u041c\u0430\u043a\u0441"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_R._Montgomery"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonard Adleman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dawn_Olivieri"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u041b\u0435\u043e\u043d\u0430\u0440\u0434 \u0410\u0434\u043b\u0435\u043c\u0430\u043d"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dawn_Song"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u4f26\u7eb3\u5fb7\u00b7\u963f\u5fb7\u66fc"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Estrin"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0644\u064a\u0648\u0646\u0627\u0631\u062f \u0645\u0627\u0643\u0633 \u0623\u062f\u064a\u0644\u0645\u0627\u0646 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Leonard Adleman)\u200f \u0647\u0648 \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0623\u0645\u0631\u064a\u0643\u064a \u0648\u0628\u0631\u0648\u0641\u064a\u0633\u0648\u0631 \u0641\u064a \u0639\u0644\u0645 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0648\u0627\u0644\u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u062c\u0632\u0626\u064a\u0629 \u0641\u064a \u062c\u0627\u0645\u0639\u0629 \u062c\u0646\u0648\u0628 \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627\u060c \u0639\u064f\u0631\u0641 \u0628\u0645\u0633\u0627\u0647\u0645\u062a\u0647 \u0641\u064a \u0627\u062e\u062a\u0631\u0627\u0639 \u0623\u0648\u0644 \u0646\u0638\u0627\u0645 \u062a\u0634\u0641\u064a\u0631 \u0639\u0645\u0648\u0645\u064a RSA \u0639\u0627\u0645 1977 , \u0648\u0643\u0630\u0644\u0643 \u0641\u064a \u0645\u0633\u0627\u0647\u0645\u062a\u0647 \u0641\u064a \u062d\u0648\u0633\u0628\u0629 \u0627\u0644-DNA ."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deep_Impact_(film)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonard Max Adleman (Calif\u00f2rnia, 31 de desembre de 1945) \u00e9s un inform\u00e0tic te\u00f2ric americ\u00e0 i professor d'inform\u00e0tica i biologia molecular a la Universitat del Sud de Calif\u00f2rnia. \u00c9s conegut per ser coinventor del criptosistema RSA (Rivest-Shamir-Adleman) el 1977 i de la programaci\u00f3 basada en l'ADN. El RSA \u00e9s molt est\u00e8s aplicacions de seguretat inform\u00e0tica, incloent https."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dengue_fever"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonard Max Adleman (* 31. prosince 1945 San Francisco, Kalifornie, USA) je americk\u00fd informatik a profesor informatiky a molekul\u00e1rn\u00ed biologie. Spole\u010dn\u011b s Ronaldem Rivestem a Adim Shamirem je autorem RSA, za co\u017e dostali v\u0161ichni t\u0159i Turingovu cenu za rok 2002. Je tak\u00e9 pr\u016fkopn\u00edkem v\u00fdpo\u010dtu algoritm\u016f pomoc\u00ed DNA jako v\u00fdpo\u010detn\u00edho syst\u00e9mu. V 1994 jako prvn\u00ed demonstroval \u0159e\u0161en\u00ed hled\u00e1n\u00ed Hamiltonovsk\u00e9 kru\u017enice v grafu obsahuj\u00edc\u00edm sedm bod\u016f."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Ritchie"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonard Max Adleman (* 31. Dezember 1945 in San Francisco, Kalifornien) ist ein US-amerikanischer Professor f\u00fcr Informatik und Molekularbiologie an der University of Southern California in Los Angeles. F\u00fcr die Entwicklung des RSA-Algorithmus erhielt er im Jahr 2002 den Turing-Preis, eine der h\u00f6chsten Auszeichnungen auf dem Gebiet der Informatik."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algorithmic_game_theory"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonard Adleman (born December 31, 1945) is an American computer scientist. He is one of the creators of the RSA encryption algorithm, for which he received the 2002 Turing Award, often called the Nobel prize of Computer science. He is also known for the creation of the field of DNA computing."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All_the_King's_Men"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonard Max Adleman, n\u00e9 le 31 d\u00e9cembre 1945 , est un chercheur am\u00e9ricain en informatique th\u00e9orique et professeur en informatique et en biologie mol\u00e9culaire \u00e0 l\u2019universit\u00e9 de la Californie du Sud. Co-inventeur du cryptosyst\u00e8me RSA (Rivest, Shamir, Adleman) en 1977, Adleman a \u00e9galement travaill\u00e9 dans la bio-informatique."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allan_Sly_(mathematician)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30ec\u30aa\u30ca\u30eb\u30c9\u30fb\u30de\u30c3\u30af\u30b9\u30fb\u30a8\u30fc\u30c7\u30eb\u30de\u30f3\uff08Leonard Max Adleman, 1945\u5e7412\u670831\u65e5 - \uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u6697\u53f7\u306e\u7814\u7a76\u8005\u3067\u7406\u8ad6\u8a08\u7b97\u6a5f\u79d1\u5b66\u8005\u3002\u30ec\u30ca\u30fc\u30c9\u30fb\u30a8\u30a4\u30c9\u30eb\u30de\u30f3\u3068\u3082 \u5357\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u5927\u5b66\u3067\u8a08\u7b97\u6a5f\u79d1\u5b66\u3068\u5206\u5b50\u751f\u7269\u5b66\u306e\u6559\u6388\u3092\u52d9\u3081\u3066\u3044\u308b\u30021978\u5e74\u306b\u30ed\u30ca\u30eb\u30c9\u30fb\u30ea\u30d9\u30b9\u30c8\u3001\u30a2\u30c7\u30a3\u30fb\u30b7\u30e3\u30df\u30a2\u3068\u3068\u3082\u306bRSA\u6697\u53f7\u3092\u767a\u660e\u3057\u305f\u3053\u3068\u3067\u77e5\u3089\u308c\u308b\u3002RSA\u6697\u53f7\u306f\u96fb\u5b50\u7f72\u540d\u306a\u3069\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306b\u5e83\u304f\u4f7f\u308f\u308c\u3066\u3044\u308b\u3002\u3053\u306e\u696d\u7e3e\u306b\u3088\u308a2002\u5e74\u306b\u30c1\u30e5\u30fc\u30ea\u30f3\u30b0\u8cde\u3092\u53d7\u8cde\u3002\u307e\u305f\u3001DNA\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u306e\u8003\u6848\u8005\u3067\u3082\u3042\u308b\u3002"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Schneider"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonard Max Adleman (S\u00e3o Francisco, 31 de dezembro de 1945) \u00e9 um inform\u00e1tico e bi\u00f3logo molecular estadunidense. \u00c9 professor da Universidade do Sul da Calif\u00f3rnia. Foi laureado com o Pr\u00eamio Turing de 2002, juntamente com Ronald Rivest e Adi Shamir, pelo desenvolvimento do algoritmo RSA"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anisotropy"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041b\u0435\u043e\u043d\u0430\u0440\u0434 \u041c\u0430\u043a\u0441 \u0410\u0434\u043b\u0435\u043c\u0430\u043d (\u0430\u043d\u0433\u043b. Leonard Adleman \u2014 \u042d\u0439\u0434\u043b\u043c\u0435\u043d; \u0440\u043e\u0434. 31 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 1945) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0443\u0447\u0451\u043d\u044b\u0439-\u0442\u0435\u043e\u0440\u0435\u0442\u0438\u043a \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0445 \u043d\u0430\u0443\u043a, \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0445 \u043d\u0430\u0443\u043a \u0438 \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u043e\u0439 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0435 \u042e\u0436\u043d\u043e\u0439 \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0438. \u041e\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u043a\u0430\u043a \u0441\u043e\u0430\u0432\u0442\u043e\u0440 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u0438\u044f RSA (Rivest \u2014 Shamir \u2014 Adleman, 1977 \u0433\u043e\u0434) \u0438 \u0414\u041d\u041a-\u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439. RSA \u0448\u0438\u0440\u043e\u043a\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u0445 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438, \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b HTTPS."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antibiotic"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u502b\u7d0d\u5fb7\u00b7\u9a6c\u514b\u65af\u00b7\u963f\u5fb7\u66fc\uff08\u82f1\u8a9e\uff1aLeonard Max Adleman\uff0c1945\u5e7412\u670831\u65e5\uff0d\uff09\uff0c\u7f8e\u56fd\u7406\u8ad6\u8a08\u7b97\u6a5f\u79d1\u5b78\u5bb6\u548c\u5357\u52a0\u5dde\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u5bb6\u548c\u5206\u5b50\u751f\u7269\u5b66\u6559\u6388\u30021977\u5e74\uff0c\u4ed6\u4e0e\u7f57\u7eb3\u5fb7\u00b7\u674e\u7ef4\u65af\u7279\u548c\u963f\u8fea\u00b7\u8428\u83ab\u5c14\u4e00\u8d77\u53d1\u660e\u4e86RSA\u52a0\u5bc6\u6f14\u7b97\u6cd5\u548cDNA\u8fd0\u7b97\u800c\u77e5\u540d\u3002RSA\u88ab\u5e7f\u6cdb\u4f7f\u7528\u5728\u8ba1\u7b97\u673a\u5b89\u5168\u5e94\u7528\u4e0a\uff0c\u5305\u62echttps\u30022002\u5e74\uff0c\u4ed6\u4e0e\u7f57\u7eb3\u5fb7\u00b7\u674e\u7ef4\u65af\u7279\u548c\u963f\u8fea\u00b7\u8428\u83ab\u5c14\u4e00\u8d77\u56e0\u5728\u516c\u94a5\u5bc6\u7801\u5b66RSA\u52a0\u5bc6\u6f14\u7b97\u6cd5\u53d6\u5f97\u7684\u6770\u51fa\u8d21\u732e\u800c\u83b7\u5f97\u56fe\u7075\u5956\u3002 \u4ed6\u51fa\u751f\u65bc\u7f8e\u570b\u52a0\u5229\u798f\u5c3c\u4e9e\u5dde\uff0c\u5728\u820a\u91d1\u5c71\u9577\u5927\uff0c\u5c31\u8b80\u67cf\u514b\u840a\u52a0\u5dde\u5927\u5b78\uff0c\u4e26\u5728\u90a3\u88e1\u53d6\u5f97\u4e86\u4ed6\u7684\u6578\u5b78\u5b78\u58eb\u5b78\u4f4d\uff0c1968\u5e74\u78a9\u58eb\u5b78\u4f4d\uff0c\u65bc1976\u5e74\u535a\u58eb\u3002\u4ed6 1994\u5e74\uff0c\u4ed6\u7684\u8ad6\u6587\u300a\u5206\u5b50\u8a08\u7b97\u61c9\u7528\u65bc\u89e3\u6c7a\u7d44\u5408\u554f\u984c\u300b\u4e2d\uff0c\u63cf\u8ff0\u5be6\u9a57\u4f7f\u7528 DNA \u4f5c\u70ba\u4e00\u500b\u3002\u5229\u7528\u6b64\u7cfb\u7d71\uff0c\u4ed6\u89e3\u6c7a\u4e86\u4e00\u500b\u4e03\u7bc0\u9ede\u7684\u54c8\u5bc6\u9813\u5716\u554f\u984c\uff0c\u4e00\u500b\u985e\u4f3c\u65c5\u884c\u63a8\u92b7\u54e1\u554f\u984c\u7684NP\u5b8c\u5168\u554f\u984c\u3002 \u96d6\u7136\u89e3\u6c7a\u4e86\u4e03\u500b\u7bc0\u9ede\u7684\u5be6\u4f8b\u662f\u5fae\u4e0d\u8db3\u9053\u7684\uff0c\u4f46\u8a72\u8ad6\u6587\u662f\u7b2c\u4e00\u500b\u5df2\u77e5\u300c\u5229\u7528DNA\u4f86\u4f5c\u8a08\u7b97\u300d\u7684\u6210\u529f\u5be6\u4f8b\u3002DNA\u8a08\u7b97\u73fe\u5df2\u88ab\u8b49\u660e\u70ba\u6709\u6f5b\u529b\u7684\u8a08\u7b97\u65b9\u5f0f\uff0c\u53ef\u4ee5\u89e3\u6c7a\u5176\u4ed6\u5e7e\u500b\u5927\u578b\u7d44\u5408\u641c\u7d22\u554f\u984c\u3002 2002\u5e74\uff0c\u4ed6\u548c\u4ed6\u7684\u7814\u7a76\u5c0f\u7d44\u6210\u529f\u5730\u5229\u7528DNA\u8a08\u7b97\u89e3\u6c7a\u4e86\u201c\u5e73\u51e1\u201d\u7684\u554f\u984c\u3002\u5177\u9ad4\u4f86\u8aaa\uff0c\u4ed6\u5011\u89e3\u6c7a\u4e8620\u500b\u8b8a\u91cf\u7684 SAT \u554f\u984c\uff0c\u7d04\u6709100\u591a\u842c\u6f5b\u5728\u7684\u89e3\u6c7a\u65b9\u6848\u3002 2006\u5e74\uff0c\u963f\u5fb7\u66fc\u662f\u7f8e\u56fd\u6587\u7406\u79d1\u5b66\u9662\u9662\u58eb\u3002"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Lies"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041b\u0435\u043e\u043d\u0430\u0440\u0434 \u041c\u0430\u043a\u0441 \u0410\u0434\u043b\u0435\u043c\u0430\u043d (\u0430\u043d\u0433\u043b. Leonard Adleman; \u043d\u0430\u0440. 31 \u0433\u0440\u0443\u0434\u043d\u044f 1945) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0432\u0447\u0435\u043d\u0438\u0439-\u0442\u0435\u043e\u0440\u0435\u0442\u0438\u043a \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0456 \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u043d\u0438\u0445 \u043d\u0430\u0443\u043a, \u043f\u0440\u043e\u0444\u0435\u0441\u043e\u0440 \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u043d\u0438\u0445 \u043d\u0430\u0443\u043a \u0456 \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u043e\u0457 \u0431\u0456\u043e\u043b\u043e\u0433\u0456\u0457 \u0432 \u0423\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0456 \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u043e\u0457 \u041a\u0430\u043b\u0456\u0444\u043e\u0440\u043d\u0456\u0457. \u0412\u0456\u043d \u0432\u0456\u0434\u043e\u043c\u0438\u0439 \u044f\u043a \u0441\u043f\u0456\u0432\u0430\u0432\u0442\u043e\u0440 \u0441\u0438\u0441\u0442\u0435\u043c\u0438 \u0448\u0438\u0444\u0440\u0443\u0432\u0430\u043d\u043d\u044f RSA (Rivest \u2014 Shamir \u2014 Adleman, 1977 \u0440\u0456\u043a) \u0456 \u0414\u041d\u041a-\u043e\u0431\u0447\u0438\u0441\u043b\u0435\u043d\u044c. RSA \u0448\u0438\u0440\u043e\u043a\u043e \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0432 \u0434\u043e\u0434\u0430\u0442\u043a\u0430\u0445 \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u043d\u043e\u0457 \u0431\u0435\u0437\u043f\u0435\u043a\u0438, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0447\u0438 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b HTTPS."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/How_to_Make_an_American_Quilt"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonard Adleman (San Francisco, 31 de diciembre de 1945, ) profesor en ciencias de la computaci\u00f3n y biolog\u00eda molecular de la Universidad del Sur de California. Es conocido por ser el inventor de la criptograf\u00eda RSA (Rivest-Shamir-Adleman) en 1977 y de la computaci\u00f3n por ADN. Por su contribuci\u00f3n a la invenci\u00f3n del RSA, Adleman ha sido condecorado en 2002 junto con sus compa\u00f1eros Ronald Rivest y Adi Shamir con el Premio Turing de la Asociaci\u00f3n de M\u00e1quinas Computacionales, ACM por sus siglas en ingl\u00e9s, tambi\u00e9n llamado el Premio Nobel de la Computaci\u00f3n."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hubble_Space_Telescope"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonard_Adleman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonard Max Adleman (San Francisco, 31 dicembre 1945) \u00e8 un matematico, informatico e biologo statunitense. Ha contribuito nel 1978 con Ronald Rivest e Adi Shamir allo sviluppo del sistema di crittografia asimmetrica RSA che infatti \u00e8 un acronimo costituito dalle iniziali dei cognomi dei tre creatori: Ron Rivest, Adi Shamir, e Leonard Adleman. Presso la University of California di Berkeley ha conseguito un Bachelor of Science in matematica nel 1968 ed un PhD in Computer Science nel 1976. Oltre che matematico ed informatico, Adleman \u00e8 un esperto di biologia molecolare."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hulk_(film)"
     }
 ]

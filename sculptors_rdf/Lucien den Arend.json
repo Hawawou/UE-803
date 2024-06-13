@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromDordrecht"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromDordrecht"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Lucien den Arend"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Lucien den Arend"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Lucien den Arend"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Lucien den Arend"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Lucien Armand Marco den Arend (born 15 December 1943) is a geometric abstract sculptor. As is the case with concrete art, his work is not modeled after any existing object \u2013 his sculpture represents only itself. Most of his sculptures and Land art projects were made as public art."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Lucien Armand Marco den Arend (Dordrecht, 15 december 1943) is een Nederlandse beeldhouwer, schilder en tekenaar."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Lucien den Arend (Dordrecht, 15 de diciembre de 1943)es un escultor neerland\u00e9s. Despu\u00e9s de estudiar arte en la Universidad Estatal de California en Long Beach en California, continu\u00f3 sus estudios en Tilburg, Pa\u00edses Bajos y en la Academia de Bellas Artes de R\u00f3terdam. De renombre internacional, es miembro de varias asociaciones de artistas, incluido el Arti \"Maatschappij y Amicitiae\" de \u00c1msterdam, el \"Pictura\" en Dordrecht y la Asociaci\u00f3n Finlandesa de escultores \"Suomen Kuvanveist\u00e4j\u00e4liitto\" de Helsinki."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Lucien den Arend est un sculpteur n\u00e9erlandais, n\u00e9 \u00e0 Dordrecht aux Pays-Bas, le 15 d\u00e9cembre 1943. Il vit depuis 2003 en Finlande. Apr\u00e8s des \u00e9tudes artistiques \u00e0 l'universit\u00e9 d'\u00c9tat de Californie \u00e0 Long Beach en Californie, il poursuit ses \u00e9tudes \u00e0 Tilbourg, aux Pays-Bas et \u00e0 l'Acad\u00e9mie des beaux-arts de Rotterdam. Il est membre de plusieurs associations artistiques, notamment la Maatschappij Arti et Amicitiae d'Amsterdam, de la Pictura \u00e0 Dordrecht et de l'association finnoise de sculpteurs Suomen Kuvanveist\u00e4j\u00e4liitto d'Helsinki."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Lucien den Arend"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "http://www.denarend.com"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Lucien den Arend"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/europa_beeckestein_vert.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Dordrecht"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "Dordrecht, The Netherlands"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1943-12-15"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1943_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Dutch_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Willem_de_Kooning_Academy_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Dutch_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Dordrecht"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "12422695"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1124403669"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cairo"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/California_State_University"
+        "object": "http://dbpedia.org/resource/Cairo_Conference"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/California_State_University,_Long_Beach"
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rotterdam"
+        "object": "http://dbpedia.org/resource/Canadian_Pacific_Railway"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Environmental_sculpture"
+        "object": "http://dbpedia.org/resource/Capital_ship"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "object": "http://dbpedia.org/resource/Carla_Mazzuca_Poggiolini"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Public_art"
+        "object": "http://dbpedia.org/resource/Carlo_Bergamini_(admiral)"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Carlo_Tresca"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Saimaa"
+        "object": "http://dbpedia.org/resource/Carlos_Arniches"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Concrete_art"
+        "object": "http://dbpedia.org/resource/Carlos_Blanco_Galindo"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/The_Netherlands"
+        "object": "http://dbpedia.org/resource/Carly_Simon"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Zwijndrecht,_Netherlands"
+        "object": "http://dbpedia.org/resource/Carmen_Argenziano"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1943_births"
+        "object": "http://dbpedia.org/resource/Carmine_Preziosi"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bulgaria"
+        "object": "http://dbpedia.org/resource/Casablanca"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Dutch_sculptors"
+        "object": "http://dbpedia.org/resource/Casablanca_Conference"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Willem_de_Kooning_Academy_alumni"
+        "object": "http://dbpedia.org/resource/American_modernism"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Tilburg"
+        "object": "http://dbpedia.org/resource/Ben_Davies_(tenor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Willem_de_Kooning"
+        "object": "http://dbpedia.org/resource/Poul_Nyrup_Rasmussen"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Willem_de_Kooning_Academy"
+        "object": "http://dbpedia.org/resource/President_of_Argentina"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Drechtsteden"
+        "object": "http://dbpedia.org/resource/President_of_Bolivia"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Joop_Beljon"
+        "object": "http://dbpedia.org/resource/President_of_Finland"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Land_art"
+        "object": "http://dbpedia.org/resource/President_of_France"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Amsterdam"
+        "object": "http://dbpedia.org/resource/President_of_Germany"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Haarlem"
+        "object": "http://dbpedia.org/resource/President_of_Haiti"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Henry_Moore"
+        "object": "http://dbpedia.org/resource/President_of_Honduras"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Dutch_male_sculptors"
+        "object": "http://dbpedia.org/resource/President_of_Iceland"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Dordrecht"
+        "object": "http://dbpedia.org/resource/President_of_Iran"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kangasniemi"
+        "object": "http://dbpedia.org/resource/President_of_Pakistan"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Dordrecht"
+        "object": "http://dbpedia.org/resource/President_of_Poland"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Netherlands"
+        "object": "http://dbpedia.org/resource/President_of_Syria"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Site-specific_art"
+        "object": "http://dbpedia.org/resource/President_of_Zambia"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture_park"
+        "object": "http://dbpedia.org/resource/President_of_the_Republic_of_China"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Madara_Horseman"
+        "object": "http://dbpedia.org/resource/President_of_the_United_States"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/King_Simeon"
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Albania"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Queen_Beatrix"
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Australia"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Academy_of_Art"
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Denmark"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.1worldart.com/cwm_site/art_installation_2.html"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Finland"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.denarend.com"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_France"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.02w4v6h"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Haiti"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Lucien_den_Arend"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Hungary"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/199185156"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Italy"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/174177054"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Japan"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q600877"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Jordan"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://arz.dbpedia.org/resource/\u0644\u0648\u0633\u064a\u0627\u0646_\u062f\u0646_\u0627\u0631\u0646\u062f"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Namibia"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/Lucien_den_Arend"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_New_Zealand"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fr.dbpedia.org/resource/Lucien_den_Arend"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Norway"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://nl.dbpedia.org/resource/Lucien_den_Arend"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Russia"
     },
     {
         "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://tr.dbpedia.org/resource/Lucien_den_Arend"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Sweden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Syria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Thailand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Turkey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Christoph_of_Hesse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Georg_of_Bavaria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Hubertus_of_Saxe-Coburg_and_Gotha_(pilot)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princess_Christina,_Mrs._Magnuson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princess_Margriet_of_the_Netherlands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pune"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Qazim_Koculi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quebec_City"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Silvia_of_Sweden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Menzies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Paul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Boninsegna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Micheletti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodger_Young"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Waters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romani_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Geesin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Spector"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Hicks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_M._Lence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rostov-on-Don"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Round_up_of_Marseille"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Black_(singer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Lynes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Air_Force"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Italian_Army"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Navy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Beckmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rue_Sainte-Catherine_Roundup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Hinds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Kelly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Ruben"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Shepard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samad_Abdullayev"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sani_Abacha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Raphael_Landau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saverio_Marotta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schauspielhaus_Z\u00fcrich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Walker_(singer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_best-selling_books"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moment_of_silence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naval_mine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00fcbeck_martyrs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Merrie_Melodies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mervyn_Herbert,_Viscount_Clive"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lucien_den_Arend",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry"
     }
 ]

@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScienceTeachers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Educator110045713"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Professional110480253"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ResearchWorker110523076"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGermanComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGermanInformationTheorists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ScienceTeacher110560548"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Teacher110694258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Theorist110706812"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDatabaseResearchers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEthnicGermanPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0631\u0648\u062f\u0648\u0644\u0641 \u0628\u0627\u064a\u0631"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Rudolf Bayer"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Rudolf Bayer (Informatiker)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Rudolf Bayer"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Rudolf Bayer"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Rudolf Bayer"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\ub8e8\ub3cc\ud504 \ubc14\uc774\uc5b4"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Rudolf Bayer"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Rudolf Bayer"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0411\u0430\u0439\u0435\u0440, \u0420\u0443\u0434\u043e\u043b\u044c\u0444"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u9c81\u9053\u592b\u00b7\u62dc\u5c14"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0631\u0648\u062f\u0648\u0644\u0641 \u0628\u0627\u064a\u0631 (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629: Rudolf Bayer) (\u0645\u0646 \u0645\u0648\u0627\u0644\u064a\u062f 7 \u0645\u0627\u064a\u0648 1939) \u0648\u0647\u0648 \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0623\u0644\u0645\u0627\u0646\u064a. \u064a\u0634\u063a\u0644 \u0631\u0648\u062f\u0648\u0644\u0641 \u0628\u0627\u064a\u0631 \u0645\u0646\u0635\u0628 \u0623\u0633\u062a\u0627\u0630 \u0641\u062e\u0631\u064a \u0641\u064a \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a\u064a\u0629 \u0641\u064a \u062c\u0627\u0645\u0639\u0629 \u0645\u064a\u0648\u0646\u062e \u0627\u0644\u062a\u0642\u0646\u064a\u0629 \u062d\u064a\u062b \u0643\u0627\u0646 \u064a\u0639\u0645\u0644 \u0645\u0646\u0630 \u0639\u0627\u0645 1972. \u0648\u0647\u0648 \u0645\u0639\u0631\u0648\u0641 \u0628\u0627\u062e\u062a\u0631\u0627\u0639\u0647 \u0644\u0641\u0631\u0632 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0630\u064a \u064a\u062a\u0643\u0648\u0646 \u0645\u0646 \u062b\u0644\u0627\u062b\u0629 \u0623\u062c\u0632\u0627\u0621: \u0628\u064a - \u062a\u0631\u064a (\u0645\u0639 \u0625\u062f\u0648\u0627\u0631\u062f) \u0648\u064a\u0648 \u0628\u064a - \u062a\u0631\u064a (\u0645\u0639 \u0641\u0648\u0644\u0643\u0631 \u0645\u0627\u0631\u0643\u0644). \u062d\u0635\u0644 \u0628\u0627\u064a\u0631 \u0639\u0644\u0649 \u062c\u0627\u0626\u0632\u0629 ACM SIGMOD \u0641\u064a \u0631\u0627\u0628\u0637\u0629 \u0645\u0643\u0627\u0626\u0646 \u0627\u0644\u062d\u0648\u0633\u0628\u0629 \u0644\u0639\u0627\u0645 2001. \u0648\u0641\u064a \u0639\u0627\u0645 2005 \u062a\u0645 \u0627\u0646\u062a\u062e\u0627\u0628\u0647 \u0643\u0632\u0645\u064a\u0644 \u0641\u064a \u0645\u062c\u062a\u0645\u0639 \u0639\u0644\u0648\u0645 \u0627\u0644\u0643\u0645\u0628\u064a\u0648\u062a\u0631."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Rudolf Bayer (* 7. kv\u011bten 1939) je emeritn\u00ed profesor (od roku 1972) informatiky na . Je zn\u00e1m\u00fd pro autorstv\u00ed n\u011bkolika datov\u00fdch struktur: \n* B-stromu s \n* B+ stromu s \n* s \n* \u010derveno-\u010dern\u00e9ho stromu Obdr\u017eel cenu ACM SIGMOD za inovaci pro rok 2001."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Rudolf Bayer (* 3. M\u00e4rz 1939) ist ein Informatiker und emeritierter Professor der Technischen Universit\u00e4t M\u00fcnchen, an der er den Lehrstuhl f\u00fcr Datenbanksysteme und Wissensbasen innehatte."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Rudolf Bayer ( 7 de mayo de 1939) ha sido profesor em\u00e9rito de Inform\u00e1tica en la Universidad T\u00e9cnica de M\u00fanich desde 1972. Es famoso por inventar, junto con Edward M. McCreight, las estructuras de manejo de datos , y m\u00e1s tarde con . Recibi\u00f3 el premio 2001 . Y, en 2005, fue elegido miembro de .\u200b"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Rudolf Bayer (n\u00e9 le 7 mai 1939 \u00e0 Wasserlosen) est un informaticien allemand. Il est professeur d'informatique \u00e9m\u00e9rite \u00e0 l'universit\u00e9 technologique de Munich. Il est connu notamment pour avoir invent\u00e9 l'arbre B avec Edward M. McCreight."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Rudolf Bayer (born 3 March 1939) is a German computer scientist. He is professor emeritus of Informatics at the Technical University of Munich where he had been employed since 1972. He is noted for inventing three data sorting structures: the B-tree (with Edward M. McCreight), the UB-tree (with Volker Markl) and the red\u2013black tree. Bayer is a recipient of 2001 ACM SIGMOD Edgar F. Codd Innovations Award. In 2005 he was elected as a fellow of the Gesellschaft f\u00fcr Informatik."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\ub8e8\ub3cc\ud504 \ubc14\uc774\uc5b4(\ub3c5\uc77c\uc5b4: Rudolf Bayer, 1939\ub144 5\uc6d4 7\uc77c~ )\ub294 1972\ub144 \uc774\ub798\ub85c \uc5d0\uc11c \uc815\ubcf4\uacfc\ud559 (\uba85\uc608)\uad50\uc218\ub85c \uc7ac\uc9c1\uc911\uc774\ub2e4. \uadf8\ub294 B-\ud2b8\ub9ac\uc640 \ub77c\ub294 \uc790\ub8cc\uad6c\uc870\ub97c \uac1c\ubc1c\ud55c \uac83\uc73c\ub85c \uc720\uba85\ud558\ub2e4. \uadf8\ub294 2001\ub144 ACM \ud601\uc2e0\uc0c1\uc744 \uc218\uc0c1\ud558\uc600\ub2e4."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Rudolf Bayer (3 marzo 1939) \u00e8 un informatico tedesco. \u00c8 professore emerito di informatica presso l'Universit\u00e0 tecnica di Monaco, dove lavorava dal 1972. \u00c8 noto per aver inventato tre strutture di ordinamento dei dati: l'albero B (con ), l' (con ) e l'albero rosso-nero.Bayer ha ricevuto il 2001 ACM SIGMOD Edgar F. Codd Innovations Award. Nel 2005 \u00e8 stato eletto membro della ."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0420\u0443\u0434\u043e\u043b\u044c\u0444 \u0411\u0430\u0439\u0435\u0440 (\u043d\u0435\u043c. Rudolf Bayer, \u0440\u043e\u0434\u0438\u043b\u0441\u044f 7 \u043c\u0430\u044f 1939 \u0433\u043e\u0434\u0430) \u2014 \u043d\u0435\u043c\u0435\u0446\u043a\u0438\u0439 \u0443\u0447\u0451\u043d\u044b\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438, \u043f\u043e\u0447\u0451\u0442\u043d\u044b\u0439 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0432 \u043e\u0442\u0441\u0442\u0430\u0432\u043a\u0435 (professor emeritus) \u041c\u044e\u043d\u0445\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043e\u043d \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0441 1972 \u0433\u043e\u0434\u0430. \u0418\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u0435\u043c \u0442\u0440\u0451\u0445 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440 \u0434\u0430\u043d\u043d\u044b\u0445: B-\u0434\u0435\u0440\u0435\u0432\u0430 (c \u042d\u0434\u0432\u0430\u0440\u0434\u043e\u043c \u041c\u0430\u043a\u043a\u0440\u0435\u0439\u0442\u043e\u043c), UB-\u0434\u0435\u0440\u0435\u0432\u0430 (\u0441 ) \u0438 \u043a\u0440\u0430\u0441\u043d\u043e-\u0447\u0451\u0440\u043d\u043e\u0433\u043e \u0434\u0435\u0440\u0435\u0432\u0430. \u0412 2001 \u0433\u043e\u0434\u0443 \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u043d\u0430\u0433\u0440\u0430\u0434\u0443 . \u0412 2005 \u0438\u0437\u0431\u0440\u0430\u043d \u0447\u043b\u0435\u043d\u043e\u043c ."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Rudolf Bayer (7 de maio de 1939) \u00e9 um professor em\u00e9rito de inform\u00e1tica na Universidade T\u00e9cnica de Munique desde 1972. \u00c9 conhecido por inventar, juntamente com Edward Meyers McCreight, a estrutura de armazenamento de dados \u00e1rvore B, e mais tarde a , com ."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u9c81\u9053\u592b\u00b7\u62dc\u723e\uff08\u5fb7\u8a9e\uff1aRudolf Bayer\uff0c1939\u5e745\u67087\u65e5\uff0d\uff09\uff0c\u81ea1972\u5e74\u4ee5\u6765\u4e00\u76f4\u662f\u6155\u5c3c\u9ed1\u5de5\u4e1a\u5927\u5b66\u4fe1\u606f\u6280\u672f\u7cfb\u7684\u540d\u8a89\u6559\u6388\u3002\u4ed6\u56e0\u53d1\u660e\u6570\u636e\u7ed3\u6784\u800c\u51fa\u540d: B-\u6811\uff08\u4e0e\u5408\u4f5c\uff09\u548c\uff08\u4e0e\u5408\u4f5c\uff09\u4ee5\u53ca \u7ea2\u9ed1\u6811\u3002 \u4ed6\u662f2001\u5e74\u7f8e\u56fd\u8ba1\u7b97\u673a\u534f\u4f1aSIGMOD Edgar F. Codd\u5e74\u5ea6\u521b\u610f\u5927\u5956\u5f97\u4e3b\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Rudolf Bayer"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Rudolf Bayer"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1939-05-07"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:German_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1939_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Illinois_Urbana-Champaign_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Technical_University_of_Munich_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Officers_Crosses_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Database_researchers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "326051"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1092870752"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caltech"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Illinois_at_Urbana\u2013Champaign"
+        "object": "http://dbpedia.org/resource/Canadian_Football_League"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Volker_Markl"
+        "object": "http://dbpedia.org/resource/Canberra"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Cannabis_Cup"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:German_computer_scientists"
+        "object": "http://dbpedia.org/resource/Carl_Van_Doren"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Edward_M._McCreight"
+        "object": "http://dbpedia.org/resource/Carl_Woese"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Germany"
+        "object": "http://dbpedia.org/resource/Carlos_Montezuma"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gesellschaft_f\u00fcr_Informatik"
+        "object": "http://dbpedia.org/resource/Carol_Marin"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/B-tree"
+        "object": "http://dbpedia.org/resource/Carol_Moseley_Braun"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1939_births"
+        "object": "http://dbpedia.org/resource/Case_Western_Reserve_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Illinois_Urbana-Champaign_alumni"
+        "object": "http://dbpedia.org/resource/Casper_H._Conrad_Jr."
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Technical_University_of_Munich_faculty"
+        "object": "http://dbpedia.org/resource/Casper_Platt"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Federal_Cross_of_Merit"
+        "object": "http://dbpedia.org/resource/American_Railway_Engineering_and_Maintenance-of-Way_Association"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Technical_University_Munich"
+        "object": "http://dbpedia.org/resource/Prashanth_Venkataramanujam"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Technical_University_of_Munich"
+        "object": "http://dbpedia.org/resource/Premier_of_the_Republic_of_China"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Association_for_Computing_Machinery"
+        "object": "http://dbpedia.org/resource/Prentice_Marshall"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Officers_Crosses_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany"
+        "object": "http://dbpedia.org/resource/Prentiss_M._Brown"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Database_researchers"
+        "object": "http://dbpedia.org/resource/Preston_Pearson"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Red\u2013black_tree"
+        "object": "http://dbpedia.org/resource/Pro_Football_Hall_of_Fame"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/UB-tree"
+        "object": "http://dbpedia.org/resource/Project_Gutenberg"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Informatics_(academic_field)"
+        "object": "http://dbpedia.org/resource/Psalm_One"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/SIGMOD_Edgar_F._Codd_Innovations_Award"
+        "object": "http://dbpedia.org/resource/Robert_M._Berdahl"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://wwwbayer.in.tum.de/cgi-webcon/webcon/lehrstuhldb/details/Mitarbeiter/num/5/1"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Novak"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://dx.doi.org/10.1109/SWAT.1966.5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Holley"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.01w4h7"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Pritchard"
     },
     {
         "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www4.wiwiss.fu-berlin.de/dblp/resource/person/159936"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Hood:_Prince_of_Thieves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Crossgrove"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Ebert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Powell_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Acks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Guenther"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Popeil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Cohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Reagan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Bayer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_K._Skinner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Chargers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_49ers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scarface_(1983_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_journal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Altman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Spiezio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Studwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scovel_Richardson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandon_Jordan_(defensive_lineman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Blum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Encyclopedia_of_Earth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Schwartz_(educational_administrator)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M.J._Khan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meetro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Memphis_Nighthawks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Men's_Health"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeffrey_S._Moore_(chemist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rate\u2013distortion_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C._E._Woolman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2008_Summer_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2010_Winter_Olympics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2011_NFL_Draft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2012_NFL_Draft"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baritone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Bearak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basketball"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beckman_Institute_for_Advanced_Science_and_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Being_There"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belal_Muhammad_(fighter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Murphy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Martin_Decker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Henley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betsy_Brandt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big_Ten"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big_Ten_Network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Brown_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Geist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Arnold_(racing_driver)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Binghamton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Binti_(novel)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Entertainment_Television"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloom_Energy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Dudley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Goalby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Grant_(radio_host)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Miner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Nanna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Richards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boise_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Celtics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brad_Hopkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandeis_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandon_Lloyd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandon_Moore_(guard)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brant_Hansen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Breaking_Bad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_Eich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Cogan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Cook_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Krock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Randle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Wansink"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rudolf_Bayer",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Eggers"
     }
 ]

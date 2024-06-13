@@ -1,322 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Norah Ansell"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Norah Marjorie Ansell (6 July 1906 \u20131990) was a British sculptor who worked mostly in wood, ivory and bronze."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Norah Marjorie Ansell"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Norah Marjorie Ansell"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Wiltshire"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "Birmingham, England"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "Wiltshire, England"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1906-07-06"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Birmingham,_West_Midlands"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1906_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1990_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Birmingham_School_of_Art"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Wiltshire"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "62802622"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1109600765"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Academy"
+        "object": "http://dbpedia.org/resource/Camille_Billops"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Birmingham,_West_Midlands"
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1906_births"
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1990_deaths"
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+        "object": "http://dbpedia.org/resource/Carolina_Benedicks-Bruce"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
+        "object": "http://dbpedia.org/resource/Caroline_Peddle_Ball"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Birmingham_School_of_Art"
+        "object": "http://dbpedia.org/resource/Caroline_Ramersdorfer"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
+        "object": "http://dbpedia.org/resource/Caroline_Shawk_Brooks"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Wiltshire"
+        "object": "http://dbpedia.org/resource/Beatrice_Angle"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Edgbaston"
+        "object": "http://dbpedia.org/resource/Benita_Armstrong"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Glasgow_Institute_of_the_Fine_Arts"
+        "object": "http://dbpedia.org/resource/Roberta_Everett"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Wiltshire"
+        "object": "http://dbpedia.org/resource/Rosalie_Gascoigne"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Society_of_Women_Artists"
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Birmingham_College_of_Arts_and_Crafts"
+        "object": "http://dbpedia.org/resource/Roxanne_Swentzell"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q81726127"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Holt_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://mk.dbpedia.org/resource/\u041d\u043e\u0440\u0430_\u041c\u0430\u0440\u045f\u043e\u0440\u0438_\u0410\u043d\u0441\u0435\u043b"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Fisher_Ames"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/C4pKr"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarra_Lebedeva"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elfriede_Abbe"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Gordon_Chandler"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_British_English"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Toubro"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_sculptors"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Death_year_and_age"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_women_artists"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/almaMater",
-        "object": "http://dbpedia.org/resource/Birmingham_College_of_Arts_and_Crafts"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mirit_Cohen"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/birthDate",
-        "object": "1906-07-06"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00eda_Berm\u00fadez"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/knownFor",
-        "object": "Sculpture"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teresa_Margolles"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/property/nationality",
-        "object": "British"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bashka_Paeff"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Norah Marjorie Ansell (6 July 1906 \u20131990) was a British sculptor who worked mostly in wood, ivory and bronze."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belle_Kinney_Scholz"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Norah_Ansell?oldid=1109600765&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Harvey"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "2999"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Marsh_Brewer"
     },
     {
         "subject": "http://dbpedia.org/resource/Norah_Ansell",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Norah_Ansell"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Potter_Vonnoh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Jukes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Pepper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bharti_Kher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blanche_Nevin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Putnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Butterfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delphine_Bo\u00ebl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Lindley-Millican"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Turnbull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anita_Huffington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Coleman_Ladd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Dabis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Golubkina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Davidson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Wilson_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annet_van_Egmond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huma_Bhabha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonny_Star"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josefina_de_Vasconcellos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josette_H\u00e9bert-Co\u00ebffin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Bluck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Rotblatt-Amrany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Cullen-Kerridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bettina_Scholl-Sabbatini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patience_Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Johanson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Piccinini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paula_Zima"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Aitken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Boumphrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petah_Coyne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renee_Stout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9e_Sintenis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Retta_T._Matthews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursula_Edgcumbe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursula_von_Rydingsvard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C.C._van_Asch_van_Wijck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Mukhina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_Fuller_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vija_Celmins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vinnie_Ream"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Violet_Dreschfeld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Davina_Semo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Hede"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doris_Salcedo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Cross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Venning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ingunn_Utsi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jana_Sterbak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johanne_Pedersen-Dan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lena_Cronqvist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lilian_Simpson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lilli_Wislicenus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lillian_Wade"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lily_Garafulic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Properzia_de'_Rossi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constance-Anne_Parker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coosje_van_Bruggen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornelia_Parker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cresilla_(female_sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Norah_Ansell",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Toscani"
     }
 ]

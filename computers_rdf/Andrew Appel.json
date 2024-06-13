@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatCarnegieMellonUniversityAlumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ResearchWorker110523076"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatProgrammingLanguageResearchers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Andrew Appel"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0623\u0646\u062f\u0631\u0648 \u0623\u0628\u0644"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0623\u0646\u062f\u0631\u0648 \u0623\u0628\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Andrew Appel)\u200f \u0647\u0648 \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0648\u0645\u0647\u0646\u062f\u0633 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 1960."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Andrew Wilson Appel (born 1960) is the Eugene Higgins Professor of computer science at Princeton University. He is especially well-known because of his compiler books, the Modern Compiler Implementation in ML (ISBN 0-521-58274-1) series, as well as Compiling With Continuations (ISBN 0-521-41695-7). He is also a major contributor to the Standard ML of New Jersey compiler, along with , , and others and one of the authors of Rog-O-Matic."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Andrew Appel"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Andrew Appel"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Apple_(FloC_2006).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Programming_language_researchers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1960_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Carnegie_Mellon_University_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Princeton_University_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "1338263"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1086424071"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calculator"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Programming_language_researchers"
+        "object": "http://dbpedia.org/resource/Carl_Sassenrath"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Princeton_University"
+        "object": "http://dbpedia.org/resource/Carroll_Morgan_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rocquencourt,_Yvelines"
+        "object": "http://dbpedia.org/resource/Cascading_Style_Sheets"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/United_States_v._Microsoft"
+        "object": "http://dbpedia.org/resource/Case-based_reasoning"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1960_births"
+        "object": "http://dbpedia.org/resource/Poul-Henning_Kamp"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Process_mining"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Compiler"
+        "object": "http://dbpedia.org/resource/Program_optimization"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/N-body_problem"
+        "object": "http://dbpedia.org/resource/Programmer"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Standard_ML_of_New_Jersey"
+        "object": "http://dbpedia.org/resource/Prolog"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Computer_science"
+        "object": "http://dbpedia.org/resource/Punched_card"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Physics"
+        "object": "http://dbpedia.org/resource/Python_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Carnegie_Mellon_University_alumni"
+        "object": "http://dbpedia.org/resource/QuickCheck"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Princeton_University_faculty"
+        "object": "http://dbpedia.org/resource/Robert_Sedgewick_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Time_complexity"
+        "object": "http://dbpedia.org/resource/Robert_Sproull"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/France"
+        "object": "http://dbpedia.org/resource/Robert_Tappan_Morris"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Association_for_Computing_Machinery"
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Jim_Peebles"
+        "object": "http://dbpedia.org/resource/Robert_W._Floyd"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kenneth_Appel"
+        "object": "http://dbpedia.org/resource/Roberto_Ierusalimschy"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rog-O-Matic"
+        "object": "http://dbpedia.org/resource/Roberto_Pieraccini"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Institut_national_de_recherche_en_informatique_et_en_automatique"
+        "object": "http://dbpedia.org/resource/Robin_Milner"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Voting_machine"
+        "object": "http://dbpedia.org/resource/Robotics"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Four-Color_Theorem"
+        "object": "http://dbpedia.org/resource/Rod_Canion"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Carnegie-Mellon_University"
+        "object": "http://dbpedia.org/resource/Roger_Hui"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/David_MacQueen"
+        "object": "http://dbpedia.org/resource/Roger_Moore_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/John_H._Reppy"
+        "object": "http://dbpedia.org/resource/Roger_Needham"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Matthias_Blume"
+        "object": "http://dbpedia.org/resource/Roland_Carl_Backhouse"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.cs.princeton.edu/~appel/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Rivest"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.04tx26"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruby_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Andrew_Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Bayer"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/34610100"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Rucker"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/1011297485"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samir_Das"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://dblp.org/pid/a/AWAppel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samson_Abramsky"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://orcid.org/0000-0001-6009-0325"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjay_Ghemawat"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q4756213"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjeev_Arora"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://data.bibliotheken.nl/id/thes/p093610076"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sargur_Srihari"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ar.dbpedia.org/resource/\u0623\u0646\u062f\u0631\u0648_\u0623\u0628\u0644"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scala_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fa.dbpedia.org/resource/\u0627\u0646\u062f\u0631\u0648_\u0627\u067e\u0644"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scheme_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://mg.dbpedia.org/resource/Andrew_Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_Time_Sharing_Corporation"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ml.dbpedia.org/resource/\u0d06\u0d7b\u0d21\u0d4d\u0d30\u0d41_\u0d05\u0d2a\u0d4d\u0d2a\u0d46\u0d7d"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Aaronson"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://sw.dbpedia.org/resource/Andrew_Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Fahlman"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4QXFK"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Shenker"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:US-compu-bio-stub"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eldon_C._Hall"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_design_automation"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/End-user_development"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Commons_category"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_architecture_planning"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:ISBN"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entity-relationship_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_computing_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MINIX"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Apple_(FloC_2006).jpg?width=300"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIX"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/property/birthDate",
-        "object": "1960"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mihai_Nadin"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/property/caption",
-        "object": "Andrew Appel in 2006"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monitor_(synchronization)"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Appel",
-        "predicate": "http://dbpedia.org/property/father",
-        "object": "http://dbpedia.org/resource/Kenneth_Appel"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moore_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_worm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_language_processing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Normalized_compression_distance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MD5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MMIX"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mesh_networking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meta-learning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Bernus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SECD_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/On_Lisp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partially_observable_Markov_decision_process"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ubiquitous_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programmable_calculator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ken_Thompson_(computer_programmer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Really_Achieving_Your_Childhood_Dreams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cray_Research"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeffrey_D._Ullman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eugene_Luks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nondeterministic_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sankar_Pal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bauer\u2013Fike_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bayesian_network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Shneiderman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley_Software_Distribution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Galler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernhard_Sch\u00f6lkopf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernhard_Thalheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Bos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Sutherland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_Meyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Holberton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bigtable"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Gates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Joy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bjarne_Stroustrup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BlueJ"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bourne_shell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_Eich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Kernighan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Randell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_A._Huffman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_A._Wagner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_C._Evans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Canfield_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_E._Shaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrew_Appel",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Eppstein"
     }
 ]

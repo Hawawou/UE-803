@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moni_Naor"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Chaum"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algorithmic_game_theory"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dagstuhl"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_money"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanEngineers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatTheoreticalComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatTuringAwardLaureates"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatVenezuelanEmigrantsToTheUnitedStates"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatVenezuelanPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithComputerSecurity"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromCaracas"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Honoree110183757"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Laureate110249011"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Migrant110314952"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Recipient109627906"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Traveler109629752"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAssociationForTheAdvancementOfScience"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0645\u0627\u0646\u0648\u064a\u0644 \u0628\u0644\u0648\u0645"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30de\u30cc\u30a8\u30eb\u30fb\u30d6\u30e9\u30e0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manuel Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0411\u043b\u044e\u043c, \u041c\u0430\u043d\u0443\u044d\u043b\u044c"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u66fc\u7ebd\u5c14\u00b7\u5e03\u5362\u59c6"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u041c\u0430\u043d\u0443\u0435\u043b\u044c \u0411\u043b\u0443\u043c"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manuel Blum (Caracas, 26 d'abril de 1938) \u00e9s un inform\u00e0tic vene\u00e7ol\u00e0 que va rebre el Premi Turing de 1995 \"en reconeixement de les seves contribucions als fonaments de la teoria de la complexitat computacional i la seva aplicaci\u00f3 a la criptografia i a la comprovaci\u00f3 de programes\"."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0645\u0627\u0646\u0648\u064a\u0644 \u0628\u0644\u0648\u0645 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Manuel Blum)\u200f \u0648\u0644\u062f \u0641\u064a 26 \u0623\u0628\u0631\u064a\u0644 1938 \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628\u060c \u0627\u0634\u062a\u0647\u0631 \u0641\u064a \u0645\u062c\u0627\u0644 \u0639\u0644\u0645 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0628\u0645\u0633\u0627\u0647\u0645\u0627\u062a\u0647 \u0641\u064a \u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u062a\u0639\u0642\u064a\u062f \u0627\u0644\u062d\u0633\u0627\u0628\u064a \u0648\u0639\u0644\u0645 \u0627\u0644\u062a\u0639\u0645\u064a\u0629\u060c \u0641\u0627\u0632 \u0628\u062c\u0627\u0626\u0632\u0629 \u062a\u0648\u0631\u0646\u063a \u0641\u064a \u0639\u0627\u0645 1995."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manuel Blum (* 26. dubna 1938, Caracas, Venezuela) je venezuelsk\u00fd informatik \u017eidovsk\u00e9ho p\u016fvodu. Je zn\u00e1m zejm\u00e9na pro svou pr\u00e1ci v oblasti z\u00e1klad\u016f teorie v\u00fdpo\u010detn\u00ed slo\u017eitosti a jej\u00ed aplikace v kryptologii a . Za tento p\u0159\u00ednos dostal v roce 1995 Turingovu cenu. Roku 1986 spolu s a popsal vlastnosti gener\u00e1toru Blum Blum Shub."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manuel Blum (* 26. April 1938 in Caracas, Venezuela) ist ein US-amerikanischer Informatiker, der 1995 \u201ein Anerkennung seiner Beitr\u00e4ge zu den Grundlagen der algorithmischen Komplexit\u00e4tstheorie sowie deren Anwendung in der Kryptographie und der Fehler\u00fcberpr\u00fcfung von Programmen\u201c den Turing Award erhielt."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manuel Blum (Caracas, Venezuela 26 de abril de 1938) es un inform\u00e1tico venezolano conocido por ser el \u00fanico sudamericano que ha recibido Premio Turing en 1995 \"En reconocimiento de sus contribuciones a los fundamentos de la teor\u00eda de la complejidad computacional y su aplicaci\u00f3n a la criptograf\u00eda y la verificaci\u00f3n de programas\".\u200b\u200b\u200b\u200b Sus contribuciones incluyen el generador de n\u00fameros pseudoaleatorios Blum Blum Shub, el \"stream cypher\" de Blum-Goldwasser, y m\u00e1s recientemente Captchas."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manuel Blum (n\u00e9 \u00e0 Caracas le 26 avril 1938) est un informaticien am\u00e9ricain, professeur en informatique \u00e0 l'universit\u00e9 Carnegie-Mellon."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manuel Blum (born 26 April 1938) is a Venezuelan-American computer scientist who received the Turing Award in 1995 \"In recognition of his contributions to the foundations of computational complexity theory and its application to cryptography and program checking\"."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manuel Blum (lahir 26 April 1938 di Caracas, Venezuela) adalah seorang ilmuwan komputer yang menerima Turing Award pada tahun 1995 sebagai \"penghargaan atas kontribusinya dalam fondasi dan aplikasinya ke dalam kriptografi dan pemeriksaan program\"."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30de\u30cc\u30a8\u30eb\u30fb\u30d6\u30e9\u30e0\uff08Manuel Blum\u30011938\u5e744\u670826\u65e5 - \uff09\u306f\u30d9\u30cd\u30ba\u30a8\u30e9\u306e\u30ab\u30e9\u30ab\u30b9\u51fa\u8eab\u306e\u8457\u540d\u306a\u8a08\u7b97\u6a5f\u79d1\u5b66\u8005\u30021995\u5e74\u3001\u300c\u8a08\u7b97\u8907\u96d1\u6027\u7406\u8ad6\u306e\u57fa\u790e\u7684\u7814\u7a76\u3068\u305d\u306e\u6697\u53f7\u304a\u3088\u3073\u30d7\u30ed\u30b0\u30e9\u30e0\u691c\u8a3c\u3078\u306e\u5fdc\u7528\u306b\u95a2\u3059\u308b\u8ca2\u732e\u306b\u5bfe\u3057\u3066\u300d\u30c1\u30e5\u30fc\u30ea\u30f3\u30b0\u8cde\u3092\u6388\u4e0e\u3055\u308c\u305f\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manuel Blum (Caracas, 26 aprile 1938) \u00e8 un informatico statunitense. Nel 1995 ha ricevuto il premio Turing per il suo contributo nel campo della teoria della complessit\u00e0 computazionale e della crittografia."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manuel Blum (Caracas, 26 april 1938) is een Amerikaans theoretisch informaticus. Hij ontwikkelde de axiomatische complexiteitstheorie en ontving mede daarvoor in 1995 een Turing Award."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manuel Blum (ur. 26 kwietnia 1938 w Caracas, Wenezuela) \u2013 wenezuelski informatyk, laureat nagrody Turinga w 1995 roku za wk\u0142ad w rozw\u00f3j teorii z\u0142o\u017cono\u015bci obliczeniowej oraz jej zastosowa\u0144 w kryptografii i weryfikacji formalnej."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manuel Blum (Caracas, 26 de abril de 1938) \u00e9 um inform\u00e1tico venezuelano. Obteve um doutorado em 1964 no Instituto de Tecnologia de Massachusetts, orientado por Marvin Minsky. Foi agraciado com o Pr\u00eamio Turing de 1995, em reconhecimento \u00e0 sua contribui\u00e7\u00e3o aos fundamentos da complexidade computacional algor\u00edtmica e suas aplica\u00e7\u00f5es na criptografia e varredura de erro computacional. Foi palestrante convidado do Congresso Internacional de Matem\u00e1ticos em Berkeley (1986: How to prove a theorem so no one else can claim it)."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u66fc\u7ebd\u5c14\u00b7\u5e03\u5362\u59c6 \uff08\u82f1\u8a9e\uff1aManuel Blum\uff0c1938\u5e744\u670826\u65e5\uff0d\uff09\uff0c\u59d4\u5185\u745e\u62c9\u8ba1\u7b97\u673a\u79d1\u5b66\u5bb6\uff0c\u57281995\u5e74\u56e0\u5728\u8a08\u7b97\u8907\u96dc\u6027\u7406\u8ad6\u7684\u6770\u51fa\u8d21\u732e\u4ee5\u53ca\u5728\u5bc6\u7801\u5b66\u548c\u7f16\u7a0b\u6821\u9a8c\u4e0a\u7684\u5e94\u7528\u800c\u83b7\u5f97\u56fe\u7075\u5956\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041c\u0430\u043d\u0443\u044d\u043b\u044c \u0411\u043b\u044e\u043c (\u0438\u0441\u043f. Manuel Blum; \u0440\u043e\u0434. 26 \u0430\u043f\u0440\u0435\u043b\u044f 1938, \u041a\u0430\u0440\u0430\u043a\u0430\u0441, \u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430) \u2014 \u0443\u0447\u0451\u043d\u044b\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0442\u0435\u043e\u0440\u0438\u0438 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c, \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u043f\u043e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0435 \u0432 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0435 \u041a\u0430\u0440\u043d\u0435\u0433\u0438 \u2014 \u041c\u0435\u043b\u043b\u043e\u043d. \u041d\u0430\u0433\u0440\u0430\u0436\u0434\u0451\u043d \u0432 1995 \u0433\u043e\u0434\u0443 \u043f\u0440\u0435\u043c\u0438\u0435\u0439 \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0430 \u0437\u0430 \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u044f \u0432 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0438 \u043e\u0441\u043d\u043e\u0432 \u0442\u0435\u043e\u0440\u0438\u0438 \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439 \u0438 \u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0438 \u0432 \u043a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438 \u0438 \u0432\u0435\u0440\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041c\u0430\u043d\u0443\u0435\u043b\u044c \u0411\u043b\u0443\u043c (\u0456\u0441\u043f. Manuel Blum; \u043d\u0430\u0440.26 \u043a\u0432\u0456\u0442\u043d\u044f 1938) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043d\u0430\u0443\u043a\u043e\u0432\u0435\u0446\u044c \u0432\u0435\u043d\u0435\u0441\u0443\u0435\u043b\u044c\u0441\u044c\u043a\u043e\u0433\u043e \u043f\u043e\u0445\u043e\u0434\u0436\u0435\u043d\u043d\u044f, \u0432\u0456\u0434\u043e\u043c\u0438\u0439 \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u043d\u043e\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438 \u0447\u0435\u0440\u0435\u0437 \u0441\u0432\u043e\u0457 \u0432\u043d\u0435\u0441\u043a\u0438 \u0434\u043e \u0442\u0435\u043e\u0440\u0456\u0457 \u0441\u043a\u043b\u0430\u0434\u043d\u043e\u0441\u0442\u0456 \u043e\u0431\u0447\u0438\u0441\u043b\u0435\u043d\u044c \u0442\u0430 \u0457\u0457 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0432 \u0433\u0430\u043b\u0443\u0437\u0456 \u043a\u0440\u0438\u043f\u0442\u043e\u0433\u0440\u0430\u0444\u0456\u0457. \u041b\u0430\u0443\u0440\u0435\u0430\u0442 \u043f\u0440\u0435\u043c\u0456\u0457 \u0422\u044e\u0440\u0456\u043d\u0433\u0430 1995 \u0440\u043e\u043a\u0443."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "https://www.cs.cmu.edu/~mblum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Blum_manuel_lenore_avrim.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Caracas"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Venezuela"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Caracas"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Venezuela"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1938-04-26"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1938_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
         "object": "http://dbpedia.org/resource/Category:Living_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_engineers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_Science"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_engineers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Copy_protection"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_scientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cryptography"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Online_algorithm"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Jewish_American_scientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Game_theory"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Engineering"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Copyright_infringement"
     },
     {
         "subject": "http://dbpedia.org/resource/Manuel_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Members_of_the_United_States_National_Academy_of_Sciences"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battleship_(game)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Call_control"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Competitive_analysis_(online_algorithm)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_scientist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Feige\u2013Fiat\u2013Shamir_identification_scheme"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public-key_cryptography"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1956_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_cryptographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Public-key_cryptographers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Theoretical_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Data_management"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weizmann_Institute_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adi_Shamir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Broadcast_encryption"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paging"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_signature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uriel_Feige"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haifa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tel_Aviv_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tetris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Computing_Machinery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tel_Aviv_University_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_computer_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ecash"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Distributed_file_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manuel_Blum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fiat\u2013Shamir_heuristic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Challenge\u2013response_authentication"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Traitor_tracing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Job_shop_scheduling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhard_Woeginger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Karp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris_Kanellakis_Theory_and_Practice_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_C._Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_Cycle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carbon-14"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carbon_dioxide"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carillon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Emil_Schorske"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Shapiro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_Bustamante_(biophysicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Mellon_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_Bertozzi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_R._Bertozzi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Greece"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prions"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prometheus_(2012_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_electronics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_entanglement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Oppenheimer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Reich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tjian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Hartshorne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Lakoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robion_Kirby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_J._Traynor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Y._Tsien"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Loewinsohn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Barnes_(carillonist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Takaki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sather_Tower"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Satish_Rao"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Perlmutter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Shenker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Rosch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Swift"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Fermi_Award"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_University_of_California,_Berkeley_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Dickinson_(biologist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Watts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sharon_Inkelas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prix_Italia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nondeterministic_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Eichengreen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Stroud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Bagdikian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley_APEC_Study_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Maybeck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernd_Sturmfels"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bharati_Mukherjee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Manuel_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blake_R._Van_Leer"
     }
 ]

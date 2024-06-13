@@ -1,263 +1,213 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatMedievalArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGothicSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromTheProvinceOfComo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Benedetto Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Benedetto Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Benedetto Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Benedetto Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Benedetto Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Benedetto Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Benedetto Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043d\u0442\u0435\u043b\u0430\u043c\u0438, \u0411\u0435\u043d\u0435\u0434\u0435\u0442\u0442\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Benedetto Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Benedetto Antelami war italienischer Bildhauer und geh\u00f6rt zu den wenigen namentlich bekannten K\u00fcnstlern der romanischen Epoche."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Benedetto Ant\u00e8lami (Val d'Intelvi, 1150 circa \u2013 1230 circa) \u00e8 stato uno scultore e architetto italiano. Attivo prevalentemente a Parma, \u00e8 uno dei pochi artisti di rilievo del XII-XIII secolo dei quali ci sia giunto il nome. Insieme a Nicola Pisano costituisce una delle personalit\u00e0 (quella di Benedetto in anticipo rispetto a Nicola) che contribuirono alla diffusione della cultura gotica in Italia e alla sua rielaborazione in chiave classica."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Benedetto Antelami, f\u00f6dd omkring 1150, d\u00f6d omkring 1230, var en italiensk arkitekt och bildhuggare, verksam mellan 1177 och 1223. Antelami var f\u00f6retr\u00e4desvis verksam i Parma, d\u00e4r man ser hans arbeten dels i domen, dels vid baptisteriets tre huvudportaler samt i katedralen i Fidenza, med de stora statyerna av David och Hesekiel. B\u00e5de i figurframst\u00e4llning och i ornamentik, till exempel i rankverket, syns att Antelami studerat antiken, men han var \u00e4nnu bunden av den romanska konstens ideal."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0411\u0435\u043d\u0435\u0434\u0435\u0301\u0442\u0442\u043e \u0410\u043d\u0442\u0435\u043b\u0430\u0301\u043c\u0438 (\u0438\u0442\u0430\u043b. Benedetto Antelami; \u043e\u043a. 1150, \u041f\u0430\u0440\u043c\u0430, \u0418\u0442\u0430\u043b\u0438\u044f \u2014 \u043e\u043a. 1230) \u2014 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440 \u0438 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0440\u0430\u0431\u043e\u0442\u0430\u0432\u0448\u0438\u0439 \u0432 \u0440\u043e\u043c\u0430\u043d\u0441\u043a\u043e\u043c \u0441\u0442\u0438\u043b\u0435."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Benedetto Antelami o Antelami de Parma va ser un arquitecte i escultor Itali\u00e0 especialment actiu a la zona de Parma durant l'edificaci\u00f3 del Baptisteri i uns altres entre els anys 1178 i 1200. \u00c9s dels pocs escultors del per\u00edode que coneixem per nom."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Benedetto Antelami (c. 1150 \u2013 c. 1230) was an Italian architect and sculptor of the Romanesque school, whose \"sculptural style sprang from local north Italian traditions that can be traced back to late antiquity\" Little is known about his life. He was probably originally from Lombardy, perhaps born in . It is believed from the Proven\u00e7al style of his art that he served as apprentice at Saint-Trophime d'Arles. In 1178 he was at work at the Parma Cathedral, where, in the right transept, he executed a bas-relief of the Deposition from the Cross. His name and the date are inscribed in the work, which, in addition to the Proven\u00e7al element, shows both classical and Byzantine influence."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Benedetto Antelami o Antelami de Parma fue un arquitecto y escultor Italiano especialmente activo en la zona de Parma durante la edificaci\u00f3n del Baptisterio y otros entre los a\u00f1os 1178 y 1200. Es de los pocos escultores del per\u00edodo del que se conoce el nombre.Se sabe muy poco acerca de su vida. Quiz\u00e1s fuera originario de Lombard\u00eda, en particular de (seg\u00fan se puede inferir de su apellido), donde hay documentos sobre algunos Magister Antelami (maestro Ant\u00e9lami). Conoc\u00eda muy bien, adem\u00e1s de la arquitectura griega, la romana y la pintura antigua y el desarrollo art\u00edstico del \u00e1rea de Provenza. De hecho, se cree que trabaj\u00f3 como aprendiz en la iglesia de San Tr\u00f3fimo en Arl\u00e9s. Algunos historiadores suponen tambi\u00e9n que estuvo en la regi\u00f3n de la Ile-de-France donde habr\u00eda aprendido las novedades d"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Benedetto Antelami est un architecte et un sculpteur italien qui intervint entre la seconde moiti\u00e9 du XIIe et les premi\u00e8res d\u00e9cennies du XIIIe si\u00e8cle. On estime sa naissance autour de 1150, mais ses dates et lieux de naissance et de mort ne sont pas connus. Son activit\u00e9 semble avoir \u00e9t\u00e9 centr\u00e9e sur la Province de Parme, avec peut-\u00eatre une intervention \u00e0 G\u00eanes et \u00e0 Verceil (Pi\u00e9mont)."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Benedetto Antelami (ur. ok. 1150, zm. ok. 1230) \u2013 rze\u017abiarz i architekt w\u0142oski. Zachowa\u0142y si\u0119 dwa sygnowane przez niego dzie\u0142a: zdj\u0119cie z krzy\u017ca z katedry w Parmie i p\u00f3\u0142nocny portal w baptysterium w Parmie. Przypisywane mu s\u0105 tak\u017ce rze\u017aby (m.in. Dawid i Ezechiel) z fasady katedry w Borgo San Donnino (obecnie Fidenza). Charakterystyczne s\u0105 dla niego przysadziste proporcje postaci. W jego dzie\u0142ach widoczne s\u0105 zwi\u0105zki z Prowansj\u0105, zw\u0142aszcza z Arles, w p\u00f3\u017aniejszym okresie tw\u00f3rczo\u015bci tak\u017ce z dzie\u0142ami gotyku z \u00cele-de-France."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/AntelamiDeposition.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Citole,_rosette_(ca._1180)_by_Benedetto_Antelami,_Parma.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Milano_-_Castello_sforzesco_-_Bottega_antelamica_-_sec._XII_-_I_re_magi_-_Foto_Giovanni_Dall'Orto_-_6-1-2007_-_01.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:12th-century_Italian_architects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Romanesque_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:13th-century_Italian_architects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:13th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1150s_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1230s_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_the_Province_of_Como"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:12th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "2318835"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1104004630"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Antelami"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:12th-century_Italian_architects"
+        "object": "http://dbpedia.org/resource/Benedetto_Bonfigli"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Provence"
+        "object": "http://dbpedia.org/resource/Benedetto_Bordone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Castelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Cotrugli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Dei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Ferrari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_I_Zaccaria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Justiniani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Spera"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Stay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Varchi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_da_Maiano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedict_(given_name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Accolti_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enzo_Benedetto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Aloi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Brin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Cairoli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Croce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Della_Vedova"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Luti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Marcello"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Pistrucci"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Santapaola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Benedetto_Carpano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Benedetto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Benedetto_Cottolengo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Di_Benedetto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Benedetto_Castiglione"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dar\u00edo_Benedetto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_name"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Surnames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_masculine_given_names"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Benedetto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_Dominick_Benedetto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Benedetto_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stefano_Benedetto_Pallavicino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Antelami"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Florence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Arezzo-Cortona-Sansepolcro"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
@@ -267,27 +217,232 @@
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bas-relief"
+        "object": "http://dbpedia.org/resource/Corinthian_capital"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/David"
+        "object": "http://dbpedia.org/resource/Category:Towers_completed_in_the_14th_century"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Allegory"
+        "object": "http://dbpedia.org/resource/Arezzo_Cathedral"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Romanesque_artists"
+        "object": "http://dbpedia.org/resource/Category:Roman_Catholic_churches_in_Arezzo"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Domninus_of_Fidenza"
+        "object": "http://dbpedia.org/resource/Mary_(mother_of_Jesus)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gothic_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Romanesque_architecture_in_Arezzo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tuscany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Loggia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tarlati_polyptych"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barrel_vault"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Churches_completed_in_1330"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Medieval_commune"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arezzo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:14th-century_Roman_Catholic_church_buildings_in_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gothic_architecture_in_Tuscany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pietro_Lorenzetti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bishop_of_Arezzo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mullioned_window"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_d'Agostino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Arezzo,_Santa_Maria_della_Pieve_08.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:PiantaPieveArezzo.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carpi,_Emilia-Romagna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Antelami"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romanesque_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_and_structures_completed_in_1184"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Alberti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modena"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baldassare_Peruzzi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aistulf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:12th-century_Roman_Catholic_church_buildings_in_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Romanesque_architecture_in_Emilia-Romagna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Roman_Catholic_churches_in_Carpi,_Emilia-Romagna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catholic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matilde_di_Canossa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baldassarre_Peruzzi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manfredo_I_Pio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Carpi,_Sagra._Lunetta.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Chiesa_di_Santa_Maria_in_Castello,_sarcofago_di_Manfredo_Pio_(Carpi).JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Antelami"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romanesque_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_medieval_Arabic_and_Western_European_domes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Verona"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
@@ -297,206 +452,51 @@
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "object": "http://dbpedia.org/resource/Gothic_architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:13th-century_Italian_architects"
+        "object": "http://dbpedia.org/resource/Category:Romanesque_architecture_in_Parma"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:13th-century_Italian_sculptors"
+        "object": "http://dbpedia.org/resource/Baptistery"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lombardy"
+        "object": "http://dbpedia.org/resource/Paintings"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Basilica_di_San_Marco_(Venice)"
+        "object": "http://dbpedia.org/resource/Parma"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Stations_of_the_Cross"
+        "object": "http://dbpedia.org/resource/Category:12th-century_Roman_Catholic_church_buildings_in_Italy"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Byzantine_Empire"
+        "object": "http://dbpedia.org/resource/Category:Gothic_architecture_in_Emilia-Romagna"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1150s_births"
+        "object": "http://dbpedia.org/resource/Category:Baptisteries_in_Italy"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1230s_deaths"
+        "object": "http://dbpedia.org/resource/Category:Catholic_baptisteries"
     },
     {
         "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_the_Province_of_Como"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Late_antiquity"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Adoration_of_the_Magi_in_Art"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:12th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Flight_into_Egypt"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Holy_Face_of_Lucca"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Classical_antiquity"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Fidenza_Cathedral"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lunette"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Transept"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Baptistry_of_Parma"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Alto-relievo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Last_Judgement"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Presentation_at_the_Temple"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Saint-Trophime_d'Arles"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:AntelamiDeposition.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Val_d'Intelvi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Citole,_rosette_(ca._1180)_by_Benedetto_Antelami,_Parma.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Milano_-_Castello_sforzesco_-_Bottega_antelamica_-_sec._XII_-_I_re_magi_-_Foto_Giovanni_Dall'Orto_-_6-1-2007_-_01.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/North_porch"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.073f_0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/6922149489170593810001"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Benedetto_Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/118649590"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/1145713416"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/50019028"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q560114"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ca.dbpedia.org/resource/Benedetto_Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/Benedetto_Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/Benedetto_Antelami"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benedetto_Antelami",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://et.dbpedia.org/resource/Benedetto_Antelami"
+        "object": "http://dbpedia.org/resource/Dome"
     }
 ]

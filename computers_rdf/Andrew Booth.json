@@ -1,92 +1,27 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Andrew Booth"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "9000921"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1059473986"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Booth"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Booth",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Andrew_Booth_(soccer)"
+        "object": "http://dbpedia.org/resource/Andrew_Booth"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Andrew_Booth_Jr."
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Andrew_Booth"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Andrew_Donald_Booth"
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Andrew_Booth"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Andy_Booth"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Andy_Booth_(racing_driver)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/The_Cassandra_Complex_(band)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Monarch_of_the_Glen_cast"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Andrew_Booth_(soccer)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Andrew_Booth_Jr."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q4756389"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4QJLp"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Hndis"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Andrew_Booth?oldid=1059473986&ns=0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "620"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrew_Booth",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Andrew_Booth"
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/Andrew_Booth"
     }
 ]

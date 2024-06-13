@@ -1,318 +1,18 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calculator"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Sassenrath"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Inventor110214637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchInventors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromTheHague"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Bert Bos"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0628\u064a\u0631\u062a \u0628\u0648\u0633"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Bert Bos"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Bert Bos"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Bert Bos"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Bert Bos"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Bert Bos"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u4f2f\u7279\u00b7\u6ce2\u65af"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Bert Bos \u00e9s un cient\u00edfic de la computaci\u00f3 neerland\u00e8s, reconegut especialment com d'un dels autors de la primera especificaci\u00f3 de fulls d'estil en cascada."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0628\u064a\u0631\u062a \u0628\u0648\u0633 (\u0628\u0627\u0644\u0647\u0648\u0644\u0646\u062f\u064a\u0629: Bert Bos)\u200f \u0647\u0648 \u0645\u062e\u062a\u0631\u0650\u0639 \u0648\u0645\u0647\u0646\u062f\u0633 \u0648\u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0647\u0648\u0644\u0646\u062f\u064a\u060c \u0648\u0644\u062f \u0641\u064a 10 \u0646\u0648\u0641\u0645\u0628\u0631 1963 \u0641\u064a \u0644\u0627\u0647\u0627\u064a \u0641\u064a \u0647\u0648\u0644\u0646\u062f\u0627."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Gijsbert (Bert) Bos (born 1963) is a computer scientist known for the development of Argo, a web browser he developed as test application for his style sheet proposal."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Gijsbert Bos (geb. 1963 in Den Haag) ist ein niederl\u00e4ndischer Informatiker, der durch die Entwicklung und Weiterentwicklung der Cascading Style Sheets bekannt wurde. Zus\u00e4tzlich entwickelte er den Webbrowser als Testanwendung f\u00fcr seinen Stylesheet-Vorschlag."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Bert Bos es un cient\u00edfico de la computaci\u00f3n neerland\u00e9s, reconocido especialmente como de uno de los autores de la primera especificaci\u00f3n de hojas de estilo en cascada."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Bert Bos, n\u00e9 le 10 novembre 1963, est un informaticien n\u00e9erlandais. Il a \u00e9tudi\u00e9 les math\u00e9matiques \u00e0 l'universit\u00e9 de Groningue et a \u00e9crit sa th\u00e8se sur Rapid user interface development with the script language Gist. Il est connu pour avoir propos\u00e9 avec H\u00e5kon Wium Lie le concept de feuilles de style en cascade (CSS). En 1996, il rejoint le World Wide Web Consortium (W3C) pour travailler sur CSS."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Bert Bos (Den Haag, 10 november 1963) is een Nederlandse informaticus. Hij studeerde af op wiskunde aan de Rijksuniversiteit Groningen. Hij werkte een tijd aan de aan deze zelfde universiteit. Hij bouwde onder andere een webbrowser genaamd . Zijn promotieonderzoek was getiteld Rapid user interface development with the script language Gist. Sinds oktober 1995 werkt Bert Bos bij het World Wide Web Consortium (W3C) aan CSS."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u4f2f\u7279\u00b7\u6ce2\u65af\uff08\u82f1\u8a9e\uff1aGijsbert (Bert) Bos\uff0c1963\u5e7411\u670810\u65e5\uff0d\uff09\uff0c\u662f\u4e00\u4f4d\u958b\u767c\u800c\u77e5\u540d\u7684\u8a08\u7b97\u6a5f\u79d1\u5b78\u5bb6\uff0cArgo\u662f\u70ba\u4ed6\u7684CSS\u63d0\u6848\u800c\u958b\u767c\u7684\u7db2\u9801\u700f\u89bd\u5668\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Bert Bos"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "https://www.w3.org/People/Bos/"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Bert Bos"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bert_Bos_1.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/The_Hague"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Netherlands"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/The_Hague"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Netherlands"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1963-11-10"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1963_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Dutch_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Groningen_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Dutch_computer_programmers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Scientists_from_The_Hague"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "807918"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1117677742"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_Morgan_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
@@ -322,181 +22,481 @@
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Groningen"
+        "object": "http://dbpedia.org/resource/Case-based_reasoning"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1963_births"
+        "object": "http://dbpedia.org/resource/Poul-Henning_Kamp"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Process_mining"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mathematics"
+        "object": "http://dbpedia.org/resource/Program_optimization"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Style_sheet_language"
+        "object": "http://dbpedia.org/resource/Programmer"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Computer_scientist"
+        "object": "http://dbpedia.org/resource/Prolog"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Dutch_computer_scientists"
+        "object": "http://dbpedia.org/resource/Punched_card"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Web_browser"
+        "object": "http://dbpedia.org/resource/Python_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/France"
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/The_Hague"
+        "object": "http://dbpedia.org/resource/QuickCheck"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Argo_(web_browser)"
+        "object": "http://dbpedia.org/resource/Robert_Sedgewick_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Groningen_alumni"
+        "object": "http://dbpedia.org/resource/Robert_Sproull"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Dutch_computer_programmers"
+        "object": "http://dbpedia.org/resource/Robert_Tappan_Morris"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Scientists_from_The_Hague"
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Thesis"
+        "object": "http://dbpedia.org/resource/Robert_W._Floyd"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/CSS_Working_Group"
+        "object": "http://dbpedia.org/resource/Roberto_Ierusalimschy"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sophia_Antipolis"
+        "object": "http://dbpedia.org/resource/Roberto_Pieraccini"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/H\u00e5kon_Wium_Lie"
+        "object": "http://dbpedia.org/resource/Robin_Milner"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Netherlands"
+        "object": "http://dbpedia.org/resource/Robotics"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/World_Wide_Web_Consortium"
+        "object": "http://dbpedia.org/resource/Rod_Canion"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://www.w3.org/People/Bos/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Hui"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.03dhl1"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Moore_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/17949564"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Needham"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Bert_Bos"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Carl_Backhouse"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/1158251297"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Rivest"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q617878"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruby_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://data.bibliotheken.nl/id/thes/p310752353"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Bayer"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ar.dbpedia.org/resource/\u0628\u064a\u0631\u062a_\u0628\u0648\u0633"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Rucker"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ca.dbpedia.org/resource/Bert_Bos"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samir_Das"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/Bert_Bos"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samson_Abramsky"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/Bert_Bos"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjay_Ghemawat"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fa.dbpedia.org/resource/\u0628\u0631\u062a_\u0628\u0627\u0633"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjeev_Arora"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fr.dbpedia.org/resource/Bert_Bos"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sargur_Srihari"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://mg.dbpedia.org/resource/Bert_Bos"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scala_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ml.dbpedia.org/resource/\u0d2c\u0d46\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d_\u0d2c\u0d4a\u0d38\u0d4d"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scheme_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Bert_Bos",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://nl.dbpedia.org/resource/Bert_Bos"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_Time_Sharing_Corporation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Aaronson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Fahlman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Shenker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eldon_C._Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_design_automation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/End-user_development"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_architecture_planning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entity-relationship_model"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_computing_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MINIX"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIX"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mihai_Nadin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monitor_(synchronization)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moore_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_worm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_language_processing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Normalized_compression_distance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MD5"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MMIX"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mesh_networking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meta-learning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Bernus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SECD_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/On_Lisp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partially_observable_Markov_decision_process"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ubiquitous_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programmable_calculator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ken_Thompson_(computer_programmer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Really_Achieving_Your_Childhood_Dreams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cray_Research"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeffrey_D._Ullman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eugene_Luks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nondeterministic_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sankar_Pal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bauer\u2013Fike_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bayesian_network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Shneiderman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley_Software_Distribution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Galler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernhard_Sch\u00f6lkopf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernhard_Thalheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Bos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Sutherland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_Meyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Holberton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bigtable"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Gates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Joy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bjarne_Stroustrup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BlueJ"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bourne_shell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_Eich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Kernighan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Randell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_A._Huffman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_A._Wagner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_C._Evans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Canfield_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_E._Shaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bert_Bos",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Eppstein"
     }
 ]

@@ -1,148 +1,198 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Atta ur Rehman Khan"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Atta ur Rehman Khan (Urdu: \u0639\u0637\u0627 \u0627\u0644\u0631\u062d\u0645\u0646 \u062e\u0627\u0646) is a computer scientist and academician who has contributed to multiple domains of the field. According to a Stanford University report, he is among World's Top 2% Scientists. He is the founder of National Cyber Crime Forensics Lab Pakistan, which operates in partnership with NR3C. He has published numerous research articles and books. He is a senior member of IEEE and ACM."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Atta ur Rehman Khan"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "http://attaurrehman.com"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Atta ur Rehman Khan"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr._Atta_ur_Rehman_Khan.png"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Senior_Members_of_the_IEEE"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Senior_Members_of_the_ACM"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Pakistani_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "62142521"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1108353426"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cameron_Highlands_(federal_constituency)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Wireless_Personal_Communications"
+        "object": "http://dbpedia.org/resource/Ampangan_(state_constituency)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Archives_of_Computational_Methods_in_Engineering"
+        "object": "http://dbpedia.org/resource/Abdul_Khalid_Ibrahim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Singapore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_Court_of_Appeal_of_Malaysia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_Dewan_Negara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Malaysia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_Bank_Berhad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rohana_Yusuf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rompin_(federal_constituency)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosey_Yunus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Malaysian_Air_Force"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samsudin_Osman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandakan_(federal_constituency)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarawak_State_Legislative_Assembly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Megat_Burhainuddin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/T._A._Sinnathuray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Top_Glove_Corporation_Bhd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Batu_Kawan_(federal_constituency)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bekenu_(state_constituency)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Sheares"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deputy_Minister_of_Higher_Education_(Malaysia)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deputy_Prime_Minister_of_Malaysia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Devamany_S._Krishnasamy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dewan_Negara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anis_Sabirin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anwar_Fazal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hoh_Khai_Mun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hou_Kok_Chung"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hulu_Terengganu_(federal_constituency)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Human_Rights_Commission_of_Malaysia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Husam_Musa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johor_State_Legislative_Assembly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_governors_of_Penang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penang_State_Executive_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perak_State_Legislative_Assembly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Permodalan_Nasional_Berhad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rex_Shelley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_College_London"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
@@ -152,316 +202,301 @@
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Urdu_language"
+        "object": "http://dbpedia.org/resource/Victoria_University_of_Wellington"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/International_Journal_of_Information_Technology_&_Decision_Making"
+        "object": "http://dbpedia.org/resource/Vigneswaran_Sanasee"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Vivian_Hoo_Kah_Mun"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+        "object": "http://dbpedia.org/resource/Vivian_Wong_Shir_Yee"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Qurtuba_University"
+        "object": "http://dbpedia.org/resource/Deputy_Inspector-General_of_Police_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Stanford_University"
+        "object": "http://dbpedia.org/resource/Syed_Amin_Aljeffri"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cluster_Computing_(journal)"
+        "object": "http://dbpedia.org/resource/Mary_Yap"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Measurement_(journal)"
+        "object": "http://dbpedia.org/resource/Masir_Kujat"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/COMSATS_University_Islamabad"
+        "object": "http://dbpedia.org/resource/Maszlee_Malik"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Senior_Members_of_the_IEEE"
+        "object": "http://dbpedia.org/resource/Mayor_of_Kuala_Lumpur"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/The_Journal_of_Supercomputing"
+        "object": "http://dbpedia.org/resource/Member_of_Parliament"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Air_University_(Pakistan_Air_Force)"
+        "object": "http://dbpedia.org/resource/Menteri_Besar_of_Johor"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ajman_University"
+        "object": "http://dbpedia.org/resource/Menteri_Besar_of_Negeri_Sembilan"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Journal_of_Grid_Computing"
+        "object": "http://dbpedia.org/resource/Menteri_Besar_of_Pahang"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Journal_of_Sensor_and_Actuator_Networks"
+        "object": "http://dbpedia.org/resource/Menteri_Besar_of_Perak"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/COMSATS_University"
+        "object": "http://dbpedia.org/resource/Menteri_Besar_of_Perlis"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/List_of_Hindawi_academic_journals"
+        "object": "http://dbpedia.org/resource/Menteri_Besar_of_Selangor"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Higher_Education_Commission_(Pakistan)"
+        "object": "http://dbpedia.org/resource/Rynn_Lim"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Senior_Members_of_the_ACM"
+        "object": "http://dbpedia.org/resource/S._Dhanabalan"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Technische_Universit\u00e4t_Ilmenau"
+        "object": "http://dbpedia.org/resource/S._R._Nathan"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/ACM_Computing_Surveys"
+        "object": "http://dbpedia.org/resource/S._Rajaratnam_School_of_International_Studies"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Pakistani_computer_scientists"
+        "object": "http://dbpedia.org/resource/Sabah"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/King_Saud_University"
+        "object": "http://dbpedia.org/resource/Sabak_(state_constituency)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sohar_University"
+        "object": "http://dbpedia.org/resource/Sabak_Bernam_(federal_constituency)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/DAAD_scholarship"
+        "object": "http://dbpedia.org/resource/Sabbaruddin_Chik"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Institute_of_Electrical_and_Electronics_Engineers"
+        "object": "http://dbpedia.org/resource/Sabri_Azit"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IEEE_Access"
+        "object": "http://dbpedia.org/resource/Saifuddin_Abdullah"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IEEE_Cloud_Computing"
+        "object": "http://dbpedia.org/resource/Saldi_Isra"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IEEE_Communications_Surveys_and_Tutorials"
+        "object": "http://dbpedia.org/resource/Sallehen_Mukhyi"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Dr._Atta_ur_Rehman_Khan.png"
+        "object": "http://dbpedia.org/resource/Chen_Lip_Keong"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://attaurrehman.com"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nipah_virus"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q100332834"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ramon_Navaratnam"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/FVn7W"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chua_Soi_Lek"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/workplaces",
-        "object": "http://dbpedia.org/resource/Ajman_University"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chuah_Hean_Teik"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/workplaces",
-        "object": "King Saud University"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edwin_Thumboo"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/workplaces",
-        "object": "University of Malaya"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Election_Commission_of_Malaysia"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/workplaces",
-        "object": "Air University (Pakistan Air Force)"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elyas_Omar"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/workplaces",
-        "object": "COMSATS University"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G._Palanivel"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/workplaces",
-        "object": "Qurtuba University"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gary_Yap"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/workplaces",
-        "object": "Sohar University"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gloria_Lim"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Doi"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gopal_Baratham"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:ISBN"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minister_of_Foreign_Affairs_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minister_of_Health_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Nq"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minister_of_Higher_Education_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minister_of_Housing_and_Local_Government_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr._Atta_ur_Rehman_Khan.png?width=300"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minister_of_International_Trade_and_Industry_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/almaMater",
-        "object": "http://dbpedia.org/resource/University_of_Malaya"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minister_of_Science,_Technology_and_Innovation_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/almaMater",
-        "object": "COMSATS University"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minister_of_Tourism,_Arts_and_Culture_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/nativeNameLang",
-        "object": "ur"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minister_of_Transport_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/property/website",
-        "object": "http://attaurrehman.com"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minister_of_Women,_Family_and_Community_Development_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Atta ur Rehman Khan (Urdu: \u0639\u0637\u0627 \u0627\u0644\u0631\u062d\u0645\u0646 \u062e\u0627\u0646) is a computer scientist and academician who has contributed to multiple domains of the field. According to a Stanford University report, he is among World's Top 2% Scientists. He is the founder of National Cyber Crime Forensics Lab Pakistan, which operates in partnership with NR3C. He has published numerous research articles and books. He is a senior member of IEEE and ACM."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministers_of_Plantation_Industries_and_Commodities_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/institution",
-        "object": "http://dbpedia.org/resource/University_of_Malaya"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Agriculture_and_Food_Industries_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/institution",
-        "object": "http://dbpedia.org/resource/Qurtuba_University"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Defence_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/institution",
-        "object": "http://dbpedia.org/resource/Air_University_(Pakistan_Air_Force)"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Education_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/institution",
-        "object": "http://dbpedia.org/resource/Ajman_University"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Finance_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/institution",
-        "object": "http://dbpedia.org/resource/COMSATS_University"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Foreign_Affairs_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/institution",
-        "object": "http://dbpedia.org/resource/King_Saud_University"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Health_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/institution",
-        "object": "http://dbpedia.org/resource/Sohar_University"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Rural_Development_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Atta_ur_Rehman_Khan?oldid=1108353426&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Transport_(Malaysia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "18186"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/almaMater",
-        "object": "http://dbpedia.org/resource/University_of_Malaya"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://dbpedia.org/ontology/almaMater",
-        "object": "http://dbpedia.org/resource/COMSATS_University"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Atta_ur_Rehman_Khan",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Atta_ur_Rehman_Khan"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Youth_and_Sports_(Malaysia)"
     }
 ]

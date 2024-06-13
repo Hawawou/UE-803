@@ -1,237 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Benita Armstrong"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Benita Armstrong"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Benita Eleanora Armstrong, nee Benita Jaeger later The Lady Strauss, (1907-2004) was British sculptor known for her bronze figurative work."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Benita Eleanora Armstrong, nascida Benita Jaeger mais tarde The Lady Strauss, (1907-2004) foi uma escultora brit\u00e2nica conhecida pelo seu trabalho figurativo em bronze."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Jewish_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1907_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:2004_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:German_emigrants_to_the_United_Kingdom"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_German_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Spouses_of_life_peers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:English_people_of_German-Jewish_descent"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:British_baronesses"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "61826994"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1114690762"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Jewish_women_artists"
+        "object": "http://dbpedia.org/resource/Camille_Billops"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Academy"
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Georg_Ehrlich"
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Clive_Bell"
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1907_births"
+        "object": "http://dbpedia.org/resource/Carolina_Benedicks-Bruce"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:2004_deaths"
+        "object": "http://dbpedia.org/resource/Caroline_Peddle_Ball"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+        "object": "http://dbpedia.org/resource/Caroline_Ramersdorfer"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:German_emigrants_to_the_United_Kingdom"
+        "object": "http://dbpedia.org/resource/Caroline_Shawk_Brooks"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_women_artists"
+        "object": "http://dbpedia.org/resource/Beatrice_Angle"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_German_women_artists"
+        "object": "http://dbpedia.org/resource/Benita_Armstrong"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Spouses_of_life_peers"
+        "object": "http://dbpedia.org/resource/Roberta_Everett"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Charlotte_Street"
+        "object": "http://dbpedia.org/resource/Rosalie_Gascoigne"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:English_people_of_German-Jewish_descent"
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:British_baronesses"
+        "object": "http://dbpedia.org/resource/Roxanne_Swentzell"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/John_Armstrong_(artist)"
+        "object": "http://dbpedia.org/resource/Sara_Holt_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Labour_Party_(UK)"
+        "object": "http://dbpedia.org/resource/Sarah_Fisher_Ames"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/George_Russell_Strauss"
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q67943199"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://mk.dbpedia.org/resource/\u0411\u0435\u043d\u0438\u0442\u0430_\u0410\u0440\u043c\u0441\u0442\u0440\u043e\u043d\u0433"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarra_Lebedeva"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://pt.dbpedia.org/resource/Benita_Armstrong"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elfriede_Abbe"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/Asw9d"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Gordon_Chandler"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Toubro"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_sculptors"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_women_artists"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mirit_Cohen"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Benita Eleanora Armstrong, nee Benita Jaeger later The Lady Strauss, (1907-2004) was British sculptor known for her bronze figurative work."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00eda_Berm\u00fadez"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Benita Eleanora Armstrong, nascida Benita Jaeger mais tarde The Lady Strauss, (1907-2004) foi uma escultora brit\u00e2nica conhecida pelo seu trabalho figurativo em bronze."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teresa_Margolles"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Benita_Armstrong?oldid=1114690762&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bashka_Paeff"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "2380"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belle_Kinney_Scholz"
     },
     {
         "subject": "http://dbpedia.org/resource/Benita_Armstrong",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Benita_Armstrong"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Harvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Marsh_Brewer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Potter_Vonnoh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Jukes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Pepper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bharti_Kher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blanche_Nevin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Putnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Butterfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delphine_Bo\u00ebl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Lindley-Millican"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Turnbull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anita_Huffington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Coleman_Ladd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Dabis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Golubkina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Davidson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Wilson_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annet_van_Egmond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huma_Bhabha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonny_Star"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josefina_de_Vasconcellos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josette_H\u00e9bert-Co\u00ebffin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Bluck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Rotblatt-Amrany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Cullen-Kerridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bettina_Scholl-Sabbatini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patience_Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Johanson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Piccinini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paula_Zima"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Aitken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Boumphrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petah_Coyne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renee_Stout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9e_Sintenis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Retta_T._Matthews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursula_Edgcumbe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursula_von_Rydingsvard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C.C._van_Asch_van_Wijck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Mukhina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_Fuller_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vija_Celmins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vinnie_Ream"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Violet_Dreschfeld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Davina_Semo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Hede"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doris_Salcedo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Cross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Venning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ingunn_Utsi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jana_Sterbak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johanne_Pedersen-Dan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lena_Cronqvist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lilian_Simpson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lilli_Wislicenus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lillian_Wade"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lily_Garafulic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Properzia_de'_Rossi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constance-Anne_Parker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coosje_van_Bruggen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornelia_Parker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cresilla_(female_sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Benita_Armstrong",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Toscani"
     }
 ]

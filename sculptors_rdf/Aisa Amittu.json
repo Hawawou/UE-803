@@ -1,282 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aisa Amittu"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Aisa Amittu (born September 6, 1951) is an Inuit sculptor and printmaker. He was born in Puvirnituq, Nunavik. He first exhibited publicly in 1989 at the Inuit Galerie in Mannheim, Germany. His work is included in the collections of the Mus\u00e9e national des beaux-arts du Qu\u00e9bec and the National Gallery of Canada."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Aisa Amittu"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Aisa Amittu"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Puvirnituq"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Nunavik"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Puvirnituq"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Nunavik"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1951-09-06"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1951_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Canadian_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "63919798"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1104302206"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Puvirnituq"
+        "object": "http://dbpedia.org/resource/Camille_Billops"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1951_births"
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mus\u00e9e_national_des_beaux-arts_du_Qu\u00e9bec"
+        "object": "http://dbpedia.org/resource/Carlo_Marochetti"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Nunavik"
+        "object": "http://dbpedia.org/resource/Carol_Brooks_MacNeil"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Canadian_artists"
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+        "object": "http://dbpedia.org/resource/Carolina_Benedicks-Bruce"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_artists"
+        "object": "http://dbpedia.org/resource/Caroline_Peddle_Ball"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mannheim"
+        "object": "http://dbpedia.org/resource/Caroline_Ramersdorfer"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/National_Gallery_of_Canada"
+        "object": "http://dbpedia.org/resource/Caroline_Shawk_Brooks"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/61705073"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caspar_Buberl"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q55217641"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ambrosius_Petruzzy"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://arz.dbpedia.org/resource/\u0627\u064a\u0633\u0627_\u0627\u0645\u064a\u062a\u0648"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Angle"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/9K7AV"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Huntington"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Antelami"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_da_Maiano"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benita_Armstrong"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Creswick"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Taylor_(architect)"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Canada-artist-stub"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Thomas_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/property/birthDate",
-        "object": "1951-09-06"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_White_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/property/knownFor",
-        "object": "Sculpture, printmaking"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberta_Everett"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Aisa Amittu (born September 6, 1951) is an Inuit sculptor and printmaker. He was born in Puvirnituq, Nunavik. He first exhibited publicly in 1989 at the Inuit Galerie in Mannheim, Germany. His work is included in the collections of the Mus\u00e9e national des beaux-arts du Qu\u00e9bec and the National Gallery of Canada."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Kost"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Aisa_Amittu?oldid=1104302206&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romano_Vio"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "2218"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Mueck"
     },
     {
         "subject": "http://dbpedia.org/resource/Aisa_Amittu",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Aisa_Amittu"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_Bonheur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalie_Gascoigne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxanne_Swentzell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Fisher_Ames"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarra_Lebedeva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sassona_Norton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Burton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Layfield_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elfriede_Abbe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elias_Wakan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Gordon_Chandler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Toubro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Endel_Taniloo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ennutsiak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enook_Manomie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Epiphanius_Evesham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_female_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Louis-Ernest_Meissonier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minoru_Niizuma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mirit_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e1szl\u00f3_Besz\u00e9des"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9on_Indenbaum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9on_Mignon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9onard_De_Cuyper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00eda_Berm\u00fadez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oopik_Pitsuilak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parys_Filippi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shane_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teresa_Margolles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Izdebskiy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corn\u00e9lie_Caroline_van_Asch_van_Wijck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bashka_Paeff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bela_Pratt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belle_Kinney_Scholz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Enwonwu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Paul_Akers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Victor_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Waterhouse_Hawkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benvenuto_Cellini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_van_Loo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertel_Thorvaldsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Harvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Potter_Vonnoh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beulah_Woodard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Pepper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bharti_Kher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Barrett_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Woodrow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billie_Lawless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blanche_Nevin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogdan_Ra\u021b\u0103"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Putnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Eugene_Henry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Nash_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ruben_Piqtoukun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Smith_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_d'Angers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Alva_Parsons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Barye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Tibor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Rideout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Turnbull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allan_Linder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_Hutchinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allie_Tennant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alojz_Rigele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrei_Kolkoutine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Aisa_Amittu",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e1s_Beck"
     }
 ]

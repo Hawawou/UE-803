@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caff\u00e8_Florian"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnival_of_Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Procurators_of_Saint_Mark"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Republic"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Wittkower"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Geminiano,_Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entablature"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Merlon"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Polo"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArchitecturalTheoreticians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Correr_Museum"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistAuthors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Marco_(sestiere_of_Venice)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Agnadello"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biblioteca_Marciana"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Almshouse"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Abbondi"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLatin-languageWriters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Cappello"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLinguistsFromItaly"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arcade_(architecture)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatMusicTheorists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holy_Roman_Empire"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromGenoa"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jacopo_Sansovino_buildings"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRomanCatholicPhilosophers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Piazza_San_Marco"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRomancePhilologists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Renaissance_architecture_in_Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Architect109805475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renaissance_architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Republic_of_Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Percier"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Veneto"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Contestant109613191"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vicenza"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Cryptanalyst109981540"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vincenzo_Scamozzi"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Decoder109995398"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/De_architectura"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/De_re_aedificatoria"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Humanist110191192"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Howard"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deposit_(finance)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Linguist110264437"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doric_order"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorsoduro"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Mathematician110301261"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colosseum"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Medalist110305062"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commune_Veneciarum"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Musician110339966"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cretan_War_(1645\u20131669)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Musician110340312"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sack_of_Rome_(1527)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chiaroscuro"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stato_da_M\u00e0r"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organist110382825"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_Mark's_Clocktower"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Painter110391653"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_Council_of_Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Performer110415638"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corinthian_order"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theatre_of_Marcellus"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Philologist110423225"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Royal_residences_in_Italy"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Philosopher110423589"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Gritti"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bay_(architecture)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Poet110444194"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Battista_Alberti"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatHumanists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Loggetta_del_Sansovino"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalian-languageWriters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caff\u00e8_Lavena"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianArchitects"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caff\u00e8_Quadri"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianArchitectureWriters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_Mark's_Basilica"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianHumanists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_Mark's_Campanile"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianMathematicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zecca_of_Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianMedallists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felice_Giani"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianMusicTheorists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francesco_Sansovino"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianOrganists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hospice"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plenary_session"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianPhilosophers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portico"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianPoets"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcantonio_Barbaro"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianRenaissanceHumanists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mauro_Codussi"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianRenaissanceWriters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museo_Correr"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianSculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Byzantine_architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianWriters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tintoretto"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Winner110782940"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/War_of_the_League_of_Cambrai"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Writer110794014"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/War_of_the_League_of_Cognac"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doge"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Antonio_Antolini"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Carlo_Bevilacqua"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Borsato"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hegemony"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ionic_order"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Theorist110706812"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Loggia"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ancient_Roman_architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat15th-centuryItalianPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Curvilinear"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat15th-centuryPhilosophers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eug\u00e8ne_de_Beauharnais"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleOfTheRepublicOfGenoa"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Facade"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPre-19th-centuryCryptographers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fall_of_the_Republic_of_Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatQuattrocentoPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baldassare_Longhena"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRenaissanceArchitects"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ottoman_Turks"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRenaissanceLatin-languageWriters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palazzo_Chiericati"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRenaissancePainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palazzo_Porto,_Vicenza"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/Artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pantheon,_Rome"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/PersonWithOccupation"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Papal_States"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Capital_(economics)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0644\u064a\u0648\u0646 \u0628\u0627\u062a\u064a\u0633\u062a\u0627 \u0623\u0644\u0628\u064a\u0631\u062a\u064a"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forum_(Roman)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Istrian_stone"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_Peninsula"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vitruvius"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u039b\u03ad\u03bf\u03bd \u039c\u03c0\u03b1\u03c4\u03c4\u03af\u03c3\u03c4\u03b1 \u0391\u03bb\u03bc\u03c0\u03ad\u03c1\u03c4\u03b9"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacopo_Sansovino"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teatro_Olimpico"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Council_of_Forty"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stato_da_Tera"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Attic_style"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Julius_Norwich"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jupiter_(mythology)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30ec\u30aa\u30f3\u30fb\u30d0\u30c3\u30c6\u30a3\u30b9\u30bf\u30fb\u30a2\u30eb\u30d9\u30eb\u30c6\u30a3"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trapezoid"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\ub808\uc628 \ubc14\ud2f0\uc2a4\ud0c0 \uc54c\ubca0\ub974\ud2f0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doge's_Palace"
     },
     {
         "subject": "http://dbpedia.org/resource/Leon_Battista_Alberti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leon Battista Alberti"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bond_(finance)"
     }
 ]

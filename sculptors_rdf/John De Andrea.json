@@ -1,403 +1,93 @@
 [
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromDenver,Colorado"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromDenver,Colorado"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u062c\u0648\u0646 \u062f\u064a \u0623\u0646\u062f\u0631\u064a\u0627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John De Andrea"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John de Andrea"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John de Andrea"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John De Andrea"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John De Andrea"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30b8\u30e7\u30f3\u30fb\u30c7\u30fb\u30a2\u30f3\u30c9\u30ec\u30a2"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John De Andrea"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John De Andrea"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u062c\u0648\u0646 \u062f\u064a \u0623\u0646\u062f\u0631\u064a\u0627 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: John De Andrea)\u200f \u0647\u0648 \u0641\u0646\u0627\u0646 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 24 \u0646\u0648\u0641\u0645\u0628\u0631 1941 \u0641\u064a \u062f\u0646\u0641\u0631 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John De Andrea (* 24. November 1941 in Denver) ist ein US-amerikanischer Bildhauer und Zeichner des Neuen Realismus und spezialisiert auf Akte in lebensecht wirkenden Posen."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John De Andrea (born 1941) is an American sculptor known for his realistic sculptures of human figures, dressed or nude and in true-to-life postures."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John De Andrea nacido en Denver, Colorado el 24 de noviembre de 1941, es un escultor estadounidense. Asociado con la escuela de arte fotorrealista. De Andrea es conocido por sus extremadamente realistas esculturas de polivinilo representando figuras humanas. De Andrea es titulado en Artes por la Universidad de Colorado en Boulder y estudi\u00f3 en la en Albuquerque entre 1966 y 1968. Vive en Denver."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John de Andrea, n\u00e9 le 24 novembre 1941 \u00e0 Denver, Colorado. Premier sculpteur du groupe am\u00e9ricain des photor\u00e9alistes ou hyperr\u00e9alistes dans les ann\u00e9es 1970."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30b8\u30e7\u30f3\u30fb\u30c7\u30fb\u30a2\u30f3\u30c9\u30ec\u30a2\uff08John De Andrea\uff09\u306f\u30a2\u30e1\u30ea\u30ab\u3001\u30b3\u30ed\u30e9\u30c9\u5dde\u51fa\u8eab\u306e\u30b9\u30fc\u30d1\u30fc\u30ea\u30a2\u30ea\u30ba\u30e0\u306e\u7f8e\u8853\u5bb6\u3002\u30c7\u30f3\u30d0\u30fc\u5728\u4e2d\u3002\u4f5c\u54c1\u306f\u7740\u8863\u307e\u305f\u306f\u88f8\u306e\u4eba\u7269\u3092\u5199\u5b9f\u7684\u306b\u5f6b\u523b\u4f5c\u54c1\u306b\u3057\u3066\u3044\u308b\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John De Andrea (Denver, 24 novembre 1941) \u00e8 un artista e scultore statunitense.La sua opera \u00e8 legata alla corrente dell'iperrealismo. De Andrea \u00e8 conosciuto per i suoi polivinili estremamente realistici. Laureatosi all'universit\u00e0 del Colorado in Belle Arti ha studiato all'Universit\u00e0 del New Mexico. Vive a Denver. Nel 1972 ha preso parte alla quinta edizione della Documenta di Kassel e nel 1978 alla Biennale di Venezia, dedicata in quell'occasione al rapporto tra l'arte e la natura (l'opera esposta \u00e8 visibile nel film Dove vai in vacanza? nell'episodio \"Le vacanze intelligenti\")."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John de Andrea (Denver, 24 de novembro de 1941) \u00e9 um escultor hiper-realista estadunidense. Desde os anos sessenta seu trabalho vem causando grande assombro e perplexidade junto ao p\u00fablico e cr\u00edtica, fato ligado ao extremo naturalismo e realismo conseguido atrav\u00e9s de uma t\u00e9cnica de qualidade incontext\u00e1vel que supera em muito qualquer outro artista do g\u00eanero. Os trabalhos desenvolvido em polivinil policromado em \u00f3leo, em sua grande maioria nus femininos, trouxeram uma nova for\u00e7a expressiva a este ramo das artes pl\u00e1sticas."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John De Andrea, f\u00f6dd 24 november 1941 i Denver i Colorado i USA, \u00e4r en amerikansk skulpt\u00f6r. John De Andrea utbildade sig 1961-65 p\u00e5 University of Colorado i Boulder och 1966-68 p\u00e5 i Albuquerque. Han hade sin f\u00f6rsta separatutst\u00e4llning 1970 p\u00e5 O.K.Harris Gallery i New York. Han har huvudsakligen gjort sig k\u00e4nd f\u00f6r sina hyperrealistiska skulpturer av nakna m\u00e4nniskor i naturlig storlek. Skulpturerna \u00e4r gjorda efter levande modell genom avgjutning och d\u00e4refter m\u00e5lade. John De Andrea menar sig vilja g\u00f6ra sina skulpturer till f\u00f6rv\u00e4xling lika verkliga m\u00e4nniskor och att de skall f\u00f6refalla att andas."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "John De Andrea"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "John De Andrea"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Colorado"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Denver,_Colorado"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "Denver, Colorado"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1941-11-24"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Colorado"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1941_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Hyperrealist_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Denver"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Colorado_Boulder_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_New_Mexico_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "11614185"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1086139286"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ron_Mueck"
+        "object": "http://dbpedia.org/resource/Robert_Mangold"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Denver_Art_Museum"
+        "object": "http://dbpedia.org/resource/Robert_Rauschenberg"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Colorado"
+        "object": "http://dbpedia.org/resource/Samsonite"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_New_Mexico"
+        "object": "http://dbpedia.org/resource/Modernism"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1941_births"
+        "object": "http://dbpedia.org/resource/Beijing"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Allergy"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cologne"
+        "object": "http://dbpedia.org/resource/Hong_Kong"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Colorado"
+        "object": "http://dbpedia.org/resource/University_of_Denver"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/George_Segal_(artist)"
+        "object": "http://dbpedia.org/resource/Sculpture"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Museum_Ludwig"
+        "object": "http://dbpedia.org/resource/Smithsonian_Institution"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Hyperrealist_artists"
+        "object": "http://dbpedia.org/resource/SoHo,_Manhattan"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Denver,_Colorado"
+        "object": "http://dbpedia.org/resource/Painting"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Denver"
+        "object": "http://dbpedia.org/resource/Polyester"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Colorado_Boulder_alumni"
+        "object": "http://dbpedia.org/resource/Bamboo"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Documenta"
+        "object": "http://dbpedia.org/resource/Category:1933_births"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Aachen"
+        "object": "http://dbpedia.org/resource/Category:2010_deaths"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Albuquerque,_New_Mexico"
+        "object": "http://dbpedia.org/resource/Americans"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
@@ -407,96 +97,406 @@
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Colorado_at_Boulder"
+        "object": "http://dbpedia.org/resource/Abstract_art"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bachelor_of_Fine_Arts"
+        "object": "http://dbpedia.org/resource/John_De_Andrea"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_New_Mexico_alumni"
+        "object": "http://dbpedia.org/resource/Taiwan"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kassel"
+        "object": "http://dbpedia.org/resource/Teacher"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Herbert_F._Johnson_Museum_of_Art"
+        "object": "http://dbpedia.org/resource/South_Bend,_Indiana"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Portland_Museum_of_Art"
+        "object": "http://dbpedia.org/resource/Fiberglass"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Metropolitan_Museum_of_Art"
+        "object": "http://dbpedia.org/resource/Oli_Sihvonen"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculptor"
+        "object": "http://dbpedia.org/resource/Resin_casting"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Hyperrealism"
+        "object": "http://dbpedia.org/resource/Robert_Whitman"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Hyperrealism_(painting)"
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://web.archive.org/web/20180930142509/http:/faculty.etsu.edu/kortumr/HUMT2320/postmodern/htmdescriptionpages/sphinx.htm"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academy"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.02rlmm4"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Hild\u00e9n_Art_Museum"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/77593719"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Piccinini"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/119296497"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paula_Rego"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/John_De_Andrea"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rio_de_Janeiro"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/109001788X"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_(Australia)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q509719"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ar.dbpedia.org/resource/\u062c\u0648\u0646_\u062f\u064a_\u0623\u0646\u062f\u0631\u064a\u0627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melbourne"
     },
     {
         "subject": "http://dbpedia.org/resource/John_De_Andrea",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://arz.dbpedia.org/resource/\u062c\u0648\u0646_\u062f\u0649_\u0627\u0646\u062f\u0631\u064a\u0627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Segal_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Modern_Art,_Rio_de_Janeiro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_StoryTeller_(TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hyperrealist_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucian_Freud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zharko_Basheski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9douard_Manet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fundacion_Proa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1958_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_people_of_German_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buenos_Aires"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_male_voice_actors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Australian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ARoS_Aarhus_Kunstmuseum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/49th_Venice_Biennale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duane_Hanson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ferens_Art_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fondation_Cartier_pour_l'Art_Contemporain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hayward_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tampere"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hyperrealism_(visual_arts)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Australian_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Realist_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_contemporary_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_expatriates_in_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Henson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_De_Andrea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Labyrinth_(1986_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spencer_Tunick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Millennium_Dome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pinacoteca_do_Estado_de_Sao_Paulo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sensation_exhibition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cahors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cambridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Capitoline_Museums"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caravaggio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolingian_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Casimir_Zagourski"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caspar_David_Friedrich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cassandre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Casto_Plasencia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catalonia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amor_Vincit_Omnia_(Caravaggio)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beethoven_Frieze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belle_\u00c9poque"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belvedere_Torso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pre-Raphaelite_Brotherhood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prehistoric_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proportionality_(mathematics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Protestant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Protestantism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psyche_Revived_by_Cupid's_Kiss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychedelia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychoanalysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punjab"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pushkin_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_De_Andrea",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roca_dels_Moros"
     }
 ]

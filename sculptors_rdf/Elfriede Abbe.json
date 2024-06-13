@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanEngravers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanIllustrators"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPrintmakers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromWashington,D.C."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatCornellUniversityAlumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engraver110058155"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Illustrator109812068"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Printmaker110475687"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Worker109632518"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/SkilledWorker110605985"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Elfriede Abbe"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Elfriede Abbe"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Elfriede Abbe"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Elfriede Martha Abbe (* 6. Februar 1919 in Washington, D.C.; \u2020 31. Dezember 2012 in Manchester, Vermont) war eine US-amerikanische Bildhauerin, Holzgraveurin und Illustratorin botanischer Werke. Im Selbstverlag druckte sie ihre Werke auf einer Presse in ihrem Studio."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Elfriede Martha Abbe (1919\u20132012) was an American sculptor, wood engraver and botanical illustrator, often displaying nature and simple country living inspired by her Upstate New York home. A self-publisher, Abbe created numerous hand-printed books, which she printed on a printing press in her studio."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Elfriede Abbe (Washington D. C., 6 de febrero de 1919 \u2212 31 de diciembre de 2012)\u200b fue una escultora, ilustradora bot\u00e1nica y grabadora en madera estadounidense. A menudo muestra la naturaleza y los campos inspirados en los del estado de Nueva York donde vivi\u00f3. Autoeditora, imprimi\u00f3 numerosos libros estampados a mano, que ella misma creaba en una imprenta en su estudio."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Elfriede Abbe"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Elfriede Abbe"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sixth_Day_by_Elfriede_Abbe.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Manchester,_Vermont"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/Manchester,_Vermont"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "2012-12-31"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "Washington, DC"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1919-02-06"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:2012_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_wood_engravers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Washington,_D.C."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1919_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Cornell_University_College_of_Architecture,_Art,_and_Planning_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_women_printmakers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Women_engravers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_engravers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_engravers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_printmakers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Manchester,_Vermont"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "32077396"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1123865285"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Carnegie_Mellon_University"
+        "object": "http://dbpedia.org/resource/Camille_Billops"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/National_Sculpture_Society"
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Vermont"
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Printing_press"
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:2012_deaths"
+        "object": "http://dbpedia.org/resource/Carolina_Benedicks-Bruce"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_artists"
+        "object": "http://dbpedia.org/resource/Caroline_Peddle_Ball"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
+        "object": "http://dbpedia.org/resource/Caroline_Ramersdorfer"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cornell_University"
+        "object": "http://dbpedia.org/resource/Caroline_Shawk_Brooks"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Salmagundi_Club"
+        "object": "http://dbpedia.org/resource/Beatrice_Angle"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:American_wood_engravers"
+        "object": "http://dbpedia.org/resource/Benita_Armstrong"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Washington,_D.C."
+        "object": "http://dbpedia.org/resource/Roberta_Everett"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Engraving"
+        "object": "http://dbpedia.org/resource/Rosalie_Gascoigne"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Botanical_illustrator"
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cornell_University_Library"
+        "object": "http://dbpedia.org/resource/Roxanne_Swentzell"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/1939_New_York_World's_Fair"
+        "object": "http://dbpedia.org/resource/Sara_Holt_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Manchester,_Vermont"
+        "object": "http://dbpedia.org/resource/Sarah_Fisher_Ames"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Smith_College"
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1919_births"
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+        "object": "http://dbpedia.org/resource/Sarra_Lebedeva"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Cornell_University_College_of_Architecture,_Art,_and_Planning_alumni"
+        "object": "http://dbpedia.org/resource/Elfriede_Abbe"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:American_women_printmakers"
+        "object": "http://dbpedia.org/resource/Elisabeth_Gordon_Chandler"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Women_engravers"
+        "object": "http://dbpedia.org/resource/Elisabeth_Toubro"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Sixth_Day_by_Elfriede_Abbe.jpg"
+        "object": "http://dbpedia.org/resource/Category:Lists_of_sculptors"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Northampton,_Massachusetts"
+        "object": "http://dbpedia.org/resource/Category:Lists_of_women_artists"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ithaca,_New_York"
+        "object": "http://dbpedia.org/resource/Mirit_Cohen"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Archives_of_American_Art"
+        "object": "http://dbpedia.org/resource/L\u00eda_Berm\u00fadez"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_engravers"
+        "object": "http://dbpedia.org/resource/Teresa_Margolles"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:American_engravers"
+        "object": "http://dbpedia.org/resource/Bashka_Paeff"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_printmakers"
+        "object": "http://dbpedia.org/resource/Belle_Kinney_Scholz"
     },
     {
         "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Manchester,_Vermont"
+        "object": "http://dbpedia.org/resource/Bessie_Harvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Marsh_Brewer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Potter_Vonnoh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Jukes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Pepper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bharti_Kher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blanche_Nevin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Putnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Butterfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delphine_Bo\u00ebl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Lindley-Millican"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Turnbull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anita_Huffington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Coleman_Ladd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Dabis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Golubkina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Davidson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Wilson_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annet_van_Egmond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huma_Bhabha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonny_Star"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josefina_de_Vasconcellos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josette_H\u00e9bert-Co\u00ebffin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Bluck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Rotblatt-Amrany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Cullen-Kerridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bettina_Scholl-Sabbatini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patience_Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Johanson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Piccinini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paula_Zima"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Aitken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Boumphrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petah_Coyne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renee_Stout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9e_Sintenis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Retta_T._Matthews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursula_Edgcumbe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursula_von_Rydingsvard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C.C._van_Asch_van_Wijck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Mukhina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_Fuller_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vija_Celmins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vinnie_Ream"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Violet_Dreschfeld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Davina_Semo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Hede"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doris_Salcedo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Cross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Venning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ingunn_Utsi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jana_Sterbak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johanne_Pedersen-Dan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lena_Cronqvist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lilian_Simpson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lilli_Wislicenus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lillian_Wade"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lily_Garafulic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Properzia_de'_Rossi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constance-Anne_Parker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coosje_van_Bruggen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornelia_Parker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cresilla_(female_sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Elfriede_Abbe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Toscani"
     }
 ]

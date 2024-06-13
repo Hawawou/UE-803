@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatMedallists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromRivaDelGarda"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Contestant109613191"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Medalist110305062"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianMedallists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Winner110782940"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat16th-centuryItalianPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antonio Abondio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antonio Abondio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antonio Abondio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antonio Abondio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antonio Abondio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0431\u043e\u043d\u0434\u0438\u043e, \u0410\u043d\u0442\u043e\u043d\u0438\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antonio Abondio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043d\u0442\u043e\u043d\u0456\u043e \u0410\u0431\u043e\u043d\u0434\u0456\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antonio Abondio (1538, Riva del Garda \u2013 22. kv\u011btna 1591, V\u00edde\u0148) byl italsk\u00fd medail\u00e9r a ceroplastik obdob\u00ed rudolfinsk\u00e9ho man\u00fdrismu."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antonio Abondio, auch: Abundi, Abbondio; Signa: AN, AB, A.A. (* 1538 in Riva del Garda; \u2020 3. Mai 1591 in Wien) war ein italienischer Maler, Medailleur und Wachsbossierer."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antonio Abondio (Riva del Garda, 1538 \u2013 Vienna, 3 maggio 1591) \u00e8 stato un medaglista e ceroplasta italiano. Toeletta di Venere, placchetta del 1587"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antonio Abondio, f\u00f6dd 1538 i Riva del Garda, Italien, d\u00f6d 22 maj 1591 i Wien, var en italiensk skulpt\u00f6r och medaljkonstn\u00e4r."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u043d\u0442\u043e\u043d\u0456\u043e \u0410\u0431\u043e\u043d\u0434\u0456\u043e (\u0456\u0442\u0430\u043b. Antonio Abondio) \u0442\u0430\u043a\u043e\u0436 \u0410\u0431\u0443\u043d\u0434\u0456, \u0430\u0431\u0431\u043e\u043d\u0434\u0456\u043d\u043e (Abundi, Abbondino), 1538, \u0420\u0456\u0432\u0430 \u0434\u0435\u043b\u044c \u0413\u0430\u0440\u0434\u0430 \u2014 3 \u0442\u0440\u0430\u0432\u043d\u044f 1591, \u0412\u0456\u0434\u0435\u043d\u044c \u2014 \u0443\u0441\u043b\u0430\u0432\u043b\u0435\u043d\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u043c\u0435\u0434\u0430\u043b\u044c\u0454\u0440 16 \u0441\u0442\u043e\u043b\u0456\u0442\u0442\u044f, \u0456\u0442\u0430\u043b\u0456\u0454\u0446\u044c \u0437\u0430 \u043f\u043e\u0445\u043e\u0434\u0436\u0435\u043d\u043d\u044f\u043c."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antonio Abondio (1538\u20131591) was an Italian sculptor, best known as a medallist and as the pioneer of the coloured wax relief portrait miniature. Born in Riva del Garda, he was trained by Leone Leoni and worked in Italy between 1552 and 1565. Thereafter he mainly worked for the Habsburgs, with a few works made for French and Polish kings. He moved to Vienna to the court of Emperor Maximilian I and after his death in 1576 to Prague. He travelled to France, Netherlands and Germany. He died at Vienna in 1591."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antonio Abondio (Riva del Garda, 1538 - Viena, 3 de mayo 1591) fue un escultor y medallista italiano. Padre de Alessandro Abondio, fue activo en Italia desde 1552 hasta 1565, m\u00e1s tarde trabaj\u00f3 en Austria, los Pa\u00edses Bajos, Espa\u00f1a y Baviera para los emperadores del Sacro Imperio Romano y, en particular para Maximiliano II. En Praga fue el encargado de realizar las medallas de la corte.\u200b Hizo medallas y retratos de personajes famosos, siguiendo un modelo cl\u00e1sico. Se inspir\u00f3 en la obra de Leone Leoni, de quien presumiblemente fue su disc\u00edpulo, y tambi\u00e9n de la escuela de Reggio Emilia."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u043d\u0442\u043e\u043d\u0438\u043e \u0410\u0431\u043e\u043d\u0434\u0438\u043e (\u0438\u0442\u0430\u043b. Antonio Abondio; 1538, \u0420\u0438\u0432\u0430-\u0434\u0435\u043b\u044c-\u0413\u0430\u0440\u0434\u0430 \u2014 1591, \u0412\u0435\u043d\u0430) \u2014 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u0438 \u043c\u0435\u0434\u0430\u043b\u044c\u0435\u0440, \u043e\u0434\u0438\u043d \u0438\u0437 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0445 \u043c\u0435\u0434\u0430\u043b\u044c\u0435\u0440\u043e\u0432 \u0412\u043e\u0437\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f. \u0415\u0433\u043e \u043e\u0442\u0435\u0446 \u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u043b \u0441 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u0442\u0435\u0445\u043d\u0438\u043a\u0430\u043c\u0438 \u0438\u0437\u043e\u0431\u0440\u0430\u0437\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430, \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438 \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u0438\u0435\u043c \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439 \u043d\u0430 \u043c\u0435\u0434\u0430\u043b\u0438. \u0420\u0430\u0431\u043e\u0442\u0430\u043b \u043f\u0440\u0438 \u0434\u0432\u043e\u0440\u0430\u0445 \u0433\u0435\u0440\u043c\u0430\u043d\u0441\u043a\u0438\u0445 \u0438\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u0432 \u041c\u0430\u043a\u0441\u0438\u043c\u0438\u043b\u0438\u0430\u043d\u0430 II \u0438 \u0420\u0443\u0434\u043e\u043b\u044c\u0444\u0430 II \u0432 \u0412\u0435\u043d\u0435 \u0438 \u041f\u0440\u0430\u0433\u0435, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043a\u043d\u044f\u0436\u0435\u0441\u043a\u0438\u0445 \u0434\u0432\u043e\u0440\u0430\u0445 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438. \u042f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0430\u0432\u0442\u043e\u0440\u043e\u043c \u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043c\u0435\u0434\u0430\u043b\u0438 \u0432 \u0447\u0435\u0441\u0442\u044c \u0433\u0435\u0440\u0446\u043e\u0433\u0430 \u0411\u0430\u0432\u0430\u0440\u0438\u0438 \u0412\u0438\u043b\u044c\u0433\u0435\u043b\u044c\u043c\u0430 V (\u043d\u044b\u043d\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u041c\u043e\u043d\u0435\u0442\u043d\u043e\u043c \u043a\u0430\u0431\u0438\u043d\u0435\u0442\u0435 \u0432 \u0411\u0435\u0440\u043b\u0438\u043d\u0435)."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Wax_miniature_of_Henry_of_Valois.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio-Abodino-d.-J..jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:16th-century_medallists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_goldsmiths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Riva_del_Garda"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:16th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1591_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1538_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_medallists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "11075538"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1093182884"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Portrait_miniature"
+        "object": "http://dbpedia.org/resource/Camille_Billops"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:16th-century_medallists"
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Italian_goldsmiths"
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Riva_del_Garda"
+        "object": "http://dbpedia.org/resource/Carlo_Marochetti"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Riva_del_Garda"
+        "object": "http://dbpedia.org/resource/Carol_Brooks_MacNeil"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Vienna"
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Medal"
+        "object": "http://dbpedia.org/resource/Carolina_Benedicks-Bruce"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Coin"
+        "object": "http://dbpedia.org/resource/Caroline_Peddle_Ball"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Leone_Leoni"
+        "object": "http://dbpedia.org/resource/Caroline_Ramersdorfer"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:16th-century_Italian_sculptors"
+        "object": "http://dbpedia.org/resource/Caroline_Shawk_Brooks"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Hans_von_Aachen"
+        "object": "http://dbpedia.org/resource/Caspar_Buberl"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Relief"
+        "object": "http://dbpedia.org/resource/Ambrosius_Petruzzy"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Habsburg"
+        "object": "http://dbpedia.org/resource/Beatrice_Angle"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Atlas_(architecture)"
+        "object": "http://dbpedia.org/resource/Beatrice_Huntington"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1591_deaths"
+        "object": "http://dbpedia.org/resource/Benedetto_Antelami"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
+        "object": "http://dbpedia.org/resource/Benedetto_da_Maiano"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1538_births"
+        "object": "http://dbpedia.org/resource/Benita_Armstrong"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Italian_medallists"
+        "object": "http://dbpedia.org/resource/Benjamin_Creswick"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Emperor_Rudolf_II"
+        "object": "http://dbpedia.org/resource/Robert_Taylor_(architect)"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Milan"
+        "object": "http://dbpedia.org/resource/Robert_Thomas_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Obverse"
+        "object": "http://dbpedia.org/resource/Robert_White_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Alessandro_Abondio"
+        "object": "http://dbpedia.org/resource/Roberta_Everett"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Wax_figure"
+        "object": "http://dbpedia.org/resource/Roman_Kost"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Antonio-Abodino-d.-J..jpg"
+        "object": "http://dbpedia.org/resource/Romano_Vio"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Wax_miniature_of_Henry_of_Valois.jpg"
+        "object": "http://dbpedia.org/resource/Ron_Mueck"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.nga.gov.au/international/Catalogue/Detail.cfm%3FIRN=66251&Orient=Verso"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/66219/rec/1"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_Bonheur"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.metmuseum.org/toah/hd/kuns/ho_1989.12.2,3.htm"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalie_Gascoigne"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.02q_6bf"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Antonio_Abondio"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxanne_Swentzell"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/45362592"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Fisher_Ames"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/128752882"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://commons.dbpedia.org/resource/Antonio_Abondio"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/1047920263"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarra_Lebedeva"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/174173253"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sassona_Norton"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q599474"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Burton"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://cs.dbpedia.org/resource/Antonio_Abondio"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Layfield_Davis"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/Antonio_Abondio"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elfriede_Abbe"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/Antonio_Abondio"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elias_Wakan"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://he.dbpedia.org/resource/\u05d0\u05e0\u05d8\u05d5\u05e0\u05d9\u05d5_\u05d0\u05d1\u05d5\u05e0\u05d3\u05d9\u05d5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Gordon_Chandler"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://hy.dbpedia.org/resource/\u0531\u0576\u057f\u0578\u0576\u056b\u0578_\u0531\u0562\u0578\u0576\u0564\u056b\u0578"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Toubro"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://it.dbpedia.org/resource/Antonio_Abondio"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Endel_Taniloo"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ru.dbpedia.org/resource/\u0410\u0431\u043e\u043d\u0434\u0438\u043e,_\u0410\u043d\u0442\u043e\u043d\u0438\u043e"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ennutsiak"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://sk.dbpedia.org/resource/Antonio_Abondio"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enook_Manomie"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://sv.dbpedia.org/resource/Antonio_Abondio"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Epiphanius_Evesham"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://uk.dbpedia.org/resource/\u0410\u043d\u0442\u043e\u043d\u0456\u043e_\u0410\u0431\u043e\u043d\u0434\u0456\u043e"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_sculptors"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4nB34"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_female_sculptors"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Louis-Ernest_Meissonier"
     },
     {
         "subject": "http://dbpedia.org/resource/Antonio_Abondio",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Commons_category-inline"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minoru_Niizuma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mirit_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e1szl\u00f3_Besz\u00e9des"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9on_Indenbaum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9on_Mignon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9onard_De_Cuyper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00eda_Berm\u00fadez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oopik_Pitsuilak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parys_Filippi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shane_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teresa_Margolles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Izdebskiy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corn\u00e9lie_Caroline_van_Asch_van_Wijck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bashka_Paeff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bela_Pratt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belle_Kinney_Scholz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Enwonwu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Paul_Akers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Victor_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Waterhouse_Hawkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benvenuto_Cellini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_van_Loo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertel_Thorvaldsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Harvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Potter_Vonnoh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beulah_Woodard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Pepper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bharti_Kher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Barrett_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Woodrow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billie_Lawless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blanche_Nevin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogdan_Ra\u021b\u0103"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Putnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Eugene_Henry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Nash_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ruben_Piqtoukun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Smith_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_d'Angers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Alva_Parsons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Barye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Tibor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Rideout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Turnbull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allan_Linder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_Hutchinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allie_Tennant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alojz_Rigele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrei_Kolkoutine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Antonio_Abondio",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e1s_Beck"
     }
 ]

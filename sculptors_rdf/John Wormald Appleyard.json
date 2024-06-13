@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Culture_in_West_Yorkshire"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mawer_Group"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romanticism"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barnsley"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barnsley_Town_Hall"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Burstall"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bishop_Thornton"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Architectural_sculpture"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hunslet"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Wormald_Appleyard"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pavilion"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Mawer"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pedestal"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Wormald Appleyard"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aesthetic_movement"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John Wormald Appleyard (10 September 1831 \u2013 14 January 1894) (active 1851\u20131893) was a British sculptor and monumental mason based in Leeds, West Yorkshire, England. He was sixteen years old when his apprenticeship as a stone carver was curtailed due to the death of his grandfather who was training him. He was versatile enough to turn his hand to wood carving, decorative ceiling work, stained glass and marble sculpture besides stone carving, so that from around the age of twenty-one years he was able to maintain a stoneyard and studio in Cookridge Street, Leeds, at least until 1891. He was generally known during his lifetime as a monumental mason."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthew_Taylor_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "John Wormald Appleyard"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Lawrence"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "John Wormald Appleyard"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Corson"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand_Theatre_(6a).jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Ingle"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Normanton_-_Baptist_Church_-_Sunlight.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gothic_Revival_architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Newton_Park_Union_Church_Chapeltown.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grand_Theatre,_Leeds"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Thorntons_Arcade_9_Feb_2019_(10).jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corinthian_order"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\nOld_School_of_Medicine_interior_(12).jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornice"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony_van_Dyck_-_Portrait_of_Inigo_Jones_-_cropped.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Appleyard_gravestone_(12a).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Appleyard_gravestone_(13).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Appleyard_gravestone_(2a).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Appleyard_window_(2).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Appleyard_window_(3).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Appleyard_window_(4).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Appleyard_window_(5a).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Barrans_fountain_(14).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Barrans_fountain_(18b).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Barrans_fountain_(22).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Barrans_fountain_(4).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Cookridge_Street_looking_North_-_geograph.org.uk_-_1729249.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Gravestone_of_John_Wormald_Appleyard_(1).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Hirst_Square_Leeds_1913.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Inigo_Jones_by_Appleyard_(2).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Inigo_Jones_by_JW_Appleyard_(16).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Inigo_Jones_by_JW_Appleyard_(1a).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Inigo_Jones_by_JW_Appleyard_(8a).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Leeds_Central_Library_21_February_2019_(109).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Leeds_Central_Library_21_February_2019_(147).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Leeds_Central_Library_21_February_2019_(77c).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Leeds_Central_Library_21_February_2019_(77d).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Leeds_City_Art_Gallery_1888_(2a).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Leeds_City_Library_(15).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Leeds_City_Library_(6).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/London_and_Midland_Bank_Leeds_(17).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/London_and_Midland_Bank_Leeds_(25).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/London_and_Midland_Bank_Leeds_(43).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/London_and_Midland_Bank_Leeds_(47).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Old_Father_Time_Tempus_Fugit_(1).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Old_Father_Time_Tempus_Fugit_(11).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Old_Father_Time_Tempus_Fugit_(9a).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Old_School_of_Medicine_built_1894_(157a).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Old_School_of_Medicine_built_1894_(93a).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Old_School_of_Medicine_built_1894_(96a).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Old_School_of_Medicine_interior_(18b).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Old_School_of_Medicine_interior_(72a).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Queens_Room_Leeds_City_Art_Gallery_1911a.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint_Paul_Shipley_(3).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint_Paul_Shipley_(4).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/St_Bartholomew_Armley_reredos_1874_(5).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Thorntons_Arcade_9_Feb_2019_(10c).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Thorntons_Arcade_9_Feb_2019_(10d).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Thorntons_Arcade_9_Feb_2019_(25).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Thorntons_Arcade_9_Feb_2019_(27).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/York_City_and_County_Bank_(6).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/York_City_and_County_Bank_(7).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/York_City_and_County_Bank_Leeds_(1).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Millennium_Square,_Leeds_(27th_May_2010).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
         "object": "http://dbpedia.org/resource/Leeds"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Leeds"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keystone_(architecture)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/Leeds"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Magistrate"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "1894-01-14"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonemasonry"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "School Close, Leeds, England"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1841_births"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1831-09-10"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1907_deaths"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1831_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1894_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://purl.org/dc/terms/subject",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
         "object": "http://dbpedia.org/resource/Category:19th-century_English_male_artists"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Monumental_masons"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Burley_in_Wharfedale"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://purl.org/dc/terms/subject",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Riding_of_Yorkshire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dumfries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Floruit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baluster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palladian_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fluting_(architecture)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leeds_Central_Library"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heaton,_West_Yorkshire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
         "object": "http://dbpedia.org/resource/Category:British_male_sculptors"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:English_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:19th-century_British_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:English_woodcarvers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:British_architectural_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "60098475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1114196902"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Woodhouse,_Leeds"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cambridge"
+        "object": "http://dbpedia.org/resource/Assembly_rooms"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Robin_Hood"
+        "object": "http://dbpedia.org/resource/Category:History_of_Yorkshire"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Roundhay_Park"
+        "object": "http://dbpedia.org/resource/Pool-in-Wharfedale"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Air_Forces_Association"
+        "object": "http://dbpedia.org/resource/Neoclassical_architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_College_of_Physicians"
+        "object": "http://dbpedia.org/resource/Cannon_Hall"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_College_of_Surgeons_of_England"
+        "object": "http://dbpedia.org/resource/Catherine_Mawer"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Electroplating"
+        "object": "http://dbpedia.org/resource/Mawer_and_Ingle"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Elevator"
+        "object": "http://dbpedia.org/resource/Robert_Mawer"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/English_art"
+        "object": "http://dbpedia.org/resource/Rustication_(architecture)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Midas"
+        "object": "http://dbpedia.org/resource/Serpentine_subgroup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Listed_buildings_in_England"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pilaster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/School_boards_in_England_and_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spandrel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Early_English_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Bust_of_Henry_Richardson_(7).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Former_London_&_Yorkshire_Bank_Barnsley_(17).JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Former_Queens_Hotel_Barnsley_018.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Former_School_Board_building_Leeds_039.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Leeds_City_Library_(2a).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Reading_desk_in_St_Barnabas_Heaton_001.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:St_Lawrence_Pudsey_003a.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Cox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cast_(band)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Be_Military_Fit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primal_Scream"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Arthur,_Duke_of_Connaught_and_Strathearn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roundhay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Botanic_Gardens,_Kew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sasha_(DJ)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elastica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menswear_(band)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basement_Jaxx"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Hill_60_(Western_Front)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Waterloo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bitty_McLean"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Born_in_the_U.S.A._Tour"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Braille"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Pearce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Morales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All_About_Eve_(band)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hue_and_Cry_(band)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Otway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Wormald_Appleyard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_of_Gaunt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Listed_building"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Young"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robbie_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Butterfly_zoo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/De_Lacy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Invisible_Touch_Tour"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Atkinson_Grimshaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lido_(swimming_pool)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sir_John_Barran,_1st_Baronet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/We_Can't_Dance_Tour"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Urban_public_parks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Jury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/John_Wormald_Appleyard",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meerkat"
     }
 ]

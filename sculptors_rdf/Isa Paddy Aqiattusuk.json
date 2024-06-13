@@ -1,212 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Isa Paddy Aqiattusuk"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Isa Paddy Aqiattusuk (1898\u20131954) (also known as Akeeaktashuk) was an Inuit artist."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Quebec"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1898_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1954_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_male_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Inuit_from_Quebec"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Canadian_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Nord-du-Qu\u00e9bec"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "60801230"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1088284237"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_Hunt_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Quebec"
+        "object": "http://dbpedia.org/resource/Canada"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Quebec"
+        "object": "http://dbpedia.org/resource/Cannupa_Hanska_Luger"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1898_births"
+        "object": "http://dbpedia.org/resource/Carl_Beam"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mus\u00e9e_national_des_beaux-arts_du_Qu\u00e9bec"
+        "object": "http://dbpedia.org/resource/Carl_Ray"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1954_deaths"
+        "object": "http://dbpedia.org/resource/Carlos_Jacanamijoy"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_male_artists"
+        "object": "http://dbpedia.org/resource/Carlos_M\u00e9rida"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_sculptors"
+        "object": "http://dbpedia.org/resource/Carrie_Bethel"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Inuit_from_Quebec"
+        "object": "http://dbpedia.org/resource/Amos_Bad_Heart_Bull"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gimpel_Fils"
+        "object": "http://dbpedia.org/resource/Benjamin_Haldane"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Northwest_Territories"
+        "object": "http://dbpedia.org/resource/Potawatomi"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Inukjuak"
+        "object": "http://dbpedia.org/resource/Preston_Singletary"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Craig_Harbour"
+        "object": "http://dbpedia.org/resource/Princess_Angeline"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Canadian_male_sculptors"
+        "object": "http://dbpedia.org/resource/Quapaw"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Inuit_sculptors"
+        "object": "http://dbpedia.org/resource/Quechua_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Avataq_Cultural_Institute"
+        "object": "http://dbpedia.org/resource/Roberto_Mamani_Mamani"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/National_Gallery_of_Canada"
+        "object": "http://dbpedia.org/resource/Rodolfo_Morales"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Nord-du-Qu\u00e9bec"
+        "object": "http://dbpedia.org/resource/Ronald_Senungetuk"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q55218333"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Gonzales"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://arz.dbpedia.org/resource/\u0627\u064a\u0633\u0627_\u067e\u0627\u062f\u0649_\u0627\u0643\u064a\u0627\u062a\u0648\u0633\u0648\u0643"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxanne_Swentzell"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/9Vk9S"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rufino_Tamayo"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Juan_de_los_Lagos"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandy_Lake_First_Nation"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scarface_Charley"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Canada-artist-stub"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ennutsiak"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Isa Paddy Aqiattusuk (1898\u20131954) (also known as Akeeaktashuk) was an Inuit artist."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enook_Manomie"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Isa_Paddy_Aqiattusuk?oldid=1088284237&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miami_Tribe_of_Oklahoma"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "3832"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miguel_Cabrera_(painter)"
     },
     {
         "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Isa_Paddy_Aqiattusuk"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mohegan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monroe_Tsatoke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Onion_Lake_Cree_Nation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parker_McKenzie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Project_562"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anita_Suazo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corky_Clairmont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santa_Clara_Pueblo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santo_Domingo_Pueblo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santos_Ch\u00e1vez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Touching_Leaves_Woman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Nighthorse_Campbell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Chee_Chee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Harjo_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Glass_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Reid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blackbear_Bosin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Haozous"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boeda_Strand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bolivia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonnie_Devine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Jungen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_B._Williams_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ruben_Piqtoukun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debora_Iyall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delaware_Nation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delores_Churchill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Young_Man"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anishinaabe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annie_Antone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_Durand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Sinchi_Roca_Inka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/An\u00edbal_L\u00f3pez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apache"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aqjangajuk_Shaa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archie_Blackowl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holly_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hopi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howling_Wolf_(Cheyenne)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hulleah_Tsinhnahjinnie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Tiktak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juan_Mirabal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juanita_Growing_Thunder_Fogarty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juanita_Suazo_Dubray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julian_Martinez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Indigenous_artists_of_the_Americas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Latin_American_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pawnee_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peru"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Aitson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Hunt_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Ray_Whitman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rick_Bartow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Boyer_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Davidson_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Houle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Littleleaf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bunky_Echo\u2013Hawk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virginia_Stroud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Cusick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Johns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Moses_Bridges"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Neel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Pendleton_Oakerhater"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Davidee_Itulu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Davidee_Kavik"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Clashin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debra_Sparrow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delaware_Tribe_of_Indians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dora_Old_Elk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Isa_Paddy_Aqiattusuk",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dugan_Aguilar"
     }
 ]

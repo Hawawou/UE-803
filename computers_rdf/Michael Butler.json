@@ -1,162 +1,82 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Michael Butler"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Michael Butler"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0411\u0430\u0442\u043b\u0435\u0440, \u041c\u0430\u0439\u043a\u043b"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "25233987"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1122908175"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Butler"
     },
     {
         "subject": "http://dbpedia.org/resource/Michael_Butler",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(diplomat)"
+        "object": "http://dbpedia.org/resource/Michael_Butler"
     },
     {
         "subject": "http://dbpedia.org/resource/Michael_Butler",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(musician)"
+        "object": "http://dbpedia.org/resource/Michael_Butler"
     },
     {
         "subject": "http://dbpedia.org/resource/Michael_Butler",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(politician)"
+        "object": "http://dbpedia.org/resource/Michael_Butler"
     },
     {
         "subject": "http://dbpedia.org/resource/Michael_Butler",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Michael_E._Butler"
+        "object": "http://dbpedia.org/resource/Michael_Butler"
     },
     {
         "subject": "http://dbpedia.org/resource/Michael_Butler",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mick_Butler_(Wexford_hurler)"
+        "object": "http://dbpedia.org/resource/Michael_Butler"
     },
     {
         "subject": "http://dbpedia.org/resource/Michael_Butler",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(computer_scientist)"
+        "object": "http://dbpedia.org/resource/Michael_Butler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Michael_Butler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Michael_Butler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Michael_Butler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Michael_Butler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Michael_Butler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Michael_Butler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Michael_Butler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Michael_Butler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Michael_Butler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Michael_Butler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Michael_Butler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Michael_Butler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Michael_Butler",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Michael_Butler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Michael_Butler",
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/Michael_Butler"
     },
     {
         "subject": "http://dbpedia.org/resource/Michael_Butler",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(producer)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(soccer)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mick_Butler_(Dublin_hurler)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mick_Butler_(footballer)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mike_Butler_(American_football)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mike_Butler_(basketball)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(diplomat)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(musician)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(politician)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(computer_scientist)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(producer)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Michael_Butler_(soccer)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q1651883"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/Michael_Butler"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ru.dbpedia.org/resource/\u0411\u0430\u0442\u043b\u0435\u0440,_\u041c\u0430\u0439\u043a\u043b"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/dvf8"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Hndis"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/property/wordnet_type",
-        "object": "http://www.w3.org/2006/03/wn/wn20/instances/synset-soccer_player-noun-1"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Michael_Butler?oldid=1122908175&ns=0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "981"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Michael_Butler",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Michael_Butler"
+        "object": "http://dbpedia.org/resource/Michael_Butler_(disambiguation)"
     }
 ]

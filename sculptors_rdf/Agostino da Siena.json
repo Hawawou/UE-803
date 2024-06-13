@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatMedievalArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromSiena"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Architect109805475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGothicArchitects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGothicSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianArchitects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino da Siena"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino da Siena"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Giovanni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino da Siena"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Giovanni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino di Giovanni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Agostino da Siena"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0414\u0438 \u0414\u0436\u043e\u0432\u0430\u043d\u043d\u0438, \u0410\u0433\u043e\u0441\u0442\u0438\u043d\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino i Agnolo da Siena van ser escultors i arquitectes italians de la primera meitat del segle xiv. Tot i que se'ls considera germans, i altres autors ho neguen. El que \u00e9s cert \u00e9s que van estudiar plegats sota el mestratge de Giovanni Pisano, i l'any 1317 tots dos van ser designats arquitectes de la seua ciutat natal, per a la qual van dissenyar la , l'esgl\u00e9sia i el convent de Sant Francesc d'Ass\u00eds i altres edificis. Sota la recomanaci\u00f3 del c\u00e8lebre Giotto di Bondone, qui els considerava els millors escultors de l'\u00e8poca, van realitzar l'any 1330 la tomba del bisbe a la Catedral d'Arezzo, que Giotto havia dissenyat. Va ser considerada una de les obres art\u00edstiques m\u00e9s perfectes del segle xiv, per\u00f2 malauradament va ser esfondrada pels francesos sota les ordres del Duc d'Anjou."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Giovanni, auch Agostino da Siena genannt, (* um 1285 in Siena; \u2020 vor dem 27. Juni 1347) war ein italienischer Architekt und Bildhauer."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino da Siena or Agostino di Giovanni (c.\u20091285 \u2013 c.\u20091347) was an Italian architect and sculptor, active between 1310 and 1347."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Giovanni ou Agostino da Siena est un architecte et un sculpteur italien gothique, qui a \u00e9t\u00e9 actif en Toscane au Trecento, entre 1310 et 1347."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino di Giovanni, detto anche Agostino da Siena (Siena, 1285 circa \u2013 1347 circa), \u00e8 stato uno scultore e architetto italiano, attivo tra il 1310 e il 1347. Le sculture del Cenotafio TarlatiParticolare del Cenotafio Tarlati"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino da Siena ou Agostino e Agnolo (ou Angelo) da Siena, foram dois arquitetos e escultores italianos da primeira metade do s\u00e9culo XIV. Alguns comentadores negam que eles fossem irm\u00e3os. Sabe-se com certeza que estudaram com o mestre Giovanni Pisano, e em 1317 foram conjuntamente nomeados arquitetos de sua cidade natal, na qual eles desenharam a , igreja e convento de S\u00e3o Francisco de Assis, dentre outras constru\u00e7\u00f5es. Por recomenda\u00e7\u00e3o do c\u00e9lebre arquiteto Giotto di Bondone, que os considerava como os melhores escultores de sua \u00e9poca, eles fizeram em 1330 a tumba do Bispo na catedral de Arezzo, a qual Giotto havia projetado. A tumba foi considerada uma das melhores obras de arte do s\u00e9culo XIV, mas infelizmente foi destru\u00edda pelos franceses, sob o comando do Duque de Anjou."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u0433\u043e\u0441\u0442\u0438\u043d\u043e \u0434\u0438 \u0414\u0436\u043e\u0432\u0430\u043d\u043d\u0438 \u0438\u043b\u0438 \u0410\u0433\u043e\u0441\u0442\u0438\u043d\u043e \u0434\u0430 \u0421\u0438\u0435\u043d\u0430 (\u043e\u043a. 1285 \u2014 \u043e\u043a. 1347) \u2014 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u0438 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440, \u0447\u044c\u0438 \u0433\u043e\u0434\u044b \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u043a\u043e\u0439 \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u043d\u0430 1310 \u2014 1347 \u0433\u043e\u0434\u044b."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Agostino y Agnolo da Siena fueron escultores y arquitectos italianos de la primera mitad del siglo XIV. Se les considera hermanos , aunque otros autores lo niegan. Lo cierto es que estudiaron juntos bajo el magisterio de Giovanni Pisano, y en el a\u00f1o 1317 ambos fueron designados arquitectos de su ciudad natal, para la que dise\u00f1aron la , la iglesia y el convento de San Francisco de As\u00eds y otros edificios. Bajo la recomendaci\u00f3n del c\u00e9lebre Giotto di Bondone, quien los consideraba los mejores escultores de la \u00e9poca, realizaron el a\u00f1o 1330 la tumba del obispo en la Catedral de Arezzo, que Giotto hab\u00eda dise\u00f1ado. Fue considerada una de las obras art\u00edsticas m\u00e1s perfectas del siglo XIV, pero fue hundida por los franceses bajo las \u00f3rdenes del Duque de Anjou."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Duomo_di_arezzo,_interno,_monumento_funebre_di_Guido_Tarlati,_1330,_02.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ritratto_di_Agostino_di_Giovanni.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Siena"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1280s_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1340s_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:14th-century_Italian_architects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:14th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "2402910"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1120297802"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Massa_Marittima"
+        "object": "http://dbpedia.org/resource/Camille_Billops"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Giorgio_Vasari"
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Siena"
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Siena"
+        "object": "http://dbpedia.org/resource/Carlo_Marochetti"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1280s_births"
+        "object": "http://dbpedia.org/resource/Carol_Brooks_MacNeil"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1340s_deaths"
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:14th-century_Italian_architects"
+        "object": "http://dbpedia.org/resource/Carolina_Benedicks-Bruce"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:14th-century_Italian_sculptors"
+        "object": "http://dbpedia.org/resource/Caroline_Peddle_Ball"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Giovanni_Pisano"
+        "object": "http://dbpedia.org/resource/Caroline_Ramersdorfer"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Giovanni_di_Agostino"
+        "object": "http://dbpedia.org/resource/Caroline_Shawk_Brooks"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cenotaph"
+        "object": "http://dbpedia.org/resource/Caspar_Buberl"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
+        "object": "http://dbpedia.org/resource/Ambrosius_Petruzzy"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Tino_di_Camaino"
+        "object": "http://dbpedia.org/resource/Beatrice_Angle"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Guido_Tarlati"
+        "object": "http://dbpedia.org/resource/Beatrice_Huntington"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Torre_del_Mangia"
+        "object": "http://dbpedia.org/resource/Benedetto_Antelami"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Porta_Romana,_Siena"
+        "object": "http://dbpedia.org/resource/Benedetto_da_Maiano"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cathedral_of_Arezzo"
+        "object": "http://dbpedia.org/resource/Benita_Armstrong"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cathedral_of_Siena"
+        "object": "http://dbpedia.org/resource/Benjamin_Creswick"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Agnolo_di_Ventura"
+        "object": "http://dbpedia.org/resource/Robert_Taylor_(architect)"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Duomo_di_arezzo,_interno,_monumento_funebre_di_Guido_Tarlati,_1330,_02.JPG"
+        "object": "http://dbpedia.org/resource/Robert_Thomas_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Ritratto_di_Agostino_di_Giovanni.jpg"
+        "object": "http://dbpedia.org/resource/Robert_White_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.079m_3"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberta_Everett"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Agostino_da_Siena"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Kost"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/28641309"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romano_Vio"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/13146471X"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Mueck"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/55280767"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q395759"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_Bonheur"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ca.dbpedia.org/resource/Agostino_da_Siena"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalie_Gascoigne"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/Agostino_di_Giovanni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/Agostino_da_Siena"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxanne_Swentzell"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fa.dbpedia.org/resource/\u0622\u06af\u0648\u0633\u062a\u06cc\u0646\u0648_\u062f\u0627_\u0633\u06cc\u0647\u200c\u0646\u0627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Fisher_Ames"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fr.dbpedia.org/resource/Agostino_di_Giovanni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://it.dbpedia.org/resource/Agostino_di_Giovanni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://pt.dbpedia.org/resource/Agostino_da_Siena"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarra_Lebedeva"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ru.dbpedia.org/resource/\u0414\u0438_\u0414\u0436\u043e\u0432\u0430\u043d\u043d\u0438,_\u0410\u0433\u043e\u0441\u0442\u0438\u043d\u043e"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sassona_Norton"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/3fmoB"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Burton"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Layfield_Davis"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Circa"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elfriede_Abbe"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Cite_book"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elias_Wakan"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Commons_category"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Gordon_Chandler"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Toubro"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Italy-architect-stub"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Endel_Taniloo"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ritratto_di_Agostino_di_Giovanni.jpg?width=300"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ennutsiak"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Agostino i Agnolo da Siena van ser escultors i arquitectes italians de la primera meitat del segle xiv. Tot i que se'ls considera germans, i altres autors ho neguen. El que \u00e9s cert \u00e9s que van estudiar plegats sota el mestratge de Giovanni Pisano, i l'any 1317 tots dos van ser designats arquitectes de la seua ciutat natal, per a la qual van dissenyar la , l'esgl\u00e9sia i el convent de Sant Francesc d'Ass\u00eds i altres edificis. Sota la recomanaci\u00f3 del c\u00e8lebre Giotto di Bondone, qui els considerava els millors escultors de l'\u00e8poca, van realitzar l'any 1330 la tomba del bisbe a la Catedral d'Arezzo, que Giotto havia dissenyat. Va ser considerada una de les obres art\u00edstiques m\u00e9s perfectes del segle xiv, per\u00f2 malauradament va ser esfondrada pels francesos sota les ordres del Duc d'Anjou."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enook_Manomie"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Agostino di Giovanni, auch Agostino da Siena genannt, (* um 1285 in Siena; \u2020 vor dem 27. Juni 1347) war ein italienischer Architekt und Bildhauer."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Epiphanius_Evesham"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Agostino da Siena or Agostino di Giovanni (c.\u20091285 \u2013 c.\u20091347) was an Italian architect and sculptor, active between 1310 and 1347."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_sculptors"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Agostino y Agnolo da Siena fueron escultores y arquitectos italianos de la primera mitad del siglo XIV. Se les considera hermanos , aunque otros autores lo niegan. Lo cierto es que estudiaron juntos bajo el magisterio de Giovanni Pisano, y en el a\u00f1o 1317 ambos fueron designados arquitectos de su ciudad natal, para la que dise\u00f1aron la , la iglesia y el convento de San Francisco de As\u00eds y otros edificios. Bajo la recomendaci\u00f3n del c\u00e9lebre Giotto di Bondone, quien los consideraba los mejores escultores de la \u00e9poca, realizaron el a\u00f1o 1330 la tumba del obispo en la Catedral de Arezzo, que Giotto hab\u00eda dise\u00f1ado. Fue considerada una de las obras art\u00edsticas m\u00e1s perfectas del siglo XIV, pero fue hundida por los franceses bajo las \u00f3rdenes del Duque de Anjou. \n* Datos: Q395759 \n* Multimedia: Agostino di Giovanni / Q395759"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_female_sculptors"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Agostino di Giovanni ou Agostino da Siena est un architecte et un sculpteur italien gothique, qui a \u00e9t\u00e9 actif en Toscane au Trecento, entre 1310 et 1347."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Louis-Ernest_Meissonier"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Agostino di Giovanni, detto anche Agostino da Siena (Siena, 1285 circa \u2013 1347 circa), \u00e8 stato uno scultore e architetto italiano, attivo tra il 1310 e il 1347. Le sculture del Cenotafio TarlatiParticolare del Cenotafio Tarlati"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minoru_Niizuma"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Agostino da Siena ou Agostino e Agnolo (ou Angelo) da Siena, foram dois arquitetos e escultores italianos da primeira metade do s\u00e9culo XIV. Alguns comentadores negam que eles fossem irm\u00e3os. Sabe-se com certeza que estudaram com o mestre Giovanni Pisano, e em 1317 foram conjuntamente nomeados arquitetos de sua cidade natal, na qual eles desenharam a , igreja e convento de S\u00e3o Francisco de Assis, dentre outras constru\u00e7\u00f5es. Por recomenda\u00e7\u00e3o do c\u00e9lebre arquiteto Giotto di Bondone, que os considerava como os melhores escultores de sua \u00e9poca, eles fizeram em 1330 a tumba do Bispo na catedral de Arezzo, a qual Giotto havia projetado. A tumba foi considerada uma das melhores obras de arte do s\u00e9culo XIV, mas infelizmente foi destru\u00edda pelos franceses, sob o comando do Duque de Anjou."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mirit_Cohen"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "\u0410\u0433\u043e\u0441\u0442\u0438\u043d\u043e \u0434\u0438 \u0414\u0436\u043e\u0432\u0430\u043d\u043d\u0438 \u0438\u043b\u0438 \u0410\u0433\u043e\u0441\u0442\u0438\u043d\u043e \u0434\u0430 \u0421\u0438\u0435\u043d\u0430 (\u043e\u043a. 1285 \u2014 \u043e\u043a. 1347) \u2014 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u0438 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440, \u0447\u044c\u0438 \u0433\u043e\u0434\u044b \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u043a\u043e\u0439 \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u043d\u0430 1310 \u2014 1347 \u0433\u043e\u0434\u044b."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e1szl\u00f3_Besz\u00e9des"
     },
     {
         "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
-        "predicate": "http://purl.org/linguistics/gold/hypernym",
-        "object": "http://dbpedia.org/resource/Architect"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9on_Indenbaum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9on_Mignon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9onard_De_Cuyper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00eda_Berm\u00fadez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oopik_Pitsuilak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parys_Filippi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shane_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teresa_Margolles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Izdebskiy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corn\u00e9lie_Caroline_van_Asch_van_Wijck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bashka_Paeff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bela_Pratt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belle_Kinney_Scholz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Enwonwu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Paul_Akers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Victor_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Waterhouse_Hawkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benvenuto_Cellini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_van_Loo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertel_Thorvaldsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Harvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Potter_Vonnoh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beulah_Woodard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Pepper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bharti_Kher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Barrett_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Woodrow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billie_Lawless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blanche_Nevin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogdan_Ra\u021b\u0103"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Putnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Eugene_Henry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Nash_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ruben_Piqtoukun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Smith_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_d'Angers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Alva_Parsons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Barye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Tibor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Rideout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Turnbull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allan_Linder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_Hutchinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allie_Tennant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alojz_Rigele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrei_Kolkoutine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Agostino_da_Siena",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e1s_Beck"
     }
 ]

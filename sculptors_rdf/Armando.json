@@ -1,152 +1,22 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Armando"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armando"
     },
     {
         "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Armando (Begriffskl\u00e4rung)"
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/Armando"
     },
     {
         "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Armando (disambigua)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Armando (homonymie)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0440\u043c\u0430\u043d\u0434\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "5761682"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1042710544"
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/Armando"
     },
     {
         "subject": "http://dbpedia.org/resource/Armando",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Armando_(artist)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Armando_(given_name)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Armando_(producer)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Armando_(Planet_of_the_Apes)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Armando_(album)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Armando_(artist)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Armando_(given_name)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Armando_(producer)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Armando_(Planet_of_the_Apes)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/Armando_(album)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q6394196"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://da.dbpedia.org/resource/Armando"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/Armando_(Begriffskl\u00e4rung)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fr.dbpedia.org/resource/Armando_(homonymie)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://it.dbpedia.org/resource/Armando_(disambigua)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://la.dbpedia.org/resource/Armandus"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ru.dbpedia.org/resource/\u0410\u0440\u043c\u0430\u043d\u0434\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://tr.dbpedia.org/resource/Armando_(sanat\u00e7\u0131)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4peDw"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Disambiguation"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Armando?oldid=1042710544&ns=0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "400"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armando",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Armando"
+        "object": "http://dbpedia.org/resource/Armando_(disambiguation)"
     }
 ]

@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calculator"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Sassenrath"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_Morgan_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cascading_Style_Sheets"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Case-based_reasoning"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poul-Henning_Kamp"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Process_mining"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Program_optimization"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programmer"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanInformationTheorists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prolog"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punched_card"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanSoftwareEngineers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Python_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/QuickCheck"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sedgewick_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sproull"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tappan_Morris"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Floyd"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatMichiganStateUniversityAlumni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Ierusalimschy"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatTuringAwardLaureates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Pieraccini"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromEastLansing,Michigan"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Milner"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMidland,Michigan"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robotics"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatSoftwareEngineers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Canion"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Hui"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Moore_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Needham"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Carl_Backhouse"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Rivest"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruby_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Bayer"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Rucker"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samir_Das"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samson_Abramsky"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjay_Ghemawat"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Laureate110249011"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjeev_Arora"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sargur_Srihari"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scala_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scheme_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_Time_Sharing_Corporation"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Aaronson"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Fahlman"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Shenker"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eldon_C._Hall"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ResearchWorker110523076"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_design_automation"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/End-user_development"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_architecture_planning"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entity-relationship_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_computing_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Theorist110706812"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MINIX"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIX"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDatabaseResearchers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mihai_Nadin"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheBritishComputerSociety"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monitor_(synchronization)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moore_machine"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Bachman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_worm"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u062a\u0634\u0627\u0631\u0644\u0632 \u0628\u0627\u062a\u0634\u0645\u0627\u0646"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_language_processing"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Bachman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Normalized_compression_distance"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Bachman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MD5"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Bachman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MMIX"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Bachman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mesh_networking"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Bachman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meta-learning"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Bachman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Bernus"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Bachman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SECD_machine"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\ucc30\uc2a4 \ubc14\ud06c\ub9cc"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/On_Lisp"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30c1\u30e3\u30fc\u30eb\u30ba\u30fb\u30d0\u30c3\u30af\u30de\u30f3"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partially_observable_Markov_decision_process"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles W. Bachman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ubiquitous_computing"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Bachman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programmable_calculator"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0411\u0430\u0445\u043c\u0430\u043d, \u0427\u0430\u0440\u043b\u044c\u0437 \u0423\u0438\u043b\u044c\u044f\u043c"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ken_Thompson_(computer_programmer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Charles Bachman"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Really_Achieving_Your_Childhood_Dreams"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u67e5\u5c14\u65af\u00b7\u5df4\u8d6b\u66fc"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cray_Research"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0427\u0430\u0440\u043b\u044c\u0437 \u0411\u0430\u0445\u043c\u0430\u043d"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeffrey_D._Ullman"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Charles William \"Charlie\" Bachman III (11 de desembre de 1924 - 13 de juliol de 2017) fou un inform\u00e0tic nord-americ\u00e0, que va fer tota la seva carrera en la ind\u00fastria, com a investigador, desenvolupador i gestor, en comptes de treballar al m\u00f3n acad\u00e8mic. \u00c9s conegut sobretot per la seva feina en el desenvolupament dels primers sistemes de gesti\u00f3 de base de dades. Ell \u00e9s qui don\u00e0 nom als diagrames de Bachman."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eugene_Luks"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Charles Bachman, cel\u00fdm jm\u00e9nem Charles William Bachman III (11. prosince 1924, Manhattan, Kansas, USA \u2013 13. \u010dervence 2017, , Massachusetts) byl americk\u00fd informatik a softwarov\u00fd in\u017een\u00fdr. Byl zn\u00e1m p\u0159edev\u0161\u00edm pro svou pr\u00e1ci v oblasti datab\u00e1zov\u00fdch syst\u00e9m\u016f, za kterou v roce 1973 dostal Turingovu cenu. Je autorem datab\u00e1zov\u00e9ho syst\u00e9mu (IDS), kter\u00fd vyvinul v \u0161edes\u00e1t\u00fdch letech dvac\u00e1t\u00e9ho stolet\u00ed b\u011bhem sv\u00e9ho p\u016fsoben\u00ed v General Electric."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nondeterministic_machine"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u062a\u0634\u0627\u0631\u0644\u0632 \u0628\u0627\u062a\u0634\u0645\u0627\u0646 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Charles Bachman)\u200f (\u0648\u0644\u062f \u0641\u064a 11 \u0633\u0628\u062a\u0645\u0628\u0631 1924 - 13 \u064a\u0648\u0644\u064a\u0648 2017) \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0627\u0634\u062a\u0647\u0631 \u0628\u0639\u0645\u0644\u0647 \u0641\u064a \u0645\u062c\u0627\u0644 \u0639\u0644\u0645 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0648\u0623\u0646\u0638\u0645\u0629 \u0625\u062f\u0627\u0631\u0629 \u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a\u060c \u0641\u0627\u0632 \u0628\u062c\u0627\u0626\u0632\u0629 \u062a\u0648\u0631\u0646\u063a \u0641\u064a \u0639\u0627\u0645 1973."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sankar_Pal"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Charles \u201eCharlie\u201c William Bachman (* 11. Dezember 1924 in Manhattan, Kansas; \u2020 13. Juli 2017 in Lexington, Massachusetts) war ein amerikanischer Informatiker. Er entwickelte unter anderem das Netzwerkdatenbankmodell und eines der ersten Datenbankmanagementsysteme sowie die zum Entwurf von Datenbank-Diagrammen weitverbreitete Bachman-Notation im Entity-Relationship-Modell und war an der Schaffung zahlreicher Standards im Bereich Datenbanken und ferner Netzwerktechnik beteiligt. Er erhielt 1973 den Turing Award f\u00fcr \u201eseinen herausragenden Beitrag zur Technologie von Datenbanken\u201c. Bachman war ein ungew\u00f6hnlicher Turing-Award-Gewinner, weil er seine gesamte berufliche Laufbahn nicht im akademischen Umfeld, sondern in der Industrie verbrachte."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bauer\u2013Fike_theorem"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Charles William Bachman III (December 11, 1924 \u2013 July 13, 2017) was an American computer scientist, who spent his entire career as an industrial researcher, developer, and manager rather than in academia. He was particularly known for his work in the early development of database management systems.His techniques of layered architecture include his namesake Bachman diagrams."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bayesian_network"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Charles William Bachman III, n\u00e9 le 11 d\u00e9cembre 1924 \u00e0 Manhattan dans le Kansas et mort le 13 juillet 2017 \u00e0 Lexington dans le Massachusetts, est informaticien am\u00e9ricain, pionnier dans le domaine des bases de donn\u00e9es et des r\u00e9seaux informatiques. On lui doit le concept du SGBD moderne (architecture Ansi-Sparc), le premier SGBD moderne (IDMS-2), le mod\u00e8le de donn\u00e9es r\u00e9seau (CODASYL) et le mod\u00e8le de communication r\u00e9seau OSI."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Shneiderman"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\ucc30\uc2a4 \uc70c\ub9ac\uc5c4 \ucc30\ub9ac \ubc14\ud06c\ub9cc(Charles William \"Charlie\" Bachman, 1924\ub144 12\uc6d4 11\uc77c ~ 2017\ub144 7\uc6d4 13\uc77c)\uc740 \ubbf8\uad6d\uc758 \ucef4\ud4e8\ud130 \uacfc\ud559\uc790\uc774\ub2e4. \uadf8\ub294 \ud2b9\ud788 \ub370\uc774\ud130\ubca0\uc774\uc2a4 \ubd84\uc57c\uc5d0\uc11c \uc774\ub8e9\ud55c \uacf5\ub85c\ub85c \uc798 \uc54c\ub824\uc838 \uc788\ub2e4."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley_Software_Distribution"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30c1\u30e3\u30fc\u30eb\u30ba\u30fb\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30d0\u30c3\u30af\u30de\u30f3\uff08Charles William Bachman\u30011924\u5e7412\u670811\u65e5 - 2017\u5e747\u670813\u65e5\uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u8a08\u7b97\u6a5f\u79d1\u5b66\u8005\u3067\u3001\u305d\u306e\u7d4c\u6b74\u306e\u307b\u3068\u3093\u3069\u3092\u5b66\u754c\u3067\u306f\u306a\u304f\u7523\u696d\u754c\u306e\u7814\u7a76\u8005\u3068\u3057\u3066\u904e\u3054\u3057\u305f\u3002\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u306e\u5206\u91ce\u3067\u77e5\u3089\u308c\u308b\u3002"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Galler"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Charles William Bachman (Manhattan, 11 dicembre 1924 \u2013 Lexington, 13 luglio 2017) \u00e8 stato un informatico statunitense."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernhard_Sch\u00f6lkopf"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0427\u0430\u0440\u043b\u044c\u0437 \u0423\u0438\u043b\u044c\u044f\u043c \u0411\u0430\u0445\u043c\u0430\u043d (\u0430\u043d\u0433\u043b. Charles William Bachman; 11 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 1924 \u0433\u043e\u0434, \u041c\u0430\u043d\u0445\u044d\u0442\u0442\u0435\u043d, \u0421\u0428\u0410 \u2014 13 \u0438\u044e\u043b\u044f 2017, \u041b\u0435\u043a\u0441\u0438\u043d\u0433\u0442\u043e\u043d (\u041c\u0430\u0441\u0441\u0430\u0447\u0443\u0441\u0435\u0442\u0441)) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0443\u0447\u0451\u043d\u044b\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0445 \u043d\u0430\u0443\u043a, \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0431\u0430\u0437 \u0434\u0430\u043d\u043d\u044b\u0445. \u041b\u0430\u0443\u0440\u0435\u0430\u0442 \u043f\u0440\u0435\u043c\u0438\u0438 \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0430. \u0412 \u0435\u0433\u043e \u0447\u0435\u0441\u0442\u044c \u043d\u0430\u0437\u0432\u0430\u043d\u0430 \u043d\u043e\u0442\u0430\u0446\u0438\u044f \u0411\u0430\u0445\u043c\u0430\u043d\u0430 \u0432 ER-\u043c\u043e\u0434\u0435\u043b\u0438 \u0434\u0430\u043d\u043d\u044b\u0445."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernhard_Thalheim"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0427\u0430\u0440\u043b\u0437 \u0412\u0456\u043b\u044c\u044f\u043c \u0411\u0430\u0445\u043c\u0430\u043d (\u0430\u043d\u0433\u043b. Charles William Bachman; \u043d\u0430\u0440. 11 \u0433\u0440\u0443\u0434\u043d\u044f 1924, \u041c\u0430\u043d\u0445\u0435\u0442\u0442\u0435\u043d (\u041a\u0430\u043d\u0437\u0430\u0441), \u0421\u0428\u0410 \u2014 \u043f\u043e\u043c. 13 \u043b\u0438\u043f\u043d\u044f 2017) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0432\u0447\u0435\u043d\u0438\u0439 \u0443 \u0433\u0430\u043b\u0443\u0437\u0456 \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u043d\u0438\u0445 \u043d\u0430\u0443\u043a, \u0437\u043e\u043a\u0440\u0435\u043c\u0430 \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u0431\u0430\u0437 \u0434\u0430\u043d\u0438\u0445. \u041b\u0430\u0443\u0440\u0435\u0430\u0442 \u043f\u0440\u0435\u043c\u0456\u0457 \u0422\u044e\u0440\u0456\u043d\u0433\u0430, \u043d\u0430 \u0447\u0438\u044e \u0447\u0435\u0441\u0442\u044c \u043d\u0430\u0437\u0432\u0430\u043d\u0430 \u043d\u043e\u0442\u0430\u0446\u0456\u044f \u0411\u0430\u0445\u043c\u0430\u043d\u0430 \u0432 ER-\u043c\u043e\u0434\u0435\u043b\u0456 \u0434\u0430\u043d\u0438\u0445."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Bos"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Charles Willian Bachman (Manhattan, 11 de dezembro de 1924 \u2013 Lexington, 13 de julho de 2017) foi um inform\u00e1tico estadunidense. Especialista em banco de dados, recebeu o Pr\u00eamio Turing de 1973, por \"sua contribui\u00e7\u00e3o fundamental \u00e0 tecnologia de banco de dados\"."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Sutherland"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u67e5\u5c14\u65af\u00b7\u5a01\u5ec9\u00b7\u5df4\u8d6b\u66fc\uff08\u82f1\u8a9e\uff1aCharles William Bachman\uff0c1924\u5e7411\u670811\u65e5\uff0d2017\u5e747\u670813\u65e5\uff09\uff0c\u662f\u7f8e\u56fd\u8ba1\u7b97\u673a\u79d1\u5b66\u5bb6\uff0c\u56e0\u5176\u5728\u6570\u636e\u5e93\u9886\u57df\u7684\u5de5\u4f5c\u800c\u95fb\u540d\u3002\u4ed6\u7684\u4e3b\u8981\u8d21\u732e\u5728\u5de5\u4e1a\u754c\u5f00\u53d1\u5b9e\u9645\u7684\u4ea7\u54c1\uff0c\u800c\u975e\u5b66\u672f\u754c\u7684\u6559\u7814\u5de5\u4f5c\u3002"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_Meyer"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Charles William Bachman (nacido el 11 de diciembre de 1924, Manhattan, Kansas, Estados Unidos-13 de julio de 2017\u200b) fue un prominente inform\u00e1tico, especialmente en el \u00e1rea de las bases de datos. Recibi\u00f3 el Premio Turing en 1973 por \"sus sobresalientes contribuciones a la tecnolog\u00eda de las bases de datos\".Fue elegido como miembro distinguido de la British Computer Society en 1977 por su trabajo pionero en sistemas de bases de datos. Es conocido por sus acaloradas discusiones con Edgar F. Codd, que apoyaba el modelo relacional de bases de datos contra la opini\u00f3n de Bachman."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Holberton"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Charles W. Bachman (Manhattan (Kansas), 11 december 1924 \u2013 Lexington, 13 juli 2017) was een vooraanstaand Amerikaans informaticus gespecialiseerd in databases. In 1973 won hij de Turing Award voor \"zijn uitmuntende bijdrage aan databasetechnologie\". Bachman was zijn gehele loopbaan een voorstander van , een alternatief voor de bekende relationele database systemen ontwikkeld door Ted Codd. Dit verschil van inzicht heeft de twee heren een aantal maal in aanvaring gebracht en heeft ook geresulteerd in een aantal verhitte, publieke debatten tussen de twee."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bigtable"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Charles William Bachman (ur. 11 grudnia 1924 w Manhattan (Kansas), zm. 13 lipca 2017 w Lexington (Massachusetts)) \u2013 ameryka\u0144ski specjalista nauk komputerowych, znany zw\u0142aszcza z osi\u0105gni\u0119\u0107 w dziedzinie teorii baz danych, za co w 1973 r. zosta\u0142 wyr\u00f3\u017cniony Nagrod\u0105 Turinga. Bachman nie jest typowym badaczem akademickim \u2013 ca\u0142\u0105 sw\u0105 karier\u0119 sp\u0119dzi\u0142 jako badacz-praktyk. W 1950 r. rozpocz\u0105\u0142 prac\u0119 w Dow Chemical, potem zosta\u0142 kierownikiem dzia\u0142u przetwarzania danych; w 1960 r. przeni\u00f3s\u0142 si\u0119 do General Electric, gdzie opracowa\u0142 jeden z pierwszych system\u00f3w obs\u0142ugi baz danych, ."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Gates"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/CodasylB.png"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Joy"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles_Bachman_2012.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bjarne_Stroustrup"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Manhattan,_Kansas"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BlueJ"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Lexington,_Massachusetts"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bourne_shell"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/Lexington,_Massachusetts"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_Eich"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "2017-07-13"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Kernighan"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Manhattan,_Kansas"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Randell"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1924-12-11"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_A._Huffman"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_East_Lansing,_Michigan"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_A._Wagner"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1924_births"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_C._Evans"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Pennsylvania_School_of_Engineering_and_Applied_Science_alumni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Canfield_Smith"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_E._Shaw"
     },
     {
         "subject": "http://dbpedia.org/resource/Charles_Bachman",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Wharton_School_of_the_University_of_Pennsylvania_alumni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Eppstein"
     }
 ]

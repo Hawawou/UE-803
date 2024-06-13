@@ -1,343 +1,28 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromPavia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Architect109805475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianArchitects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianEngineers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRenaissanceArchitects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRenaissanceSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Giovanni Antonio Amadeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Giovanni Antonio Amadeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Giovanni Antonio Amadeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Giovanni Antonio Amadeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Giovanni Antonio Amadeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Giovanni Antonio Amadeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30b8\u30e7\u30f4\u30a1\u30f3\u30cb\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30a2\u30de\u30c7\u30fc\u30aa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Giovanni Antonio Amadeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Giovanni Antonio Amadeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Giovanni Antonio Amadeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043c\u0430\u0434\u0435\u043e, \u0414\u0436\u043e\u0432\u0430\u043d\u043d\u0438 \u0410\u043d\u0442\u043e\u043d\u0438\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Giovanni Antonio Amadeo (asi 1447 Pavia \u2013 27. nebo 28. srpna 1522) byl italsk\u00fd socha\u0159 a architekt. Pod\u00edlel se na v\u00fdzdob\u011b fas\u00e1dy poh\u0159ebn\u00ed kaple kondoti\u00e9ra Bartolomea Colleoni v Bergamu, dokon\u010den\u00e9 po roce 1470. Pracoval tak\u00e9 n\u011bkolik let na fas\u00e1d\u011b v Certosa di Pavia (1473-1476) a na v\u00fdzdob\u011b mil\u00e1nsk\u00e9ho d\u00f3mu. Pravd\u011bpodobn\u011b spolupracoval s Bramantem na fas\u00e1d\u011b roku 1486."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Giovanni Antonio Amadeo (* 1447 in Pavia; \u2020 27. August 1522 in Mailand) (Burgerort Lugano) war ein italienisch-schweizerischer Bildhauer, Architekt und Ingenieur."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Giovanni Antonio Amadeo (c. 1447 \u2013 27 or 28 August 1522) was an Italian Renaissance sculptor of the Early Renaissance, architect, and engineer."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Giovanni Antonio Amadeo (Pav\u00eda, c. 1447 - Mil\u00e1n, 28 de agosto de 1522) fue un arquitecto, ingeniero y escultor del Renacimiento. Trabaj\u00f3 fundamentalmente en el norte de Italia, en Mil\u00e1n y Lombard\u00eda, donde alcanz\u00f3 gran reputaci\u00f3n y fama, hasta el punto de influir en grandes maestros como Donato Bramante o Leonardo da Vinci."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Giovanni Antonio Amadeo (Pavie, ~1447 - Milan, 27 ou 28 ao\u00fbt 1522) est un sculpteur et architecte italien de la Renaissance toscane en Lombardie, le gendre et l'\u00e9l\u00e8ve de Guiniforte Solari."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30b8\u30e7\u30f4\u30a1\u30f3\u30cb\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30a2\u30de\u30c7\u30fc\u30aa\uff08Giovanni Antonio Amadeo, 1447\u5e74 - 1522\u5e748\u670827\u65e5\u3001\u53c8\u306f28\u65e5\uff09\u306f\u3001\u30eb\u30cd\u30b5\u30f3\u30b9\u521d\u671f\u306e\u30a4\u30bf\u30ea\u30a2\u306e\u5f6b\u523b\u5bb6\u30fb\u5efa\u7bc9\u5bb6\u3067\u3042\u308b\u3002\u30b4\u30b7\u30c3\u30af\u306e\u4f1d\u7d71\u3092\u6368\u3066\u308b\u3053\u3068\u306f\u306a\u304b\u3063\u305f\u5f6b\u523b\u5bb6\u3067\u3042\u308a\u3001\u5efa\u7bc9\u5bb6\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Giovanni Antonio Amadeo (Pavia, circa. 1447 - Milaan, 27 of 28 augustus 1522) was een Italiaans architect, ingenieur en beeldhouwer uit de vroege renaissance."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Giovanni Antonio Amadeo (Pavia, 1447 \u2013 Milano, 28 agosto 1522) \u00e8 stato uno scultore, ingegnere e architetto italiano."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Giovanni Antonio Amadeo (ur. ok. 1447 w Pawii, zm. 27 lub 28 sierpnia 1522 w Mediolanie) \u2013 w\u0142oski architekt i rze\u017abiarz."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Giovanni Antonio Amadeo, f\u00f6dd omkring 1447 och d\u00f6d 1522, var en italiensk bildhuggare och arkitekt."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0414\u0436\u043e\u0432\u0430\u043d\u043d\u0438 \u0410\u043d\u0442\u043e\u043d\u0438\u043e \u0410\u043c\u0430\u0434\u0435\u043e (\u0438\u0442\u0430\u043b. Giovanni Antonio Amadeo; 1447, \u041f\u0430\u0432\u0438\u044f \u2014 1522, \u041c\u0438\u043b\u0430\u043d) \u2014 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u0438 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440. \u041f\u043e\u0441\u0432\u044f\u0442\u0438\u043b \u0441\u0435\u0431\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044e \u0440\u0435\u043b\u044c\u0435\u0444\u043e\u0432 \u0438 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432 \u0434\u0435\u043a\u043e\u0440\u0430, \u0442\u0438\u043f\u0438\u0447\u043d\u044b\u0445 \u0434\u043b\u044f \u043b\u043e\u043c\u0431\u0430\u0440\u0434\u0441\u043a\u043e\u0439 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b. \u0417\u0430\u043a\u043e\u043d\u0447\u0438\u043b \u0432\u043e\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0427\u0435\u0440\u0442\u043e\u0437\u044b \u0432 \u041f\u0430\u0432\u0438\u0438. \u0415\u0433\u043e \u043f\u043e\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u0438 \u0440\u0430\u0441\u0446\u0432\u0435\u0442\u0443 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430 \u0440\u0435\u0437\u044c\u0431\u044b \u043f\u043e \u043a\u0430\u043c\u043d\u044e. \u0414\u0436\u043e\u0432\u0430\u043d\u043d\u0438 \u0410\u043d\u0442\u043e\u043d\u0438\u043e \u0410\u043c\u0430\u0434\u0435\u043e \u0441\u043a\u043e\u043d\u0447\u0430\u043b\u0441\u044f 27 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1522 \u0433\u043e\u0434\u0430."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bergamo_colleoni_detail.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni_Antonio_Amadeo,_Kneeling_Angel,_c._1447-1552,_NGA_462.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Milano_domo_Antonio_Amadeo.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/2014-01-01-Pavia_Certosa.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_Renaissance_architects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_Renaissance_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1440s_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:16th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:15th-century_Italian_architects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:16th-century_Italian_architects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_engineers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Architects_from_Pavia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1522_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:15th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "2859687"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1109149105"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carthusians"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Santa_Maria_di_Canepanova"
+        "object": "http://dbpedia.org/resource/San_Pietro_in_Gessate"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Santa_Maria_presso_San_Celso"
+        "object": "http://dbpedia.org/resource/List_of_depictions_of_the_Virgin_and_Child"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Santa_Maria_presso_San_Satiro"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bergamo"
+        "object": "http://dbpedia.org/resource/Basilica_of_Sant'Eustorgio"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
         "object": "http://dbpedia.org/resource/Category:Italian_Renaissance_architects"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Italian_Renaissance_sculptors"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
@@ -347,147 +32,82 @@
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Pavia_Cathedral"
+        "object": "http://dbpedia.org/resource/Renaissance"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Urgnano"
+        "object": "http://dbpedia.org/resource/Ludovico_II_of_Saluzzo"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Vigevano"
+        "object": "http://dbpedia.org/resource/Santa_Maria_delle_Grazie_(Milan)"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cremona"
+        "object": "http://dbpedia.org/resource/Saluzzo"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Galeazzo_Maria_Sforza"
+        "object": "http://dbpedia.org/resource/Gian_Galeazzo_Visconti"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Leonardo_da_Vinci"
+        "object": "http://dbpedia.org/resource/Consecration"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lugano"
+        "object": "http://dbpedia.org/resource/Cornerstone"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Francesco_Solari"
+        "object": "http://dbpedia.org/resource/Lombardy"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Pietro_Antonio_Solari"
+        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Lombardy"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1440s_births"
+        "object": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:16th-century_Italian_sculptors"
+        "object": "http://dbpedia.org/resource/Giovanni_Cristoforo_Romano"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:15th-century_Italian_architects"
+        "object": "http://dbpedia.org/resource/Isola_Bella_(Lago_Maggiore)"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:16th-century_Italian_architects"
+        "object": "http://dbpedia.org/resource/Category:1510s_deaths"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Italian_engineers"
+        "object": "http://dbpedia.org/resource/Category:1460s_births"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Tirano"
+        "object": "http://dbpedia.org/resource/Category:Architects_from_Lombardy"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Condottieri"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bartolomeo_Colleoni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Parma"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cappella_Colleoni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Architects_from_Pavia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ascanio_Sforza"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1522_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:15th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Chiavenna"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ospedale_Maggiore"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Donato_Bramante"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Guiniforte_Solari"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Milan_Cathedral"
+        "object": "http://dbpedia.org/resource/Milan"
     },
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
@@ -497,6 +117,386 @@
     {
         "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Valtellina"
+        "object": "http://dbpedia.org/resource/Tympanum_(architecture)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duomo_of_Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cathedral_of_Cremona"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/%22St._Anne%22"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Duomo_di_Cremona,Arca_dei_SS._Marcellino_e_Pietro_05.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francesco_Cazzaniga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baroque_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernardino_Luini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Campi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renaissance_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mediolanum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Costanzo_Antegnati"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maximian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melozzo_da_Forl\u00ec"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Roman_Catholic_churches_in_Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cristoforo_Solari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archaeological_Museum_(Milan)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Renaissance_architecture_in_Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simone_Peterzano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Byzantine_Rite"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1518_establishments_in_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lombards"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northern_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Religious_buildings_and_structures_completed_in_1518"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forlivese_school_of_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italo-Albanian_Catholic_Church"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marco_Palmezzano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:16th-century_Roman_Catholic_church_buildings_in_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tourist_attractions_in_Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aurelio_Luini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Koine_Greek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ornavasso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedictine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hippodrome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catholic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gian_Giacomo_Dolcebuono"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Serliana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Dal_Re,_Marc'Antonio_(1697-1766)_-_Vedute_di_Milano_-_84_-_Il_Monastero_Maggiore_monache_-_ca._1745.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Lombardia_Milano8_tango7174.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Milano_-_San_Maurizio_-_Affreschi_-_Foto_Giovanni_Dall'Orto_14-Aug-2004_-_01.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Smaurizioinside.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Vincenzo_foppa,_san_luca.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_II_d'Amboise"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Roman_Catholic_churches_in_Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cristoforo_Solari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Renaissance_architecture_in_Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonardo_da_Vinci"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:16th-century_Roman_Catholic_church_buildings_in_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Roman_Catholic_churches_completed_in_1508"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bramante"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Brescia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brescia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gasparo_Cairano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moretto_da_Brescia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Renaissance_architecture_in_Brescia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Roman_Catholic_churches_in_Brescia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ludovico_Beretta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:15th-century_Roman_Catholic_church_buildings_in_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Piermaria_Bagnadore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grazio_Cossali"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Second_World_War"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pinacoteca_Tosio_Martinengo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tamagnino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renaissance_Architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charterhouse_of_Pavia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Giovanni_Antonio_Amadeo",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mural"
     }
 ]

@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Rediet Abebe"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Rediet Abebe"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Rediet Abebe (Amharic: \u1228\u12f5\u12a4\u1275 \u12a0\u1260\u1260; born 1991) is an Ethiopian computer scientist working in algorithms and artificial intelligence. She is an Assistant Professor of Computer Science at the University of California, Berkeley. Previously, she was a Junior Fellow at the Harvard Society of Fellows. Abebe's research develops mathematical and computational frameworks for examining questions related to inequality and distributive justice. She co-founded the multi-institutional interdisciplinary research initiatives MD4SG and Black in AI."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "http://md4sg.com/"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "https://www.cs.cornell.edu/~red/"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rediet_Abebe.png"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Addis_Ababa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Ethiopia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Addis_Ababa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Ethiopia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Ethiopian_expatriates_in_the_United_Kingdom"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Ethiopian_women_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_Pembroke_College,_Cambridge"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Cornell_University_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Theoretical_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1991_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artificial_intelligence_ethicists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artificial_intelligence_researchers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Harvard_School_of_Engineering_and_Applied_Sciences_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Addis_Ababa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Ethiopian_expatriates_in_the_United_States"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "62019193"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1088027414"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabinet_Secretary_for_Finance"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Ethiopian_expatriates_in_the_United_Kingdom"
+        "object": "http://dbpedia.org/resource/Cadbury"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Part_III_of_the_Mathematical_Tripos"
+        "object": "http://dbpedia.org/resource/Cambridge_Buskers"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Black_in_AI"
+        "object": "http://dbpedia.org/resource/Cambridge_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bloomberg_Businessweek"
+        "object": "http://dbpedia.org/resource/Cameron_Cobbold,_1st_Baron_Cobbold"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Applied_mathematics"
+        "object": "http://dbpedia.org/resource/Canadian_Space_Agency"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Jon_Kleinberg"
+        "object": "http://dbpedia.org/resource/Cantabile_(group)"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Ethiopian_women_computer_scientists"
+        "object": "http://dbpedia.org/resource/Cape_Cod"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Pembroke_College,_Cambridge"
+        "object": "http://dbpedia.org/resource/Carol_Vorderman"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+        "object": "http://dbpedia.org/resource/Caroline_Calloway"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+        "object": "http://dbpedia.org/resource/Caroline_Wilson_(diplomat)"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Social_inequality"
+        "object": "http://dbpedia.org/resource/Bedales_School"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Bell_Educational_Trust"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cornell_University"
+        "object": "http://dbpedia.org/resource/BAFTA"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Master_of_Science"
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Singapore"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mathematics"
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Sri_Lanka"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Conference_on_Neural_Information_Processing_Systems"
+        "object": "http://dbpedia.org/resource/Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Computer_science"
+        "object": "http://dbpedia.org/resource/Prince_Andrew_of_Yugoslavia"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Computer_scientist"
+        "object": "http://dbpedia.org/resource/Prince_Edward,_Earl_of_Wessex"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_Pembroke_College,_Cambridge"
+        "object": "http://dbpedia.org/resource/Prince_Henry,_Duke_of_Gloucester"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Cornell_University_alumni"
+        "object": "http://dbpedia.org/resource/Prince_Ra'ad_bin_Zeid"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Theoretical_computer_scientists"
+        "object": "http://dbpedia.org/resource/Prince_Richard,_Duke_of_Gloucester"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Center_for_Information_Technology_Research_in_the_Interest_of_Society"
+        "object": "http://dbpedia.org/resource/Prince_Tomislav_of_Yugoslavia"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Timnit_Gebru"
+        "object": "http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Addis_Ababa"
+        "object": "http://dbpedia.org/resource/Prince_William_Frederick,_Duke_of_Gloucester_and_Edinburgh"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Amharic"
+        "object": "http://dbpedia.org/resource/Prince_William_of_Gloucester"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1991_births"
+        "object": "http://dbpedia.org/resource/Prince_of_the_Church"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Daphne_Koller"
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Eric_Lander"
+        "object": "http://dbpedia.org/resource/Pyotr_Kapitsa"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ethiopia"
+        "object": "http://dbpedia.org/resource/Queen_Sof\u00eda_of_Spain"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Francis_Collins"
+        "object": "http://dbpedia.org/resource/Quentin_Blake"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Dina_Katabi"
+        "object": "http://dbpedia.org/resource/Quentin_Skinner"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Harvard_Society_of_Fellows"
+        "object": "http://dbpedia.org/resource/Robert_M._Young_(academic)"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Harvard_University"
+        "object": "http://dbpedia.org/resource/Robert_May,_Baron_May_of_Oxford"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/International_Community_School_of_Addis_Ababa"
+        "object": "http://dbpedia.org/resource/Robert_Megarry"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/The_Harvard_Crimson"
+        "object": "http://dbpedia.org/resource/Robert_Newman_(comedian)"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Artificial_intelligence"
+        "object": "http://dbpedia.org/resource/Robert_Runcie"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artificial_intelligence_ethicists"
+        "object": "http://dbpedia.org/resource/Robert_Sainsbury"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artificial_intelligence_researchers"
+        "object": "http://dbpedia.org/resource/Robert_Walker,_Baron_Walker_of_Gestingthorpe"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Harvard_School_of_Engineering_and_Applied_Sciences_alumni"
+        "object": "http://dbpedia.org/resource/Robert_Webb"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Addis_Ababa"
+        "object": "http://dbpedia.org/resource/Robin_Cormack"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Ethiopian_expatriates_in_the_United_States"
+        "object": "http://dbpedia.org/resource/Robin_Ellis"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kate_Crawford"
+        "object": "http://dbpedia.org/resource/Robin_French"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Imre_Leader"
+        "object": "http://dbpedia.org/resource/Robin_Milner"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Innovators_Under_35"
+        "object": "http://dbpedia.org/resource/Robin_Osborne"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Algorithms"
+        "object": "http://dbpedia.org/resource/Rod_Smallwood"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/National_Institutes_of_Health"
+        "object": "http://dbpedia.org/resource/Rodney_Bennett"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Pure_mathematics"
+        "object": "http://dbpedia.org/resource/Rogelio_Ram\u00edrez_de_la_O"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Jon_M._Kleinberg"
+        "object": "http://dbpedia.org/resource/Roger_Fry"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mathematics_Tripos"
+        "object": "http://dbpedia.org/resource/Roger_Heath-Brown"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Junior_Fellow"
+        "object": "http://dbpedia.org/resource/Roger_Michell"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://md4sg.com/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Needham"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://www.cs.cornell.edu/~red/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Penrose"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://www.technologyreview.com/innovator/rediet-abebe/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Scruton"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://orcid.org/0000-0002-5487-9108"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Smalley"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q70252275"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Toulson,_Lord_Toulson"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://pt.dbpedia.org/resource/Rediet_Abebe"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Williams_(theologian)"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://sq.dbpedia.org/resource/Rediet_Abebe"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Y._Tsien"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/AhHTp"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolls-Royce_Limited"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/property/thesisTitle",
-        "object": "Designing Algorithms for Social Good"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romance_languages"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/property/thesisYear",
-        "object": "2019"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Firbank"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/property/workInstitutions",
-        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Fisher"
     },
     {
         "subject": "http://dbpedia.org/resource/Rediet_Abebe",
-        "predicate": "http://dbpedia.org/property/workInstitutions",
-        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rory_McEwen_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Franklin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosamond_Lehmann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_J._Anderson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rossall_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rough_Trade_Records"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rowan_Williams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rowland_Baring,_3rd_Earl_of_Cromer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxana_Saberi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxbury_Latin_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_MacLaren_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Yorke_Calne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Academy_of_Dramatic_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_College_of_Physicians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Institute_of_British_Architects"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Institution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_National_Theatre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Orthopaedic_Hospital"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Edwards_(physicist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Mendes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Toy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samson_Abramsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Butler_(novelist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Pepys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Taylor_Coleridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Whitbread_(1764\u20131815)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandi_Toksvig"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Landy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sao_Hkun_Hkio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Jarvis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Winckless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarojini_Naidu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scottish_Liberal_Democrats"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Gottlieb"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/En_plein_air"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Encyclopedia_of_Language_and_Linguistics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Rediet_Abebe",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Endellion_Quartet"
     }
 ]

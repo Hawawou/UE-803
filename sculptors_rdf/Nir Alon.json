@@ -1,253 +1,393 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatInstallationArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIsraeliArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIsraeliSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat21st-centurySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Nir Alon"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Nir Alon"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Nir Alon"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Nir Alon (en hebreo \u05e0\u05d9\u05e8 \u05d0\u05dc\u05d5\u05df) es un escultor y artista de instalaciones israel\u00ed, nacido en 1964."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Nir Alon (hebr\u00e4isch \u05e0\u05d9\u05e8 \u05d0\u05dc\u05d5\u05df; * 1964) ist ein israelischer Bildhauer und Installationsk\u00fcnstler. Alon studierte von 1988 bis 1992 an der Bezalel-Akademie in Jerusalem und war dort bis 1993 Assistent. 1996 erhielt er den Preis f\u00fcr junge K\u00fcnstler des israelischen Ministeriums f\u00fcr Erziehung und Kultur. 1998 konnte er an einer Austausch-Ausstellung in Hamburg teilnehmen, 2001 erhielt er ein Stipendium als K\u00fcnstler zu Gast in Harburg. Seitdem lebt und arbeitet er in Hamburg, wo er an der Hochschule f\u00fcr angewandte Wissenschaften im Fachbereich Gestaltung unterrichtet. Er hatte Einzelausstellungen in Jerusalem, Tel Aviv, Schwerin, Bonn, Mannheim, Frankfurt am Main und Hamburg (Kampnagel 2005)."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Nir Alon (born 1964) is an Israeli sculptor and an installation artist based in Hamburg. Alon studied from 1988 until 1992 at the Bezalel Academy of Art and Design in Jerusalem. In 1996 he received the prize for young artists of the Israeli Ministry for education and Culture. In 1998 he participated in an exchange exhibition in Hamburg. In 2001 he received a working scholarship as a guest artist to Harburg. Since then he works and lives in Hamburg. He had solo exhibitions in Jerusalem, Tel Aviv, Schwerin, Bonn, Mannheim, Frankfurt and Hamburg. He preferably develops his sculptures from cast-off everyday life articles such as furniture, suit-cases, lamps, light bulbs and cables, whereby the installations are arranged directly at the place of exhibition and in the reference to these. Thus it"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Israeli_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Israeli_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1964_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Bezalel_Academy_of_Arts_and_Design_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Israeli_contemporary_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "4997410"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1105629763"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nia_(given_name)"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Schwerin"
+        "object": "http://dbpedia.org/resource/Shlomit_Nir"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bonn"
+        "object": "http://dbpedia.org/resource/Nir_Poraz"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Israeli_sculptors"
+        "object": "http://dbpedia.org/resource/Category:Hebrew-language_given_names"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Anke_Feuchtenberger"
+        "object": "http://dbpedia.org/resource/Hebraization_of_surnames"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/United_States"
+        "object": "http://dbpedia.org/resource/Nir_Alon"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Nir_Friedman"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Frankfurt"
+        "object": "http://dbpedia.org/resource/Nir_Kabaretti"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Germany"
+        "object": "http://dbpedia.org/resource/Nir_Nakav"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Nahshon,_Israel"
+        "object": "http://dbpedia.org/resource/Nir_Abergel"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Israeli_sculptors"
+        "object": "http://dbpedia.org/resource/Nir_Barkat"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bezalel_Academy_of_Art_and_Design"
+        "object": "http://dbpedia.org/resource/Nir_Barzilai"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1964_births"
+        "object": "http://dbpedia.org/resource/Nir_Berkovic"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Brno"
+        "object": "http://dbpedia.org/resource/Nir_Bitton"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Buchholz_in_der_Nordheide"
+        "object": "http://dbpedia.org/resource/Nir_Cohen"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Bezalel_Academy_of_Arts_and_Design_alumni"
+        "object": "http://dbpedia.org/resource/Nir_Davidovich"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Hamburg"
+        "object": "http://dbpedia.org/resource/Nir_Felder"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Israel"
+        "object": "http://dbpedia.org/resource/Nir_Jacob_Kaplan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Klinger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Lax"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Levine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Malhi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Nachum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Seroussi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Shaviv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Shental"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Sivilia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Welgreen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Yaniv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Yusim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Zidkyahu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Itzhak_Nir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Baram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Hod"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Rosen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Shavit"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NIR_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Tibor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allon_(surname)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Ben_David"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Hilu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uri_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elon_(name)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nitzan_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gedaliah_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geva_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modi_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_(disambiguation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Author"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Azaria_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weizmann_Institute_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Abutbul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Badat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Bar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Bement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Ben-Meir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Carmeli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Chen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Davidi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Day"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_De_Loco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Eizenman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Harazi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Harel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Hazan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Mandel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Mizrahi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Pinkas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Stein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Tal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Turgeman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Wieland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alon_Yefet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Noga_Alon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nir_Alon",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
@@ -257,131 +397,106 @@
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Italy"
+        "object": "http://dbpedia.org/resource/Arts_administration"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Tel_Aviv"
+        "object": "http://dbpedia.org/resource/Category:Hebrew_masculine_given_names"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Israeli_contemporary_artists"
+        "object": "http://dbpedia.org/resource/Category:Hebrew-language_surnames"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Jerusalem"
+        "object": "http://dbpedia.org/resource/Teacher"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mannheim"
+        "object": "http://dbpedia.org/resource/Yosef_Alon"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.nir-alon.com/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neuroscientist"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.0cz314"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilan_(name)"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/5794884"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Alon"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Nir_Alon"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/121707067"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Billops"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q559555"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/Nir_Alon"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/Nir_Alon"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Marochetti"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://he.dbpedia.org/resource/\u05e0\u05d9\u05e8_\u05d0\u05dc\u05d5\u05df"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Brooks_MacNeil"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://tr.dbpedia.org/resource/Nir_Alon"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4kJtF"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolina_Benedicks-Bruce"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Peddle_Ball"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:ISBN"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Ramersdorfer"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Nir Alon (hebr\u00e4isch \u05e0\u05d9\u05e8 \u05d0\u05dc\u05d5\u05df; * 1964) ist ein israelischer Bildhauer und Installationsk\u00fcnstler. Alon studierte von 1988 bis 1992 an der Bezalel-Akademie in Jerusalem und war dort bis 1993 Assistent. 1996 erhielt er den Preis f\u00fcr junge K\u00fcnstler des israelischen Ministeriums f\u00fcr Erziehung und Kultur. 1998 konnte er an einer Austausch-Ausstellung in Hamburg teilnehmen, 2001 erhielt er ein Stipendium als K\u00fcnstler zu Gast in Harburg. Seitdem lebt und arbeitet er in Hamburg, wo er an der Hochschule f\u00fcr angewandte Wissenschaften im Fachbereich Gestaltung unterrichtet. Er hatte Einzelausstellungen in Jerusalem, Tel Aviv, Schwerin, Bonn, Mannheim, Frankfurt am Main und Hamburg (Kampnagel 2005). Seine Skulpturen entwickelt er vorzugsweise aus ausrangierten Alltagsgegenst\u00e4nden wie M\u00f6beln, Koffern, Lampen, Gl\u00fchbirnen und Kabeln, wobei die Installationen direkt am Ausstellungsort und in Bezug auf diesen zusammengestellt werden. So erzielt er mit sparsamsten Mitteln eine eindringliche Wirkung. Seine Arbeiten sind in Museen und privaten Sammlungen in Deutschland, Israel, Italien und den USA. Er kritisierte im September 2019 mit \u00fcber 250 Autoren, dass die Stadt Dortmund die Verleihung des Nelly-Sachs-Preises an die Schriftstellerin Kamila Shamsie wegen deren Unterst\u00fctzung der umstrittenen BDS-Kampagne (Boycott, Divestment and Sanctions gegen Israel), \u00fcber die die Jury nicht informiert war, widerrufen hatte."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_Shawk_Brooks"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Nir Alon (en hebreo \u05e0\u05d9\u05e8 \u05d0\u05dc\u05d5\u05df) es un escultor y artista de instalaciones israel\u00ed, nacido en 1964."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caspar_Buberl"
     },
     {
         "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Nir Alon (born 1964) is an Israeli sculptor and an installation artist based in Hamburg. Alon studied from 1988 until 1992 at the Bezalel Academy of Art and Design in Jerusalem. In 1996 he received the prize for young artists of the Israeli Ministry for education and Culture. In 1998 he participated in an exchange exhibition in Hamburg. In 2001 he received a working scholarship as a guest artist to Harburg. Since then he works and lives in Hamburg. He had solo exhibitions in Jerusalem, Tel Aviv, Schwerin, Bonn, Mannheim, Frankfurt and Hamburg. He preferably develops his sculptures from cast-off everyday life articles such as furniture, suit-cases, lamps, light bulbs and cables, whereby the installations are arranged directly at the place of exhibition and in the reference to these. Thus it obtains an urgent effect with most economical means. His works are in public and private collections in Germany, Israel, Italy and United States."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://purl.org/linguistics/gold/hypernym",
-        "object": "http://dbpedia.org/resource/Sculptor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://schema.org/sameAs",
-        "object": "http://viaf.org/viaf/5794884"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Nir_Alon?oldid=1105629763&ns=0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "4410"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nir_Alon",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Nir_Alon"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ambrosius_Petruzzy"
     }
 ]

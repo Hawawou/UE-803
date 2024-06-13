@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Decorative_arts"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Potsdam"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prussia"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pyotr_Ilyich_Tchaikovsky"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quadratura"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rohr_in_Niederbayern"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Empire"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanssouci"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schloss_Charlottenburg"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBaroqueArchitects"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electoral_Palace,_Trier"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBaroqueSculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Encoignure"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBrazilianArchitects"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meissonier"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBrazilianArtists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanssouci_Palace"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBrazilianPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baroque"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBrazilianPeopleOfAfricanDescent"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basilica_of_Santo_Domingo,_Lima"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBrazilianPeopleOfPortugueseDescent"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basilica_of_the_Fourteen_Holy_Helpers"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBrazilianSculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bavaria"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bordeaux"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Branicki_Palace,_Bia\u0142ystok"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Garrick"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Diderot"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMinasGerais"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoine_Pesne"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Architect109805475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Rinaldi_(architect)"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hungary"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joshua_Reynolds"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_the_Great"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Clive"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles-Am\u00e9d\u00e9e-Philippe_van_Loo"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles-Andr\u00e9_van_Loo"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles-Joseph_Natoire"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Cressent"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cultural_movement"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cupid"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_and_Albert_Museum"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voltaire"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat18th-centuryBrazilianPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Devonshire_House"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryBrazilianPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_de_Lajoue"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/Artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_Baptist_Zimmermann"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_Christian_Bach"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_Joachim_K\u00e4ndler"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_Michael_Fischer"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meissen_porcelain"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0391\u03bb\u03b5\u03ca\u03b6\u03b1\u03bd\u03c4\u03af\u03bd\u03b9\u03bf\u03c5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galante_music"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Template:Timeline_of_Italian_artists_to_1800"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rocaille"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:18th_century_in_the_arts"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Early_Modern_period"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commedia_dell'arte"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornell_University_Press"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Quentin_de_La_Tour"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg_Wenzeslaus_von_Knobelsdorff"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_XV_furniture"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043b\u0435\u0439\u0436\u0430\u0434\u0438\u043d\u044c\u044e"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orient"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043b\u0435\u0439\u0436\u0430\u0434\u0456\u043d\u044c\u044e"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trompe-l'\u0153il"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ant\u00f4nio Francisco Lisboa, conegut com l'Aleijadinho (del portugu\u00e8s el \"Lisiadet\"), (Vila Rica, 29 d'agost de 1730 o 1738 - id., 18 de novembre de 1814) va ser un escultor, imatger i arquitecte brasiler. \u00c9s considerat el major representant de l'estil barroc a Minas Gerais (el barroc mineiro) i de les arts pl\u00e0stiques a Brasil. Per a diversos investigadors, Aleijadinho \u00e9s la figura m\u00e9s important del Barroc llatinoameric\u00e0."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Michel"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ant\u00f4nio Francisco Lisboa, genannt Aleijadinho (* 1738 in Vila Rica, heute Ouro Preto; \u2020 18. November 1814 ebenda) war der bedeutendste Baumeister und Bildhauer des brasilianischen Barock. Sein Werk ist in mehreren Kolonialst\u00e4dten des Bundesstaates Minas Gerais erhalten."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Egid_Quirin_Asam"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ant\u00f4nio Francisco Lisboa (b. 1730 or 1738 \u2013 November 18, 1814), more commonly known as Aleijadinho, was a sculptor and architect of Colonial Brazil, noted for his works on and in various churches of Brazil. His works are considered some of the best examples of Portuguese colonial architecture in Brazil."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Boucher"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u039f \u0391\u03bd\u03c4\u03cc\u03bd\u03b9\u03bf\u03c5 \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf\u03c5 \u039b\u03b9\u03c3\u03bc\u03c0\u03cc\u03b1 (Ant\u00f4nio Francisco Lisboa, 1730 \u03ae 1738 \u2013 18 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 1814), \u03b3\u03bd\u03c9\u03c3\u03c4\u03cc\u03c4\u03b5\u03c1\u03bf\u03c2 \u03c9\u03c2 \u0391\u03bb\u03b5\u03ca\u03b6\u03b1\u03bd\u03c4\u03af\u03bd\u03b9\u03bf\u03c5 (Aleijadinho), \u03ae\u03c4\u03b1\u03bd \u03b3\u03bb\u03cd\u03c0\u03c4\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03c1\u03c7\u03b9\u03c4\u03ad\u03ba\u03c4\u03bf\u03bd\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c0\u03bf\u03b9\u03ba\u03b9\u03b1\u03ba\u03ae\u03c2 \u0392\u03c1\u03b1\u03b6\u03b9\u03bb\u03af\u03b1\u03c2, \u03c0\u03bf\u03c5 \u03b4\u03b9\u03b1\u03ba\u03c1\u03af\u03b8\u03b7\u03ba\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03ad\u03c1\u03b3\u03bf \u03c4\u03bf\u03c5 \u03c3\u03b5 \u03b4\u03b9\u03ac\u03c6\u03bf\u03c1\u03bf\u03c5\u03c2 \u03bd\u03b1\u03bf\u03cd\u03c2 \u03c4\u03b7\u03c2 \u0392\u03c1\u03b1\u03b6\u03b9\u03bb\u03af\u03b1\u03c2. \u0398\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03bf \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03c2 \u0392\u03c1\u03b1\u03b6\u03b9\u03bb\u03b9\u03b1\u03bd\u03cc\u03c2 \u03b1\u03c1\u03c7\u03b9\u03c4\u03ad\u03ba\u03c4\u03bf\u03bd\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b3\u03bb\u03cd\u03c0\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03bf\u03c7\u03ae\u03c2 \u03c4\u03bf\u03c5."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_the_Great"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ant\u00f4nio Francisco Lisboa (naski\u011dis en 1730, mortis en 18-a de novembro de 1814), konata pri la kromnomo Aleijadinho (la Handikapulo), estis skulpitisto, gravuristo kaj arkitekto brazila. Li estis la plej grava baroka artisto de Brazilo."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ant\u00f4nio Francisco Lisboa, conocido como el Aleijadinho (del portugu\u00e9s el \"Lisiadito\"), (Vila Rica, 29 de agosto de 1730 o 1738 - Ib., 18 de noviembre de 1814) fue un escultor, imaginero y arquitecto brasile\u00f1o.\u200b Es considerado el mayor representante del estilo barroco en Minas Gerais (el barroco mineiro) y de las artes pl\u00e1sticas en Brasil, no solo en su \u00e9poca, sino tambi\u00e9n durante la Colonia. Para varios investigadores, Aleijadinho es el mayor nombre del Barroco latinoamericano.\u200b\u200b"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Battista_Tiepolo"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ant\u00f4nio Francisco Lisboa (Aleijadinho) (Vila Rica (het huidige Ouro Preto) in (Minas Gerais), 29 augustus 1738 - aldaar, 18 november 1814) was een Braziliaanse beeldhouwer en architect. Toen Aleijandinho ongeveer 40 jaar oud was kreeg hij een ziekte waardoor hij zijn ledematen steeds minder kon gebruiken. Om te blijven werken moest een assistent hem helpen om zijn gereedschappen vast te houden. Zijn werken zijn typisch Braziliaanse barok en hadden eigenschappen uit zowel de rococo, klassieke stijlen en de gotiek. Hij werkte vooral in zeepsteen."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_Britain"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antonio Francisco Lisboa, detto Aleijadinho (Ouro Preto, 29 agosto 1730 \u2013 Ouro Preto, 18 novembre 1814), \u00e8 stato uno scultore, intagliatore e architetto brasiliano, noto soprattutto per le realizzazioni di chiese e come esponente di spicco della corrente dell'architettura barocca o rococ\u00f2 brasiliana nota come barocco mineiro."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moli\u00e8re"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Aleijadinho (Ant\u00f4nio Francisco Lisboa) (ur. 29 sierpnia 1730 lub 1738 w Vila Rica w stanie Minas Gerais, zm. 18 listopada 1814 tam\u017ce) \u2013 brazylijski architekt i rze\u017abiarz inspiruj\u0105cy si\u0119 sztuk\u0105 rokoko. Jest tw\u00f3rc\u0105 stylu w architekturze nazywanego aleijadinho. Autor rze\u017ab, projekt\u00f3w lub element\u00f3w architektonicznych w ko\u015bcio\u0142ach w m.in. Ouro Preto (w ko\u015bciele \u015bw. Franciszka \u2013 Igreja de Sao Francisco de Assis) i . W Congonhas przy sanktuarium Bom Jesus de Matosinhos znajduje si\u0119 12 rze\u017ab Prorok\u00f3w autorstwa Aleijadinho. Syn architekta ."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murano_glass"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u043b\u0435\u0439\u0436\u0430\u0434\u0438\u043d\u044c\u044e (\u043d\u0430\u0441\u0442. \u0438\u043c\u044f \u0410\u043d\u0442\u043e\u043d\u0438\u0443 \u0424\u0440\u0430\u043d\u0441\u0438\u0448\u043a\u0443 \u041b\u0438\u0448\u0431\u043e\u0430 \u0438\u043b\u0438 \u041b\u0438\u0441\u0431\u043e\u0430, \u043f\u043e\u0440\u0442. Aleijadinho, \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043f\u043e\u0440\u0442. Antonio Francisco Lisboa, 29 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1730, \u043f\u043e \u0434\u0440\u0443\u0433\u0438\u043c \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u044f\u043c \u2014 1738, \u0412\u0438\u043b\u0430 \u0420\u0438\u043a\u0430, \u043d\u044b\u043d\u0435 \u041e\u0443\u0440\u0443-\u041f\u0440\u0435\u0442\u0443 \u2014 18 \u043d\u043e\u044f\u0431\u0440\u044f 1814, \u0442\u0430\u043c \u0436\u0435) \u2014 \u0431\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440 \u0438 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corbel"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Aleijadinho, egentligen Ant\u00f4nio Francisco Lisboa, f\u00f6dd 1730 eller 1738, d\u00f6d 18 november 1814, var en brasiliansk skulpt\u00f6r och arkitekt."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Swing_(Fragonard)"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u043b\u0435\u0439\u0436\u0430\u0434\u0456\u043d\u044c\u044e (\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0454 \u0456\u043c'\u044f \u0410\u043d\u0442\u043e\u043d\u0456\u043e \u0424\u0440\u0430\u043d\u0441\u0456\u0441\u043a\u043e \u041b\u0438\u0441\u0431\u043e\u0430; \u043c\u043e\u0436\u043b\u0438\u0432\u043e, 29 \u0441\u0435\u0440\u043f\u043d\u044f, 1738, \u043a\u043e\u043b\u0438\u0448\u043d\u044f \u0412\u0456\u043b\u0430 \u0420\u0456\u043a\u0430, \u2014 18 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0430, 1814, \u0412\u0456\u043b\u0430 \u0420\u0456\u043a\u0430(\u043d\u0438\u043d\u0456 \u041e\u0440\u0443-\u041f\u0440\u0435\u0442\u0443, \u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f) \u2014 \u0430\u0440\u0445\u0456\u0442\u0435\u043a\u0442\u043e\u0440 \u0442\u0430 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u0434\u043e\u0431\u0438 \u0431\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u044c\u043a\u043e\u0433\u043e \u0431\u0430\u0440\u043e\u043a\u043e XVIII \u0441\u0442\u043e\u043b\u0456\u0442\u0442\u044f, \u043c\u0443\u043b\u0430\u0442, \u0441\u0438\u043d \u0447\u043e\u0440\u043d\u043e\u0448\u043a\u0456\u0440\u043e\u0457 \u0440\u0430\u0431\u0438\u043d\u0456 \u0442\u0430 \u043f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u044c\u0446\u044f."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Gainsborough"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Aleijadinho, rodn\u00fdm jm\u00e9nem Ant\u00f4nio Francisco Lisboa (1730 nebo 1738, Ouro Preto \u2013 18. listopadu 1814, Ouro Preto) byl brazilsk\u00fd socha\u0159 a architekt, kter\u00fd se proslavil stavbou a v\u00fdzdobou barokn\u00edch a rokokov\u00fdch kostel\u016f v Braz\u00edlii."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ormolu"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Aleijadinho (jaiotza-izena: Antonio Francisco Lisboa ; Ouro Preto, Minas Gerais, 1738ko abuztuaren 29a - 1814ko azaroaren 18a) Brasilgo arkitekto eta eskultorea izan zen. Arkitekto portuges eta jopu beltz baten semea; 35 urte zituela elbarri gelditu zen gaixotasun baten ondorioz (hortik datorkio goitizena, Aleijadinho, elbarritxoa)."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angelica_Kauffman"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antonio Francisco Lisboa, plus connu sous le nom d'Aleijadinho, n\u00e9 \u00e0 Ouro Preto vers le 29 ao\u00fbt 1730 ou, plus probablement, 1738 et mort dans la m\u00eame ville le 18 novembre 1814, est un sculpteur, tailleur de pierre et architecte du Br\u00e9sil colonial."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoine_Watteau"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ant\u00f4nio Francisco Lisboa, mais conhecido como Aleijadinho, (Ouro Preto, c.\u200929 de agosto de 1730 ou, mais provavelmente, 1738 \u2013 Ouro Preto, 18 de novembro de 1814) foi um importante escultor, entalhador e arquiteto do Brasil colonial."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Corradini"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_II_van_Risamburgh"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Aleijadinho"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lima"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleijadinho8.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_County_Museum_of_Art"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/SFrancisOuroPreto-CCBY.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Quinze"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/12_Profetas_-_Congonhas_-_Minas_Gerais_-_Brazil_03.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_XIV_style"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleijadinho9.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_XV"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleijadinho_-_Detalhe_do_profeta_Habacuc_-_Santu\u00e1rio_do_Bom_Jesus_de_Matosinhos_-_Congonhas.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louvre"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleijadinho_-_Profeta_Isa\u00edas_-_Santu\u00e1rio_do_Bom_Jesus_de_Matosinhos_-_Congonhas.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madame_de_Pompadour"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Congonhas_santuario_matosinhos.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chinese_export_porcelain"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Statues_in_Santu\u00e1rio_do_Bom_Jesus_de_Matosinhos_015.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chinoiserie"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Suposto_retrato_de_Aleijadinho.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stendhal"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Colonial_Brazil"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Style_Louis_XIV"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Minas_Gerais"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbina"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Vila_Rica"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zwinger_(Dresden)"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Ouro_Preto"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Empire_style"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "Vila Rica"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francesco_Bartolomeo_Rastrelli"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "1814-11-18"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Hayman"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Colonial_Brazil"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franz_Anton_Bustelli"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Minas_Gerais"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Couperin"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Vila_Rica"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Lemoyne"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1738-08-29"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_de_Cuvilli\u00e9s"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Minas_Gerais"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harlequin"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:19th-century_Brazilian_male_artists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houghton_Hall"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Rococo_sculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pagoda"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1738_births"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_history"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1814_deaths"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Augustusburg_and_Falkenlust_Palaces,_Br\u00fchl"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Brazilian_people_of_Portuguese_descent"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Balthasar_Neumann"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Brazilian_Roman_Catholics"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C._P._E._Bach"
     },
     {
         "subject": "http://dbpedia.org/resource/Aleijadinho",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Brazilian_architects"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catherine_the_Great"
     }
 ]

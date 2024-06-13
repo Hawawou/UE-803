@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prisoner_of_war"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Routledge"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schutzstaffel"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shoot_'em_up"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SS_unit_insignia"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berzerk_(video_game)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beyond_Castle_Wolfenstein"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antic_(magazine)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanAerospaceEngineers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arcade_game"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanAtheists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Romero"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanBloggers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joystick"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerProgrammers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_best-selling_video_games"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Retro_Gamer"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pelit"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanVideoGameDesigners"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1981_video_games"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAppleIIGames"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Action-adventure_games"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Commodore_64_games"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:DOS_games"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Stealth_video_games"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatCommercialVideoGamesWithFreelyAvailableSourceCode"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Video_games_developed_in_the_United_States"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Video_games_using_procedural_generation"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDOSGames"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:World_War_II_video_games"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commander_Keen"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commodore_64"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatVideoGameDesigners"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_Gaming_World"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatVideoGameProducers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gamasutra"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatVideoGameProgrammers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GameSpot"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatVideoGamesDevelopedInTheUnitedStates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_language"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromHeath,Texas"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monrovia,_California"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromJohnsonCounty,Kansas"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Muse_Software"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromKansas"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dana_Lombardy"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Abstraction100002137"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Atari_8-bit_family_games"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Act100030358"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apple_II"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Activity100407535"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MS-DOS"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/AerospaceEngineer109776079"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Single-player"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Atheist109820044"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stealth_game"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Blogger109860415"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ziff_Davis"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keyboard_technology"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerGame100458890"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paddle_(game_controller)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Action-adventure_game"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ahoy!"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Contest107456188"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trainer_(games)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/War_film"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Disbeliever110015897"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Creative_Computing"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Diversion100426928"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2D_computer_graphics"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AllGame"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Event100029378"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allies_of_World_War_II"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Expert109617867"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Apple_II_games"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Game100430606"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Video_games_about_Nazi_Germany"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Game100456199"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DICE_(company)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/InteriorDesigner110210648"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Floppy_disk"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PC_Gamer"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Maker110284064"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pac-Man"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Manufacturer110292316"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glitch"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/NonreligiousPerson109625789"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:CastleWolfensteinC64.png"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Video_game_graphics"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Procedural_generation"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Baltimore_Sun"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Escapist_(magazine)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Guns_of_Navarone_(film)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artillery_battery"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atari_8-bit_family"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Top-down_video_games"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Video_games_set_in_castles"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Carmack"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/SocialEvent107288639"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lag_(video_games)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Hall"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolfenstein_3D"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat1989VideoGames"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Wolfenstein"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAerospaceEngineers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spin-off_(media)"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFreeSoftwareProgrammers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Id_Software"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Imagine_Publishing"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u062c\u0648\u0646 \u0643\u0627\u0631\u0645\u0627\u0643"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metal_Gear"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nazi_Germany"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Random_House"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolfenstein"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolfenstein:_Youngblood"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Xbox"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/YouTube"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\uc874 \uce74\ub9e5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newspapers.com"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30b8\u30e7\u30f3\u30fbD\u30fb\u30ab\u30fc\u30de\u30c3\u30af"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sauerkraut"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First-person_shooter"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maze_game"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u041a\u0430\u0440\u043c\u0430\u043a, \u0414\u0436\u043e\u043d"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wolfenstein:_Cyberpilot"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Masters_of_Doom:_How_Two_Guys_Created_an_Empire_and_Transformed_Pop_Culture"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "John Carmack"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wikt:Achtung"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u7d04\u7ff0\u00b7\u5361\u99ac\u514b"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wikt:Halt"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0414\u0436\u043e\u043d \u041a\u0430\u0440\u043c\u0430\u043a"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wikt:Schweinhund"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u062c\u0648\u0646 \u0643\u0627\u0631\u0645\u0627\u0643 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: John D. Carmack)\u200f \u0648\u0644\u062f \u0641\u064a 20 \u0623\u063a\u0633\u0637\u0633 1970. \u0647\u0648 \u0645\u0628\u0631\u0645\u062c \u0623\u0644\u0639\u0627\u0628 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0627\u0644\u0645\u0624\u0633\u0633 \u0627\u0644\u0645\u0634\u0627\u0631\u0643 \u0644\u0634\u0631\u0643\u0629 \u0625\u062f \u0633\u0648\u0641\u062a\u0648\u064a\u0631. \u0643\u0627\u0631\u0645\u0627\u0643 \u0643\u0627\u0646 \u0642\u0627\u0626\u062f \u0627\u0644\u0645\u0628\u0631\u0645\u062c\u064a\u0646 \u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0627\u0644\u062a\u064a \u0637\u0648\u0631\u062a\u0647\u0627 \u0634\u0631\u0643\u0629 \u0625\u062f \u0633\u0648\u0641\u062a\u0648\u064a\u0631 \u0645\u062b\u0644 \u062f\u0648\u0645 \u0648\u0643\u0648\u0627\u064a\u0643 \u0648\u063a\u064a\u0631\u0647\u0627. \u0648 \u0647\u0648 \u0645\u0639\u0631\u0648\u0641 \u0623\u064a\u0636\u064b\u0627 \u0644\u0627\u0628\u062a\u0643\u0627\u0631\u0627\u062a\u0647 \u0641\u064a \u0627\u0644\u0631\u0633\u0648\u0645\u0627\u062a \u062b\u0644\u0627\u062b\u064a\u0629 \u0627\u0644\u0623\u0628\u0639\u0627\u062f."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blake_Stone"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John D. Carmack (nascut el 20 d'agost de 1970 a Roeland Park, Kansas) \u00e9s un i enginyer aeroespacial i realitat virtual. Ell va cofundar Id Software. Carmack era el cap de programaci\u00f3 dels videojocs de id , , Doom, Quake, i les seves continuacions. Carmack \u00e9s m\u00e9s conegut per les seves innovacions en gr\u00e0fics de 3D, com el seu fam\u00f3s algoritme Carmack's Reverse pel , i tamb\u00e9 \u00e9s un entusiasta dels coets i fundador i enginyer cap d'. L'agost de 2013, Carmack va prendre la posici\u00f3 de CTO a ."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Prince"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John D. Carmack II (* 20. srpna 1970) je americk\u00fd program\u00e1tor, kter\u00fd je zn\u00e1m pro svou pr\u00e1ci na po\u010d\u00edta\u010dov\u00fdch hr\u00e1ch jako Wolfenstein 3D, Quake \u010di Doom. V roce 1991 spoluzakl\u00e1dal firmu Id Software, kter\u00e1 vytv\u00e1\u0159\u00ed 3D hry a licencuje 3D enginy. Od roku 2013 pracuje pro . Nedostudoval vysokou \u0161kolu. Je \u017eenat\u00fd a m\u00e1 syna. Po roce 2000 zalo\u017eil firmu zam\u011b\u0159enou na v\u00fdvoj finan\u010dn\u011b dostupn\u00fdch raketov\u00fdch motor\u016f i cel\u00fdch raket pou\u017eiteln\u00fdch pro soukrom\u00e9 kosmick\u00e9 lety nebo kosmickou turistiku. V \u0159\u00edjnu 2013 p\u0159ijal pozici technick\u00e9ho \u0159editele ve firm\u011b Oculus VR zab\u00fdvaj\u00edc\u00ed se virtu\u00e1ln\u00ed realitou."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Borland"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John D. Carmack II (* 20. August 1970 in Kansas City, Kansas) ist ein US-amerikanischer Programmierer und Spieleentwickler. Er wurde durch die Entwicklung innovativer Spiel-Engines bekannt und ist Mitgr\u00fcnder des Studios id Software. Als Programmierer war er an bahnbrechenden Videospielen wie Wolfenstein 3D und Doom beteiligt. Nebenbei gr\u00fcndete er 2000 die Raketenbaufirma Armadillo Aerospace. Im August 2013 wurde er als Chief Technology Officer bei Oculus VR eingestellt und war bis November 2019 in dieser Position t\u00e4tig. Im November 2013 verlie\u00df Carmack id Software."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sprite-based_first-person_shooters"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John D. Carmack II (nacido el 20 de agosto de 1970) es un programador de juegos estadounidense y cofundador de id Software. Fue el principal programador de juegos de id, tales como Commander Keen, Wolfenstein 3D, Doom, Quake, Rage y sus secuelas. Se le conoce por sus innovaciones en los gr\u00e1ficos 3D, es el fundador e ingeniero principal de Armadillo Aerospace, empresa que se dedica a la construcci\u00f3n de cohetes espaciales. En agosto del 2013 tom\u00f3 la posici\u00f3n de Director de Tecnolog\u00eda en la compa\u00f1\u00eda Oculus VR, la cual fue comprada por lo que fue Facebook (actualmente Meta) en el a\u00f1o 2014."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hovertank_3D"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John D. Carmack II (born August 20, 1970) is an American computer programmer and video game developer. He co-founded the video game company id Software and was the lead programmer of its 1990s games Commander Keen, Wolfenstein 3D, Doom, Quake, and their sequels. Carmack made innovations in 3D computer graphics, such as his Carmack's Reverse algorithm for shadow volumes. In 2013, he resigned from id Software to work full-time at Oculus VR as their CTO. In 2019, he reduced his role to Consulting CTO so he could allocate more time toward artificial general intelligence (AGI)."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Romero"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John D. Carmack II (lahir 20 Agustus 1970) adalah seorang programmer komputer, pengembang permainan video dan insinyur asal Amerika Serikat. Ia adalah salah satu pendiri id Software."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Requiem:_Avenging_Angel"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30b8\u30e7\u30f3\u30fbD\u30fb\u30ab\u30fc\u30de\u30c3\u30af\uff08John D. Carmack II\u30011970\u5e748\u670820\u65e5 - \uff09\u306f\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u3001\u30b2\u30fc\u30e0\u30af\u30ea\u30a8\u30a4\u30bf\u30fc\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u3002\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b2\u30fc\u30e0\u4f1a\u793e\u300cid Software\u300d\u306e\u5171\u540c\u8a2d\u7acb\u8005\u3067\u3042\u308a\u3001id\u304c\u958b\u767a\u3057\u305f\u4f5c\u54c1\u300eWolfenstein 3D\u300f\u300eDoom\u300f\u300eQuake\u300f\u300eCommander Keen\u300f\u53ca\u3073\u305d\u308c\u3089\u306e\u7d9a\u7de8\u4f5c\u54c1\u306e\u4e3b\u4efb\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u3092\u52d9\u3081\u305f\u3002\u307e\u305f\u3001\u30b7\u30e3\u30c9\u30a6\u30dc\u30ea\u30e5\u30fc\u30e0\u7528\u306e\u30ab\u30fc\u30de\u30c3\u30af\u306e\u30ea\u30d0\u30fc\u30b9\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0\u306a\u3069\u30013\u6b21\u5143\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30b9\u306b\u9769\u65b0\u3092\u3082\u305f\u3089\u3057\u305f\u30022013\u5e74\u306bid Software\u3092\u9000\u8077\u3057\u3066\u300cOculus VR\u300d\u3067CTO\u3068\u3057\u3066\u30d5\u30eb\u30bf\u30a4\u30e0\u3067\u50cd\u304d\u30012019\u5e74\u304b\u3089\u306f\u540c\u793e\u306e\u9867\u554fCTO\u3092\u52d9\u3081\u3066\u3044\u308b\u3002FPS\u306e\u751f\u307f\u306e\u89aa\u3068\u3057\u3066\u77e5\u3089\u308c\u308b\u3002"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Kushner"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\uc874 D. \uce74\uba55 2\uc138(John D. Carmack II, 1970\ub144 8\uc6d4 20\uc77c ~ )\ub294 \ubbf8\uad6d\uc758 \uc800\uba85\ud55c \ube44\ub514\uc624 \uac8c\uc784 \ud504\ub85c\uadf8\ub798\uba38\uc774\ub2e4. 1991\ub144\uc5d0 \ucef4\ud4e8\ud130 \uac8c\uc784 \uac1c\ubc1c \ud68c\uc0ac \uc774\ub4dc \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub97c \uacf5\ub3d9 \uc124\ub9bd\ud588\uace0, \uc6b8\ud39c\uc288\ud0c0\uc778 3D, \ub460, \ud018\uc774\ud06c\uc758 \ub9ac\ub4dc \ud504\ub85c\uadf8\ub798\uba38\ub97c \ub9e1\uc558\ub2e4. \uce74\ub9e5\uc740 \uc874 \ub85c\uba54\ub85c\uc640 \ud568\uaed8 1\uc778\uce6d \uc288\ud305 \uac8c\uc784 \uc7a5\ub974\ub97c \uc815\ub9bd\ud588\uc73c\uba70 \uadf8 \uc601\ud5a5\ub825\uc740 \uc774\ud6c4 \ub9cc\ub4e4\uc5b4\uc9c4 \ub300\ubd80\ubd84\uc758 1\uc778\uce6d \uc288\ud305 \uac8c\uc784 \uac8c\uc784\ub4e4\uc5d0 \ubbf8\uce58\uace0 \uc788\ub2e4. \uadf8\ub294 \uc624\ud508 \uc18c\uc2a4 \uc6b4\ub3d9\uc744 \uc9c0\uc9c0\ud558\ub294 \uac83\uc73c\ub85c\ub3c4 \uc798 \uc54c\ub824\uc838 \uc788\ub2e4, \ub85c\ucf13 \uacf5\ud559\uc5d0\ub3c4 \uad00\uc2ec\uc744 \uac00\uc838 \uc6b0\uc8fc \uc5ec\ud589\uc744 \ubaa9\ud45c\ub85c \ud558\ub294 \uc544\ub974\ub9c8\ub51c\ub85c \uc5d0\uc5b4\ub85c\uc2a4\ud398\uc774\uc2a4\ub97c \uc124\ub9bd\ud574 \uacf5\ud559\uc790\ub85c \uc77c\ud558\uace0 \uc788\ub2e4. 2013\ub144 8\uc6d4 \uc624\ud058\ub7ec\uc2a4 VR\uc5d0 \uc785\uc0ac\ud558\uc600\uc73c\uba70 CTO\ub85c \uc77c\ud558\uace0 \uc788\ub2e4."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lich"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John D. Carmack (Kansas City, 20 agosto 1970) \u00e8 un programmatore e autore di videogiochi statunitense."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Game_designer"
     },
     {
         "subject": "http://dbpedia.org/resource/John_Carmack",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "John Carmack (Roeland Park, Kansas, 20 augustus 1970) is een Amerikaanse ontwikkelaar van computerspellen en een expert op het gebied van 3D-computergraphics binnen de spelindustrie."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/JAM_Productions_(software)"
     }
 ]

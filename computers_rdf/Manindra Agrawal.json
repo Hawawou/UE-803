@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NP_(complexity)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primality_test"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big-O_notation"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vaughan_Pratt"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Integer_factorization"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cryptography"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematics"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sch\u00f6nhage\u2013Strassen_algorithm"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Co-NP"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliptic_curve"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elliptic_curve_primality_proving"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NP-complete"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complement_(complexity)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_science"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fulkerson_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatMarwariPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G\u00f6del_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatNumberTheorists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A._O._L._Atkin"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromAllahabad"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AKS_primality_test"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromKanpur"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Exponentiation_by_squaring"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fermat's_little_theorem"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Academician109759069"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fermat_primality_test"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nitin_Saxena"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conversion_(logic)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucas_primality_test"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baillie\u2013PSW_primality_test"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Primality_tests"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big_O_notation"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manindra_Agrawal"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Educator110045713"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pocklington_primality_test"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polynomial"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Laureate110249011"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miller\u2013Rabin_primality_test"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RSA_(algorithm)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Mathematician110301261"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shafi_Goldwasser"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/NumberTheorist110366276"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neeraj_Kayal"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multiplication_algorithm"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fermat_primes"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Va\u0161ek_Chv\u00e1tal"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primality_testing"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joe_Kilian"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Professional110480253"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Morain"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calculator"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatG\u00f6delPrizeLaureates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Sassenrath"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIndianAcademics"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_Morgan_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIndianComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cascading_Style_Sheets"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIndianMathematicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Case-based_reasoning"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIndianPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poul-Henning_Kamp"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Process_mining"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Program_optimization"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programmer"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prolog"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryMathematicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punched_card"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat21st-centuryMathematicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Python_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAlexanderVonHumboldtFellows"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheIndianAcademyOfSciences"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/QuickCheck"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheNationalAcademyOfSciences,India"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sedgewick_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sproull"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0645\u0627\u0646\u064a\u0646\u062f\u0631\u0627 \u0623\u063a\u0631\u0627\u0648\u0627\u0644"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tappan_Morris"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manindra Agrawal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manindra Agrawal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Floyd"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manindra Agrawal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Ierusalimschy"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30de\u30cb\u30f3\u30c9\u30e9\u30fb\u30a2\u30b0\u30e9\u30ef\u30eb"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Pieraccini"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Manindra Agrawal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Milner"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0645\u0627\u0646\u064a\u0646\u062f\u0631\u0627 \u0623\u063a\u0631\u0627\u0648\u0627\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Manindra Agrawal)\u200f (\u0645\u0646 \u0645\u0648\u0627\u0644\u064a\u062f 20 \u0645\u0627\u064a\u0648 1966) \u0647\u0648 \u0623\u0633\u062a\u0627\u0630 \u0641\u064a \u0642\u0633\u0645 \u0639\u0644\u0648\u0645 \u0648\u0647\u0646\u062f\u0633\u0629 \u0627\u0644\u0643\u0645\u0628\u064a\u0648\u062a\u0631 \u0648\u0646\u0627\u0626\u0628 \u0645\u062f\u064a\u0631 \u0627\u0644\u0645\u0639\u0647\u062f \u0627\u0644\u0647\u0646\u062f\u064a \u0644\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627\u060c \u0643\u0627\u0646\u0628\u0648\u0631 \u0641\u064a \u0627\u0644\u0647\u0646\u062f. \u062d\u0635\u0644 \u0639\u0644\u0649 \u062c\u0627\u0626\u0632\u0629 \u0625\u0646\u0641\u0648\u0633\u064a\u0633 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0648\u062c\u0627\u0626\u0632\u0629 \u0634\u0627\u0646\u062a\u064a \u0633\u0648\u0627\u0631\u0648\u0628 \u0628\u0647\u0627\u062a\u0646\u0627\u063a\u0627\u0631 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0641\u064a \u0627\u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 \u0641\u064a \u0639\u0627\u0645 2003. \u062a\u0645 \u062a\u0643\u0631\u064a\u0645\u0647 \u0628\u0648\u0633\u0627\u0645 \u0628\u0627\u062f\u0645\u0627 \u0634\u0631\u064a \u0641\u064a \u0639\u0627\u0645 2013."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robotics"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manindra Agrawal (* 20. Mai 1966 in Allahabad, Indien) ist ein indischer Mathematiker und Informatiker, der sich mit Kryptographie, Komplexit\u00e4tstheorie und algorithmischer Zahlentheorie besch\u00e4ftigt."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Canion"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manindra Agrawal (born 20 May 1966) is a professor at the Department of Computer Science and Engineering and the Deputy Director at the Indian Institute of Technology, Kanpur. He was also the recipient of the first Infosys Prize for Mathematics, the Godel Prize in 2006; and the Shanti Swarup Bhatnagar Award in Mathematical Sciences in 2003. He has been honoured with Padma Shri in 2013."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Hui"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manindra Agrawal (hindi : \u092e\u0923\u0940\u0928\u094d\u0926\u094d\u0930 \u0905\u0917\u094d\u0930\u0935\u093e\u0932) (20 mai 1966 \u00e0 All\u00e2h\u00e2b\u00e2d - ) est un math\u00e9maticien indien et professeur \u00e0 l'Institut indien de technologie de Kanpur. C'est un des auteurs du test de primalit\u00e9 AKS."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Moore_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30de\u30cb\u30f3\u30c9\u30e9\u30fb\u30a2\u30b0\u30e9\u30ef\u30eb\uff08Manindra Agrawal\u30011966\u5e745\u670820\u65e5\u30fb\u30ab\u30fc\u30f3\u30d7\u30eb - \uff09\u306f\u3001\u30a4\u30f3\u30c9\u5de5\u79d1\u5927\u5b66\u30ab\u30fc\u30f3\u30d7\u30eb\u6821\u306e\u8a08\u7b97\u6a5f\u79d1\u5b66\u3001\u5de5\u5b66\u3001Dean of Faculty Affairs\u306e\u6559\u6388\u3002 \u81ea\u3089\u306e\u751f\u5f92\u3067\u3042\u3063\u305f\u30cb\u30e9\u30b8\u30e5\u30fb\u30ab\u30e4\u30eb\u3001\u3068\u3068\u3082\u306b\u7d20\u6570\u554f\u984c\u306e\u8a08\u7b97\u91cf\u306b\u3064\u3044\u3066\u7814\u7a76\u3057\u3001AKS\u7d20\u6570\u5224\u5b9a\u6cd5\u3092\u69cb\u6210\u3057\u3001\u305d\u308c\u3092\u7528\u3044\u3066\u7d20\u6570\u554f\u984c\u304cP\u306b\u5c5e\u3059\u308b\u3053\u3068\u3092\u793a\u3057\u305f\u3002 \u305d\u306e\u696d\u7e3e\u3092\u8a55\u4fa1\u3055\u308c2002\u5e74\u306b\u30af\u30ec\u30a4\u7814\u7a76\u8cde\u30012006\u5e74\u306b\u30b2\u30fc\u30c7\u30eb\u8cde\u3068\u30d5\u30a1\u30eb\u30ab\u30fc\u30bd\u30f3\u8cde\u3092\u53d7\u8cde\u3002"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Needham"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Manindra Agrawal (Allahabad, \u00cdndia, 20 de maio de 1966) \u00e9 um professor do departamento de Ci\u00eancia da Computa\u00e7\u00e3o e engenheiro e decano de Gera\u00e7\u00e3o e Planejamento de Recursos (DRPG) no , Kanpur. Foi o primeiro a receber o pr\u00eamio cient\u00edfico indiano intitulado . Foi co-criador, juntamente com Neeraj Kayal e , do teste de primalidade AKS, um algoritmo determin\u00edstico de tempo polinomial que avalia-se um determinado n\u00famero \u00e9 ou n\u00e3o um n\u00famero primo. Por este algoritmo ganhou juntamente com os co-autores o Clay Research Award em 2002, o Pr\u00eamio Fulkerson e o Pr\u00eamio G\u00f6del, ambos em 2006."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Carl_Backhouse"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Manindra Agrawal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Rivest"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Manindra Agrawal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruby_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Manindra_Agarwal.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Bayer"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Uttar_Pradesh"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Rucker"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Allahabad"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samir_Das"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/India"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samson_Abramsky"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Uttar_Pradesh"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjay_Ghemawat"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Allahabad"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjeev_Arora"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/India"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sargur_Srihari"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1966-05-20"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scala_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Indian_number_theorists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scheme_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_Time_Sharing_Corporation"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1966_births"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Aaronson"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Indian_mathematicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Fahlman"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Indian_mathematicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Shenker"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Fellows_of_The_National_Academy_of_Sciences,_India"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eldon_C._Hall"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Indian_Academy_of_Sciences"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_design_automation"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Indian_National_Science_Academy"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/End-user_development"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Foreign_associates_of_the_National_Academy_of_Sciences"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_architecture_planning"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Indian_computer_scientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entity-relationship_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Institute_for_Advanced_Study_visiting_scholars"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_computing_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Padma_Shri_in_science_&_engineering"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MINIX"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:G\u00f6del_Prize_laureates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MIX"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Scientists_from_Allahabad"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mihai_Nadin"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Theoretical_computer_scientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monitor_(synchronization)"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Clay_Research_Award_recipients"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moore_machine"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:TWAS_laureates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_worm"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Shanti_Swarup_Bhatnagar_Award_in_Mathematical_Science"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_language_processing"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:IIT_Kanpur_alumni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Normalized_compression_distance"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:IIT_Kanpur_faculty"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MD5"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Marwari_people"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MMIX"
     },
     {
         "subject": "http://dbpedia.org/resource/Manindra_Agrawal",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Kanpur"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mesh_networking"
     }
 ]

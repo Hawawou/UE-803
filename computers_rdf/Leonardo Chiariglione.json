@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Inventor110214637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianEngineers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianInventors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonardo Chiariglione"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonardo Chiariglione"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonardo Chiariglione"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonardo Chiariglione"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonardo Chiariglione (* 30. Januar 1943 in Almese) ist ein italienischer Informatiker. 1988 gr\u00fcndete er zusammen mit die MPEG-Gruppe, die aus 300 Fachleuten aus 20 L\u00e4ndern der Welt besteht. Die Gruppe entwickelte Standards wie MPEG-1, MPEG-2, MP3, MPEG-4 oder MPEG-7. Als deren Pr\u00e4sident trat er im Juni 2020 zur\u00fcck."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonardo Chiariglione (nacido el 30 de enero de 1943 en Almese) es un ingeniero italiano. Es conocido mundialmente por ser el creador de los formatos MPEG y MP3.\u200b"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonardo Chiariglione (IPA: [kjari\u028e\u02c8\u028eo\u02d0ne]) (born 30 January 1943 (age 79) in Almese, Turin province, Piedmont, Italy) is an Italian engineer who has led the development of international technical standards for digital media. In particular, he was the chairman of the Moving Picture Experts Group (MPEG) from 1988 to 2020, which he co-founded together with Hiroshi Yasuda of NTT."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonardo Chiariglione (Almese, 30 gennaio 1943) \u00e8 un ingegnere italiano. \u00c8 noto per aver fondato, insieme a , l'MPEG, un gruppo internazionale di esperti che ha prodotto i noti standard audio-video MPEG-1, MPEG-2 e l'MP3, ed altri. Il prof. accredita a Chiariglione, in particolare, la vision dell'importanza degli standard nelle tecnologie audio-video dell'epoca di Internet."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_Chiariglione.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Almese"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1943_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_engineers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_inventors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:MPEG"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Tokyo_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Primetime_Emmy_Engineering_Award_winners"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "7964686"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1061044675"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calculator"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Electronic_engineering"
+        "object": "http://dbpedia.org/resource/Carl_Sassenrath"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/MPEG-2"
+        "object": "http://dbpedia.org/resource/Carroll_Morgan_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/DAVIC"
+        "object": "http://dbpedia.org/resource/Cascading_Style_Sheets"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Tokyo"
+        "object": "http://dbpedia.org/resource/Case-based_reasoning"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/International_standard"
+        "object": "http://dbpedia.org/resource/Poul-Henning_Kamp"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Process_mining"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Almese"
+        "object": "http://dbpedia.org/resource/Program_optimization"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/MPEG"
+        "object": "http://dbpedia.org/resource/Programmer"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/MPEG-1"
+        "object": "http://dbpedia.org/resource/Prolog"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Open_standard"
+        "object": "http://dbpedia.org/resource/Punched_card"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1943_births"
+        "object": "http://dbpedia.org/resource/Python_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/CSELT"
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_engineers"
+        "object": "http://dbpedia.org/resource/QuickCheck"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_inventors"
+        "object": "http://dbpedia.org/resource/Robert_Sedgewick_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Faraday_Medal"
+        "object": "http://dbpedia.org/resource/Robert_Sproull"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Almese"
+        "object": "http://dbpedia.org/resource/Robert_Tappan_Morris"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Daejeon"
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/European_Strategic_Program_on_Research_in_Information_Technology"
+        "object": "http://dbpedia.org/resource/Robert_W._Floyd"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Foundation_for_Intelligent_Physical_Agents"
+        "object": "http://dbpedia.org/resource/Roberto_Ierusalimschy"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Nippon_Telegraph_and_Telephone"
+        "object": "http://dbpedia.org/resource/Roberto_Pieraccini"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Digital_media"
+        "object": "http://dbpedia.org/resource/Robin_Milner"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Education_in_Italy"
+        "object": "http://dbpedia.org/resource/Robotics"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Hiroshi_Yasuda"
+        "object": "http://dbpedia.org/resource/Rod_Canion"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kilby_International_Awards"
+        "object": "http://dbpedia.org/resource/Roger_Hui"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Master's_degree"
+        "object": "http://dbpedia.org/resource/Roger_Moore_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/International_Broadcasting_Convention"
+        "object": "http://dbpedia.org/resource/Roger_Needham"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/International_Electrotechnical_Commission"
+        "object": "http://dbpedia.org/resource/Roland_Carl_Backhouse"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/International_Organization_for_Standardization"
+        "object": "http://dbpedia.org/resource/Ron_Rivest"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Technical_standard"
+        "object": "http://dbpedia.org/resource/Ruby_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Telecom_Italia"
+        "object": "http://dbpedia.org/resource/Rudolf_Bayer"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:MPEG"
+        "object": "http://dbpedia.org/resource/Rudy_Rucker"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Tokyo_alumni"
+        "object": "http://dbpedia.org/resource/Samir_Das"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Italian_computer_scientists"
+        "object": "http://dbpedia.org/resource/Samson_Abramsky"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Primetime_Emmy_Engineering_Award_winners"
+        "object": "http://dbpedia.org/resource/Sanjay_Ghemawat"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Province_of_Turin"
+        "object": "http://dbpedia.org/resource/Sanjeev_Arora"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Polytechnic_University_of_Turin"
+        "object": "http://dbpedia.org/resource/Sargur_Srihari"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Society_of_Motion_Picture_and_Television_Engineers"
+        "object": "http://dbpedia.org/resource/Scala_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Institution_of_Engineering_and_Technology"
+        "object": "http://dbpedia.org/resource/Scheme_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Moving_Picture_Experts_Group"
+        "object": "http://dbpedia.org/resource/Scientific_Time_Sharing_Corporation"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Secure_Digital_Music_Initiative"
+        "object": "http://dbpedia.org/resource/Scott_Aaronson"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IEEE_Masaru_Ibuka_Consumer_Electronics_Award"
+        "object": "http://dbpedia.org/resource/Scott_Fahlman"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/IEEE_Spectrum"
+        "object": "http://dbpedia.org/resource/Scott_Shenker"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/ISO/IEC_JTC_1"
+        "object": "http://dbpedia.org/resource/Eldon_C._Hall"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/ISO/IEC_JTC_1/SC_29"
+        "object": "http://dbpedia.org/resource/Electronic_design_automation"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Piedmont,_Italy"
+        "object": "http://dbpedia.org/resource/End-user_development"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Primetime_Engineering_Emmy_Award"
+        "object": "http://dbpedia.org/resource/Enterprise_architecture_planning"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ph.D._degree"
+        "object": "http://dbpedia.org/resource/Entity-relationship_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/EUREKA"
+        "object": "http://dbpedia.org/resource/List_of_computing_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Digital_music"
+        "object": "http://dbpedia.org/resource/MINIX"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Research_and_Development_in_Advanced_Communications_Technologies_in_Europe"
+        "object": "http://dbpedia.org/resource/MIX"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Leonardo_Chiariglione.jpg"
+        "object": "http://dbpedia.org/resource/Mihai_Nadin"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Liceo_Salesiano_Valsalice"
+        "object": "http://dbpedia.org/resource/Monitor_(synchronization)"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.cedeo.net/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moore_machine"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.drmwatch.com/standards/article.php/3094961"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_worm"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://mpeg.chiariglione.org/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_language_processing"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.026lpgh"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Normalized_compression_distance"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/271559379"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MD5"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/17202000X"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MMIX"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Leonardo_Chiariglione"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mesh_networking"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q3830348"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meta-learning"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://data.bibliotheken.nl/id/thes/p073919535"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Bernus"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ast.dbpedia.org/resource/Leonardo_Chiariglione"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SECD_machine"
     },
     {
         "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/Leonardo_Chiariglione"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/On_Lisp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partially_observable_Markov_decision_process"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ubiquitous_computing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programmable_calculator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ken_Thompson_(computer_programmer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Really_Achieving_Your_Childhood_Dreams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cray_Research"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeffrey_D._Ullman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eugene_Luks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nondeterministic_machine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sankar_Pal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bauer\u2013Fike_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bayesian_network"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Shneiderman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley_Software_Distribution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Galler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernhard_Sch\u00f6lkopf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernhard_Thalheim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Bos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Sutherland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertrand_Meyer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Holberton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bigtable"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Gates"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Joy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bjarne_Stroustrup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BlueJ"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bourne_shell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_Eich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Kernighan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Randell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_A._Huffman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_A._Wagner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_C._Evans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Canfield_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_E._Shaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Leonardo_Chiariglione",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Eppstein"
     }
 ]

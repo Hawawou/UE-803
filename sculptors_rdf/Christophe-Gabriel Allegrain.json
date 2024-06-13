@@ -1,432 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromParis"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatNeoclassicalSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRococoSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Craftsman109974648"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Potter110460806"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFrenchSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Worker109632518"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/SkilledWorker110605985"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFrenchPotters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Christophe-Gabriel Allegrain"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Christophe-Gabriel Allegrain"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Christophe-Gabriel Allegrain"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Christophe-Gabriel Allegrain"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043b\u043b\u0435\u0433\u0440\u0435\u043d, \u041a\u0440\u0438\u0441\u0442\u043e\u0444 \u0413\u0430\u0431\u0440\u0438\u044d\u043b\u044c"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Christophe-Gabriel Allegrain (11 October 1710, Paris \u2013 17 April 1795, Paris) was a French sculptor who tempered a neoclassical style with Rococo charm and softness, under the influence of his much more famous brother-in-law, Jean-Baptiste Pigalle."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Christophe-Gabriel Allegrain (Par\u00eds, 11 de octubre de 1710 \u2014 Par\u00eds, 1795) es un escultor franc\u00e9s que desarrollo su obra bajo un estilo neocl\u00e1sico atenuado con la suavidad y el encanto del Rococ\u00f3 , por la influencia de su cu\u00f1ado, Jean-Baptiste Pigalle, que fue m\u00e1s famoso."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Christophe-Gabriel Allegrain, n\u00e9 le 11 octobre 1710 \u00e0 Paris et mort le 17 avril 1795 dans la m\u00eame ville, est un sculpteur fran\u00e7ais."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Christophe-Gabriel Allegrain (Parigi, 1710 \u2013 Parigi, 1795) \u00e8 stato uno scultore francese. Figlio di Gabriel Allegrain (anch'egli scultore), fu allievo e assistente del celebre scultore Jean-Baptiste Pigalle. Fu il principale scultore-decoratore del castello di Louveciennes, per il quale scolp\u00ec una magnifica Venere."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041a\u0440\u0438\u0441\u0442\u043e\u0444 \u0413\u0430\u0431\u0440\u0438\u044d\u043b\u044c \u0410\u043b\u043b\u0435\u0433\u0440\u0435\u043d \u0438\u043b\u0438 \u0410\u043b\u043b\u0435\u0433\u0440\u0438 (\u0444\u0440. Christophe Gabriel Allegrain; 11 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1710, \u041f\u0430\u0440\u0438\u0436 \u2014 17 \u0430\u043f\u0440\u0435\u043b\u044f 1795, \u0442\u0430\u043c \u0436\u0435) \u2014 \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u0438 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Diana_Allegrain_Louvre_MR1746.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/DuplessisAllegrain.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:French_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1710_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1795_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Paris"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:18th-century_French_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "7769927"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1061832159"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Joseph_Duplessis"
+        "object": "http://dbpedia.org/resource/Camille_Billops"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Acad\u00e9mie_Royale_de_Peinture_et_de_Sculpture"
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Paris"
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ch\u00e2teau_de_Louveciennes"
+        "object": "http://dbpedia.org/resource/Carlo_Marochetti"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Goncourt_brothers"
+        "object": "http://dbpedia.org/resource/Carol_Brooks_MacNeil"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:French_male_sculptors"
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1710_births"
+        "object": "http://dbpedia.org/resource/Carolina_Benedicks-Bruce"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1795_deaths"
+        "object": "http://dbpedia.org/resource/Caroline_Peddle_Ball"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Paris"
+        "object": "http://dbpedia.org/resource/Caroline_Ramersdorfer"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:18th-century_French_sculptors"
+        "object": "http://dbpedia.org/resource/Caroline_Shawk_Brooks"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Jean-Baptiste_Pigalle"
+        "object": "http://dbpedia.org/resource/Caspar_Buberl"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/B\u00e2timents_du_Roi"
+        "object": "http://dbpedia.org/resource/Ambrosius_Petruzzy"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Neoclassicism"
+        "object": "http://dbpedia.org/resource/Beatrice_Angle"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Paris_salon"
+        "object": "http://dbpedia.org/resource/Beatrice_Huntington"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mme_du_Barry"
+        "object": "http://dbpedia.org/resource/Benedetto_Antelami"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Diana_Allegrain_Louvre_MR1746.jpg"
+        "object": "http://dbpedia.org/resource/Benedetto_da_Maiano"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:DuplessisAllegrain.jpg"
+        "object": "http://dbpedia.org/resource/Benita_Armstrong"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.026cgvh"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Creswick"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/281345"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Taylor_(architect)"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Christophe-Gabriel_Allegrain"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Thomas_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/124322026"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_White_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q2698265"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberta_Everett"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://arz.dbpedia.org/resource/\u0643\u0631\u064a\u0633\u062a\u0648\u0641_\u062c\u0627\u0628\u0631\u064a\u064a\u0644_\u0627\u0644\u064a\u062c\u0631\u064a\u0646"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Kost"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/Christophe-Gabriel_Allegrain"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romano_Vio"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fr.dbpedia.org/resource/Christophe-Gabriel_Allegrain"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Mueck"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://hy.dbpedia.org/resource/\u0554\u0580\u056b\u057d\u057f\u0578\u0586_\u0533\u0561\u0562\u0580\u056b\u0565\u056c_\u0531\u056c\u0565\u0563\u0580\u0565\u0576"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://it.dbpedia.org/resource/Christophe-Gabriel_Allegrain"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_Bonheur"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ru.dbpedia.org/resource/\u0410\u043b\u043b\u0435\u0433\u0440\u0435\u043d,_\u041a\u0440\u0438\u0441\u0442\u043e\u0444_\u0413\u0430\u0431\u0440\u0438\u044d\u043b\u044c"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalie_Gascoigne"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://tr.dbpedia.org/resource/Christophe-Gabriel_Allegrain"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/2XVHM"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxanne_Swentzell"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:ACArt"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Fisher_Ames"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Commonscat_inline"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:FrenchSculptureCensus"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarra_Lebedeva"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/DuplessisAllegrain.jpg?width=300"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sassona_Norton"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Christophe-Gabriel Allegrain (11 October 1710, Paris \u2013 17 April 1795, Paris) was a French sculptor who tempered a neoclassical style with Rococo charm and softness, under the influence of his much more famous brother-in-law, Jean-Baptiste Pigalle."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Burton"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Christophe-Gabriel Allegrain (Par\u00eds, 11 de octubre de 1710 \u2014 Par\u00eds, 1795) es un escultor franc\u00e9s que desarrollo su obra bajo un estilo neocl\u00e1sico atenuado con la suavidad y el encanto del Rococ\u00f3 , por la influencia de su cu\u00f1ado, Jean-Baptiste Pigalle, que fue m\u00e1s famoso."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Layfield_Davis"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Christophe-Gabriel Allegrain, n\u00e9 le 11 octobre 1710 \u00e0 Paris et mort le 17 avril 1795 dans la m\u00eame ville, est un sculpteur fran\u00e7ais."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elfriede_Abbe"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Christophe-Gabriel Allegrain (Parigi, 1710 \u2013 Parigi, 1795) \u00e8 stato uno scultore francese. Figlio di Gabriel Allegrain (anch'egli scultore), fu allievo e assistente del celebre scultore Jean-Baptiste Pigalle. Fu il principale scultore-decoratore del castello di Louveciennes, per il quale scolp\u00ec una magnifica Venere."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elias_Wakan"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "\u041a\u0440\u0438\u0441\u0442\u043e\u0444 \u0413\u0430\u0431\u0440\u0438\u044d\u043b\u044c \u0410\u043b\u043b\u0435\u0433\u0440\u0435\u043d \u0438\u043b\u0438 \u0410\u043b\u043b\u0435\u0433\u0440\u0438 (\u0444\u0440. Christophe Gabriel Allegrain; 11 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1710, \u041f\u0430\u0440\u0438\u0436 \u2014 17 \u0430\u043f\u0440\u0435\u043b\u044f 1795, \u0442\u0430\u043c \u0436\u0435) \u2014 \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u0438 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Gordon_Chandler"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://purl.org/linguistics/gold/hypernym",
-        "object": "http://dbpedia.org/resource/Sculptor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Toubro"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://schema.org/sameAs",
-        "object": "http://viaf.org/viaf/281345"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Endel_Taniloo"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Christophe-Gabriel_Allegrain?oldid=1061832159&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ennutsiak"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "3043"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enook_Manomie"
     },
     {
         "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Christophe-Gabriel_Allegrain"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Epiphanius_Evesham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_female_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Louis-Ernest_Meissonier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minoru_Niizuma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mirit_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e1szl\u00f3_Besz\u00e9des"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9on_Indenbaum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9on_Mignon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9onard_De_Cuyper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00eda_Berm\u00fadez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oopik_Pitsuilak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parys_Filippi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shane_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teresa_Margolles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Izdebskiy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corn\u00e9lie_Caroline_van_Asch_van_Wijck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bashka_Paeff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bela_Pratt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belle_Kinney_Scholz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Enwonwu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Paul_Akers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Victor_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Waterhouse_Hawkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benvenuto_Cellini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_van_Loo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertel_Thorvaldsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Harvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Potter_Vonnoh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beulah_Woodard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Pepper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bharti_Kher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Barrett_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Woodrow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billie_Lawless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blanche_Nevin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogdan_Ra\u021b\u0103"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Putnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Eugene_Henry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Nash_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ruben_Piqtoukun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Smith_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_d'Angers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Alva_Parsons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Barye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Tibor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Rideout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Turnbull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allan_Linder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_Hutchinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allie_Tennant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alojz_Rigele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrei_Kolkoutine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Christophe-Gabriel_Allegrain",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e1s_Beck"
     }
 ]

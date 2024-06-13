@@ -1,463 +1,88 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArchitecturalSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromPaldiski"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRussianSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Painter110391653"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryEstonianPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat19th-centurySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centurySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEstonianPainters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEstonianSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Amandus Adamson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Amandus Adamson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Amandus Adamson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Amandus Adamson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Amandus Adamson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Amandus Adamson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0434\u0430\u043c\u0441\u043e\u043d, \u0410\u043c\u0430\u043d\u0434\u0443\u0441 \u0425\u0435\u0439\u043d\u0440\u0438\u0445"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Amandus Adamson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043c\u0430\u043d\u0434\u0443\u0441 \u0413\u0435\u043d\u0440\u0456\u0445 \u0410\u0434\u0430\u043c\u0441\u043e\u043d"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Amandus Adamson , 12 de novembre de 1855-Paldiski, 26 de juny de 1929 fou un escultor i pintor, acad\u00e8mic, un dels fundadors de l'art nacional d'Est\u00f2nia."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Amandus Heinrich Adamson (* 12. November 1855 im Dorf Uuga-R\u00e4tsepa nahe Paldiski, heute Kreis Harju; \u2020 26. Juni 1929 in Paldiski) war einer der bekanntesten estnischen Bildhauer."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Amandus Heinrich Adamson (12 November 1855 in Uuga-R\u00e4tsepa, near Paldiski, Estonia, then Russian Empire \u2014 26 June 1929 in Paldiski, Estonia) was an Estonian sculptor and painter."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Amandus Adamson fue un escultor y pintor de Estonia, nacido el 12 de noviembre de 1855 en Paldiski y fallecido el 26 de junio de 1929 en la misma ciudad."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Amandus Heinrich Adamson, n\u00e9 le 12 novembre 1855 au village de Uuga-R\u00e4tsepa, pr\u00e8s de Port-Baltiski (gouvernement d'Estland, Empire russe), aujourd'hui Paldiski en Estonie, et mort dans cette derni\u00e8re ville le 26 mai 1929, est un sculpteur estonien, ancien sujet de l'Empire russe."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Amandus Heinrich Adamson (Uuga-R\u00e4tsepa bij Paldiski, 12 november 1855 \u2013 Paldiski, 26 juni 1929) was een Estische beeldsnijder en beeldhouwer."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u043c\u0430\u0301\u043d\u0434\u0443\u0441 \u0425\u0435\u0439\u043d\u0440\u0438\u0445 \u0410\u0301\u0434\u0430\u043c\u0441\u043e\u043d (\u044d\u0441\u0442. Amandus Heinrich Adamson), \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0410\u043c\u0430\u0301\u043d\u0434 \u0418\u0432\u0430\u0301\u043d\u043e\u0432\u0438\u0447 (\u0442\u0430\u043a\u0436\u0435 \u0410\u043c\u043c\u043e\u043d \u0418\u0432\u0430\u0301\u043d\u043e\u0432\u0438\u0447), (12 \u043d\u043e\u044f\u0431\u0440\u044f 1855, \u0445\u0443\u0442\u043e\u0440 \u0423\u0443\u0433\u0430-\u0420\u044f\u0442\u0441\u0435\u043f\u0430, \u043e\u043a\u043e\u043b\u043e \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a\u0438\u0439 \u041f\u043e\u0440\u0442, \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0438\u043c\u043f\u0435\u0440\u0438\u044f \u2014 26 \u0438\u044e\u043d\u044f 1929, \u041f\u0430\u043b\u0434\u0438\u0441\u043a\u0438, \u042d\u0441\u0442\u043e\u043d\u0438\u044f) \u2014 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0438 \u044d\u0441\u0442\u043e\u043d\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u0438 \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0435\u0446, \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u043a, \u043e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u044d\u0441\u0442\u043e\u043d\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430. \u0412\u043e\u0448\u0451\u043b \u0432 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u043f\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430\u043c \u043f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0438 \u043e\u043d\u043b\u0430\u0439\u043d-\u0433\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u043f\u0438\u0441\u043e\u043a 100 \u0432\u0435\u043b\u0438\u043a\u0438\u0445 \u0434\u0435\u044f\u0442\u0435\u043b\u0435\u0439 \u042d\u0441\u0442\u043e\u043d\u0438\u0438 XX \u0432\u0435\u043a\u0430 (1999)."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u043c\u0430\u0301\u043d\u0434\u0443\u0441 \u0413\u0435\u0301\u043d\u0440\u0456\u0445 \u0410\u0301\u0434\u0430\u043c\u0441\u043e\u043d (\u0435\u0441\u0442. Amandus Heinrich Adamson, \u0443 \u0420\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0456\u0439 \u0456\u043c\u043f\u0435\u0440\u0456\u0457 \u2014 \u0410\u043c\u0430\u0301\u043d\u0434 \u0406\u0432\u0430\u0301\u043d\u043e\u0432\u0438\u0447 \u0430\u0431\u043e \u0410\u043c\u043c\u043e\u043d \u0406\u0432\u0430\u0301\u043d\u043e\u0432\u0438\u0447; 12 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0430 1855 \u2014 26 \u0447\u0435\u0440\u0432\u043d\u044f 1929) \u2014 \u043e\u0434\u0438\u043d \u0456\u0437 \u043d\u0430\u0439\u0432\u0438\u0437\u043d\u0430\u0447\u043d\u0456\u0448\u0438\u0445 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u043a\u0456\u0432 \u0435\u0441\u0442\u043e\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u0430. \u0410\u043a\u0430\u0434\u0435\u043c\u0456\u043a \u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0437\u044c\u043a\u043e\u0457 \u0410\u043a\u0430\u0434\u0435\u043c\u0456\u0457 \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432, \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0432 \u0443 \u0436\u0430\u043d\u0440\u0430\u0445 \u043c\u043e\u043d\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e\u0457 \u043f\u043b\u0430\u0441\u0442\u0438\u043a\u0438, \u043a\u0430\u043c\u0435\u0440\u043d\u043e\u0457 \u043c\u0456\u043d\u0456\u0430\u0442\u044e\u0440\u0438, \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0443. \u041e\u0441\u043d\u043e\u0432\u043d\u0430 \u0442\u0435\u043c\u0430 \u0439\u043e\u0433\u043e \u0432\u0438\u0442\u0432\u043e\u0440\u0456\u0432 \u2014 \u043c\u043e\u0440\u0435."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Amandus Heinrich Adamson, f\u00f6dd 12 november 1855 i Uuga-R\u00e4tsepa, n\u00e4ra Paldiski i d\u00e5varande Ryssland, d\u00f6d 26 juni 1929 i Paldiski, var en estl\u00e4ndsk skulpt\u00f6r och m\u00e5lare. Amandus Adamson v\u00e4xte upp i en sj\u00f6mansfamilj. Han flyttade till Sankt Petersburg 1875 f\u00f6r att utbilda sig i konst p\u00e5 Ryska konstakademien. Efter examen arbetade han som skulpt\u00f6r och l\u00e4rare i Sankt Petersburg, med uppeh\u00e5ll f\u00f6r studier 1887\u20131891 i Paris och Italien, d\u00e4r han p\u00e5verkades av de franska skulpt\u00f6rerna Jules Dalou och Jean-Baptiste Carpeaux."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/F_R_Kreutzwaldi_monument_Vorus.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Lydia_Koidula_monument1.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Scuttled_ships.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann_K\u00f6leri_haud.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/TheLastSigh.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/AmandusAdamsonRussalka.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Amandus_Adamson_1914.jpeg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Eesti_Vabaduss\u00f5jas_langenute_Kuressaare_m\u00e4lestussammas.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paldiski,_maja,_kus_elas_ja_t\u00f6\u00f6tas_Amandus_Adamson.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/P\u00e4rnu_Vabaduss\u00f5ja_m\u00e4lestussammas.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u0414\u043e\u043c_\u0417\u0438\u043d\u0433\u0435\u0440\u0430_5.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:19th-century_Estonian_male_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:19th-century_Estonian_painters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_the_Russian_Empire"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1855_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1929_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_the_Governorate_of_Estonia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Estonian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Architectural_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Paldiski"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Estonian_male_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "12233248"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1122560242"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Estonia"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Caryatids"
+        "object": "http://dbpedia.org/resource/Category:Estonian_art_collectors"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/P\u00e4rnu"
+        "object": "http://dbpedia.org/resource/Paul_Raud"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Allegorical_sculpture"
+        "object": "http://dbpedia.org/resource/Johannes_Greenberg"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Allegory"
+        "object": "http://dbpedia.org/resource/Johannes_V\u00f5erahansu"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/House_of_Romanov"
+        "object": "http://dbpedia.org/resource/Category:Living_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Jules_Dalou"
+        "object": "http://dbpedia.org/resource/Estonian_Chamber_of_Commerce_and_Industry"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Russian_Empire"
+        "object": "http://dbpedia.org/resource/Olev_Subbi"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Russian_monitor_Rusalka"
+        "object": "http://dbpedia.org/resource/Elmar_Kits"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Saint_Petersburg"
+        "object": "http://dbpedia.org/resource/Ants_Laikmaa"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Alexander_von_Bock"
+        "object": "http://dbpedia.org/resource/Lohusalu"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:19th-century_Estonian_male_artists"
+        "object": "http://dbpedia.org/resource/Category:1950_births"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:19th-century_Estonian_painters"
+        "object": "http://dbpedia.org/resource/Nikolai_Triik"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_the_Russian_Empire"
+        "object": "http://dbpedia.org/resource/Adamson-Eric"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Eliseyev_Emporium_(Saint_Petersburg)"
+        "object": "http://dbpedia.org/resource/Ado_Vabbe"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Friedrich_Reinhold_Kreutzwald"
+        "object": "http://dbpedia.org/resource/Altare_della_Patria"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gavriil_Baranovsky"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Georg_Lurich"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Muhu"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lydia_Koidula"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Singer_House"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1855_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1929_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_the_Governorate_of_Estonia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Estonian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Architectural_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/V\u00f5ru"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Crimean_Peninsula"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Paldiski"
+        "object": "http://dbpedia.org/resource/Amandus_Adamson"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
@@ -467,22 +92,52 @@
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Estonian_War_of_Independence"
+        "object": "http://dbpedia.org/resource/Estonian_Academy_of_Music_and_Theatre"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Paldiski"
+        "object": "http://dbpedia.org/resource/Estonian_Soviet_Socialist_Republic"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kadriorg"
+        "object": "http://dbpedia.org/resource/Estonians"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Jean-Baptiste_Carpeaux"
+        "object": "http://dbpedia.org/resource/Evald_Okas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Private_collection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Real_estate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tiit_P\u00e4\u00e4suke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helsinki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hiiu_County"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
@@ -492,11 +147,356 @@
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Art_Nouveau"
+        "object": "http://dbpedia.org/resource/Category:Estonian_businesspeople"
     },
     {
         "subject": "http://dbpedia.org/resource/Amandus_Adamson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Estonian_male_artists"
+        "object": "http://dbpedia.org/resource/Category:People_from_Tallinn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_White_Star,_4th_Class"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Metrologists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aleksander_Vardi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_K\u00f6ler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eerik_Haamer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eero_Epner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tallinn_Town_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_the_White_Star"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Museum_of_Estonia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Museum_of_Estonia_Friends_of_Art_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Konrad_M\u00e4gi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kuressaare"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kuressaare_Castle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/K\u00e4rdla"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Exhibition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NG_Investeeringud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tartu_Art_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Burman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philanthropy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Industrial_sector"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Il_Vittoriano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_of_Estonian_Food_Industry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Enn_Kunila.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calcutta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl-Ebbe_Andersen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Auer_von_Welsbach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Ripa_di_Meana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Ubbiali"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_R\u00e9my_de_Guebhard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolyn_S._Shoemaker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poul_Schl\u00fcter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Algeria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Bangladesh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Bolivia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Estonia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Greece"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Guyana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Namibia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Nicaragua"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Portugal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Syria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Uruguay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Yugoslavia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Australia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Bulgaria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_France"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Japan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Nepal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Portugal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Maximilian_of_Baden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quebec"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queenie_Newall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Ridgway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Bannister"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rokur\u014d_Naya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Minson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Phoenix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Golias"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Melzack"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Barker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Biggs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amandus_Adamson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rube_Bjorkman"
     }
 ]

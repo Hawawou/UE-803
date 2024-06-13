@@ -1,213 +1,53 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Armen Agop"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Armen Agop (born in 1969 in Cairo) is a contemporary Egyptian artist who is changing perspectives and pushing the boundaries on contemporary art. He is known for his spiritually charged contemplative works, which were described to reminiscence the harmony, balance and purity of the human soul. Agop engages meditative practices in his processes, prioritizing inwardness and inner monumentality. Soberness, slowness and renouncement of demonstrative abilities, are features that characterize his ascetic approach."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Armen Agop"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "https://www.armenagop.com/"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Armen Agop"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Armen_Agop_Untitled_2018.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Cairo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "Cairo, Egypt"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Armenian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Contemporary_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Egyptian_people_of_Armenian_descent"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Egyptian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1969_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Egyptian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Cairo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Egyptian_contemporary_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Contemporary_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "48593845"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1124106108"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rouben_Vesmadian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cairo"
+        "object": "http://dbpedia.org/resource/Category:Lists_of_people_by_ethnicity"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Belgium"
+        "object": "http://dbpedia.org/resource/Basketball"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Armenian_sculptors"
+        "object": "http://dbpedia.org/resource/Boghos_Nubar"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Villa_Empain"
+        "object": "http://dbpedia.org/resource/Boghos_Yousefian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Contemporary_artists"
+        "object": "http://dbpedia.org/resource/Hovhannes_Setian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Perch_Zeytuntsyan"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mathaf:_Arab_Museum_of_Modern_Art"
+        "object": "http://dbpedia.org/resource/Vahan_Malezian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vahan_Tekeyan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zareh_Nubar"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
@@ -217,191 +57,446 @@
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Egyptian_sculptors"
+        "object": "http://dbpedia.org/resource/Egypt"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sufism"
+        "object": "http://dbpedia.org/resource/Georges_Kazazian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1969_births"
+        "object": "http://dbpedia.org/resource/Gohar_Gasparyan"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_sculptors"
+        "object": "http://dbpedia.org/resource/Anoushka_(Egyptian_singer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Egyptian_sculptors"
+        "object": "http://dbpedia.org/resource/Aram_Ter-Ghevondyan"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Cairo"
+        "object": "http://dbpedia.org/resource/Armen_Agop"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Egyptian_contemporary_artists"
+        "object": "http://dbpedia.org/resource/Armenag_K._Bedevian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Barjeel_Art_Foundation"
+        "object": "http://dbpedia.org/resource/Armenian_Catholic_Church"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Helwan_University"
+        "object": "http://dbpedia.org/resource/Arpiar_Arpiarian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Contemporary_sculptors"
+        "object": "http://dbpedia.org/resource/Category:Lists_of_Armenian_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gezira_Center_for_Modern_Art"
+        "object": "http://dbpedia.org/resource/Hagop_Sandaldjian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Florida,_USA"
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Egypt"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Armen_Agop_Untitled_2018.jpg"
+        "object": "http://dbpedia.org/resource/Garbis_Aprikian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://www.armenagop.com/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Saroukhan"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://www.armenagop.com"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Feyrouz_(actress)"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Armen_Agop"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nubar_Pasha"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/304543202"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edmond_Kiraz"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/1036336743"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Badr_al-Jamali"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q22003015"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armand_(photographer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://hy.dbpedia.org/resource/\u0531\u0580\u0574\u0565\u0576_\u0540\u0561\u056f\u0578\u0562"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armenak_Yekarian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/25cpr"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armenian_General_Benevolent_Union"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armenians_in_Egypt"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Cn"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arto_Tchakmaktchian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Failed_verification"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atom_Egoyan"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lebleba"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nelly_(Egyptian_entertainer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nerses_Bedros_XIX_Tarmouni"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Wikiquote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yervant_Odian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Armen_Agop_Untitled_2018.jpg?width=300"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yervant_Terzian"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/knownFor",
-        "object": "Spiritual Contemporary Art"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuhanna_al-Armani"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/website",
-        "object": "https://www.armenagop.com/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raffi_(musician)"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Armen Agop (born in 1969 in Cairo) is a contemporary Egyptian artist who is changing perspectives and pushing the boundaries on contemporary art. He is known for his spiritually charged contemplative works, which were described to reminiscence the harmony, balance and purity of the human soul. Agop engages meditative practices in his processes, prioritizing inwardness and inner monumentality. Soberness, slowness and renouncement of demonstrative abilities, are features that characterize his ascetic approach."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Egyptian_artists"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/property/movement",
-        "object": "Transcontemporary"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bek_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://purl.org/linguistics/gold/hypernym",
-        "object": "http://dbpedia.org/resource/Sculptor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sawsan_Amer"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://schema.org/sameAs",
-        "object": "http://viaf.org/viaf/304543202"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_Egyptian_people_by_occupation"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Armen_Agop?oldid=1124106108&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_artists_by_nationality"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "11548"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menhat_Helmy"
     },
     {
         "subject": "http://dbpedia.org/resource/Armen_Agop",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Armen_Agop"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samir_Elmesirri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gazbia_Sirry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Bahgoury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nermine_Hammam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Egypt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gamal_El-Sagini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ghada_Amer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mohamed_Nagy_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armen_Agop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clea_Badaro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Youssef_Nabil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mahmoud_Mokhtar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mustafa_Hussein_(cartoonist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Henein"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adham_Wanly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doa_Aly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dom_Hubert_van_Zeller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hassan_Heshmat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hassan_Mohamed_Hassan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lara_Baladi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ahmad_Nady"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ahmed_Emad_Eldin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ahmed_Morsi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaa_Awad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amal_Kenawy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fathi_Hassan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dina_Danish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Islam_el_Azzazi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Habib_Gorgi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heba_Amin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hend_Kheera"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurufiyya_movement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hussein_El_Gebaly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arto_Tchakmaktchian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chico_(Egyptian_artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kamal_Amin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_Hefuna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tahia_Halim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Effat_Nagy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thutmose_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moataz_Nasr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mohamed_Abla"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diane_Tuckman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aya_Tarek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Nakhla"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mariam_A._Aleem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inji_Aflatoun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seif_Wanly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sherif_Sonbol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yehia_Dessouki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nazir_Tanbouli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Armen_Agop",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doaa_El-Adl"
     }
 ]

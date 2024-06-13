@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Private_Passions"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Bowen"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Erd\u0151s"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pembroke_College,_Oxford"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_College_School"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Oxford"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pennsylvania"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBritishComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBritishPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBritishSoftwareEngineers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colorado_College"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Wilson,_Baroness_Wilson_of_Rievaulx"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Arts"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nesmith_Ankeny"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Through_the_Looking-Glass"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatCompaniesBasedInOxford"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Children_of_prime_ministers_of_the_United_Kingdom"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScienceWriters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graph_coloring"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_historians_of_mathematics"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erd\u0151s_number"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lewis_Carroll"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatMuseumCompanies"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatWriters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Combinatorics"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleEducatedAtBryanstonSchool"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professor"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleEducatedAtTheDragonSchool"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Harold_Wilson"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromOxford"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BBC_Radio_3"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatSGIPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Balliol_College,_Oxford"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Abstraction100002137"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Academician109759069"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_British_mathematicians"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_British_mathematicians"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Balliol_College,_Oxford"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Pennsylvania_alumni"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Given_name"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leader_of_the_Labour_Party_(UK)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graph_Theory"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Company108058098"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice's_Adventures_in_Wonderland"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amanda_Chetwynd"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Society_for_the_History_of_Mathematics"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Editor110044879"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oxford_University_Press"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Educator110045713"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Four_color_theorem"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graph_Theory,_1736\u20131936"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Group100031264"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graph_theory"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Institution108053576"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_mathematics"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raymond_Flood_(mathematician)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gresham_College"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hampstead"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harold_Wilson"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organization108008335"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jack_Copeland"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Guardian"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Honourable"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Open_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Professional110480253"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_people_of_English_descent"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fellows_of_Keble_College,_Oxford"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatInformationTechnologyCompaniesOfEngland"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Graph_theorists"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Worker109632518"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Professors_of_Gresham_College"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Writer110794014"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_educated_at_University_College_School"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sons_of_life_peers"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeremy_Gray"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keble_College,_Oxford"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Labour_Party_(UK)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederic_Lloyd"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/SkilledWorker110605985"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gresham_Professor_of_Geometry"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/SocialGroup107950920"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Balliol_College"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Open_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAcademicJournalEditors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mathematical_Association_of_America"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfBirminghamCityUniversity"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/European_Mathematical_Society"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfImperialCollegeLondon"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Four_Color_Theorem"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfKing'sCollegeLondon"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_and_Sullivan"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfLondonSouthBankUniversity"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hungarian_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfTheUniversityOfReading"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_J._Katz"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfTheUniversityOfWestminster"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norman_L._Biggs"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAcademicsOfUniversityCollegeLondon"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lester_R._Ford_Award"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTheUniversityOfOxford"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Visiting_Gresham_Professor"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfUniversityCollege,Oxford"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Turing_Guide"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEnglishBookEditors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sudoku"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEnglishComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oxford_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEnglishNon-fictionWriters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calculator"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEnglishScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Sassenrath"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheBritishComputerSociety"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_Morgan_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSocietyOfArts"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cascading_Style_Sheets"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFormalMethodsPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Case-based_reasoning"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPrivateCompaniesLimitedByGuaranteeOfEngland"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poul-Henning_Kamp"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatTechnologyCompaniesEstablishedIn2002"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Process_mining"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Program_optimization"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u062c\u0648\u0646\u0627\u062b\u0627\u0646 \u0628\u0648\u064a\u0646"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programmer"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Jonathan Bowen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prolog"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Jonathan Bowen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punched_card"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Jonathan Bowen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Python_(programming_language)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Jonathan Bowen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Jonathan Bowen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/QuickCheck"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0411\u043e\u0443\u044d\u043d, \u0414\u0436\u043e\u043d\u0430\u0442\u0430\u043d"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sedgewick_(computer_scientist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u4e54\u7eb3\u68ee\u00b7\u9c8d\u6587"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sproull"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u062c\u0648\u0646\u0627\u062b\u0627\u0646 \u0628\u0648\u064a\u0646 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Jonathan Bowen)\u200f \u0647\u0648 \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628 \u0648\u0645\u0647\u0646\u062f\u0633 \u0648\u0643\u0627\u062a\u0628 \u0628\u0631\u064a\u0637\u0627\u0646\u064a\u060c \u0648\u0644\u062f \u0641\u064a 14 \u0645\u0627\u0631\u0633 1956 \u0641\u064a \u0623\u0643\u0633\u0641\u0648\u0631\u062f \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tappan_Morris"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Jonathan Bowen (* 1956 in Oxford) ist ein britischer Informatiker. Bowen studierte an der Bryanston School und der Oxford University Ingenieurwissenschaften. Er gr\u00fcndete die \u201eVirtual Library Museums Pages\u201c auf der Website International Council of Museums."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Jonathan P. Bowen (1956) es un inform\u00e1tico brit\u00e1nico."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Floyd"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Jonathan P. Bowen FBCS FRSA (born 1956) is a British computer scientist and an Emeritus Professor at London South Bank University, where he headed the Centre for Applied Formal Methods. Prof. Bowen is also the Chairman of Museophile Limited and has been a Professor of Computer Science at Birmingham City University, Visiting Professor at the Pratt Institute (New York City), University of Westminster and King's College London, and a visiting academic at University College London."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Ierusalimschy"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Jonathan P. Bowen, FBCS FRSA (1956), \u00e8 un informatico britannico. \u00c8 presidente di , professore emerito alla London South Bank University, dove ha diretto il Centre for Applied Formal Methods, Visiting Professor presso il King's College London e di un ex in visita accademica presso l'University College London."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Pieraccini"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u4e54\u7eb3\u68ee\u00b7P\u00b7\u9c8d\u6587 FBCS FRSA\uff08Jonathan P. Bowen 1956\u5e74\uff0d\uff09\u662f\u4e00\u4f4d\u82f1\u570b\u8a08\u7b97\u6a5f\u79d1\u5b78\u5bb6\u3002\u4ed6\u662fMuseophile\u6709\u9650\u516c\u53f8\u7684\u4e3b\u5e2d\u548c\u502b\u6566\u5357\u5cb8\u5927\u5b78\u7684\u69ae\u8b7d\u6559\u6388\uff0c\u5728\u90a3\u88e1\u4ed6\u9818\u5c0e\u61c9\u7528\u5f62\u5f0f\u65b9\u6cd5\u4e2d\u5fc3\u3002\u4ed6\u662f\u4f2f\u660e\u7ff0\u57ce\u5e02\u5927\u5b78\u8a08\u7b97\u6a5f\u79d1\u5b78\u6559\u6388\uff0c\u5a01\u65af\u654f\u65af\u7279\u5927\u5b78\u666e\u6797\u7279\u7814\u7a76\u6240\uff08\u7d10\u7d04\u5e02\uff09\u5ba2\u5ea7\u6559\u6388\uff0c\u502b\u6566\u570b\u738b\u5b78\u9662\u548c\u502b\u6566\u5927\u5b78\u5b78\u9662\u8a2a\u554f\u5b78\u8005"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Milner"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Jonathan P. Bowen FBCS FRSA (n\u00e9 en 1956) est un informaticien britannique et est professeur du calcul \u00e0 London South Bank University o\u00f9 il dirige le Centre for Applied Formal Methods de l\u2019Institute for Computing Research."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robotics"
     },
     {
         "subject": "http://dbpedia.org/resource/Jonathan_Bowen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0414\u0436\u043e\u043d\u0430\u0442\u0430\u043d \u0411\u043e\u0443\u044d\u043d (Jonathan Bowen) \u0440\u0430\u043d\u0435\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0432\u0435\u0434\u0443\u0449\u0438\u043c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u043c \u0432 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439\u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u041e\u043a\u0441\u0444\u043e\u0440\u0434\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 (Oxford University Computing Laboratory). \u041d\u0430\u0447\u0438\u043d\u0430\u044f \u0441 1977 \u0433\u043e\u0434\u0430, \u043e\u043d\u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0438\u043d\u0433\u0430 \u043a\u0430\u043a \u0432 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u044f\u0445, \u0442\u0430\u043a \u0438 \u0432 \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u0438. \u041e\u0431\u043b\u0430\u0441\u0442\u044c \u0435\u0433\u043e\u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432 \u0432\u043a\u043b\u044e\u0447\u0430\u0435\u0442 \u0444\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b, Z-\u0441\u0438\u043c\u0432\u043e\u043b\u0438\u043a\u0443, \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u043d\u043e-\u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u0435\u0441\u0438\u0441\u0442\u0435\u043c\u044b, \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u043c\u0430\u043a\u0435\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u0434\u0435\u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0446\u0438\u044e,\u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043d\u0443\u044e \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0446\u0438\u044e, \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0441 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c\u044e, \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043d\u043e\u0433\u043e \u0438\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f, \u0438\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0435 \u043c\u0443\u0437\u0435\u0438. \u0414\u0436. \u0411\u043e\u0443\u044d\u043d \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b \u041e\u043a\u0441\u0444\u043e\u0440\u0434\u0441\u043a\u0438\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442, \u0433\u0434\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0441\u0442\u0435\u043f\u0435\u043d\u044c \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u043d\u044b\u0445 \u043d\u0430\u0443\u043a (Engineering Science). \u0412 1994 \u0433\u043e\u0434\u0443 \u0411\u043e\u0443\u044d\u043d \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u043f\u0440\u0435\u043c\u0438\u044e\u0427\u0430\u0440\u043b\u044c\u0437\u0430 \u0411\u044d\u0431\u0431\u0438\u0434\u0436\u0430 (IEE Charles Babb"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Canion"
     }
 ]

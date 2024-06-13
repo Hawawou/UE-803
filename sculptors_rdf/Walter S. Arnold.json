@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromChicago,Illinois"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Walter S. Arnold"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Walter S. Arnold (born in Chicago, Illinois) is an American stone carver and sculptor best known for his gargoyles."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Walter S. Arnold"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Walter S. Arnold"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Chicago,_Illinois"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Chicago,_Illinois"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Illinois"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Stone_carvers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Chicago"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "25158556"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1111257591"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Baroque"
+        "object": "http://dbpedia.org/resource/Camille_Billops"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Boston_University"
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Apprenticeship"
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/House_of_Blues"
+        "object": "http://dbpedia.org/resource/Carlo_Marochetti"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Hyde_Park,_Chicago"
+        "object": "http://dbpedia.org/resource/Carol_Brooks_MacNeil"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/United_States_Capitol"
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Chicago"
+        "object": "http://dbpedia.org/resource/Carolina_Benedicks-Bruce"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Renaissance_art"
+        "object": "http://dbpedia.org/resource/Caroline_Peddle_Ball"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "object": "http://dbpedia.org/resource/Caroline_Ramersdorfer"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Caroline_Shawk_Brooks"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+        "object": "http://dbpedia.org/resource/Caspar_Buberl"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Chicago_Board_of_Trade"
+        "object": "http://dbpedia.org/resource/Ambrosius_Petruzzy"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Citadel_Center"
+        "object": "http://dbpedia.org/resource/Beatrice_Angle"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Frederick_Hart_(sculptor)"
+        "object": "http://dbpedia.org/resource/Beatrice_Huntington"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gargoyle"
+        "object": "http://dbpedia.org/resource/Benedetto_Antelami"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gothic_art"
+        "object": "http://dbpedia.org/resource/Benedetto_da_Maiano"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Monumental_Cemetery_of_Staglieno"
+        "object": "http://dbpedia.org/resource/Benita_Armstrong"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Richard_Driehaus"
+        "object": "http://dbpedia.org/resource/Benjamin_Creswick"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lincoln_Park_Zoo"
+        "object": "http://dbpedia.org/resource/Robert_Taylor_(architect)"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lizzadro_Museum_of_Lapidary_Art"
+        "object": "http://dbpedia.org/resource/Robert_Thomas_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Arts_and_Crafts_Movement"
+        "object": "http://dbpedia.org/resource/Robert_White_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Chicago_Architecture_Foundation"
+        "object": "http://dbpedia.org/resource/Roberta_Everett"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Spertus_Institute"
+        "object": "http://dbpedia.org/resource/Roman_Kost"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Steppenwolf_Theatre_Company"
+        "object": "http://dbpedia.org/resource/Romano_Vio"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Illinois"
+        "object": "http://dbpedia.org/resource/Ron_Mueck"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Stone_carvers"
+        "object": "http://dbpedia.org/resource/Ronald_Bladen"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Tribune_Tower"
+        "object": "http://dbpedia.org/resource/Rosa_Bonheur"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Washington_National_Cathedral"
+        "object": "http://dbpedia.org/resource/Rosalie_Gascoigne"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/White_House"
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Winged_Victory_of_Samothrace"
+        "object": "http://dbpedia.org/resource/Roxanne_Swentzell"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Albin_Polasek_House_and_Studio"
+        "object": "http://dbpedia.org/resource/Sarah_Fisher_Ames"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Field_Museum_of_Natural_History"
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Harold_Washington"
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Italy"
+        "object": "http://dbpedia.org/resource/Sarra_Lebedeva"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Art_Deco"
+        "object": "http://dbpedia.org/resource/Sassona_Norton"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Art_Institute_of_Chicago"
+        "object": "http://dbpedia.org/resource/Scott_Burton"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Chicago"
+        "object": "http://dbpedia.org/resource/Eleanor_Layfield_Davis"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Chicago"
+        "object": "http://dbpedia.org/resource/Elfriede_Abbe"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Chicago,_Illinois"
+        "object": "http://dbpedia.org/resource/Elias_Wakan"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kenwood,_Chicago"
+        "object": "http://dbpedia.org/resource/Elisabeth_Gordon_Chandler"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Marble"
+        "object": "http://dbpedia.org/resource/Elisabeth_Toubro"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Pietrasanta"
+        "object": "http://dbpedia.org/resource/Endel_Taniloo"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Illinois"
+        "object": "http://dbpedia.org/resource/Ennutsiak"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Indiana_State_Museum"
+        "object": "http://dbpedia.org/resource/Enook_Manomie"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Stone_carving"
+        "object": "http://dbpedia.org/resource/Epiphanius_Evesham"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Classical_art"
+        "object": "http://dbpedia.org/resource/Category:Lists_of_sculptors"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Washington,_DC_D.C."
+        "object": "http://dbpedia.org/resource/List_of_female_sculptors"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.09k4cyh"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Louis-Ernest_Meissonier"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Walter_S._Arnold"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minoru_Niizuma"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q7966026"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mirit_Cohen"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4xCEF"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e1szl\u00f3_Besz\u00e9des"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/property/training",
-        "object": "http://dbpedia.org/resource/Pietrasanta"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9on_Indenbaum"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9on_Mignon"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Convert"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9onard_De_Cuyper"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00eda_Berm\u00fadez"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oopik_Pitsuilak"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parys_Filippi"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Url"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shane_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teresa_Margolles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Izdebskiy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corn\u00e9lie_Caroline_van_Asch_van_Wijck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bashka_Paeff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bela_Pratt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belle_Kinney_Scholz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Enwonwu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Paul_Akers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Victor_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Waterhouse_Hawkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benvenuto_Cellini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_van_Loo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertel_Thorvaldsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Harvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Potter_Vonnoh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beulah_Woodard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Pepper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bharti_Kher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Barrett_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Woodrow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billie_Lawless"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blanche_Nevin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogdan_Ra\u021b\u0103"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Putnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Eugene_Henry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Nash_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ruben_Piqtoukun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Smith_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_d'Angers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Alva_Parsons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Barye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Tibor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Rideout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Turnbull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allan_Linder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_Hutchinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allie_Tennant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alojz_Rigele"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrei_Kolkoutine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_S._Arnold",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e1s_Beck"
     }
 ]

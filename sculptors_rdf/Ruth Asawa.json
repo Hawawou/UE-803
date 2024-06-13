@@ -1,433 +1,18 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanArtistsOfJapaneseDescent"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfJapaneseDescent"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanWomenSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromTheSanFranciscoBayArea"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBlackMountainCollegeAlumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromNorwalk,California"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Internee110212074"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Prisoner110476086"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatJapanese-AmericanInternees"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Unfortunate109630641"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Ruth Asawa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Ruth Asawa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Ruth Asawa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Ruth Asawa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Ruth Asawa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30eb\u30fc\u30b9\u30fb\u30a2\u30b5\u30ef"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Ruth Asawa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0441\u0430\u0432\u0430, \u0420\u0443\u0442"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ruth Asawa (* 24. Januar 1926 in Norwalk, Kalifornien; \u2020 5. August 2013 in San Francisco) war eine US-amerikanische Bildhauerin. In San Francisco war sie als die \u201eFountain Lady\u201c (dt.: Brunnen-Lady) bekannt. Ihre Arbeiten sind in bekannten Kunstsammlungen, wie der des Solomon R. Guggenheim Museums und des Whitneys in New York, ausgestellt. Sie war eine treibende Kraft bei der Schaffung der San Francisco School of the Arts, die ihr zu Ehren im Jahr 2010 umbenannt wurde in ."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ruth Asawa (Norwalk, California, 24 de enero de 1926 - San Francisco, 5 de agosto de 2013) fue una escultora estadounidense, de origen japon\u00e9s. Conocida en San Francisco como la \"dama fuente\", su obra se encuentra en importantes colecciones en el Museo Guggenheim y el Whitney de Nueva York.\u200b Ella fue una fuerza impulsora detr\u00e1s de la creaci\u00f3n de la Escuela de Artes de San Francisco,\u200b m\u00e1s tarde llamada la Escuela Asawa Ruth de las Artes de San Francisco en 2010.\u200b"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ruth Asawa, n\u00e9e le 24 janvier 1926 \u00e0 Norwalk en Californie et morte le 5 ao\u00fbt 2013 \u00e0 San Francisco, est une sculptrice nippo-am\u00e9ricaine. Elle est la fondatrice de l'\u00e9cole publique sup\u00e9rieure d'enseignement artistique Ruth Asawa San Francisco School of the Arts en 1982 et l'auteure de la Hyatt on Union Square Fountain, b\u00e2tie en 1973 \u00e0 San Francisco."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ruth Aiko Asawa (27 Januari 1926 - 5 Agustus 2013) adalah seorang pematung Amerika. Karya Asawa dipamerkan dalam koleksi Museum Solomon R. Guggenheim dan Museum Seni Amerika Whitney di New York. Lima belas patung kawatnya dipajang secara permanen di menara Museum de Young San Francisco di Golden Gate Park. Asawa adalah seorang pendukung pendidikan seni dan pendorong penciptaan Sekolah Seni San Francisco,yang dinamai Sekolah Seni Ruth Asawa San Francisco pada tahun 2010 untuk menghargai namanya."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ruth Aiko Asawa (January 24, 1926 \u2013 August 5, 2013) was an American modernist sculptor. Her work is featured in collections at the Solomon R. Guggenheim Museum and the Whitney Museum of American Art in New York City. Fifteen of Asawa's wire sculptures are on permanent display in the tower of San Francisco's de Young Museum in Golden Gate Park, and several of her fountains are located in public places in San Francisco. She was an arts education advocate and the driving force behind the creation of the San Francisco School of the Arts, which was renamed the Ruth Asawa San Francisco School of the Arts in 2010. In 2020, the U.S. Postal Service honored her work by producing a series of ten stamps that commemorate her well-known wire sculptures."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30eb\u30fc\u30b9\u30fb\u30a2\u30b5\u30ef \uff08Ruth Aiko Asawa\u30011926\u5e741\u670824\u65e5 \u20132013\u5e748\u67085\u65e5\uff09\u306f\u30a2\u30e1\u30ea\u30ab\u306e \u5f6b\u523b\u5bb6\u3002 \u30b5\u30f3\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3 \u3067\u306f\"\u5674\u6c34\u306e\u5973\u6027\"\u3068\u3057\u3066\u77e5\u3089\u308c\u308b\u3002 \u30a2\u30b5\u30ef\u306e\u4f5c\u54c1\u306f\u30bd\u30ed\u30e2\u30f3\u30fbR\u30fb\u30b0\u30c3\u30b2\u30f3\u30cf\u30a4\u30e0\u7f8e\u8853\u9928 \u3001 \u30db\u30a4\u30c3\u30c8\u30cb\u30fc\u7f8e\u8853\u9928\u3001\u30c7\u30a4\u30f4\u30a3\u30c3\u30c9\u30fb\u30c4\u30f4\u30a3\u30eb\u30ca\u30fc\u30fb\u30ae\u30e3\u30e9\u30ea\u30fc\u306a\u3069\u3067\u5c55\u793a\u3055\u308c\u3066\u3044\u308b\u3002 \u30b5\u30f3\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3\u82b8\u8853\u5b66\u6821\u5275\u8a2d\u306b\u5c3d\u529b\u3057\u305f\u3053\u3068\u3067\u77e5\u3089\u308c\u3001\u306e\u3061\u306b\u3053\u306e\u5b66\u6821\u306f2010\u5e74\u306b\u30eb\u30fc\u30b9\u30fb\u30a2\u30b5\u30ef\u30fb\u30b5\u30f3\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3\u30fb\u30b9\u30af\u30fc\u30eb\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30a2\u30fc\u30c8\u306b\u6539\u540d\u3055\u308c\u305f \u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0420\u0443\u0442 \u0410\u0439\u043a\u043e \u0410\u0441\u0430\u0432\u0430 (\u0430\u043d\u0433\u043b. Ruth Aiko Asawa; 1926\u20142013) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u044f\u043f\u043e\u043d\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f. \u0410\u0441\u0430\u0432\u0430 \u0431\u044b\u043b\u0430 \u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0438\u043a\u043e\u043c \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u0434\u0432\u0438\u0436\u0443\u0449\u0435\u0439 \u0441\u0438\u043b\u043e\u0439 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0448\u043a\u043e\u043b\u044b San Francisco School of the Arts, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432 2010 \u0433\u043e\u0434\u0443 \u0431\u044b\u043b\u0430 \u043d\u0430\u0437\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u0430 \u2014 ."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ruth Aiko Asawa (Norwalk, 24 gennaio 1926 \u2013 San Francisco, 5 agosto 2013) \u00e8 stata una scultrice modernista statunitense.Il suo lavoro \u00e8 presente nelle collezioni del Solomon R. Guggenheim Museum e del Whitney Museum of American Art di New York City. Quindici delle sculture in filo metallico di Asawa sono in mostra permanente nella torre del de Young Museum di San Francisco nel Golden Gate Park e molte delle sue fontane si trovano in luoghi pubblici a San Francisco. Era una sostenitrice dell'educazione artistica e la forza trainante dietro la creazione della San Francisco School of the Arts, che \u00e8 stata ribattezzata Ruth Asawa San Francisco School of the Arts nel 2010. Nel 2020 il servizio postale degli Stati Uniti ha onorato il suo lavoro producendo una serie di dieci francobolli che comme"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Ruth Asawa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Ruth Asawa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruth_Asawa's_San_Francisco_Fountain.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Fountain,_Ghirardelli_Square_(29998974418).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Imogen_Cunningham_-_Ruth_Asawa.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruth_Asawa,_Untitled_(S.383,_Wall-Mounted_Tied_Wire,_Open-Center,_Six-Pointed_Star,_with_Six_Branches),_c._1967.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Various_works_by_Ruth_Asawa_at_the_David_Zwirner_gallery_in_NYC.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Norwalk,_California"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/San_Francisco,_California"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "San Francisco, California, U.S."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "2013-08-05"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "Norwalk, California, U.S."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1926-01-24"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Black_Mountain_College_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1926_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:2013_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Japanese-American_internees"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_women_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_the_San_Francisco_Bay_Area"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_California"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_artists_of_Japanese_descent"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Wisconsin\u2013Milwaukee_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Norwalk,_California"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "17031923"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1120599639"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_State_University,_Sacramento"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rohwer_War_Relocation_Center"
+        "object": "http://dbpedia.org/resource/American_Academy_in_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolando_Castell\u00f3n"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
@@ -437,66 +22,481 @@
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/San_Francisco_Museum_of_Modern_Art"
+        "object": "http://dbpedia.org/resource/San_Francisco_Art_Institute"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Santa_Anita_Park"
+        "object": "http://dbpedia.org/resource/San_Francisco_Arts_Commission"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Electroplating"
+        "object": "http://dbpedia.org/resource/Berkeley_Art_Center"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Beaumont_Newhall"
+        "object": "http://dbpedia.org/resource/Bernice_Bing"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Black_Mountain_College"
+        "object": "http://dbpedia.org/resource/Category:Mills_College_alumni"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/David_Zwirner_Gallery"
+        "object": "http://dbpedia.org/resource/Joseph_Goldyne"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/De_Young_Museum"
+        "object": "http://dbpedia.org/resource/Paul_DeMarinis"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Black_Mountain_College_alumni"
+        "object": "http://dbpedia.org/resource/Ren\u00e9_Ya\u00f1ez"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Josef_Albers"
+        "object": "http://dbpedia.org/resource/Richard_Diebenkorn"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/United_States_Postal_Service"
+        "object": "http://dbpedia.org/resource/Richmond_Art_Center"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_California_Press"
+        "object": "http://dbpedia.org/resource/Robert_Colescott"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "object": "http://dbpedia.org/resource/United_States_Bicentennial"
     },
     {
         "subject": "http://dbpedia.org/resource/Ruth_Asawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_artists"
+        "object": "http://dbpedia.org/resource/University_of_California,_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dewey_Crumpler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1936_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matisse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rupert_Garc\u00eda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Asawa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Clark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elmer_Bischoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Day_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_LaPena"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Longfish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mission_Cultural_Center_for_Latino_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multiculturalism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Valledor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Lomahaftewa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smithsonian_Institution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Lobdell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Montoya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Izu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2013_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C.N._Gorman_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_the_San_Francisco_Bay_Area"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:San_Francisco_Art_Institute_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Holland_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adaline_Kent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Al_Wong"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Al_Robles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:California_State_University,_Sacramento_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Park_Place_Gallery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guggenheim_Fellowship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Janice_Mirikitani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tenderloin,_San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Filipino_American"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archives_of_American_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asian_Art_Museum_(San_Francisco)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_artists_of_Filipino_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_San_Francisco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:San_Francisco_Art_Institute_alumni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jessica_Hagedorn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Pomeroy_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_LaMarr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manuel_Neri"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Lovelace_O'Neal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pollock-Krasner_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mildred_Howard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mills_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minimalism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Endowment_for_the_Arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oliver_Lee_Jackson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ralph_Maradiaga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raymond_Saunders_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prospect_New_Orleans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sylvia_Lark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phil_Weidman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darryl_Sapien"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horace_Washington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Hiroshi_Suzuki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rohwer,_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Ochi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Joaquin_Valley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Historic_Landmark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Temporary_populated_places_on_the_National_Register_of_Historic_Places"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homer_Martin_Adkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Army_Corps_of_Engineers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Desha_County,_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internment_of_Japanese_Americans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1942_establishments_in_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/McGehee,_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Asawa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_F._Neild"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Takei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gila_River_War_Relocation_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Granada_War_Relocation_Center"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grayce_Uyehara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Buildings_and_structures_in_Desha_County,_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:National_Historic_Landmarks_in_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Desha_County,_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louisiana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shreveport,_Louisiana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Star_Trek:_The_Original_Series"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Protected_areas_of_Desha_County,_Arkansas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Ruth_Asawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tourist_attractions_in_Desha_County,_Arkansas"
     }
 ]

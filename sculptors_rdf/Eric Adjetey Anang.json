@@ -1,468 +1,18 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatContemporaryArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatContemporarySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGa-AdangbePeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGhanaianArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGhanaianPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGhanaianSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centurySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat21st-centurySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043d\u0430\u043d\u0433, \u042d\u0440\u0438\u043a \u0410\u0434\u0436\u0435\u0442\u0435\u0439"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Eric Adjetey Anang; (* 24. September 1985 in Teshie, Ghana) ist ein ghanaischer Sargk\u00fcnstler und Sch\u00f6pfer von Sargkunst in Ghana."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Eric Adjetey Anang is a Ghanaian sculptor and fantasy coffin carpenter. He was born in Teshie, Ghana and runs the Kane Kwei Carpentry Workshop. He currently maintains dual residency and splits his time between Ghana and Madison, Wisconsin, where he is pursuing unique projects."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Eric Adjetey Anang es un escultor nacido en Teshie, Ghana, donde vive y trabaja."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Eric Adjetey Anang est un sculpteur n\u00e9 en 1985 \u00e0 Teshie au Ghana o\u00f9 il vit et travaille."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Eric Adjetey Anangadalah seorang pemahat. Dia lahir pada tahun 1985 di kota Teshie (Ghana), yang jadi tempat tinggal dan kerjanya."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Eric Adjetey Anang is een Ghanese beeldhouwer. Hij woont en werkt in zijn geboorteplaats."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Eric Adjetey Anang (Teshie, 24 settembre 1985) \u00e8 uno scultore ghanese. Pronuncia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Eric Adjetey Anang \u00e9 um carpinteiro e escultor ganense que produz caix\u00f5es-fantasia. Ele nasceu em Teshie, Gana, onde vive e trabalha."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Eric Adjetey Anang jest artyst\u0105 rze\u017abiarzem urodzonym w 1985 w Teshie w Ghanie, gdzie mieszka i pracuje."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Eric Adjetey Anang, f\u00f6dd 24 september 1985 i Teshie, Accra, \u00e4r en ghanansk skulpt\u00f6r."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u042d\u0440\u0438\u043a \u0410\u0434\u0436\u0435\u0442\u0435\u0439 \u0410\u043d\u0430\u043d\u0433 (\u0430\u043d\u0433\u043b. Eric Adjetey Anang, (\u0438\u043d\u0444.)) \u2014 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0440\u043e\u0434\u0438\u0432\u0448\u0438\u0439\u0441\u044f \u0432 \u0422\u0435\u0448\u0438, \u0413\u0430\u043d\u0430, \u0433\u0434\u0435 \u043e\u043d \u0441\u0435\u0439\u0447\u0430\u0441 \u0436\u0438\u0432\u0451\u0442 \u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Eric Adjetey Anang (* 24. z\u00e1\u0159\u00ed 1985 ) je ghansk\u00fd v\u00fdtvarn\u00edk. P\u016fsob\u00ed ve studiu , kter\u00e9 se zab\u00fdv\u00e1 v\u00fdrobou figurativn\u00edch rakv\u00ed zvan\u00fdch v jazyce okadi adekai a v angli\u010dtin\u011b fantasy coffin. \u0158ezb\u00e1\u0159stv\u00ed se v\u011bnuje od osmi let, vystudoval a p\u0159evzal d\u00edlnu, kterou zalo\u017eil jeho d\u011bde\u010dek Seth Kane Kwei. Na pam\u00e1tku pobytu v Iow\u011b vytvo\u0159il Anang rakev v podob\u011b kuku\u0159i\u010dn\u00e9ho klasu, aby zm\u00ednil hlavn\u00ed produkt tohoto st\u00e1tu."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "http://kanekwei.com"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Eric Adjetey Anang"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2003/01/geo/wgs84_pos#lat",
-        "object": "5.587741851806641"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://www.w3.org/2003/01/geo/wgs84_pos#long",
-        "object": "-0.09961000084877014"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Eric_Adjetey_Anang,_Aalborg,_Denmark,_2013.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Eric_Adjetey_Anang.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Limo_design_coffin.png"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Spider.png"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Accra"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Teshie"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Accra"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Teshie"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1985-09-24"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1985_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Accra_Academy"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Accra"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Woodcarvers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Ghanaian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Ghanaian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Ghanaian_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Coffins"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Ga-Adangbe_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Ghanaian_male_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Woodworkers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "26828418"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1108463361"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_Saltworks_at_Arc-et-Senans"
     },
     {
         "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Arkansas_at_Little_Rock"
+        "object": "http://dbpedia.org/resource/Rennes"
     },
     {
         "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1985_births"
+        "object": "http://dbpedia.org/resource/Robert_Doisneau"
     },
     {
         "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
@@ -472,31 +22,481 @@
     {
         "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Oregon_College_of_Art_&_Craft"
+        "object": "http://dbpedia.org/resource/Montpellier"
     },
     {
         "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Emmy_Award"
+        "object": "http://dbpedia.org/resource/Mus\u00e9e_d'Art_Moderne_de_la_Ville_de_Paris"
     },
     {
         "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ghana"
+        "object": "http://dbpedia.org/resource/Category:French_expatriates_in_Nigeria"
     },
     {
         "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Madison,_Wisconsin"
+        "object": "http://dbpedia.org/resource/Lib\u00e9ration"
     },
     {
         "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_sculptors"
+        "object": "http://dbpedia.org/resource/Category:1946_births"
     },
     {
         "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Accra_Academy"
+        "object": "http://dbpedia.org/resource/Grande_Halle_de_la_Villette"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alliance_fran\u00e7aise"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eric_Adjetey_Anang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/France_Inter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Novosibirsk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gwangju"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivan_Leva\u00ef"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_male_non-fiction_writers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_male_poets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_poets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_journalists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Marseille"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kano_(city)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lagos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Fran\u00e7ois_Bizot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marseille"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institut_national_de_l'audiovisuel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Serge_July"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guy_Hersant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mus\u00e9e_d'art_moderne_de_la_ville_de_Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Fa\u00e7ade_Alliance_fran\u00e7aise_de_Kano.JPG"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Actuel_(magazine)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amu_Djoleto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Clement_Eghan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Ghana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PricewaterhouseCoopers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Gyasi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Kofi_Amoabeng"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Koranteng_Amoako"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_Owusu-Ansah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prosper_Harrison_Addo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_Health"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Elizabeth_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Azu_Crabbe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Odoi-Sykes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_(rapper)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metro_TV_(Ghana)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Liberation_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Ephson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Mould-Iddrisu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Anaglate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Kpakpoe_Acquaye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denny_Antwi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Lords"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hutton_Ayikwei_Addy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Willie_Kofi_Harlley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johns_Hopkins_University_School_of_Medicine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jones_Victor_Mawulorm_Dotse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Arthur_Ankrah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Bennet_Odunton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Boye_Lomotey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_Amoah-Ntim"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Boateng"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Edward_Affum_Okwabi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Tagoe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Ala_Adjetey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rex_Quartey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Oblitey_Solomon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Orraca-Tetteh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richie_Agyemfra-Kumi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Addo-Fening"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Dodoo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UT_Bank"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UniBank"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Nations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_for_Development_Studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Irvine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Ghana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Ghana_Medical_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Upper_East_Region"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Upper_West_Region"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/V.C.R.A.C._Crabbe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Volta_Region"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Animle_Hansen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Earl_Ankrah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inspector_General_of_Police_of_the_Ghana_Police_Service"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Law_Commission"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._T._D._Addy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kwaku_Ofori_Asiamah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Confederation_of_African_Football"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornelius_Odarquaye_Quarcoopome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SIC_Insurance_Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_Justice_of_Ghana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_Justice_of_Kenya"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Petroleum_Authority"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Adjei_Thompson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Eric_Adjetey_Anang",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Attoh"
     }
 ]

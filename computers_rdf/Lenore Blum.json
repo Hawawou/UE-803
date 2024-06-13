@@ -1,468 +1,58 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanMathematicians"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatWomen"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatWomenMathematicians"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromNewYorkCity"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Female109619168"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Mathematician110301261"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Woman110787470"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanMathematicalSociety"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonore Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Lenore Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Leonore Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Lenore Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Lenore Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Lenore Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0411\u043b\u044e\u043c, \u041b\u0435\u043d\u043e\u0440"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u041b\u0435\u043d\u043e\u0440\u0430 \u0411\u043b\u0443\u043c"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Leonore Blum (18 de desembre de 1942, Nova York) \u00e9s una distingida professora de Ci\u00e8ncies de les Matem\u00e0tiques i Computaci\u00f3 a la Universitat de Carnegie Mellon."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Lenore Carol Blum (* 18. Dezember 1942 in New York City) ist eine US-amerikanische mathematische Logikerin und Informatikerin, die sich mit Komplexit\u00e4tstheorie besch\u00e4ftigt."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Lenore Carol Blum (n\u00e9e Epstein, born December 18, 1942) is an American computer scientist and mathematician who has made pioneering contributions to the theories of real number computation, cryptography, and pseudorandom number generation. She was a distinguished career professor of computer science at Carnegie Mellon University until 2019 and is currently a professor in residence at the University of California, Berkeley. She is also known for her efforts to increase diversity in mathematics and computer science."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Lenore Blum (Nueva York, 18 de diciembre de 1942) es una profesora de Ciencias de las Matem\u00e1ticas y Computaci\u00f3n en la Universidad de Carnegie Mellon."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Lenore Blum, n\u00e9e le 18 d\u00e9cembre 1942 \u00e0 New York, est une math\u00e9maticienne am\u00e9ricaine, dont les recherches portent entre autres sur la th\u00e9orie des mod\u00e8les, les corps diff\u00e9rentiels et la complexit\u00e9 de calcul avec des nombres r\u00e9els (machine BSS), se sp\u00e9cialisant dans la concorde de domaines qui ne semblent pas pr\u00e9alablement li\u00e9s."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041b\u0435\u043d\u043e\u0440 \u0411\u043b\u044e\u043c (\u0430\u043d\u0433\u043b. Lenore Epstein Blum, \u0443\u0440\u043e\u0436\u0434\u0451\u043d\u043d\u0430\u044f \u042d\u043f\u0448\u0442\u0435\u0439\u043d; \u0440\u043e\u0434. 1942) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a, \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u043e\u0431\u0449\u0435\u0439 \u0430\u043b\u0433\u0435\u0431\u0440\u0435 \u0438 \u0442\u0435\u043e\u0440\u0438\u0438 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438, \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u041a\u0430\u0440\u043d\u0435\u0433\u0438 \u2014 \u041c\u0435\u043b\u043b\u043e\u043d. \u041d\u0451\u0442\u0435\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0447\u0442\u0435\u0446 (2002)."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041b\u0435\u043d\u043e\u0440\u0430 \u0411\u043b\u0443\u043c (\u0430\u043d\u0433\u043b. Lenore Epstein Blum, \u0443\u0440\u043e\u0434\u0436\u0435\u043d\u0430 \u0415\u043f\u0448\u0442\u0435\u0439\u043d; 1942) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a, \u0444\u0430\u0445\u0456\u0432\u0447\u0438\u043d\u044f \u0437 \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u043e\u0457 \u0430\u043b\u0433\u0435\u0431\u0440\u0438 \u0456 \u0442\u0435\u043e\u0440\u0456\u0457 \u043e\u0431\u0447\u0438\u0441\u043b\u044e\u0432\u0430\u043b\u044c\u043d\u043e\u0457 \u0441\u043a\u043b\u0430\u0434\u043d\u043e\u0441\u0442\u0456, \u043f\u0440\u043e\u0444\u0435\u0441\u043e\u0440 \u0423\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0443 \u041a\u0430\u0440\u043d\u0435\u0433\u0456-\u041c\u0435\u043b\u043b\u043e\u043d."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Lenore Carol Blum (Nova Iorque, 18 de dezembro de 1942) \u00e9 uma matem\u00e1tica, l\u00f3gica e cientista da computa\u00e7\u00e3o estadunidense, que trabalha com complexidade computacional. Frequentou a escola em Caracas, Venezuela, completando o ensino m\u00e9dio com 16 anos de idade, estudando depois arquitetura e matem\u00e1tica na Universidade Carnegie Mellon e a partir de 1961 no Simmons College em Boston, enquanto ao mesmo tempo obteve um doutorado no Instituto de Tecnologia de Massachusetts, orientada por Gerald Sacks, com a tese Generalized algebraic theories \u2013 a model theoretic approach."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Lenore Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Lenore Blum"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Lenore_Blum_1998.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "New York City"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1942-12-18"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Women_in_Mathematics"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1942_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_women"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Women_mathematicians"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_mathematicians"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_mathematicians"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_women_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Association_for_the_Advancement_of_Science"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_California,_Berkeley_College_of_Letters_and_Science_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Carnegie_Mellon_University_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Mills_College_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Simmons_University_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Theoretical_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Mathematical_Society"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Massachusetts_Institute_of_Technology_School_of_Science_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "1884319"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1095166438"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_philosophy"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Carnegie_Mellon_University"
+        "object": "http://dbpedia.org/resource/Scientific_method"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Princeton_University"
+        "object": "http://dbpedia.org/resource/Ann_Hibner_Koblitz"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Blum_Blum_Shub"
+        "object": "http://dbpedia.org/resource/University_at_Albany,_SUNY"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Women_in_Mathematics"
+        "object": "http://dbpedia.org/resource/University_of_Amsterdam"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cultural_diversity"
+        "object": "http://dbpedia.org/resource/University_of_California,_Los_Angeles"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+        "object": "http://dbpedia.org/resource/University_of_Costa_Rica"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_California_at_Berkeley"
+        "object": "http://dbpedia.org/resource/University_of_Delaware"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Venezuela"
+        "object": "http://dbpedia.org/resource/Douglass_Residential_College"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Integer_factorization"
+        "object": "http://dbpedia.org/resource/Paul_R._Gross"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mandelbrot_set"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Presidential_Award_for_Excellence_in_Science,_Mathematics,_and_Engineering_Mentoring"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Lenore_Blum",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1942_births"
+        "object": "http://dbpedia.org/resource/Category:1935_births"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
@@ -477,26 +67,436 @@
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Women_mathematicians"
+        "object": "http://dbpedia.org/resource/Mary_W._Gray"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cryptography"
+        "object": "http://dbpedia.org/resource/Gender_studies"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
+        "object": "http://dbpedia.org/resource/United_Nations_Development_Fund_for_Women"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mathematical_Sciences_Research_Institute"
+        "object": "http://dbpedia.org/resource/Category:Feminist_philosophers"
     },
     {
         "subject": "http://dbpedia.org/resource/Lenore_Blum",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Notices_of_the_American_Mathematical_Society"
+        "object": "http://dbpedia.org/resource/Epistemology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lenore_Blum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sigma_Xi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Feminist_empiricism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Feminist_epistemology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Feminist_philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phi_Beta_Kappa_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Standpoint_feminism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Standpoint_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_philosophers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_philosophers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Epistemologists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Philosophers_of_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Los_Angeles_faculty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_philosophers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UNESCO"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Western_philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Desmond_Bernal_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_American_philosophers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Poststructuralists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Bacon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pan_American_Health_Organization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sokal_Affair"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Postcolonial_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Higher_Superstition"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asian_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michigan_State_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Science_(journal)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Signs_(journal)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_Text"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commission_on_Science_and_Technology_for_Development"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norman_Levitt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philosophy_of_science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Strong_objectivity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Women's_studies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UCLA_Center_for_the_Study_of_Women"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/20th-century_philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Postcolonial"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Science_Wars"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Education_Research_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Swiss_Federal_Institute_of_Technology_Zurich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Signs:_Journal_of_Women_in_Culture_and_Society"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newton's_laws"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_for_the_Social_Studies_of_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Post-colonialism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calculator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Sassenrath"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_Morgan_(computer_scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cascading_Style_Sheets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Case-based_reasoning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poul-Henning_Kamp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Process_mining"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Program_optimization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prolog"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punched_card"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Python_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/QuickCheck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sedgewick_(computer_scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sproull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tappan_Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Floyd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Ierusalimschy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Pieraccini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Milner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robotics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Hui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Moore_(computer_scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Needham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Carl_Backhouse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Rivest"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruby_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Bayer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Rucker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samir_Das"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samson_Abramsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjay_Ghemawat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Lenore_Blum",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanjeev_Arora"
     }
 ]

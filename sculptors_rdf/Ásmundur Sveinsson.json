@@ -1,318 +1,23 @@
 [
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIcelandicSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryIcelandicPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u00c1smundur Sveinsson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u00c1smundur Sveinsson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u00c1smundur Sveinsson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0443\u0441\u043c\u044e\u043d\u0434\u044e\u0440 \u0421\u0432\u0435\u0439\u043d\u0441\u0441\u043e\u043d"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u00c1smundur Sveinsson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u00c1smundur Sveinsson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0441\u043c\u0443\u043d\u0434\u0443\u0440 \u0421\u0432\u0435\u0439\u043d\u0441\u0441\u043e\u043d"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u00c1smundur Sveinsson (* 20. Mai 1893 auf dem Hof Kolsta\u00f0ir in der Dalas\u00fdsla; \u2020 9. Dezember 1982 in Reykjav\u00edk) war ein isl\u00e4ndischer Bildhauer. Bei ihm handelt es sich um einen der ersten isl\u00e4ndischen K\u00fcnstler, die international Anerkennung erlangten."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u00c1smundur Sveinsson , nacido el 20 de mayo de 1893 en Kolsstadir, al oeste de Islandia y fallecido el 9 de diciembre de 1982 en Reikiavik, fue un escultor island\u00e9s."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u00c1smundur Sveinsson, n\u00e9 le 20 mai 1893 \u00e0 Kolsstadir (dans le Dalas\u00fdsla en Islande) et d\u00e9c\u00e9d\u00e9 le 9 d\u00e9cembre 1982 \u00e0 Reykjavik, est un sculpteur islandais."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u00c1smundur Sveinsson (20 May 1893 \u2013 9 December 1982) was an Icelandic sculptor."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u00c1smundur Sveinsson, f\u00f6dd 20 maj 1893 i , , Island, d\u00f6d 9 december 1982 i Reykjavik, var en isl\u00e4ndsk skulpt\u00f6r."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u0441\u043c\u0443\u043d\u0434\u0443\u0440 \u0421\u0432\u0435\u0439\u043d\u0441\u0441\u043e\u043d (20 \u0442\u0440\u0430\u0432\u043d\u044f 1893 - 9 \u0433\u0440\u0443\u0434\u043d\u044f 1982) - \u0456\u0441\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u0443\u0441\u043c\u044e\u043d\u0434\u044e\u0440 \u0421\u0432\u0435\u0439\u043d\u0441\u0441\u043e\u043d (\u0438\u0441\u043b. \u00c1smundur Sveinsson, 20 \u043c\u0430\u044f 1893, \u0412\u0435\u0441\u0442\u044e\u0440\u043b\u0430\u043d\u0434, \u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f \u2014 9 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 1982, \u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a) \u2014 \u0438\u0441\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440. \u0425\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u0432 \u0441\u0442\u043e\u043a\u0433\u043e\u043b\u044c\u043c\u0441\u043a\u043e\u0439 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u0437\u044f\u0449\u043d\u044b\u0445 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432, \u043f\u043e\u0434 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e\u043c \u041a\u0430\u0440\u043b\u0430 \u041c\u0438\u043b\u043b\u0435\u0441\u0430. \u0410\u0443\u0441\u043c\u044e\u043d\u0434\u044e\u0440 \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u043f\u0435\u0440\u0432\u044b\u0445 \u0438\u0441\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0445 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u043e\u0432, \u043f\u043e\u043b\u0443\u0447\u0438\u0432\u0448\u0438\u0445 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0435 \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0435. \u0412 \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u043e\u043c \u043f\u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0443 \u0441\u0430\u043c\u043e\u0433\u043e \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u0430 \u0435\u0433\u043e \u0434\u043e\u043c\u0435 \u0432 \u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a\u0435 \u0441\u0435\u0439\u0447\u0430\u0441 \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u0435\u0442\u0441\u044f \u043c\u0443\u0437\u0435\u0439 \u0410\u0443\u0441\u043c\u044e\u043d\u0434\u044e\u0440\u0430 \u0421\u0432\u0435\u0439\u043d\u0441\u0441\u043e\u043d\u0430, \u0430 \u0432 \u0441\u0430\u0434\u0443 \u043f\u0440\u0438 \u0437\u0434\u0430\u043d\u0438\u0438 \u2014 \u0421\u0430\u0434 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440, \u043a\u0443\u0434\u0430 \u0432\u0445\u043e\u0434 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "\u00c1smundur Sveinsson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "\u00c1smundur Sveinsson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u00c1smundarsafn_-_front_view_with_sculptures_by_\u00c1smundur_Sveinsson.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u00devottakona_-_sculpture_by_\u00c1smundur_Sveinsson.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Kolsstadir"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Reykjav\u00edk"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/Reykjav\u00edk"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "1982-12-09"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "Kolsstadir, Iceland"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1893-05-20"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Icelandic_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1893_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1982_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Icelandic_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "701016"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1020504023"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benign_tumor"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bauhaus"
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Iceland"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Borgarnes"
+        "object": "http://dbpedia.org/resource/Category:20th-century_Icelandic_women_writers"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Reykjav\u00edk"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Charles_Despiau"
+        "object": "http://dbpedia.org/resource/University_of_Copenhagen"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
@@ -322,181 +27,476 @@
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Stockholm,_Sweden"
+        "object": "http://dbpedia.org/resource/University_of_Paris"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Icelandic_sculptors"
+        "object": "http://dbpedia.org/resource/Royal_Danish_Library"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Reykjavik_Art_Museum"
+        "object": "http://dbpedia.org/resource/Category:University_of_Paris_alumni"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1893_births"
+        "object": "http://dbpedia.org/resource/Copenhagen"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1982_deaths"
+        "object": "http://dbpedia.org/resource/Menntask\u00f3linn_\u00ed_Reykjav\u00edk"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_sculptors"
+        "object": "http://dbpedia.org/resource/Category:20th-century_Icelandic_writers"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Icelandic_people"
+        "object": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Paris,_France"
+        "object": "http://dbpedia.org/resource/Icelandic_Literary_Society"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Carl_Milles"
+        "object": "http://dbpedia.org/resource/Category:1934_deaths"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/List_of_Icelandic_visual_artists"
+        "object": "http://dbpedia.org/resource/Tuberculosis"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gunnfr\u00ed\u00f0ur_J\u00f3nsd\u00f3ttir"
+        "object": "http://dbpedia.org/resource/J\u00f3n_\u00deorl\u00e1ksson"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Le_Corbusier"
+        "object": "http://dbpedia.org/resource/Category:1874_births"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Einar_Benediktsson"
+        "object": "http://dbpedia.org/resource/The_Quarterly_Review_of_Biology"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Borg_\u00e1_M\u00fdrum"
+        "object": "http://dbpedia.org/resource/Category:19th-century_Icelandic_women_writers"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/H\u00f6f\u00f0i"
+        "object": "http://dbpedia.org/resource/Category:19th-century_Icelandic_writers"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/R\u00edkar\u00f0ur_J\u00f3nsson"
+        "object": "http://dbpedia.org/resource/Icelanders"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Prose_Edda"
+        "object": "http://dbpedia.org/resource/Sigf\u00fas_Bl\u00f6ndal"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Copenhagen,_Denmark"
+        "object": "http://dbpedia.org/resource/Morgunbla\u00f0i\u00f0"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Egil_Skallagrimsson"
+        "object": "http://dbpedia.org/resource/Natalie_Zahle"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Snorri_Sturlusson"
+        "object": "http://dbpedia.org/resource/Vestur-H\u00fanavatnss\u00fdsla"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kolsstadir"
+        "object": "http://dbpedia.org/resource/Honorary_doctorate"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:\u00c1smundarsafn_-_front_view_with_sculptures_by_\u00c1smundur_Sveinsson.jpg"
+        "object": "http://dbpedia.org/resource/Scandinavia"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:\u00devottakona_-_sculpture_by_\u00c1smundur_Sveinsson.jpg"
+        "object": "http://dbpedia.org/resource/List_of_countries_by_literacy_rate"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://artmuseum.is/asmundarsafn"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mormonism"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.borgarfjordur.com/pages/p7.html"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nordic_music"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.033ykj"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bj\u00f6rk"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/96580996"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Fischer"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/174346352"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Icelandic_culture"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q182247"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hulduf\u00f3lk"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/\u00c1smundur_Sveinsson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hv\u00edt\u00e1,_\u00c1rness\u00fdsla"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/\u00c1smundur_Sveinsson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judaism"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fi.dbpedia.org/resource/\u00c1smundur_Sveinsson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ari_\u00deorgilsson"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fr.dbpedia.org/resource/\u00c1smundur_Sveinsson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reykjav\u00edk"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://is.dbpedia.org/resource/\u00c1smundur_Sveinsson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vigd\u00eds_Finnbogad\u00f3ttir"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ru.dbpedia.org/resource/\u0410\u0443\u0441\u043c\u044e\u043d\u0434\u044e\u0440_\u0421\u0432\u0435\u0439\u043d\u0441\u0441\u043e\u043d"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vikings"
     },
     {
         "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://sv.dbpedia.org/resource/\u00c1smundur_Sveinsson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dav\u00ed\u00f0_Stef\u00e1nsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inflection"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Route_1_(Iceland)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sigur_R\u00f3s"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberalism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_museums_in_Iceland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_holidays_in_Iceland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salmon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christianity"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christianization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cinema_of_Iceland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Civil_unions"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cod"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Egil's_Saga"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Einar_H\u00e1konarson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_language"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fri\u00f0rik_\u00d3lafsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gar\u00f0ab\u00e6r"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gender_equality"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pietism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anglicism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leif_Erikson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_MacNeice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lutheranism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Magn\u00fas_Scheving"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chess_in_Iceland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Skaftafell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snorri_Sturluson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Strip_club_ban_in_Iceland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compound_(linguistics)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00de\u00f3rbergur_\u00de\u00f3r\u00f0arson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haggis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hallgr\u00edmur_P\u00e9tursson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ice_climbing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Icelandic_National_Day"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Icelandic_Reformation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Icelandic_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Icelandic_horse"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Icelandic_literature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Icelandic_name"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Icelandic_turf_house"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladimir_Ashkenazy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patronymic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steinn_Steinarr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sveinbj\u00f6rn_Sveinbj\u00f6rnsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matth\u00edas_Jochumsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voces_Thules"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catholic_Church"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W._H._Auden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dried_fish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haddock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helgi_Pjeturss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/\u00c1smundur_Sveinsson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J\u00f3hann_Sigurj\u00f3nsson"
     }
 ]

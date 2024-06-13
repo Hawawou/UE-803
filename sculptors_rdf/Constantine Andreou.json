@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Swartz"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carolus-Duran"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carson_McCullers"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caspar_Weinberger"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ammonal"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beachy_Head"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Wright_(psychologist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pravda"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prefecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBrazilianPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Bolivia"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBrazilianPeopleOfGreekDescent"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Brazil"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBrazilianSculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_El_Salvador"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Pakistan"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Portugal"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_South_Korea"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatContemporaryPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_Turkey"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatContemporarySculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_Philippines"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_Republic_of_Macedonia"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatModernPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_United_States"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatModernSculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Belgium"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Canada"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_India"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Jordan"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Romania"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Sudan"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Sweden"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Painter110391653"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Christian_of_Schleswig-Holstein"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_Friedrich_Karl_of_Prussia_(1893\u20131917)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Promulgation_(canon_law)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFrenchSculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prostitution"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGreekPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Puerto_Rico"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGreekPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGreekSculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quebec_Bridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Lowell"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Merrill"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mitchum"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Nivelle"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Viren"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryFrenchPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Robert_Porter"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centurySculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Reagan"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat21st-centuryFrenchPainters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rufus_Thomas"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat21st-centurySculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samael_Aun_Weor"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFrenchPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sameera_Moussa"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFrenchPeopleOfGreekDescent"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sardon_Jubir"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromS\u00e3oPaulo(city)"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Satyendra_Narayan_Sinha"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/Artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Cherniack"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Constantine Andreou"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Joplin"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Constantin Andreou"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Encomienda"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mining_(military)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Constantine Andreou"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minister_(government)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Constantin Andr\u00e9ou"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seymour_Melman"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Constantin Andreou"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mendele_Mocher_Sforim"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Constantine Andreou"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Pearce_(politician)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u039f \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5 (24 \u039c\u03b1\u03c1\u03c4\u03af\u03bf\u03c5 1917 \u2013 8 \u039f\u03ba\u03c4\u03c9\u03b2\u03c1\u03af\u03bf\u03c5 2007) \u03ae\u03c4\u03b1\u03bd \u0388\u03bb\u03bb\u03b7\u03bd\u03b1\u03c2 \u03b6\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03b3\u03bb\u03cd\u03c0\u03c4\u03b7\u03c2, \u03c0\u03bf\u03c5 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03bf\u03c5\u03c2 \u03ba\u03b1\u03bb\u03bb\u03b9\u03c4\u03ad\u03c7\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5 20\u03bf\u03cd \u03b1\u03b9\u03ce\u03bd\u03b1."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Constantine Andreou (also: Costas Andreou, Kostas Andreou; French: Constantin Andr\u00e9ou, Costas Andr\u00e9ou; Greek: \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5, \u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5) (March 24, 1917 \u2013 October 8, 2007) was a painter and sculptor of Greek origin with a highly successful career that spanned six decades. Andreou has been praised by many as an eminent figure in international art of the 20th century."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._Coast_and_Geodetic_Survey"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Constantine Andreou (Constantine Andr\u00e9ou, \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5), (S\u00e3o Paulo, 24 de marzo de 1917 - Atenas, 8 de octubre de 2007), fue un escultor y pintor de origen griego establecido en Par\u00eds."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1917_Code_of_Canon_Law"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Constantin Andr\u00e9ou (en grec moderne : \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5), n\u00e9 le 24 mars 1917 \u00e0 S\u00e3o Paulo (Br\u00e9sil) et mort le 8 octobre 2007 \u00e0 Ath\u00e8nes (Gr\u00e8ce), est un peintre et sculpteur gr\u00e9co-fran\u00e7ais d'origine br\u00e9silienne."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1944"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Constantin Andr\u00e9ou (in greco moderno: \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5; San Paolo, 24 marzo 1917 \u2013 Atene, 8 ottobre 2007) \u00e8 stato un pittore e scultore greco di origine brasiliana, la cui carriera ha ricoperto sei decadi. \u00c8 considerato da molti critici, come un'artista che \u00e8 stato capace di affermarsi all'interno dell'arte internazionale del XX secolo. Una grande influenza nella sua arte \u00e8 data dagli anni trenta, decade segnata dallo scontro fra le diverse ideologie politiche,."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1947"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Constantine Andreou, em grego: \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5, (S\u00e3o Paulo, 24 de mar\u00e7o de 1917 \u2013 Atenas, 8 de outubro de 2007) foi um pintor e escultor grego nascido no Brasil."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1950"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Constantin Andreou (eigentlich Konstant\u00ednos Andr\u00e9ou, griechisch \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5, * 24. M\u00e4rz 1917 in S\u00e3o Paulo; \u2020 8. Oktober 2007 in Athen) war ein bedeutender griechisch-franz\u00f6sischer Maler und Bildhauer. Andreou wurde in der brasilianischen Stadt S\u00e3o Paulo als Sohn griechischer Eltern geboren. Als er acht Jahre alt war, kehrte die Familie nach Griechenland zur\u00fcck. 1940 wurde er in die griechische Armee einberufen und k\u00e4mpfte im Zweiten Weltkrieg. Nach der Besetzung Griechenlands durch deutsche, italienische und bulgarische Truppen schloss er sich dem bewaffneten Widerstand an."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1917"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Constantine Andreou"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2008"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "https://web.archive.org/web/20051013092142/http:/www.la-ville-du-bois.fr/index.asp"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2012"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Constantine Andreou"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2021"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Constantine_('Costas')_Andreou.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2022"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Constantine_andreou_-_geisha.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Nelson"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Brazil"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Batangas"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/S\u00e3o_Paulo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Aqaba"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Greece"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Arras_(1917)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Athens"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Ayun_Kara"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/Greece"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Beersheba_(1917)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/Athens"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Broodseinde"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "2007-10-08"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Buqqar_Ridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Brazil"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Cambrai_(1917)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/S\u00e3o_Paulo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Caporetto"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1917-03-24"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Hareira_and_Sheria"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Greek_sculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Jerusalem_(1917)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Greek_sculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Messines_(1917)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Greek_male_artists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Mughar_Ridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Greek_male_artists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Ngomano"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Brazilian_emigrants"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Passchendaele"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Greek_painters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Polygon_Wood"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:2007_deaths"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Rafa"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_sculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Tel_el_Khuweilfe"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Greek_emigrants_to_France"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Vimy_Ridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Greek_painters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battles_of_Ramadi_(1917)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Greek_sculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beersheba"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Greek_Resistance_members"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bergur_Sigurbj\u00f6rnsson"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Immigrants_to_Greece"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Clements"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1917_births"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bisbee,_Arizona"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_French_painters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bisbee_Deportation"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_French_sculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Fitzsimmons"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Chevaliers_of_the_L\u00e9gion_d'honneur"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Atherton"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:French_male_painters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bolshevik"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:French_male_sculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bolsheviks"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_S\u00e3o_Paulo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boris_St\u00fcrmer"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_French_painters"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brad_Dexter"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Athens"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Joyce_(actress)"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Greek_military_personnel_of_World_War_II"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Gallaher"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "2772216"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Bohm"
     },
     {
         "subject": "http://dbpedia.org/resource/Constantine_Andreou",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1117575355"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Tomlinson"
     }
 ]

@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanArtistsOfJapaneseDescent"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPrintmakers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromMinnesota"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatContemporaryArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatContemporarySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Migrant110314952"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Printmaker110475687"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatJapaneseEmigrantsToTheUnitedStates"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Traveler109629752"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centurySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Kinji Akagawa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Kinji Akagawa (born 1940, Tokyo, Japan) is an American sculptor, printmaker, and arts educator best known for sculptural constructions that also serve a practical function. A pioneer in the public art movement, Akagawa has throughout his career examined the relationship between art and community, most notably the concept of art as a process of inquiry. His sculpture and public artworks are noted for their refined elegance and use of natural materials, such as granite, basalt, field stone, cedar, and ipe wood."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Kinji Akagawa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Kinji Akagawa"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Tokyo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Japan"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Tokyo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Japan"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1940-07-01"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Cranbrook_Academy_of_Art_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1940_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Minnesota_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Japanese_emigrants_to_the_United_States"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_artists_of_Japanese_descent"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Minneapolis_College_of_Art_and_Design_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Tokyo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Minnesota"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_printmakers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "24232417"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1087836452"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_Mooers"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Environmental_art"
+        "object": "http://dbpedia.org/resource/Cambridge_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Cranbrook_Academy_of_Art_alumni"
+        "object": "http://dbpedia.org/resource/Cargill"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Houston"
+        "object": "http://dbpedia.org/resource/Carl_Blegen"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Minnesota"
+        "object": "http://dbpedia.org/resource/Carl_Dennis"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Installation_art"
+        "object": "http://dbpedia.org/resource/Carl_Eller"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "object": "http://dbpedia.org/resource/Carl_L._Hamilton"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Public_art"
+        "object": "http://dbpedia.org/resource/Carl_Richard_Jacobi"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Carl_Stokes"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cranbrook_Educational_Community"
+        "object": "http://dbpedia.org/resource/Carleton_College"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/McKnight_Foundation"
+        "object": "http://dbpedia.org/resource/Carnegie_Mellon_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Educator"
+        "object": "http://dbpedia.org/resource/Carol_Bly"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Minneapolis_College_of_Art_and_Design"
+        "object": "http://dbpedia.org/resource/Carol_Hoorn_Fraser"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Minneapolis_Institute_of_Art"
+        "object": "http://dbpedia.org/resource/Case_Western_Reserve_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Minneapolis_Sculpture_Garden"
+        "object": "http://dbpedia.org/resource/Ames_Research_Center"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Conceptual_art"
+        "object": "http://dbpedia.org/resource/Poul_Anderson"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Tabebuia"
+        "object": "http://dbpedia.org/resource/Prabhat_Nalini_Das"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Los_Angeles_County_Museum_of_Art"
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_the_Bahamas"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lyndale_Park"
+        "object": "http://dbpedia.org/resource/Princeton_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Smithsonian_Institution"
+        "object": "http://dbpedia.org/resource/Pro_Football_Hall_of_Fame"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Photography"
+        "object": "http://dbpedia.org/resource/Pug_Lund"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1940_births"
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
+        "object": "http://dbpedia.org/resource/Purdue_University"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+        "object": "http://dbpedia.org/resource/Quentin_Burdick"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_sculptors"
+        "object": "http://dbpedia.org/resource/Robert_M._Berdahl"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+        "object": "http://dbpedia.org/resource/Robert_M._Townsend"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Minnesota_alumni"
+        "object": "http://dbpedia.org/resource/Robert_Penn_Warren"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Japanese_emigrants_to_the_United_States"
+        "object": "http://dbpedia.org/resource/Robert_R._Gilruth"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Tokyo"
+        "object": "http://dbpedia.org/resource/Robert_Sheran"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Walker_Art_Center"
+        "object": "http://dbpedia.org/resource/Robert_Suderburg"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ackland_Art_Museum"
+        "object": "http://dbpedia.org/resource/Robert_Vaughn"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Afton,_Minnesota"
+        "object": "http://dbpedia.org/resource/Robert_W._Gore"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Americans"
+        "object": "http://dbpedia.org/resource/Robert_W._Warren"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:American_artists_of_Japanese_descent"
+        "object": "http://dbpedia.org/resource/Rodney_Erickson"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Figge_Art_Museum"
+        "object": "http://dbpedia.org/resource/Roger_G._Kennedy"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ford_Foundation"
+        "object": "http://dbpedia.org/resource/Roger_Nygard"
     },
     {
         "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Norton_Simon_Museum"
+        "object": "http://dbpedia.org/resource/Roman_Bohnen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Johnson_(Wisconsin_politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Kind"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Olsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Perlman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Whyte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Stordahl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronda_Rousey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosemond_Tuve"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Wilson_(ambassador)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Wilkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolph_Pariser"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Sikich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samina_Ali"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_L._Kaplan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Padres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandy_Stephens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanfilippo_syndrome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanford_I._Berman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santino_Fontana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_C._Bisel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Satish_Dhawan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Bellow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Gates_(academic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_H._DeLisi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Lilienfeld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Z._Burns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melford_Spiro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Lynch_(geneticist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Negar_Mottahedeh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/O._Meredith_Wilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Megan_Gunnar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melvin_Steen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monroe_D._Donsker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Albert_Allard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_W._Cooley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pat_Pattison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_F._Woodward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cray_Research"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C.H._Patterson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bates_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baylor_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beatrice_Gjertsen_Bessesen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Behavior"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bellator_MMA"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Hamilton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Utecht"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bennington_College"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benson_Whitney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bent_Skovmand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beowulf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berklee_College_of_Music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernie_Bierman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bert_Baston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Hills,_California"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Luther"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blake_Wheeler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Bjorklund"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Dylan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Sweiger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Thaves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Ulrich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Kinji_Akagawa",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Bell"
     }
 ]

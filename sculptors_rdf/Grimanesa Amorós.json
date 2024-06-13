@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanWomenSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromNewYorkCity"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatContemporaryArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromLima"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFeministArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeruvianArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Grimanesa Amor\u00f3s"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Grimanesa Amor\u00f3s"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Grimanesa Amor\u00f3s (born in Lima, Peru) is a Peruvian-American artist known for large-scale light sculpture installations, where she draws inspiration from Peruvian cultural legacies and the communities surrounding her sculptures. She has exhibited in Mexico, Tel Aviv, Beijing, and New York's Times Square."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Grimanesa Amor\u00f3s (Lima, 1962) es una artista interdisciplinaria peruana, conocida mundialmente por sus instalaciones escult\u00f3ricas de luz a gran escala. Tiene diversos intereses en campos como la historia social, las investigaciones cient\u00edficas y la teor\u00eda cr\u00edtica, las cuales, en gran medida, han influenciado en su trabajo. Su proceso permanece org\u00e1nico e instintivo. La relaci\u00f3n intuitiva con la tecnolog\u00eda es una caracter\u00edstica distintiva de la pr\u00e1ctica de Amor\u00f3s. La creadora investiga las locaciones, historias y comunidades en las que realiza sus instalaciones. Su trabajo incorpora elementos de la escultura, el v\u00eddeo, la iluminaci\u00f3n y la tecnolog\u00eda, para crear instalaciones que involucran a la arquitectura y crean comunidad.\u200b Actualmente vive y trabaja en Nueva York."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Grimanesa Amor\u00f3s"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "http://www.grimanesaamoros.com"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Grimanesa Amor\u00f3s"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Amoros_Miranda_Litvak_01.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Amoros_The_Mirror_Connection_05.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Amoros_breathless_10.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/GOLDEN_WATERS_in_Scottsdale,_Arizona.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimanesa-amoros-bric-hedera-05.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimanesa-amoros-susana-baca-afrodiaspora.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimanesa-amoros-uros-house-day-1.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimanesa_Amoros's_Uros_Island_at_the_2011_Biennale_di_Venezia.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimanesa_Amoros_Racimo_2011.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimanesa_Amoros_Uros_Island.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimanesa_amoros_issey_miyake_01.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimanesa_amoros_ocupante_03.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimanesa_amoros_pink_lotus_01.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Peru"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Lima"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Peru"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Lima"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Peruvian_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Peruvian_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Light_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Public_art_in_Mumbai"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1962_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_New_York_City"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Peruvian_emigrants_to_the_United_States"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_women_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Lima"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_installation_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Feminist_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_New_York_(state)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Peruvian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Peruvian_women_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "22067704"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1104538794"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Caribbean_International"
+        "object": "http://dbpedia.org/resource/Camille_Billops"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Beijing"
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Peruvian_artists"
+        "object": "http://dbpedia.org/resource/Camille_Henrot"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Peruvian_artists"
+        "object": "http://dbpedia.org/resource/Carole_Feuerman"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Light_artists"
+        "object": "http://dbpedia.org/resource/Carolina_Benedicks-Bruce"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Public_art_in_Mumbai"
+        "object": "http://dbpedia.org/resource/Caroline_Peddle_Ball"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Paul_and_Lulu_Hilliard_University_Art_Museum"
+        "object": "http://dbpedia.org/resource/Caroline_Ramersdorfer"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Peru"
+        "object": "http://dbpedia.org/resource/Caroline_Shawk_Brooks"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Peruvians"
+        "object": "http://dbpedia.org/resource/Beatrice_Angle"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Louisiana_at_Lafayette"
+        "object": "http://dbpedia.org/resource/Benita_Armstrong"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Installation_art"
+        "object": "http://dbpedia.org/resource/Roberta_Everett"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Light_art"
+        "object": "http://dbpedia.org/resource/Rosalie_Gascoigne"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1962_births"
+        "object": "http://dbpedia.org/resource/Rosemarie_Trockel"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_women_artists"
+        "object": "http://dbpedia.org/resource/Roxanne_Swentzell"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_New_York_City"
+        "object": "http://dbpedia.org/resource/Sara_Holt_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Sarah_Fisher_Ames"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/The_Peninsula_New_York"
+        "object": "http://dbpedia.org/resource/Sarah_Lucas"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lima"
+        "object": "http://dbpedia.org/resource/Sarah_Sze"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Los_Amigos_Invisibles"
+        "object": "http://dbpedia.org/resource/Sarra_Lebedeva"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_artists"
+        "object": "http://dbpedia.org/resource/Elfriede_Abbe"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Peruvian_emigrants_to_the_United_States"
+        "object": "http://dbpedia.org/resource/Elisabeth_Gordon_Chandler"
     },
     {
         "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bronx_Museum_of_the_Arts"
+        "object": "http://dbpedia.org/resource/Elisabeth_Toubro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_women_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mirit_Cohen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00eda_Berm\u00fadez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teresa_Margolles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bashka_Paeff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belle_Kinney_Scholz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Harvey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Marsh_Brewer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bessie_Potter_Vonnoh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Betty_Jukes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beverly_Pepper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bharti_Kher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blanche_Nevin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda_Putnam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Butterfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delphine_Bo\u00ebl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Lindley-Millican"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Turnbull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anita_Huffington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Coleman_Ladd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Dabis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Golubkina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Davidson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Wilson_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annet_van_Egmond"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huma_Bhabha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonny_Star"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josefina_de_Vasconcellos"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josette_H\u00e9bert-Co\u00ebffin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Bluck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Chicago"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Rotblatt-Amrany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Cullen-Kerridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bettina_Scholl-Sabbatini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patience_Wright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Johanson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Piccinini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paula_Zima"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Aitken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Boumphrey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petah_Coyne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renee_Stout"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9e_Sintenis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Retta_T._Matthews"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursula_Edgcumbe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursula_von_Rydingsvard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C.C._van_Asch_van_Wijck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Mukhina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_Fuller_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vija_Celmins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vinnie_Ream"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Violet_Dreschfeld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Davina_Semo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Hede"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doris_Salcedo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Cross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Venning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ingunn_Utsi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jana_Sterbak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johanne_Pedersen-Dan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lena_Cronqvist"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sculpture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lilian_Simpson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lilli_Wislicenus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lillian_Wade"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lily_Garafulic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_sculptors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Properzia_de'_Rossi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constance-Anne_Parker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coosje_van_Bruggen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornelia_Parker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cresilla_(female_sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Grimanesa_Amor\u00f3s",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Toscani"
     }
 ]

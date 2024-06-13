@@ -1,47 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Mark_Antokolski",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Mark Antokolski"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "44152434"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "630218859"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Protagonist"
     },
     {
         "subject": "http://dbpedia.org/resource/Mark_Antokolski",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mark_Antokolsky"
+        "object": "http://dbpedia.org/resource/Rostov-on-Don"
     },
     {
         "subject": "http://dbpedia.org/resource/Mark_Antokolski",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
-        "object": "http://dbpedia.org/resource/Mark_Antokolsky"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saratov"
     },
     {
         "subject": "http://dbpedia.org/resource/Mark_Antokolski",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:R_from_move"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bendery"
     },
     {
         "subject": "http://dbpedia.org/resource/Mark_Antokolski",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Mark_Antokolski?oldid=630218859&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_Embankment"
     },
     {
         "subject": "http://dbpedia.org/resource/Mark_Antokolski",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "45"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pavel_Petrovich_Melnikov"
     },
     {
         "subject": "http://dbpedia.org/resource/Mark_Antokolski",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Mark_Antokolski"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belarus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_the_Jews_in_Poland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Romanov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Dubro\u016dna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ukraine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vasily_Zhukovsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vodka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voronezh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donets_Basin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maxim_Gorky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_ruble"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russo-Turkish_War_(1877\u20131878)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Petersburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Net_worth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nobility"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Poliakoff_family"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emancipation_reform_of_1861"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bowler_hat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Foreign_Affairs_(Russia)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moscow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nadezhda_von_Meck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikhail_Katkov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Karenina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antisemitism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Tolstoy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stroke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zimnicea"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horace_G\u00fcnzburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kharkov_Governorate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pale_of_Settlement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Azov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1837_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1888_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jews_from_the_Russian_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_landowners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Track_ballast"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_emancipation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lazar_Polyakov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grand_Choral_Synagogue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minister_for_Posts_and_Telegraphs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Mickiewicz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aksay,_Rostov_Oblast"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_II_of_Russia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Pushkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Exposition_Universelle_(1878)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baron"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikolai_Garin-Mikhailovsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Capitalism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Governing_Senate"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Religious_conversion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tax_farming"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Government-owned_corporation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gryazi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivan_Matveyevich_Tolstoy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivan_Shestakov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zemstvo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gala\u0163i"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_philanthropists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_activists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_philanthropists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_businesspeople_from_the_Russian_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Privy_Councillor_(Russian_Empire)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Russian_landowners"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Businesspeople_from_the_Russian_Empire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Hughes_(businessman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kharkiv"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Collateral_(finance)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dubro\u016dna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russification"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diplomatic_Academy_of_the_Ministry_of_Foreign_Affairs_of_the_Russian_Federation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Distillery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Don_Cossacks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_the_Russian_Empire_in_rail_transport"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Borki_train_disaster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pogrom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kursk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michurinsk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neoclassicism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orsha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oryol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Railroad"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sergei_Witte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_ORT"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yelets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Project_management"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tsarskoye_Selo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First_Aliyah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vasily_Kokorev"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Verst"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philanthropy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Mark_Antokolski",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Antokolski"
     }
 ]

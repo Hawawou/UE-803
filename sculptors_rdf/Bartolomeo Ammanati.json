@@ -1,42 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Bartolomeo Ammanati"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "31752101"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "428722140"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvert_Vaux"
     },
     {
         "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bartolomeo_Ammannati"
+        "object": "http://dbpedia.org/resource/Camillo_Boito"
     },
     {
         "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
-        "object": "http://dbpedia.org/resource/Bartolomeo_Ammannati"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Capability_Brown"
     },
     {
         "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Bartolomeo_Ammanati?oldid=428722140&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Westman"
     },
     {
         "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "34"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Maderno"
     },
     {
         "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Bartolomeo_Ammanati"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Rossi_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_A._Santos-Viola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlos_Ra\u00fal_Villanueva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Ross_Barney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cass_Gilbert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abbot_Suger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quinlan_Terry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baldassarre_Longhena"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mills_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mylne_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_S._Roeschlaub"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Venturi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rogelio_Salmona"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romaldo_Giurgola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Arad_(industrial_designer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Mason_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Steiner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolph_Schindler_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Mockbee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Sanders_Teulon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Tilden_Norton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santiago_Calatrava"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Satyendra_Pakhale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elias_Holl"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Scott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Marconi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_architects"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Turkish_architects"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Uruguayan_architects"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_architectural_historians"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_architecture_firms"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Green_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mythology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paskoje_Mili\u010devi\u0107_Mihov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9opold_Durand"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Van_de_Velde"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Newton_Brezee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roland_Wank"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jules_Hardouin_Mansart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/T.J._Gottesdiener"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barton_Myers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bashirul_Haq"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basil_Al_Bayati"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basil_Champneys"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basil_Spence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetta_Tagliabue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Henry_Latrobe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benno_Janssen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Khoury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Maybeck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Tschumi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernardo_Vittone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berthold_Lubetkin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bertram_Goodhue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bible"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bimal_Patel_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bjarke_Ingels"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonanza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Adjaye"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Adler_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Chipperfield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_M._Harper_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Randall_Hertz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Strathairn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Death_Wish_(1974_film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Decimus_Burton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Smithson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andreas_Schl\u00fcter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_R._Chaintreuil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annibale_Maggi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthemius_of_Tralles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoine_Predock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Abbondi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Citterio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Mir\u00f3_Montilla"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Rinaldi_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Rivas_Mercado"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_da_Sangallo_the_Younger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/An\u0111eo_Lovrov_Zadranin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apollodorus_of_Damascus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archimedes_Russell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hooshang_Seyhoun"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horace_Jones_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horace_Trumbauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hossein_Amanat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/How_I_Met_Your_Mother"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_R._Barr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_Casson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_Newell_Jacobsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_T._Keyes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugo_H\u00e4ring"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Nash_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Pawson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Russell_Pope"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Bartolomeo_Ammanati",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Soane"
     }
 ]

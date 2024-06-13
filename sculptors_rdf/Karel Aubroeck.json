@@ -1,153 +1,388 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Aubroeck"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Aubroeck"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karel Aubroeck"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Aubroeck (28 August 1894 \u2013 28 July 1986) was a Flemish expressionist sculptor and painter. He is best known for his monumental sculptures such as the equestrian statue of King Albert I in Nieuwpoort and the sculpture group of the Van Raemdonck brothers on the Yser Towers in Diksmuide."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Aubroeck (n\u00e9 \u00e0 Tamise le 28 ao\u00fbt 1894 et mort dans la m\u00eame ville le 28 juillet 1986) est un sculpteur et peintre expressionniste flamand. Il est surtout connu pour ses sculptures monumentales telles que la statue \u00e9questre du roi Albert Ier \u00e0 Nieuport et le groupe de sculpture des fr\u00e8res Van Raemdonck sur la Tour de l'Yser \u00e0 Dixmude."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karel Aubroeck (Temse, 1894 \u2013 aldaar, 1986) was een Vlaams expressionistisch beeldhouwer en schilder. Hij is vooral bekend om zijn monumentale beeldhouwwerken zoals het het ruiterstandbeeld van Koning Albert I in Nieuwpoort en de beeldengroep van de Gebroeders Van Raemdonck aan de IJzertoren in Diksmuide."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/20141111_King_Albert_I_Monument_in_Nieuwpoort_06.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/20141109_IJzertoren_terrain_07.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bas_reli\u00ebf_01.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bas_reli\u00ebf_02.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Heilig_Hartkerk_Goede_Herder.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/KAREL_AUBROECK_1984_-_03.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Neb-1523737410.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1894_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1986_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Belgian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Temse"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Belgian_painters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "69564832"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1086862375"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carillon"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mechelen"
+        "object": "http://dbpedia.org/resource/Carillonneur"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Constant_Permeke"
+        "object": "http://dbpedia.org/resource/Queen_Victoria's_Rifles"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Antwerp"
+        "object": "http://dbpedia.org/resource/Category:Lists_of_World_War_I_monuments_and_memorials"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sint-Niklaas"
+        "object": "http://dbpedia.org/resource/List_of_World_War_I_memorials_and_cemeteries_in_Verdun"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1894_births"
+        "object": "http://dbpedia.org/resource/List_of_World_War_I_memorials_and_cemeteries_in_the_Somme"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1986_deaths"
+        "object": "http://dbpedia.org/resource/War_memorial"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Brussels_International_Exposition_(1935)"
+        "object": "http://dbpedia.org/resource/Battle_of_Messines_(1917)"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Belgian_sculptors"
+        "object": "http://dbpedia.org/resource/Battle_of_Passchendaele"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Temse"
+        "object": "http://dbpedia.org/resource/Battle_of_Pilckem_Ridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Exposition_Internationale_des_Arts_et_Techniques_dans_la_Vie_Moderne"
+        "object": "http://dbpedia.org/resource/Battle_of_the_Lys_(1918)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_the_Yser"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berks_Commonwealth_War_Graves_Commission_Cemetery_Extension"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Paget"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blackburn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bolton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hooglede"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hoogstade"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hyde_Park_Corner_(Royal_Berks)_Commonwealth_War_Graves_Commission_Cemetery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_I_Memorials_and_Cemeteries_in_Lorraine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_I_memorials_and_cemeteries_in_Artois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_I_memorials_and_cemeteries_in_Champagne-Ardennes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_I_memorials_and_cemeteries_in_the_area_of_the_St_Mihiel_salient"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_carillons_in_Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petit_&_Fritsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cultural_heritage"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_Cross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladslo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vladslo_German_war_cemetery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poetry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/14th_(Light)_Division"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:History_of_Flanders"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/City_of_Salford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Cooper_(VC)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_invasion_of_Belgium_(1914)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_occupation_of_Belgium_during_World_War_I"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_Ledward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Gheluvelt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leuven"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Site_John_McCrae"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ypres_Cloth_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ypres_Salient"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Stuivekenskerke_-_Demarcatiepaal_nr_11.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Park_Abbey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Territorial_Army_(United_Kingdom)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1st_Australian_Tunnelling_Company"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bacup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Burning_of_Leuven"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bury,_Greater_Manchester"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Battles_of_the_Western_Front_(World_War_I)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:World_War_I_cemeteries_in_Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:World_War_I_memorials_in_Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todmorden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._state"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Flanders"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Western_Front_(World_War_I)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wilfred_Edwards_(VC)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Distinguished_Service_Order"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dodengang"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duchy_of_Lancaster"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Essex_Farm_Commonwealth_War_Graves_Commission_Cemetery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rifle_Brigade_(Prince_Consort's_Own)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/49th_(West_Riding)_Infantry_Division"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aarschot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Accrington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allies_of_World_War_I"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fifth_Battle_of_Ypres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First_Australian_Imperial_Force"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First_Battle_of_Ypres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flanders"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nieuport_Memorial"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
@@ -157,131 +392,111 @@
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Temse"
+        "object": "http://dbpedia.org/resource/Oxfordshire_and_Buckinghamshire_Light_Infantry"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Belgian_painters"
+        "object": "http://dbpedia.org/resource/Padiham"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/King_Albert_I_Memorial"
+        "object": "http://dbpedia.org/resource/Charles_Sargeant_Jagger"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Diksmuide"
+        "object": "http://dbpedia.org/resource/Karel_Aubroeck"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Dani\u00ebl_Ost"
+        "object": "http://dbpedia.org/resource/Zeebrugge"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Middelheim_Open_Air_Sculpture_Museum"
+        "object": "http://dbpedia.org/resource/Hamlet_(place)"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Van_Raemdonck_brothers"
+        "object": "http://dbpedia.org/resource/Hawaii"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Yser_Towers"
+        "object": "http://dbpedia.org/resource/Hill_60_(Ypres)"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Biennales"
+        "object": "http://dbpedia.org/resource/Hindenburg_Line"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Heilig_Hartkerk_Goede_Herder.jpg"
+        "object": "http://dbpedia.org/resource/Bagpipes"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:KAREL_AUBROECK_1984_-_03.jpg"
+        "object": "http://dbpedia.org/resource/Armistice_of_11_November_1918"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Neb-1523737410.jpg"
+        "object": "http://dbpedia.org/resource/Arrondissement_of_Bruges"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/174178069"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arrondissement_of_Diksmuide"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/207397025"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arrondissement_of_Kortrijk"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q4570102"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arrondissement_of_Ostend"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://fr.dbpedia.org/resource/Karel_Aubroeck"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arrondissement_of_Roeselare"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://nl.dbpedia.org/resource/Karel_Aubroeck"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arrondissement_of_Tielt"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4EMdf"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arrondissement_of_Veurne"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arrondissement_of_Ypres"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/KAREL_AUBROECK_1984_-_03.jpg?width=300"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academic_libraries_in_Leuven"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Karel Aubroeck (28 August 1894 \u2013 28 July 1986) was a Flemish expressionist sculptor and painter. He is best known for his monumental sculptures such as the equestrian statue of King Albert I in Nieuwpoort and the sculpture group of the Van Raemdonck brothers on the Yser Towers in Diksmuide."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Holden"
     },
     {
         "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Karel Aubroeck (n\u00e9 \u00e0 Tamise le 28 ao\u00fbt 1894 et mort dans la m\u00eame ville le 28 juillet 1986) est un sculpteur et peintre expressionniste flamand. Il est surtout connu pour ses sculptures monumentales telles que la statue \u00e9questre du roi Albert Ier \u00e0 Nieuport et le groupe de sculpture des fr\u00e8res Van Raemdonck sur la Tour de l'Yser \u00e0 Dixmude."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Karel Aubroeck (Temse, 1894 \u2013 aldaar, 1986) was een Vlaams expressionistisch beeldhouwer en schilder. Hij is vooral bekend om zijn monumentale beeldhouwwerken zoals het het ruiterstandbeeld van Koning Albert I in Nieuwpoort en de beeldengroep van de Gebroeders Van Raemdonck aan de IJzertoren in Diksmuide."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Karel_Aubroeck?oldid=1086862375&ns=0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "5215"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karel_Aubroeck",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Karel_Aubroeck"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_McCrae"
     }
 ]

@@ -1,102 +1,32 @@
 [
     {
         "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "J\u00f3zsef \u00c1cs"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "J\u00f3zsef \u00c1cs"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "46558898"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1052381823"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs"
     },
     {
         "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs_(author)"
+        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
+        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
+        "predicate": "http://xmlns.com/foaf/0.1/primaryTopic",
+        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs"
     },
     {
         "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs_(musician)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs_(painter)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs_(sculptor)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs_(author)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs_(musician)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs_(painter)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://dbpedia.org/ontology/wikiPageDisambiguates",
-        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs_(sculptor)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q973414"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://de.dbpedia.org/resource/J\u00f3zsef_\u00c1cs"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://hu.dbpedia.org/resource/\u00c1cs_J\u00f3zsef_(egy\u00e9rtelm\u0171s\u00edt\u0151_lap)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/56rvZ"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Hndis"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/J\u00f3zsef_\u00c1cs?oldid=1052381823&ns=0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "363"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/J\u00f3zsef_\u00c1cs"
+        "object": "http://dbpedia.org/resource/J\u00f3zsef_\u00c1cs_(disambiguation)"
     }
 ]

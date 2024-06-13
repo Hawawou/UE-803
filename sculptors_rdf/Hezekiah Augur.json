@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanInventors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromNewHaven,Connecticut"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatSculptorsFromConnecticut"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Inventor110214637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Hezekiah Augur"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Hezekiah Augur"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Hezekiah Augur fue un escultor e inventor estadounidense, nacido el 21 de febrero de 1791 en New Haven y fallecido el 10 de enero de 1858."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Hezekiah Augur (February 21, 1791 \u2013 January 10, 1858) was an early American sculptor and inventor. He was a self-taught sculptor and, unlike many other 19th-century American sculptors, did not travel to Europe, but spent his entire career in New Haven."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Hezekiah Augur"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Hezekiah Augur"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/03_Oliver_Ellsworth_bust,_US_Supreme_Court.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/New_Haven,_Connecticut"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "1858-01-10"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/New_Haven,_Connecticut"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1791-02-21"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Connecticut"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:19th-century_American_inventors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:19th-century_American_male_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:19th-century_American_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_New_Haven,_Connecticut"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Burials_at_Grove_Street_Cemetery"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1858_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Inventors_from_Connecticut"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1791_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "6072259"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1124143633"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auger_(disambiguation)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/United_States"
+        "object": "http://dbpedia.org/resource/Resistance:_Fall_of_Man"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/United_States_Capitol"
+        "object": "http://dbpedia.org/resource/Christopher_C._Augur"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "object": "http://dbpedia.org/resource/Helen_Augur"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Inventor"
+        "object": "http://dbpedia.org/resource/Hezekiah_Augur"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Connecticut_Academy_of_Arts_and_Sciences"
+        "object": "http://dbpedia.org/resource/Jean_Augur"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Connecticut"
+        "object": "http://dbpedia.org/resource/Augur_buzzard"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:19th-century_American_inventors"
+        "object": "http://dbpedia.org/resource/Agar_(disambiguation)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:19th-century_American_male_artists"
+        "object": "http://dbpedia.org/resource/Jogi_(caste)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:19th-century_American_sculptors"
+        "object": "http://dbpedia.org/resource/Zork_calendar"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
+        "object": "http://dbpedia.org/resource/Augur"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_New_Haven,_Connecticut"
+        "object": "http://dbpedia.org/resource/Augur_(software)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Burials_at_Grove_Street_Cemetery"
+        "object": "http://dbpedia.org/resource/Eugene_Augur"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Chauncey_Ives"
+        "object": "http://dbpedia.org/resource/Becki_Newton"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Grove_Street_Cemetery"
+        "object": "http://dbpedia.org/resource/Robert_Moses"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Jephthah"
+        "object": "http://dbpedia.org/resource/Roberts_Blossom"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1858_deaths"
+        "object": "http://dbpedia.org/resource/Roger_Sherman"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Inventors_from_Connecticut"
+        "object": "http://dbpedia.org/resource/Roger_Sherman_Baldwin"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1791_births"
+        "object": "http://dbpedia.org/resource/Ron_Palillo"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Neoclassicism"
+        "object": "http://dbpedia.org/resource/Rosa_DeLauro"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/New_Haven,_Connecticut"
+        "object": "http://dbpedia.org/resource/Rudi_Stern"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Oliver_Ellsworth"
+        "object": "http://dbpedia.org/resource/Samuel_Peck_(daguerreotypist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculptor"
+        "object": "http://dbpedia.org/resource/Sarah_Boone"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Yale_University"
+        "object": "http://dbpedia.org/resource/Scott_Burrell"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Supreme_Court_Justice"
+        "object": "http://dbpedia.org/resource/Scott_Fellows"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.0fnntm"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleazer_Kimberly"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/21834346"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_people_by_Connecticut_municipalities"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Hezekiah_Augur"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_people_by_city_in_the_United_States"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q559551"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miya's"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/Hezekiah_Augur"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barney_Rapp"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://tr.dbpedia.org/resource/Hezekiah_Augur"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Wood_(singer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4kKQA"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Allison"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedict_Arnold"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Birth_date"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Spock"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Commons_category"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Woodbridge_Dwight"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:ISBN"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biff_McGuire"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Hutchinson_(baseball)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Lush"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Kuziel"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brad_Ausmus"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/03_Oliver_Ellsworth_bust,_US_Supreme_Court.jpg?width=300"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Looney"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/birthDate",
-        "object": "1791-02-21"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delia_Lyman_Porter"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/caption",
-        "object": "Oliver Ellsworth bust, by Hezekiah Augur"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_Haven,_Connecticut"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/deathDate",
-        "object": "1858-01-10"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Kopkind"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/knownFor",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Todd_Trowbridge"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/property/nationality",
-        "object": "http://dbpedia.org/resource/United_States"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Williamson_(basketball,_born_1951)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Hezekiah Augur fue un escultor e inventor estadounidense, nacido el 21 de febrero de 1791 en New Haven y fallecido el 10 de enero de 1858."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josh_Zeid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josiah_Willard_Gibbs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biagio_DiLieto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Yale_University_people"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Smith_(actress)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_Earl_Hammie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Fusco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Giamatti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perry_DeAngelis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pete_Jolly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Anton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Franchot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Schiff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Vallentyne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_C._Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rick_Tuttle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Roberts_Ingersoll"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Declaration_of_Independence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vincent_Scully"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Pingree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothy_Deming"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_mayors_of_New_Haven,_Connecticut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_people_from_Connecticut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Pierpont_(Yale_founder)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Stuart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Wayland_Bartlett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_Surfing_Reserves"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connecticut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constance_Baker_Motley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constitution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Craig_Breslow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Mushinsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matt_Amodio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matt_Hussey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melanie_Chartoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Ozeki"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Wilson_Gilmore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicholas_Watson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sustainable_sushi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quincy_Porter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_Sands"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Bouchet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eli_Whitney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellen_Bree_Burns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emily_Saliers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Beisler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Logue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Pepe_Pizzeria_Napoletana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fred_Goldsmith_(baseball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gardner_Dow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geoffrey_Hartman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Dixon_(Canadian_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Murphy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hezekiah_Augur",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_O._Petrie"
     }
 ]

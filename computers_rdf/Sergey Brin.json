@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cambridge_Analytica"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardiff"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Press_Gazette"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brexit"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vote_Leave"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debut_novel"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orwell_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanBillionaires"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_T._O'Conner"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanChiefExecutives"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Anderson_(entrepreneur)"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fresh_Air"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanInventors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerald_Loeb_Award"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NPR"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfRussian-JewishDescent"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Review_of_Books"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanTechnologyChiefExecutives"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Observer"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_Barnett_(writer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Libel"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerProgrammers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stieg_Larsson"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Strategic_Litigation_Against_Public_Participation"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Trump_presidential_campaign,_2016"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BBC_Radio_4"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatWEFYGLHonorees"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1969_births"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMoscow"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_British_novelists"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromPrinceGeorge'sCounty,Maryland"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_British_women_writers"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRussianBillionaires"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_women_novelists"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRussianInventors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Hertford_College,_Oxford"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatSovietEmigrantsToTheUnitedStates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_journalists"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatStanfordLawSchoolAlumni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wales_Book_of_the_Year"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatStanfordUniversityAlumni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2016_United_Kingdom_European_Union_membership_referendum"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amelia_Gentleman"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Administrator109770949"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/European_Centre_for_Press_and_Media_Freedom"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/European_Federation_of_Journalists"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Facebook"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Benefactor109608709"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nigel_Farage"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Billionaire110529684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reporters_Without_Borders"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hay_Festival"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Celebrity109903153"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hertford_College,_Oxford"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jack_Dorsey"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taunton"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Daily_Telegraph"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Director110014939"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Guardian"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Donor110025730"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_of_Editors"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2019_Pulitzer_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Employee110053808"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arron_Banks"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:The_Observer_people"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Executive110069645"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gerald_Loeb_Award_winners_for_Investigative"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/GoodPerson110138767"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jimmy_Wales"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Head110162991"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Larry_Page"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Honoree110183757"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leave.EU"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ImportantPerson110200781"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big_data"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Swedish_krona"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Inventor110214637"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TED_(conference)"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Leader109623038"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Trump"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Zuckerberg"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Political_Studies_Association"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Somerset"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greenpeace_UK"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Index_on_Censorship"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Philanthropist110421956"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Information_Commissioner's_Office"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Merthyr_Tydfil"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Programmer110481268"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Author's_Club_First_Novel_Award"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Recipient109627906"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_educated_at_Radyr_Comprehensive_School"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGoogleEmployees"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Radyr_Comprehensive_School"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatInternetCelebrities"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sergey_Brin"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanPhilanthropists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sheryl_Sandberg"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commonwealth_Writers'_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatJewishInventors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Facebook\u2013Cambridge_Analytica_data_scandal"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Worker109632518"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Private_company_limited_by_guarantee"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Not-for-profit_organization"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waverton_Good_Read_Award"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/RichPerson110529231"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Special_Counsel_investigation_(2017\u20132019)"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polk_Award"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Times_Book_Review"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Times_Review_of_Books"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stieg_Larsson_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDirectorsOfGoogle"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Entertainment_companies_disestablished_in_2011"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromTheSanFranciscoBayArea"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Publicis"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleInInformationTechnology"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opensocial"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_language"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0633\u064a\u0631\u062c\u064a \u0628\u0631\u064a\u0646"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_language"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Serguei Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_language"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Google"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u03a3\u03b5\u03c1\u03b3\u03ba\u03ad\u03b9 \u039c\u03c0\u03c1\u03b9\u03bd"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mountain_View,_California"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Munich"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergu\u00e9i Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corporate_entertainment"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silicon_Valley"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Startup_company"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cloud_computing"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30bb\u30eb\u30b2\u30a4\u30fb\u30d6\u30ea\u30f3"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felix_Haas"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\uc138\ub974\uac8c\uc774 \ube0c\ub9b0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_companies_disestablished_in_2011"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eric_Schmidt"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Event_management"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Facebook"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0411\u0440\u0438\u043d, \u0421\u0435\u0440\u0433\u0435\u0439"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamburg"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Sergey Brin"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Companies_based_in_Munich"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0421\u0435\u0440\u0433\u0456\u0439 \u0411\u0440\u0456\u043d"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ticket_sales_companies"
     },
     {
         "subject": "http://dbpedia.org/resource/Sergey_Brin",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u8c22\u5c14\u76d6\u00b7\u5e03\u6797"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Entertainment_companies_established_in_2006"
     }
 ]

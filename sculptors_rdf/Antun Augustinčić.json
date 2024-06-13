@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prijedor"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prijedor_Urije_Airport"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarajevo"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_monuments_and_memorials_in_Bosnia_and_Herzegovina"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_II_monuments_and_memorials_in_North_Macedonia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_II_monuments_and_memorials_in_Slovenia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vraca_Memorial_Park"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biha\u0107"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogdan_Bogdanovi\u0107_(architect)"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bosnia_and_Herzegovina"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bratunac"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josip_Broz_Tito"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatCroatianAcademics"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vogo\u0161\u0107a"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatCroatianPoliticians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vojin_Baki\u0107"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatCroatianSculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zlatko_Ugljen"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Garavice"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatModernSculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miodrag_\u017divkovi\u0107_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromKlanjec"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mladen_Stojanovi\u0107"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Academician109759069"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monument_to_the_Revolution_(Kozara)"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mostar"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Livno"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ljuba\u010devo"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yugoslav_Wars"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Educator110045713"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zenica"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Banja_Luka"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Leader109623038"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cazin"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tjenti\u0161te"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tuzla"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vukosavci"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bosnia_and_Herzegovina_heritage-related_lists"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Du\u0161an_D\u017eamonja"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Politician110450303"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eternal_flame_(Sarajevo)"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Professional110480253"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-Aligned_Movement"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat\u00c9coleNationaleSup\u00e9rieureDesArtsD\u00e9coratifsAlumni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Novi_Travnik"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partisan_cemetery_in_Livno"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grme\u010d"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bosnia_and_Herzegovina_in_Austria-Hungary"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kotor_Varo\u0161"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kozara"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Me\u0111uvo\u0111e"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryCroatianPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_the_People's_Hero"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromZagreb"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Necropolis_for_the_victims_of_Fascism"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antun Augustin\u010di\u0107"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_World_War_II_monuments_and_memorials"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antun Augustin\u010di\u0107"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Kozara"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antun Augustin\u010di\u0107"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Husino_uprising"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antun Augustin\u010di\u0107"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Visoko,_Bosnia_and_Herzegovina"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antun Augustin\u010di\u0107"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bosanska_Kostajnica"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Antun Augustin\u010di\u0107"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bosanski_Novi"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0432\u0433\u0443\u0441\u0442\u0438\u043d\u0447\u0438\u0447, \u0410\u043d\u0442\u0443\u043d"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dissolution_of_Yugoslavia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043d\u0442\u0443\u043d \u0410\u0432\u0433\u0443\u0441\u0442\u0438\u043d\u0447\u0438\u0447"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_II_monuments_and_memorials_in_Croatia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antun Augustin\u010di\u0107 (* 4. Mai 1900 in im Zagorje, \u00d6sterreich-Ungarn; \u2020 10. Mai 1979 in Zagreb, SFR Jugoslawien) war ein jugoslawischer Bildhauer."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_II_monuments_and_memorials_in_Montenegro"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antun Augustin\u010di\u0107 (4 May 1900 \u2013 10 May 1979) was a Croatian sculptor active in Yugoslavia and the United States. Along with Ivan Me\u0161trovi\u0107 and Frano Kr\u0161ini\u0107 he is considered one of the three most important Croatian sculptors of the 20th century. His most notable sculptures include the Peace monument which stands in front of the United Nations building in New York City, the Miner statue in front of the International Labour Organization headquarters in Geneva, and the sculpture of Yugoslav president Josip Broz Tito, present in several copies throughout former Yugoslavia."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_II_monuments_and_memorials_in_Serbia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antun Augustin\u010di\u0107, n\u00e9 le 4 mai 1900 \u00e0 Klanjec et mort le 10 mai 1979 \u00e0 Zagreb, est un sculpteur yougoslave. Avec Ivan Me\u0161trovi\u0107 et Frano Kr\u0161ini\u0107, il est consid\u00e9r\u00e9 comme l'un des principaux sculpteurs yougoslaves du XXe si\u00e8cle. Parmi ses \u0153uvres les plus remarquables figurent le Monument de la Paix plac\u00e9 devant le Si\u00e8ge des Nations unies \u00e0 New York, et la statue du Mineur, devant le si\u00e8ge de l'Organisation internationale du travail \u00e0 Gen\u00e8ve, ou encore le Monument du Yekatit 12 \u00e0 Addis-Abeba (en coop\u00e9ration avec Frano Kr\u0161ini\u0107)."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Yugoslav_World_War_II_monuments_and_memorials"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antun Augustin\u010di\u0107 (4 de mayo de 1900 - 10 de mayo de 1979) fue un escultor croata activo en Yugoslavia y en los Estados Unidos. Junto con Ivan Me\u0161trovi\u0107 y est\u00e1 considerado uno de los tres escultores croatas m\u00e1s importantes del siglo XX.\u200b Entre sus esculturas m\u00e1s notables se encuentran el monumento a la Paz que se encuentra frente a la Sede de la Organizaci\u00f3n de las Naciones Unidas en la ciudad de Nueva York y la estatua del Minero frente a la sede de la Organizaci\u00f3n Internacional del Trabajo en Ginebra."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partisan_cemetery_in_Mostar"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antun Augustin\u010di\u0107 (Klanjec, 4 maggio 1900 \u2013 Zagabria, 10 maggio 1979) \u00e8 stato uno scultore croato con cittadinanza jugoslava.Insieme a Ivan Me\u0161trovi\u0107 e \u00e8 considerato uno dei tre pi\u00f9 importanti scultori jugoslavi del XX secolo,"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/People's_Heroes_of_Yugoslavia_monuments"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u043d\u0442\u0443\u043d \u0410\u0432\u0433\u0443\u0441\u0442\u0438\u043d\u0447\u0438\u0447 (\u0445\u043e\u0440\u0432. Antun Augustin\u010di\u0107, 4 \u043c\u0430\u044f 1900, \u041a\u043b\u0430\u043d\u044c\u0435\u0446, \u0410\u0432\u0441\u0442\u0440\u043e-\u0412\u0435\u043d\u0433\u0440\u0438\u044f (\u043d\u044b\u043d\u0435 \u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f) \u2014 10 \u043c\u0430\u044f 1979, \u0417\u0430\u0433\u0440\u0435\u0431, \u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f) \u2014 \u0432\u044b\u0434\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0445\u043e\u0440\u0432\u0430\u0442\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0430\u0432\u0442\u043e\u0440 \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u043e\u0432 \u0433\u043b\u0430\u0432\u0430\u043c \u043f\u044f\u0442\u0438 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432 (\u041f\u043e\u043b\u044c\u0448\u0438, \u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u0438, \u0410\u043b\u0431\u0430\u043d\u0438\u0438, \u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u044b, \u0425\u043e\u0440\u0432\u0430\u0442\u0438\u0438). \u041d\u0430\u0440\u044f\u0434\u0443 \u0441 \u0442\u0430\u043a\u0438\u043c\u0438 \u043c\u0430\u0441\u0442\u0435\u0440\u0430\u043c\u0438, \u043a\u0430\u043a \u0418\u0432\u0430\u043d \u041c\u0435\u0448\u0442\u0440\u043e\u0432\u0438\u0447 \u0438 \u0424\u0440\u0430\u043d\u044c\u043e \u041a\u0440\u0448\u0438\u043d\u0438\u0447, \u0410\u043d\u0442\u0443\u043d\u0430 \u0410\u0432\u0433\u0443\u0441\u0442\u0438\u043d\u0447\u0438\u0447\u0430 \u043e\u0442\u043d\u043e\u0441\u044f\u0442 \u043a \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u043c \u0445\u043e\u0440\u0432\u0430\u0442\u0441\u043a\u0438\u043c \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u0430\u043c XX \u0441\u0442\u043e\u043b\u0435\u0442\u0438\u044f. \u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u043c\u0438 \u0435\u0433\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u043c\u0438 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u044b \u00ab\u041c\u0438\u0440\u00bb (\u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0430 \u043d\u0430 \u0444\u0440\u043e\u043d\u0442\u043e\u043d\u0435 \u0437\u0434\u0430\u043d\u0438\u044f \u041e\u041e\u041d \u0432 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a\u0435) \u0438 \u00ab\u0413\u043e\u0440\u043d\u044f\u043a\u00bb (\u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0430 \u043d\u0430 \u0444\u0440\u043e\u043d\u0442\u043e\u043d\u0435 \u0437\u0434\u0430\u043d\u0438\u044f \u0448\u0442\u0430\u0431-\u043a\u0432\u0430\u0440\u0442\u0438\u0440\u044b \u0412\u0422\u041e \u0432 \u0416\u0435\u043d\u0435\u0432\u0435)."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gradimir_Medakovi\u0107"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u043d\u0442\u0443\u043d \u0410\u0432\u0433\u0443\u0441\u0442\u0438\u043d\u0447\u0438\u0447 (\u0445\u043e\u0440\u0432. Antun Augustin\u010di\u010d, 4 \u0442\u0440\u0430\u0432\u043d\u044f 1900, \u0441. \u041a\u043b\u0430\u043d\u0435\u0446\u044c \u2014 10 \u0442\u0440\u0430\u0432\u043d\u044f 1979, \u0417\u0430\u0433\u0440\u0435\u0431) \u2014 \u0445\u043e\u0440\u0432\u0430\u0442\u0441\u044c\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Banj_brdo_spomenik_palim_krajisnicima.JPG"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Antun Augustin\u010di\u0107 (ur. 4 maja 1900 w Klanjcu, zm. 10 maja 1979 w Zagrzebiu) \u2212 chorwacki rze\u017abiarz. W 1918 roku zacz\u0105\u0142 studia w Akademii Sztuk Pi\u0119knych w Zagrzebiu. P\u00f3\u017aniej uczy\u0142 si\u0119 w L'Ecole des Arts decoratifs i L'Academie des Beaux-Arts w Pary\u017cu. Jego prace, prezentowano m.in. na wystawach w Barcelonie w 1929 r. oraz Londynie i Belgradzie w 1930 r. Tw\u00f3rczo\u015b\u0107: \n* Najs\u0142ynniejszym jego dzie\u0142em jest \"Monument of Peace\" stoj\u0105cy przed siedzib\u0105 ONZ w Nowym Jorku, \n* Pomnik J\u00f3zefa Pi\u0142sudskiego w Katowicach (projekt sprzed 1939 r.), \n* pomnik na wzg\u00f3rzu Banj brdo w Banja Luce. Linki"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Garavice_Spomenik_08.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Antun Augustin\u010di\u0107"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Grmec_1976.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "http://gaa.mhz.hr/en/galerija-antuna-augustincica-s65"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Ljeskare_WW2_Mass_Grave.JPG"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Antun Augustin\u010di\u0107"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:NP002_-_6.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Matija_Gubec.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:NP_Sutjeska_spomenik_2.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Balokovi\u0107_bust_at_Mirogoj.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Necropolis_to_the_victims_of_Fascism_Novi_Travnik.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Antun_Augustin\u010di\u0107_Vajda.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Partisan_Memorial_Cemetery_Mostar_06.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Antun_Augustin\u010di\u0107_e_Frano_Kr\u0161ini\u0107,_monumento_allo_yehkatit_12,_1955,_02.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Partisans'_Cemetery,_Prijedor.JPG"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Augustincic-u-ateljeu-tose-dabac-872-x-1251.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Prijedor_Pilots_Monument.JPG"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Batina2.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Sarajevo_-_Bosnia_-_War_Memorial.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice_pilsudski.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Spomen_park_Vraca_11.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument_to_Liberators_-_Nish.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:\u041c\u0430\u0458\u043a\u0430_\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u043a\u0430,_\u041d\u043e\u0432\u0438_\u0413\u0440\u0430\u0434,_\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430_\u0421\u0440\u043f\u0441\u043a\u0430_13.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Nosenje_ranjenika,_Veterinarski_fakultet-Zagreb.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:\u0421\u043f\u043e\u043c\u0435\u043d\u0438\u043a_\u0431\u043e\u0440\u0446\u0438\u043c\u0430_\u041d\u041e\u0420-\u0430_\u0438_\u0436\u0440\u0442\u0432\u0430\u043c\u0430_\u0444\u0430\u0448\u0438\u0441\u0442\u0438\u0447\u043a\u043e\u0433_\u0442\u0435\u0440\u043e\u0440\u0430_\u0443_\u0409\u0443\u0431\u0430\u0447\u0435\u0432\u0443.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Tito_spomenik1.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan_Grabul"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Croatia"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Povile"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Austria-Hungary"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pula"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Klanjec"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rovinj"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Croatia-Slavonia"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samobor"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Croatia"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_monuments_and_memorials_in_Croatia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Zagreb"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_II_monuments_and_memorials_in_Bosnia_and_Herzegovina"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_II_monuments_and_memorials_in_North_Macedonia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/SR_Croatia"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_World_War_II_monuments_and_memorials_in_Slovenia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/Zagreb"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Yugoslav_World_War_II_monuments_and_memorials_in_Croatia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Batina"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/SR_Croatia"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_Batina"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": ""
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beli_Manastir"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "1979-05-10"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bijelo_Brdo,_Croatia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Austria-Hungary"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bjelovar"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Klanjec"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobota,_Croatia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Croatia-Slavonia"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogdan_Bogdanovi\u0107_(architect)"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": ""
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bolman"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1900-05-04"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Borovo,_Croatia"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Croatian_people"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Borovo_Naselje"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Croatian_politicians"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Branjin_Vrh"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:19th-century_Croatian_sculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Branko_Ru\u017ei\u0107_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Klanjec"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hvar"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Croatian_sculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josip_Broz_Tito"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1900_births"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pa\u010detin"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1979_deaths"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peroj"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Burials_at_Mirogoj_Cemetery"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petrova_Gora"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_the_Kingdom_of_Croatia-Slavonia"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rijeka"
     },
     {
         "subject": "http://dbpedia.org/resource/Antun_Augustin\u010di\u0107",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Yugoslav_emigrants_to_the_United_States"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dabar"
     }
 ]

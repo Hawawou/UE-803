@@ -1,493 +1,28 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBaroqueSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBologna"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30a2\u30ec\u30c3\u30b5\u30f3\u30c9\u30ed\u30fb\u30a2\u30eb\u30ac\u30eb\u30c7\u30a3"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043b\u044c\u0433\u0430\u0440\u0434\u0438, \u0410\u043b\u0435\u0441\u0441\u0430\u043d\u0434\u0440\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u043b\u0435\u0441\u0441\u0430\u043d\u0434\u0440\u043e \u0410\u043b\u044c\u0491\u0430\u0440\u0434\u0456"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u4e9a\u5386\u5c71\u5fb7\u7f57\u00b7\u963f\u5c14\u52a0\u8fea"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi (Bolonya, 31 de juliol de 1598 - Roma, 10 de juny de 1654), conegut com l'Algarde, nascut el 1595 o el 1598 a It\u00e0lia a la ciutat de Bolonya i mort el 1654 a Roma, va ser escultor, decorador i arquitecte."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi (July 31, 1598 \u2013 June 10, 1654) was an Italian high-Baroque sculptor active almost exclusively in Rome, where for the latter decades of his life, he was, along with Francesco Borromini and Pietro da Cortona, one of the major rivals of Gian Lorenzo Bernini. He is now most admired for his portrait busts that have great vivacity and dignity."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi (* 31. Juli 1598 in Bologna; \u2020 10. Juni 1654 in Rom) war ein italienischer Bildhauer und Baumeister. Er gilt neben Bernini als Hauptmeister der r\u00f6mischen Barockskulptur."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi (Bolonia, 1598ko azaroaren 27a - Erroma, 1654ko ekainaren 10a) italiar eskultore barrokoa izan zen. Ludovico Carracciren ikaslea izan zen. 25 urte bete baino lehen, Mantuara joan zen, Gonzaga familiarentzat lan egitera. Hiru urte geroago Erromara aldatu zen. Lanik aipagarrienetako batzuk, Kirinaleko San Silvestre elizako San Giovanni Evangelista eta Santa Maria Maddalena (1628-1629), Leon XI.aren hilobia (1634-1644) eta San Pabloren lepo moztea (1641-1647, San Pablo eliza, Bolonia) dira. Bere lanetan Berniniren, Carraccitarren eta Pietro da Cortonaren eragina nabari da."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi (Bolonia, Estados Pontificios, 31 de julio de 1595 - Roma, Estados Pontificios, 10 de junio de 1654)\u200b fue un escultor italiano del alto barroco, activo casi exclusivamente en Roma, donde durante las \u00faltimas d\u00e9cadas de su vida, fue el principal rival de Gian Lorenzo Bernini."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi (31 Juli 1598 \u2013 10 Juni 1654) adalah seorang pematung dan arsitek asal Italia, yang menjadi seniman penting bagi Paus Innocent X. Ia lahir di Bologna dan menerima pelatihan dengan Lodovico Carraci. Sekitar tahun 1625, Alessandro menetap di Roma dan terpilih menjadi kepala Akademi St. Lukas pada tahun 1639. Ketika Paus Innocent X bertahta, Alessandro menggantikan sebagai pemimpin seniman barok."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi, dit l'Algarde, n\u00e9 en 1595 ou en 1598 en Italie dans la ville de Bologne et mort en 1654 \u00e0 Rome, est un sculpteur, d\u00e9corateur et architecte."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi (Bologna, 27 novembre 1598 \u2013 Roma, 10 giugno 1654) \u00e8 stato uno scultore italiano. Alessandro Algardi, Decollazione di San Paolo, 1638-1643. Chiesa di San Paolo Maggiore, Bologna.Tomba di Leone XI, marmo, 1644. San Pietro, Roma.Innocenzo X, bronzo, 1649-1650. Musei Capitolini, RomaCardinale Paolo Emilio Zacchiaterracotta, 1650 caMonumento a Girolamo Colonna, 1640-1655. Basilica di San Barnaba, Marino (RM).Busto marmoreo di Innocenzo X Pamphilij, marmo, 1650 circa. Museo della Citt\u00e0, Acquapendente (VT)."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi (ur. 31 lipca 1598 w Bolonii, zm. 10 czerwca 1654 w Rzymie) \u2013 w\u0142oski rze\u017abiarz, przedstawiciel rzymskiego baroku."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30a2\u30ec\u30c3\u30b5\u30f3\u30c9\u30ed\u30fb\u30a2\u30eb\u30ac\u30eb\u30c7\u30a3\uff08Alessandro Algardi\u3001 1598\u5e747\u670831\u65e5\uff0d1654\u5e746\u670810\u65e5\uff09\u306f\u30a4\u30bf\u30ea\u30a2\u306e\u5efa\u7bc9\u5bb6\u30fb\u5f6b\u523b\u5bb6\u3002 \u30dc\u30ed\u30fc\u30cb\u30e3\u306b\u751f\u307e\u308c\u305f\u3002\u30dc\u30ed\u30fc\u30cb\u30e3\u6d3e\u306e\u753b\u5bb6\u3001\u30eb\u30c9\u30f4\u30a3\u30b3\u30fb\u30ab\u30e9\u30c3\u30c1\u3089\u306b\u5b66\u3093\u3060\u3068\u3055\u308c1608\u5e74\u304b\u3089\u30de\u30f3\u30c8\u30f4\u30a1\u516c\u3001\u30d5\u30a7\u30eb\u30c7\u30a3\u30ca\u30f3\u30c91\u4e16\u306b\u4ed5\u3048\u305f\u3002\u30f4\u30a7\u30cd\u30c4\u30a3\u30a2\u306b\u77ed\u671f\u9593\u6ede\u5728\u3057\u305f\u5f8c\u30011625\u5e74\u306b\u30ed\u30fc\u30de\u306b\u79fb\u308a\u5b9a\u4f4f\u3057\u305f\u3002\u30b8\u30e3\u30f3\u30fb\u30ed\u30ec\u30f3\u30c4\u30a9\u30fb\u30d9\u30eb\u30cb\u30fc\u30cb\u306b\u53cd\u5bfe\u3057\u3066\u30dd\u30ed\u30cb\u30a2\u306e\u53e4\u5178\u4e3b\u7fa9\u306e\u7a4f\u5065\u3055\u3092\u8868\u9805\u3057\u305f\u5f6b\u523b\u5bb6\u3068\u3057\u3066\u6700\u3082\u77e5\u3089\u308c\u3066\u3044\u308b\u3002\u5efa\u7bc9\u5bb6\u3068\u3057\u3066\u306e\u540d\u58f0\u306f\u30ed\u30fc\u30de\u306e\u306e\u5225\u8358\u306b\u3088\u308b\u3082\u306e\u3067\u3042\u308b\u3002\u3053\u306e\u5efa\u7269\u306f\u306b\u3088\u3063\u3066\u8a2d\u8a08\u3055\u308c\u305f\u3088\u3046\u306b\u898b\u3048\u308b\u304c\u3001\u5f7c\u306f\u305d\u308c\u306e\u7dcf\u76e3\u7763\u3092\u3057\u3066\u3044\u305f\u3068\u3044\u3046\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi (Bologna, 31 juli 1598 \u2013 Rome, 10 juni 1654) was een Italiaans beeldhouwer en architect ten tijde van de barok. Hij geldt tegenwoordig als een van de hoofdmeesters van de Roomse barokbeeldhouwkunst, samen met zijn rivaal Gian Lorenzo Bernini. Bekende werken van zijn hand zijn de graftombe (en nog een aantal beelden) van Paus Leo XI, en een bronzen beeld van Paus Innocentius X (nu in Musei Capitolini). Verder was hij, mogelijk met hulp van en Girolamo Rainaldi, betrokken bij de aanleg van Villa Doria Pamphili."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi, f\u00f6dd 31 juli 1598 i Bologna, d\u00f6d 10 juni 1654 i Rom, var en italiensk skulpt\u00f6r under h\u00f6gbarocken."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u043b\u0435\u0441\u0441\u0430\u043d\u0434\u0440\u043e \u0410\u043b\u044c\u0491\u0430\u0440\u0434\u0456 (\u0456\u0442\u0430\u043b. Alessandro Algardi; 31 \u043b\u0438\u043f\u043d\u044f 1598, \u0411\u043e\u043b\u043e\u043d\u044c\u044f \u2014 10 \u0447\u0435\u0440\u0432\u043d\u044f 1654, \u0420\u0438\u043c) \u2014 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u043f\u043e\u0440\u044f\u0434 \u0437 \u0411\u0435\u0440\u043d\u0456\u043d\u0456 \u043e\u0434\u0438\u043d \u0437 \u043d\u0430\u0439\u0442\u0430\u043b\u0430\u043d\u043e\u0432\u0438\u0442\u0456\u0448\u0438\u0445 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u043a\u0456\u0432 \u0431\u0430\u0440\u043e\u043a\u043e \u0432 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0456\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u0456 \u0442\u0430 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u0456 \u0404\u0432\u0440\u043e\u043f\u0438 XVII \u0441\u0442\u043e\u043b\u0456\u0442\u0442\u044f."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u4e9a\u5386\u5c71\u5fb7\u7f57\u00b7\u963f\u5c14\u52a0\u8fea\uff08Alessandro Algardi\uff08\u9875\u9762\u5b58\u6863\u5907\u4efd\uff0c\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986\uff09 \uff0c1598\u5e747\u670831\u65e5\u20131654\u5e746\u670810\u65e5)\uff0c\u4e9a\u5386\u5c71\u5fb7\u7f57\u00b7\u963f\u5c14\u52a0\u8fea\u662f\u610f\u5927\u5229\u5df4\u6d1b\u514b\u76db\u671f\u7684\u96d5\u50cf\u5bb6\uff0c\u4e3b\u8981\u6d3b\u8dc3\u4e8e\u7f57\u9a6c\uff0c\u5728\u5176\u751f\u547d\u7684\u540e\u51e0\u5341\u5e74\uff0c\u548c\u5f17\u6717\u897f\u65af\u79d1\u00b7\u6ce2\u6d1b\u7c73\u5c3c\u3001\u5f7c\u5f97\u6d1b\u00b7\u8fbe\u00b7\u79d1\u5c14\u6258\u7eb3\u4e00\u8d77\uff0c\u662f\u5409\u5b89\u00b7\u6d1b\u4f26\u4f50\u00b7\u8d1d\u5c14\u5c3c\u5c3c\uff08\u9875\u9762\u5b58\u6863\u5907\u4efd\uff0c\u5b58\u4e8e\u4e92\u8054\u7f51\u6863\u6848\u9986\uff09\u7684\u4e3b\u8981\u7ade\u4e89\u5bf9\u624b\u4e4b\u4e00\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0410\u043b\u0435\u0441\u0441\u0430\u043d\u0434\u0440\u043e \u0410\u043b\u044c\u0433\u0430\u0440\u0434\u0438 (\u0438\u0442\u0430\u043b. Alessandro Algardi, 31 \u0438\u044e\u043b\u044f 1598, \u0411\u043e\u043b\u043e\u043d\u044c\u044f \u2014 10 \u0438\u044e\u043d\u044f 1654, \u0420\u0438\u043c) \u2014 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440 \u0438 \u0440\u0438\u0441\u043e\u0432\u0430\u043b\u044c\u0449\u0438\u043a, \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a \u044e\u0432\u0435\u043b\u0438\u0440\u043d\u044b\u0445 \u0438\u0437\u0434\u0435\u043b\u0438\u0439 \u0438\u0437 \u0437\u043e\u043b\u043e\u0442\u0430 \u0438 \u0441\u0435\u0440\u0435\u0431\u0440\u0430, \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0439 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c \u0441\u0442\u0438\u043b\u044f \u0431\u0430\u0440\u043e\u043a\u043a\u043e \u0432 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435 \u0418\u0442\u0430\u043b\u0438\u0438 \u043d\u0430\u0440\u044f\u0434\u0443 \u0441 \u0414\u0436\u043e\u0432\u0430\u043d\u043d\u0438 \u041b\u043e\u0440\u0435\u043d\u0446\u043e \u0411\u0435\u0440\u043d\u0438\u043d\u0438, \u0424\u0440\u0430\u043d\u0447\u0435\u0441\u043a\u043e \u0411\u043e\u0440\u0440\u043e\u043c\u0438\u043d\u0438 \u0438 \u041f\u044c\u0435\u0442\u0440\u043e \u0434\u0430 \u041a\u043e\u0440\u0442\u043e\u043d\u0430. \u0420\u0430\u0431\u043e\u0442\u0430\u043b \u0432 \u041c\u0430\u043d\u0442\u0443\u0435, \u0411\u043e\u043b\u043e\u043d\u044c\u0435 \u0438 \u0420\u0438\u043c\u0435."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi (31. \u010dervence 1598 Bologna \u2013 10. \u010dervna 1654 \u0158\u00edm) byl italsk\u00fd barokn\u00ed socha\u0159. P\u016fvodn\u011b se u\u010dil mal\u00ed\u0159em u , nakonec se ale v\u011bnoval v\u00fdhradn\u011b socha\u0159stv\u00ed. Od roku 1630 \u017eil v \u0158\u00edm\u011b, kde tak lze nal\u00e9zt nejv\u00edce jeho prac\u00ed. K nejoce\u0148ovan\u011bj\u0161\u00edm pat\u0159\u00ed n\u00e1hrobek pape\u017ee Lva XI., kter\u00fd dokon\u010dil roku 1644, nebo obrovsk\u00fd mramorov\u00fd reli\u00e9f v bazilice sv. Petra nad olt\u00e1\u0159em Lva I. (Fuga d'Attila), kter\u00fd p\u0159edstavuje setk\u00e1n\u00ed tohoto pape\u017ee s Attilou, b\u011bhem n\u011bj\u017e pape\u017e Attilu p\u0159emlouv\u00e1, aby upustil od dobyt\u00ed \u0158\u00edma. Reli\u00e9f dokon\u010dil roku 1653, kr\u00e1tce p\u0159ed smrt\u00ed. V \u0158\u00edm\u011b lze nal\u00e9zt tak\u00e9 i jeho sochu sv. Filipa Neriho v chr\u00e1mu Santa Maria in Vallicella (1640), nebo olt\u00e1\u0159 chr\u00e1mu ."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro ALGARDI (Bolonjo, 31a de julio 1595 - Romo, 10a de junio 1654) estis itala skulptisto de la malfrua baroko, aktiva preska\u016d nur en Romo, kie dum la lastaj jardekoj de sia vivo, estis la \u0109efa rivalo de Gian Lorenzo Bernini. Li faris poste la tombon de la papo Leono la 11-a (1640-1644), imitante tiun de la papo Urbano la 8-a fare de Bernini (1627-8). Li estis anka\u016d a\u016dtoro de la fama reliefo La forpelo de Atilo, majstroverko de la Baroko."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Alessandro Algardi (Bolonha, 31 de julho de 1598 \u2014 Roma, 10 de junho de 1654) foi um escultor, desenhista e arquiteto romano. As fontes divergem no que concerne a data de seu nascimento, havendo quem diga que nasceu a 27 de novembro de 1595 ou at\u00e9 mesmo no ano de 1602. Tornou-se conhecido por obras como o monumento ao Papa Le\u00e3o XI e o alto-relevo A Fuga de \u00c1tila, no Vaticano; a est\u00e1tua de bronze de Inoc\u00eancio X, no Palazzo dei Conservatori; a est\u00e1tua de S\u00e3o Filipe Neri com o Anjo; as figuras da Fonte de Netuno, e a tumba do Conde e da Condessa de Monterrey."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Alessandro Algardi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\nAlessandro_algardi,_busto_di_maurizio_frangipane.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\nAlessandro_algardi,_ritratto_di_olimpio_pamphili.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\nCamillo_Pamphili.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\nDa_alessandro_algardi,_papa_innocenzo_X,_met\u00e0_del_17mo_secolo.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\nGasparoMolo.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Alessandro_algardi,_il_cardinale_paolo_emilio_zacchia,_1650_ca..jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Alessandro_algardi,_ritratto_d'uomo_01.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Algardi_Leo_XI.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Expuls\u00e3o_de_\u00e1tila.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Inoc\u00eancio_X_de_alessandro_algardi.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Bologna"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Rome"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/Rome"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "1654-06-10"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Bologna"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1598-07-31"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:17th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_Baroque_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1654_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1598_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Bologna"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "1642"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1124534644"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardinal_(Catholicism)"
     },
     {
         "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rome"
+        "object": "http://dbpedia.org/resource/Carlo_Maratta"
     },
     {
         "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Palace_of_Aranjuez"
+        "object": "http://dbpedia.org/resource/Roccasecca_dei_Volsci"
     },
     {
         "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Santa_Maria_Maggiore"
+        "object": "http://dbpedia.org/resource/Sant'Anastasia"
     },
     {
         "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Santa_Maria_del_Popolo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Santa_Maria_in_Vallicella"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/San_Nicola_da_Tolentino,_Rome"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/San_Paolo,_Bologna"
+        "object": "http://dbpedia.org/resource/Sant'Eusebio"
     },
     {
         "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
@@ -497,6 +32,471 @@
     {
         "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bologna"
+        "object": "http://dbpedia.org/resource/Valencia,_Spain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vincenzo_Giustiniani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Virgil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1676_Papal_conclave"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1620_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massimo_family"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christina_of_Sweden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Duquesnoy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosimo_Fancelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:17th-century_Italian_cardinals"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Apostolic_Camera"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_art_patrons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alessandro_Algardi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florida_International_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francesco_Fontana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicolas_Poussin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1677_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Latin_Patriarchs_of_Jerusalem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_art_collectors"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Titular_bishop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diego_Vel\u00e1zquez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apostolic_Nuncio_to_Spain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philip_IV_of_Spain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pope_Clement_IX"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pope_Clement_X"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Lorrain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apostolic_Chamber"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catholic-Hierarchy.org"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wikipedia:SPS"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latin_Patriarch_of_Jerusalem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S._Maria_in_Domnica"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apostolic_Nuncio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_Sapienza_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Carlo_al_Corso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Carlo_alle_Quattro_Fontane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sant'Andrea_della_Valle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santa_Maria_in_Trastevere"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barnabites"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baroque"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Commodi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Titular_churches"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Gherardi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Baroque_architecture_in_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hyacinthe_Sigismond_Gerdil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mattia_Preti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Lanfranco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Sacchi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Roman_Catholic_churches_completed_in_1638"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Febronia_of_Nisibis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1638_establishments_in_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Battista_Soria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Domenico_Cerrini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Giacomo_Semenza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alessandro_Algardi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palazzo_Chigi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Church_(building)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Churches_of_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Churches_of_Rome_(rione_Sant'Eustachio)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Relic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guido_Reni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:17th-century_Roman_Catholic_church_buildings_in_Italy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Borromeo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Titular_church"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Translation_(relic)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diocese_of_Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Domenichino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pietro_da_Cortona"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Blaise"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martino_Longhi_the_Younger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giacinto_Brandi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giacinto_Gimignani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giambattista_Leni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Rite"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sacristy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovan_Francesco_Romanelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cavalier_D'Arpino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Annunciazione_-_Lanfranco_(Catinari).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlo_Grano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Casimiro_Gennari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santa_Maria_in_Via_Lata"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedictine_Congregation_of_Cluny"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_de_la_Grange"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baroque_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bas-relief"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Giustiniani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Titular_churches"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Raggi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Alessandro_Algardi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_da_Sangallo_the_Younger"
     }
 ]

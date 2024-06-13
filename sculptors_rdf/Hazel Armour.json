@@ -1,372 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Hazel Armour"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Hazel Ruthven Armour (15 October 1894 \u2014 1985) was a Scottish sculptor and medalist."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Hazel Ruthven Armour"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Hazel Ruthven Armour"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/The_Scottish_National_War_Memorial_(15536912494).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "Aldeburgh, Suffolk, England"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "Edinburgh, Scotland"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1894-10-15"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Scottish_women_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1985_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1894_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Edinburgh_College_of_Art"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Edinburgh"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Scottish_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "49681579"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1078790300"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cartographer"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Scottish_women_sculptors"
+        "object": "http://dbpedia.org/resource/Cassandra_Austen"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Academy"
+        "object": "http://dbpedia.org/resource/Ben_Avram"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Scottish_National_Gallery_of_Modern_Art"
+        "object": "http://dbpedia.org/resource/Rodolfo_Amoedo"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Alice_Meredith_Williams"
+        "object": "http://dbpedia.org/resource/Rosemary_Allan"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Paul_Scofield"
+        "object": "http://dbpedia.org/resource/Rowena_Meeks_Abdy"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1985_deaths"
+        "object": "http://dbpedia.org/resource/Sarah_Gough_Adamson"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Scottish_Women's_Hospital_at_Royaumont"
+        "object": "http://dbpedia.org/resource/Michael_Andrews_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Eric_Newton_(art_critic)"
+        "object": "http://dbpedia.org/resource/Modernism"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1894_births"
+        "object": "http://dbpedia.org/resource/Persian_miniature"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+        "object": "http://dbpedia.org/resource/Basuki_Abdullah"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Edinburgh_College_of_Art"
+        "object": "http://dbpedia.org/resource/David_Annand"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Edinburgh"
+        "object": "http://dbpedia.org/resource/Alfred_L._Copley"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Scottish_National_War_Memorial"
+        "object": "http://dbpedia.org/resource/Andreas_Achenbach"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Edinburgh_College_of_Art"
+        "object": "http://dbpedia.org/resource/Andrew_Allan_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Edith_Evans"
+        "object": "http://dbpedia.org/resource/Anna_Maria_Barbara_Abesch"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Glasgow_Institute_of_the_Fine_Arts"
+        "object": "http://dbpedia.org/resource/Anthony_Angarola"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Scottish_Academy"
+        "object": "http://dbpedia.org/resource/Anton_A\u017ebe"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Scottish_women_artists"
+        "object": "http://dbpedia.org/resource/Arent_Arentsz"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Phyllis_Bone"
+        "object": "http://dbpedia.org/resource/Josef_Albers"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Society_of_Scottish_Artists"
+        "object": "http://dbpedia.org/resource/Pedro_\u00c1lvarez_Castell\u00f3"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:The_Scottish_National_War_Memorial_(15536912494).jpg"
+        "object": "http://dbpedia.org/resource/Peggy_Angus"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/96005662"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9_Auberjonois_(painter)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Hazel_Armour"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Artschwager"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q23581104"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rick_Amor"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/2EF1P"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rita_Angus"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Adamson_(photographer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Birth_date"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ukiyo-e"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Allan_(painter)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calligrapher"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dutch_Golden_Age"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacopo_Amigoni"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_British_English"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques-Laurent_Agasse"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_Asselijn"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Death_year_and_age"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_Ludwig_Aberli"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/The_Scottish_National_War_Memorial_(15536912494).jpg?width=300"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Alexander_(painter)"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/birthDate",
-        "object": "1894-10-15"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Armleder"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/education",
-        "object": "http://dbpedia.org/resource/Edinburgh_College_of_Art"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Brown_Abercromby"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/property/knownFor",
-        "object": "Sculptor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Anquetin"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Hazel Ruthven Armour (15 October 1894 \u2014 1985) was a Scottish sculptor and medalist."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Niccol\u00f2_dell'Abbate"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://schema.org/sameAs",
-        "object": "http://viaf.org/viaf/96005662"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikolai_Astrup"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Hazel_Armour?oldid=1078790300&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margareta_Alstr\u00f6mer"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "5681"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikol\u00e1\u0161_Ale\u0161"
     },
     {
         "subject": "http://dbpedia.org/resource/Hazel_Armour",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Hazel_Armour"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vilmos_Aba-Nov\u00e1k"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Weir_Allan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Constantine_Andreou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosmo_Alexander"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/An_Gyeon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/An_Zhengwen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Abrahams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chiho_Aoshima"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaston_Anglade"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg_Arnold-Grabon\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Aleef"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikolaj_Abraham_Abildgaard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scenographer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9tienne_Aubry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_painters_by_name"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christoph_Ludwig_Agricola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Avedisian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edwin_Austin_Abbey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eileen_Aldridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elinor_Proby_Adams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Else_Alfelt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emma_Andijewska"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Auerbach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fyodor_Alekseyev"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/F\u00e9lix_Arauz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Ault"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gertrude_Abercrombie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Arcimboldo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nadir_Afonso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cristofano_Allori"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eric_Auld"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ras_Akyem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ornithology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Otto_Abt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Ancher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antiquarian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apelles"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Accama"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lena_Alexander"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Appelbee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lizzy_Ansingh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Abb\u00e9ma"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slovenes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stuckism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Ashbaugh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zvest_Apollonio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_von_Amerling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horst_Antes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Macdonald_Aiken"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis-Fran\u00e7ois_Aubry"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nikola_Avramov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pieter_Aertsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Surrealism"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Ancher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avigdor_Arikha"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Hazel_Armour",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ay-O"
     }
 ]

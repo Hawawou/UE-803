@@ -1,268 +1,423 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Silvio Apponyi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Silvio Apponyi OAM (born 4 July 1949) is an Australian sculptor based in the Adelaide Hills in South Australia, who focuses primarily on Animalier."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Bavaria"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Germany"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Bavaria"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Germany"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1949-07-04"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1949_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:German_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:German_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Australian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Australian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Medal_of_the_Order_of_Australia"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "47427470"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1020307839"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caroline_McMillen"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/North_Adelaide_School_of_Arts"
+        "object": "http://dbpedia.org/resource/Queen's_Official_Birthday"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/2020_Queen's_Birthday_Honours_(Australia)"
+        "object": "http://dbpedia.org/resource/Robert_Redlich"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bavaria"
+        "object": "http://dbpedia.org/resource/Robyn_Nevin"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Animalier"
+        "object": "http://dbpedia.org/resource/Ron_Boswell"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Apponyi_family"
+        "object": "http://dbpedia.org/resource/Ron_Manners"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "object": "http://dbpedia.org/resource/Roy_MacLeod"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1949_births"
+        "object": "http://dbpedia.org/resource/Sarah_Medland"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Sarah_Sharkey"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/German_Academic_Exchange_Service"
+        "object": "http://dbpedia.org/resource/Belinda_Hutchinson"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Germany"
+        "object": "http://dbpedia.org/resource/David_Hurley"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Granite_Island_(South_Australia)"
+        "object": "http://dbpedia.org/resource/Denis_Napthine"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Munich"
+        "object": "http://dbpedia.org/resource/Denise_Goldsworthy"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Malaysia"
+        "object": "http://dbpedia.org/resource/Denver_Beanland"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Balhannah"
+        "object": "http://dbpedia.org/resource/Andrew_Jaspan"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:German_male_sculptors"
+        "object": "http://dbpedia.org/resource/John_Vogels"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:German_sculptors"
+        "object": "http://dbpedia.org/resource/Jonathan_Mead"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Australian_sculptors"
+        "object": "http://dbpedia.org/resource/Julie_Fitzgerald"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Adelaide"
+        "object": "http://dbpedia.org/resource/Paul_Zammit"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Adelaide_Hills"
+        "object": "http://dbpedia.org/resource/Peta_Edebone"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Dachau,_Bavaria"
+        "object": "http://dbpedia.org/resource/Renita_Farrell"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Wood_carving"
+        "object": "http://dbpedia.org/resource/Vincent_Namatjira"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Australian_sculptors"
+        "object": "http://dbpedia.org/resource/Jan_Sardi"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Medal_of_the_Order_of_Australia"
+        "object": "http://dbpedia.org/resource/Category:2020_awards"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Academy_of_Fine_Arts,_Munich"
+        "object": "http://dbpedia.org/resource/Scott_Pape"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/South_Australia"
+        "object": "http://dbpedia.org/resource/Elizabeth_II"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Joyce_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Howarth_(public_servant)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Governor-General_of_Australia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graham_Richardson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Nakata"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Orders,_decorations,_and_medals_of_Australia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucy_Guerin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyn_Larsen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silvio_Apponyi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Mordant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Stuart_(Australian_Army)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Strathfield_Girls_High_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commonwealth_realm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvonne_Audette"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_J._Sullivan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Applegarth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bronwyn_Bishop"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Chapman_(Australian_economist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Scott_(Australian_politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cathy_Foley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aileen_MacDonald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Abbott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Windsor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tottie_Goldsmith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warren_McDonald_(RAAF_officer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aaron_Kearney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Ferguson_(politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nici_Cumpston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Noel_Padgham-Purich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgina_Long"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rebecca_Johnson_(geneticist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhondda_Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gretel_Packer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jane_Aagaard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tamara_Davis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2020_awards_in_Australia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Della_Bosca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kay_Setches"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kaye_Basford"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keith_Jamieson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawrence_Springborg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birthday_Honours"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_Kenny"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Herb_Wharton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arron_Wood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcello_Costa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcia_Langton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Opitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philip_Ruddock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugh_Hiscutt"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Innes_Willox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Clarke_(cricketer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mike_Bailey_(weatherman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mike_Baird"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mike_Carlton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mike_Pezzullo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naomi_Milgrom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naomi_Wilson"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
@@ -272,181 +427,76 @@
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Woodville_High_School"
+        "object": "http://dbpedia.org/resource/Sean_Dorney"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Woodblock_printing_in_Japan"
+        "object": "http://dbpedia.org/resource/Lyn_Breuer"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Munich_Academy"
+        "object": "http://dbpedia.org/resource/Ian_Harper"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q20810428"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vera_Deacon"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://arz.dbpedia.org/resource/\u0633\u064a\u0644\u0641\u064a\u0648_\u0627\u0628\u0648\u0646\u0649"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patsy_Yates"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/yNGB"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shane_Marshall"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/93361390"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Tregear"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Silvio_Apponyi"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perry_Francis_Bartlett"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:AUS_Order_of_Australia_(civil)_BAR.svg"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:AUS_Order_of_Australia_(military)_BAR.svg"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Post-nominals"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:PSM_Australia_ribbon.png"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:DSM_(Australia)_ribbon.png"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:APM_Australia_ribbon.png"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:URL"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:AFSM_Australia_ribbon.png"
     },
     {
         "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_Australian_English"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/almaMater",
-        "object": "Academy of Fine Arts, Munich, SA School of Art"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/birthDate",
-        "object": "1949-07-04"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/birthName",
-        "object": "Albert Silvio Apponyi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/children",
-        "object": "4"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/nationality",
-        "object": "Australian"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/notableWorks",
-        "object": "Whale Tail, Bob the Railway Dog, Flame of Learning, Memories in a Suitcase"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/occupation",
-        "object": "Sculptor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/spouse",
-        "object": "Natalija Apponyi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/property/yearsactive",
-        "object": "1969"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Silvio Apponyi OAM (born 4 July 1949) is an Australian sculptor based in the Adelaide Hills in South Australia, who focuses primarily on Animalier."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://schema.org/sameAs",
-        "object": "http://viaf.org/viaf/93361390"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Silvio_Apponyi?oldid=1020307839&ns=0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "8760"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
-        "object": "1969"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/birthName",
-        "object": "Albert Silvio Apponyi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/birthYear",
-        "object": "1949"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/almaMater",
-        "object": "http://dbpedia.org/resource/Academy_of_Fine_Arts,_Munich"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://dbpedia.org/ontology/occupation",
-        "object": "http://dbpedia.org/resource/Silvio_Apponyi__PersonFunction__1"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Silvio_Apponyi",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Silvio_Apponyi"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:ASM_Australia_ribbon.svg"
     }
 ]

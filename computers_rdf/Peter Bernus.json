@@ -1,283 +1,123 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAustralianAcademics"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAustralianComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Academician109759069"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Educator110045713"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Professional110480253"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatHungarianComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Peter Bernus"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Peter Bernus (born 1949) is a Hungarian Australian scientist and Associate Professor of Enterprise Architecture at the School of Information and Communication Technology, Griffith University, Brisbane, Australia."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1949_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Budapest_University_of_Technology_and_Economics_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Hungarian_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Australian_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Griffith_University_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Enterprise_modelling_experts"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Queensland_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "21026698"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1035709666"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_data_interchange"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Enterprise_integration"
+        "object": "http://dbpedia.org/resource/Enterprise_Integration_Patterns"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Hungarian_Academy_of_Sciences"
+        "object": "http://dbpedia.org/resource/Enterprise_engineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Queensland"
+        "object": "http://dbpedia.org/resource/Enterprise_modelling"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/International_Federation_of_Automatic_Control"
+        "object": "http://dbpedia.org/resource/Peter_Bernus"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1949_births"
+        "object": "http://dbpedia.org/resource/Architecture_of_Integrated_Information_Systems"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Architecture_of_Interoperable_Information_Systems"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Budapest_University_of_Technology_and_Economics_alumni"
+        "object": "http://dbpedia.org/resource/Business_process_reengineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Hungarian_computer_scientists"
+        "object": "http://dbpedia.org/resource/Canonical_Model"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Enterprise_Integration"
+        "object": "http://dbpedia.org/resource/Information_integration"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Purdue_Enterprise_Reference_Architecture"
+        "object": "http://dbpedia.org/resource/Integration_Consortium"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Systems_engineering"
+        "object": "http://dbpedia.org/resource/Kurt_Kosanke"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mark_S._Fox"
+        "object": "http://dbpedia.org/resource/Generalised_Enterprise_Reference_Architecture_and_Methodology"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Australian_computer_scientists"
+        "object": "http://dbpedia.org/resource/Enterprise_application_integration"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Griffith_University_faculty"
+        "object": "http://dbpedia.org/resource/Enterprise_architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/James_G._Nell"
+        "object": "http://dbpedia.org/resource/Concurrent_engineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Enterprise_modelling_experts"
+        "object": "http://dbpedia.org/resource/Computer-integrated_manufacturing"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Enterprise_Architecture"
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Vernadat"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Enterprise_Engineering"
+        "object": "http://dbpedia.org/resource/Data_integration"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Enterprise_Life_Cycle"
+        "object": "http://dbpedia.org/resource/Distributed_computing"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Enterprise_Modelling"
+        "object": "http://dbpedia.org/resource/AMICE_Consortium"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Griffith_University"
+        "object": "http://dbpedia.org/resource/Enterprise_Information_Integration"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Queensland_faculty"
+        "object": "http://dbpedia.org/resource/Category:Enterprise_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Enterprise_modelling"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
@@ -287,156 +127,376 @@
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Theodore_J._Williams"
+        "object": "http://dbpedia.org/resource/Enterprise_modeling"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Guy_Doumeingts"
+        "object": "http://dbpedia.org/resource/National_Institute_of_Standards_and_Technology"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/GERAM"
+        "object": "http://dbpedia.org/resource/Semantic_unification"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/GRAI/GIM"
+        "object": "http://dbpedia.org/resource/Workflow"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/EA_Framework"
+        "object": "http://dbpedia.org/resource/Configuration_Management"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/International_Federation_of_Information_Processing"
+        "object": "http://dbpedia.org/resource/Semantic_integration"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Budapest_Technical_University"
+        "object": "http://dbpedia.org/resource/Semantic_Unification"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.griffith.edu.au/engineering-information-technology/school-information-communication-technology/staff/associate-professor-peter-bernus"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_process_modelling"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://www.cit.gu.edu.au/~bernus/"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Nell"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.05b0blq"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Concept_of_Enterprise_Integration.png"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/74022668"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Evolution_in_Enterprise_Integration.gif"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Peter_Bernus"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:GERAM_Framework.jpg"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://d-nb.info/gnd/120192640"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:NBC_Enterprise_Integration.gif"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://dblp.org/pid/83/5972"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_architecture_planning"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://orcid.org/0000-0001-5371-8743"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_engineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q7172800"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_integration"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://data.bibliotheken.nl/id/thes/p073181668"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Operational_View"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4tNFv"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Bernus"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Information_security_management"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Main"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Organizational_life_cycle"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Vernadat"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_Australian_English"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Synchronization"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Systems_engineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Wikiquote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Technology"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Peter Bernus (born 1949) is a Hungarian Australian scientist and Associate Professor of Enterprise Architecture at the School of Information and Communication Technology, Griffith University, Brisbane, Australia."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Technology_life_cycle"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://purl.org/linguistics/gold/hypernym",
-        "object": "http://dbpedia.org/resource/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://schema.org/sameAs",
-        "object": "http://viaf.org/viaf/74022668"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Disposition"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Peter_Bernus?oldid=1035709666&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whole-life_cost"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "8489"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_Architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Bernus",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Peter_Bernus"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Return_on_investment"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Enterprise_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_process"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Software_maintenance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_modeling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Information_technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Service-oriented_modeling"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Product_lifecycle_management"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Systems_development_life_cycle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Human_capital_management"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Product_life_cycle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Software_lifecycle_processes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:DoD_Architecture_Life_Cycle.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Enterprise_Architecture_Process.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Enterprise_Life_Cycle.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Enterprise_Life_Cycle_activities.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Enterprise_Performance_Life_Cycle.jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wikt:disposal"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calculator"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Sassenrath"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carroll_Morgan_(computer_scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cascading_Style_Sheets"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Case-based_reasoning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poul-Henning_Kamp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Process_mining"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Program_optimization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programmer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prolog"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punched_card"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Python_(programming_language)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quantum_mechanics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/QuickCheck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sedgewick_(computer_scientist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sproull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tappan_Morris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Tarjan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_W._Floyd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Ierusalimschy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roberto_Pieraccini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Milner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robotics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Canion"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Hui"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Peter_Bernus",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Moore_(computer_scientist)"
     }
 ]

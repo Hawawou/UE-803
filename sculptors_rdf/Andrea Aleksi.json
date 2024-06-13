@@ -1,47 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Andrea Aleksi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "47204685"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "670847799"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quentin_Matsys"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Andrea_Alessi"
+        "object": "http://dbpedia.org/resource/Royal_Museums_of_Fine_Arts_of_Belgium"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
-        "object": "http://dbpedia.org/resource/Andrea_Alessi"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Lorenzo,_Florence"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:R_from_move"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandro_Botticelli"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Andrea_Aleksi?oldid=670847799&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santa_Maria_Novella"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "43"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enguerrand_Quarton"
     },
     {
         "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Andrea_Aleksi"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melun_Diptych"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mughal_painting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mythology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portrait_miniature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melencolia_I"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Convent_of_San_Marco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Western_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baroque"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basilica_of_San_Francesco,_Arezzo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benozzo_Gozzoli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_(Michelangelo)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Schiavone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hubert_van_Eyck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biagio_d'Antonio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renaissance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renaissance_literature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renaissance_music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Republic_of_Florence"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uffizi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vittore_Carpaccio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/De_pictura"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/De_re_aedificatoria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Domenico_Veneziano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacobus_de_Voragine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacopo_Bellini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_Daret"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lorenzo_Lotto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicola_Pisano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stained_glass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Ambassadors_(Holbein)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Life_of_Christ_in_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Limbourg_brothers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Werl_Triptych"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proportion_(architecture)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northern_Renaissance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosimo_Rosselli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosimo_de'_Medici"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Masaccio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Medici_Bank"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Jerome_in_the_Wilderness_(Leonardo)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chiaroscuro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geertgen_tot_Sint_Jans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Low_Countries"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oil_paint"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_History_of_the_True_Cross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sistine_Madonna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Campin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cimabue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Classical_literature"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/El_Greco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Clouet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gem\u00e4ldegalerie,_Berlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerard_David"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giorgio_Vasari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giorgio_da_Sebenico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giorgione"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giotto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Bellini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gothic_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graphic_arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brancacci_Chapel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mona_Lisa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museo_del_Prado"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conrad_Faber_von_Kreuznach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crist\u00f3v\u00e3o_Lopes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crist\u00f3v\u00e3o_de_Figueiredo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crist\u00f3v\u00e3o_de_Morais"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Last_Judgment_(Michelangelo)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Last_Supper_(Leonardo)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Equestrian_Portrait_of_Charles_V"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Schongauer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oriental_carpets_in_Renaissance_painting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ornament_(architecture)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Mantegna"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Solari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_del_Castagno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_del_Verrocchio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonello_da_Messina"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_da_Correggio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_del_Pollaiuolo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Renaissance"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battle_of_San_Romano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernardino_de'_Conti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Battista_Alberti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonardo_da_Vinci"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Aleksi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lorenzo_Ghiberti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louvre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Luca_Signorelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucas_Cranach_the_Elder"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madrid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siena"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Andrea_Aleksi",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sistine_Chapel"
     }
 ]

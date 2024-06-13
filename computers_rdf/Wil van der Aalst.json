@@ -1,348 +1,48 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromEersel"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ResearchWorker110523076"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatInformationSystemsResearchers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Theorist110706812"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchBusinessTheorists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDutchComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Wil van der Aalst"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Wil van der Aalst"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Wil van der Aalst"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Wil van der Aalst"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Wil van der Aalst"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Willibrordus Martinus Pancratius van der Aalst (n\u00e9 le 29 janvier 1966) est un informaticien n\u00e9erlandais et professeur titulaire \u00e0 la RWTH Aachen University, \u00e0 la t\u00eate du groupe Process and Data Science (PADS). Ses int\u00e9r\u00eats de recherche et d'enseignement comprennent les syst\u00e8mes d'information, la gestion des flux de travail, les r\u00e9seaux de Petri, l'exploration de processus, les langages de sp\u00e9cification et la simulation. Il est \u00e9galement connu pour ses travaux sur les mod\u00e8les de flux de travail."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Willibrordus Martinus Pancratius van der Aalst (born 29 January 1966) is a Dutch computer scientist and full professor at RWTH Aachen University, leading the Process and Data Science (PADS) group. His research and teaching interests include information systems, workflow management, Petri nets, process mining, specification languages, and simulation. He is also known for his work on workflow patterns."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Willibrordus Martinus Pancratius \u201eWil\u201c van der Aalst (Eersel, 29 januari 1966) is een Nederlandse informaticus en universiteitshoogleraar aan de Technische Universiteit Eindhoven."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Wil van der Aalst (Eersel, 29 de janeiro de 1966) \u00e9 um cientista da computa\u00e7\u00e3o holand\u00eas. Seus interesses de pesquisa e ensino incluem sistemas de informa\u00e7\u00e3o, , redes de Petri, minera\u00e7\u00e3o de processos, e simula\u00e7\u00e3o. Ele tamb\u00e9m \u00e9 conhecido por seu trabalho em ."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Willibrordus Martinus Pancratius \u201eWil\u201c van der Aalst (* 29. Januar 1966 in Eersel) ist ein niederl\u00e4ndischer Informatiker, der sich mit Prozessmanagement befasst. Er ist seit dem 1. Januar 2018 Inhaber einer Alexander von Humboldt-Professur an der RWTH Aachen und Leiter der Process Mining Abteilung am Fraunhofer-Institut f\u00fcr Angewandte Informationstechnik FIT. Zuvor war er Professor an der Technischen Universit\u00e4t Eindhoven. Van der Aalst war Gastprofessor an dem Karlsruher Institut f\u00fcr Technologie (AIFB), der University of Georgia, und der University of Colorado Boulder."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Wil M.P. van der Aalst"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://xmlns.com/foaf/0.1/homepage",
-        "object": "http://www.padsweb.rwth-aachen.de/wvdaalst/"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Wil M.P. van der Aalst"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Wil_van_der_Aalst_and_the_process_mining_science,_2016.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Eersel"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/North_Brabant"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Eersel"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/North_Brabant"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1966-01-29"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Information_systems_researchers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Software_engineering_researchers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1966_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Dutch_computer_scientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Eindhoven_University_of_Technology_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Members_of_the_Royal_Netherlands_Academy_of_Arts_and_Sciences"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Enterprise_modelling_experts"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Eersel"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Queensland_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Eindhoven_University_of_Technology_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "22963487"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1098078104"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_van_Aalst"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Process_mining"
+        "object": "http://dbpedia.org/resource/Everard_Aalst"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Queensland_University_of_Technology"
+        "object": "http://dbpedia.org/resource/Wil_van_der_Aalst"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Netherlands_Academy_of_Arts_and_Sciences"
+        "object": "http://dbpedia.org/resource/Aalst,_Belgium"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aalst,_Buren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aalst,_North_Brabant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aalst,_Zaltbommel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aalst_(play)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_health_record"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
@@ -352,22 +52,22 @@
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Business_Process_Modeling_Notation"
+        "object": "http://dbpedia.org/resource/Business_Operations_Management"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Business_process_redesign"
+        "object": "http://dbpedia.org/resource/Business_process_intelligence"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Architecture_of_Integrated_Information_Systems"
+        "object": "http://dbpedia.org/resource/University_of_Padua"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Georgia"
+        "object": "http://dbpedia.org/resource/Business_Activity_Monitoring"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
@@ -377,126 +77,426 @@
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Business_Process_Management"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mathematics"
+        "object": "http://dbpedia.org/resource/Inductive_miner"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Information_systems_researchers"
+        "object": "http://dbpedia.org/resource/Intention_mining"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Software_engineering_researchers"
+        "object": "http://dbpedia.org/resource/Coursera"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Eersel"
+        "object": "http://dbpedia.org/resource/Eindhoven_University_of_Technology"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Google_Scholar"
+        "object": "http://dbpedia.org/resource/Conformance_checking"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Specification_language"
+        "object": "http://dbpedia.org/resource/Machine_Learning"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Technische_Universiteit_Eindhoven"
+        "object": "http://dbpedia.org/resource/Machine_learning"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1966_births"
+        "object": "http://dbpedia.org/resource/Petri_net"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Dutch_computer_scientists"
+        "object": "http://dbpedia.org/resource/Business_Process_Model_and_Notation"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Eindhoven_University_of_Technology_alumni"
+        "object": "http://dbpedia.org/resource/Activity_diagram"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Members_of_the_Royal_Netherlands_Academy_of_Arts_and_Sciences"
+        "object": "http://dbpedia.org/resource/Token-based_replay"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Business_Process_Execution_Language"
+        "object": "http://dbpedia.org/resource/Data_mining"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Web_service"
+        "object": "http://dbpedia.org/resource/Data_science"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/YAWL"
+        "object": "http://dbpedia.org/resource/Wil_van_der_Aalst"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Aarhus_University"
+        "object": "http://dbpedia.org/resource/Data_visualization"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Academia_Europaea"
+        "object": "http://dbpedia.org/resource/Alpha_algorithm"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Enterprise_modelling_experts"
+        "object": "http://dbpedia.org/resource/Category:Process_mining"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/North_Brabant"
+        "object": "http://dbpedia.org/resource/Prior_probability"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Eersel"
+        "object": "http://dbpedia.org/resource/Task_Force_on_Process_Mining"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kees_van_Hee"
+        "object": "http://dbpedia.org/resource/State_diagram"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Koninklijke_Hollandsche_Maatschappij_der_Wetenschappen"
+        "object": "http://dbpedia.org/resource/Artificial_intelligence"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Colorado_at_Boulder"
+        "object": "http://dbpedia.org/resource/Business_process_discovery"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Jaap_Wessels"
+        "object": "http://dbpedia.org/resource/Business_process_management"
     },
     {
         "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Queensland_faculty"
+        "object": "http://dbpedia.org/resource/Optimization"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Workflow"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Workflow_management_system"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Event-driven_process_chain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Process_analysis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Data_Science"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Workflow_management"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Streaming_conformance_checking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Workflow_Management_System"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sequence_mining"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mooc"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Organisational_mining"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Performance_analysis_in_process_mining"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Candace_A._Yano"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cary_Cooper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Owen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Reich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_S._Kaplan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Coase"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Fisher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosabeth_Moss_Kanter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Satisficing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scientific_management"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Patterson_(author)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_social_scientists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Gerber_(non-fiction_writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modigliani\u2013Miller_theorem"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Just_In_Time_(business)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Hermann_Stempf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_philosophy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Motivation_theory"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bodo_Abel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Jenks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Aaker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Dale"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_L._Hawk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ogilvy_(businessman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Teece"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ali_Akdemir"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anita_Jose"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Dubois"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoaneta_Vassileva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Business_theorists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Strati"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugo_Diemer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugo_M\u00fcnsterberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Human-computer_interaction"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_M._Juran"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Wharton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juan_Antonio_P\u00e9rez_L\u00f3pez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_Dixon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Per_Olof_Berg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perry_Marshall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Drucker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Principle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Cyert"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Koch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Allen_Phillips"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Dahlstrom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Wil_van_der_Aalst",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_I._Sutton"
     }
 ]

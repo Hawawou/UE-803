@@ -1,252 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Amber Aguirre"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Amber Aguirre (born 1958) is an American ceramic sculptor. She was born to Holocaust survivors.Aguirre received a BFA in ceramics from the University of Southern California in 1981, an MA in art education from San Jose State University in 1990, and a master of library and information science degree from San Jos\u00e9 State University in 1996.She currently lives and works in Kailua-Kona, Hawaii."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/'Disabled'_by_Amber_Aguirre,_2016,_Honolulu_Museum_of_Art.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1958_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_women_ceramists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_women_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_ceramists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Ceramists_from_Hawaii"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Modern_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Hawaii"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Southern_California_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:San_Jose_State_University_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "59631600"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1053286599"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cal_Poly_Pomona_College_of_Environmental_Design"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/San_Jose_State_University"
+        "object": "http://dbpedia.org/resource/Caleb_Deschanel"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Honolulu_Museum_of_Art"
+        "object": "http://dbpedia.org/resource/Caleb_Finch"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Southern_California"
+        "object": "http://dbpedia.org/resource/California_Highway_Patrol"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/California_Pizza_Kitchen"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1958_births"
+        "object": "http://dbpedia.org/resource/California_State_Assembly"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_artists"
+        "object": "http://dbpedia.org/resource/California_State_Senate"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:American_women_ceramists"
+        "object": "http://dbpedia.org/resource/California_State_Treasurer"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:American_women_sculptors"
+        "object": "http://dbpedia.org/resource/Calvin_Sweeney"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Hawaii_State_Art_Museum"
+        "object": "http://dbpedia.org/resource/Carlos_I._Noriega"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:'Disabled'_by_Amber_Aguirre,_2016,_Honolulu_Museum_of_Art.jpg"
+        "object": "http://dbpedia.org/resource/Carlos_Moorhead"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Raku_ware"
+        "object": "http://dbpedia.org/resource/Carolyn_Bourdeaux"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/The_Holocaust"
+        "object": "http://dbpedia.org/resource/Carson_Block"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_ceramists"
+        "object": "http://dbpedia.org/resource/Carson_Palmer"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Ceramists_from_Hawaii"
+        "object": "http://dbpedia.org/resource/Carter_Hartwig"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Modern_sculptors"
+        "object": "http://dbpedia.org/resource/Caruso_Affiliated"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Hawaii"
+        "object": "http://dbpedia.org/resource/Cary-Hiroyuki_Tagawa"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Southern_California_alumni"
+        "object": "http://dbpedia.org/resource/Cary_Harris"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:San_Jose_State_University_alumni"
+        "object": "http://dbpedia.org/resource/American_Basketball_Association_(2000\u2013present)"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kailua,_Hawaii_County,_Hawaii"
+        "object": "http://dbpedia.org/resource/Ami_Horowitz"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Benyamini_Contemporary_Ceramics_Center"
+        "object": "http://dbpedia.org/resource/Ben_Shedd"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/International_Ceramics_Studio"
+        "object": "http://dbpedia.org/resource/President_of_Egypt"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Kellogg_Art_Gallery"
+        "object": "http://dbpedia.org/resource/President_of_the_United_States"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q60548177"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Preston_Martin"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/9Qz53"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pretty_Little_Liars"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Price_Club"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:ISBN"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Japan"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pritzker_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pro_Football_Hall_of_Fame"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/'Disabled'_by_Amber_Aguirre,_2016,_Honolulu_Museum_of_Art.jpg?width=300"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_Storage"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Amber Aguirre (born 1958) is an American ceramic sculptor. She was born to Holocaust survivors.Aguirre received a BFA in ceramics from the University of Southern California in 1981, an MA in art education from San Jose State University in 1990, and a master of library and information science degree from San Jos\u00e9 State University in 1996.She currently lives and works in Kailua-Kona, Hawaii. She is best known for creating human and anthropomorphic figures with a surface created by a technique of her own invention, which she calls \"naked fauxku\". By employing a high fire, oxygenated atmosphere without reduction, a surface similar to naked raku is produced. Disabled, in the collection of the Honolulu Museum of Art, portrays a seated nude female figure with an anvil in place of her left foot. It was created shortly after the artist underwent surgery on her ankle. This porcelain sculpture demonstrates the surface typical of Aguirre's work as well as her sculpture's whimsy. The (Tel Aviv, Israel), the Hawaii State Art Museum, the Honolulu Museum of Art, the (Kecscemet, Hungary), and the (Cal Poly University, Pomona, California) are among the public collections holding works by Amber Aguirre."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Amber_Aguirre?oldid=1053286599&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Putnam_County,_New_York"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "2921"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Qualcomm"
     },
     {
         "subject": "http://dbpedia.org/resource/Amber_Aguirre",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Amber_Aguirre"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quentin_Kaw\u0101nanakoa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quincy_Watts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_M._Fomon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_M._Gray"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_McNeish"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mitchum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Mitsuhiro_Takasugi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_O._Work"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Rodat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Sarzo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Scheer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Stack"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Stock_(baseball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Vaughn"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Yeoman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Zemeckis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Bain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Corsiglia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robyn_Troup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rocky_Mountain_spotted_fever"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rocky_Seto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Dedeaux"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Martin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Sherman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodney_Peete"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Joseph_Manning_Jr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Fairly"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Flores"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Gans"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Howard"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Mix"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Underwood"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_W._Miller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Yary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Ziegler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Barak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Lam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Reagan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Tutor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronda_Rousey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Chan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronnie_Lott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosalind_Wiener_Wyman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Thomas_(actor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rowing_(sport)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Cochran"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Foster_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Hampton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Saari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rozzi_Crane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolph_B._Davila"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Bukich"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Anno"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Baker_(offensive_tackle)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Cunningham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Peckinpah"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sammy_Knight"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sammy_Lee_(diver)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Antonio_Spurs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Chargers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Finan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Tsing_Loh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandro_Corsaro"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanford_Diller"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santa_Clara_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Amber_Aguirre",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Gilman"
     }
 ]

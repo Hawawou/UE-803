@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Product_(business)"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scientific_modelling"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Engineering_management"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_architecture_framework"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_engineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_integration"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_life_cycle"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entity-relationship_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanAcademics"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_area"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SSADM"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanInformationTheorists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Architecture_of_Integrated_Information_Systems"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Zachman"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfChineseDescent"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Chen"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfTaiwaneseDescent"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DYA_framework"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_process_reengineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Design_&_Engineering_Methodology_for_Organizations"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Industry_(economics)"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Information_algebra"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Systems_analyst"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ontology_engineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Requirement"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatNationalTaiwanUniversityAlumni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complex_system"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Core_business"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Academician109759069"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Generalised_Enterprise_Reference_Architecture_and_Methodology"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geography"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_resource"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Object-modeling_technique"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Object-oriented_analysis_and_design"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Operations_management"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RM-ODP"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ulrich_Frank"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Educator110045713"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Co-operation"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Engineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_Data_Modeling"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Government"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Government_agency"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Naylor"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Organizational_structure"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Professional110480253"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Object-Oriented_Modeling"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ResearchWorker110523076"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TOGAF"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatHarvardUniversityAlumni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logic"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Company"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Complexity"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_hardware"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zachman_Framework"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Theorist110706812"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Vernadat"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Function_(engineering)"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatDatabaseResearchers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Function_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAssociationForTheAdvancementOfScience"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Data_flow_diagram"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAssociationForComputingMachinery"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paradigm"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromTaichung"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Purdue_Enterprise_Reference_Architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatTaiwaneseComputerScientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stakeholder_(corporate)"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatTaiwanesePeople"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Systems_engineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Peter Chen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Gruninger"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0628\u064a\u062a\u0631 \u062a\u0634\u0646 (\u0639\u0627\u0644\u0645)"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reference_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Peter Chen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Software_engineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Peter Chen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Peter Chen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_Process_Model_and_Notation"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30d4\u30fc\u30bf\u30fc\u30fb\u30c1\u30a7\u30f3"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_operations"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\ud53c\ud130 \uccb8"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CODASYL"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Peter Chen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Activity_diagram"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0427\u0435\u043d, \u041f\u0438\u0442\u0435\u0440"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Data_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u9648\u54c1\u5c71"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Data_modeling"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0628\u064a\u062a\u0631 \u062a\u0634\u0646 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Peter Chen)\u200f (\u0648. 1947 \u0645) \u0647\u0648 \u0639\u0627\u0644\u0645 \u062d\u0627\u0633\u0648\u0628\u060c \u0648\u0645\u0647\u0646\u062f\u0633\u060c \u0648\u0623\u0633\u062a\u0627\u0630 \u062c\u0627\u0645\u0639\u064a \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a \u062a\u0627\u064a \u0634\u0627\u0646\u063a\u060c \u0647\u0648 \u0639\u0636\u0648\u064c \u0641\u064a \u0645\u0639\u0647\u062f \u0645\u0647\u0646\u062f\u0633\u064a \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0621 \u0648\u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0627\u062a\u060c \u0648\u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u0622\u062f\u0627\u0628\u060c \u0648\u0631\u0627\u0628\u0637\u0629 \u0645\u0643\u0627\u0626\u0646 \u0627\u0644\u062d\u0648\u0633\u0628\u0629."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Data_processing"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Peter Pin-Shan Chen, chinesisch: Chen Pin-Shan (chinesisch \u9673\u54c1\u5c71, Pinyin Ch\u00e9n P\u01d0nsh\u0101n, * 3. Januar 1947 in Taichung, Taiwan) ist ein taiwanischer Informatiker, der 1976 die Entity-Relationship-Modellierung (ER-Modell) f\u00fcr die Datenanalyse entwickelte. Mit seiner grafischen Darstellungsform der Daten und ihrer Beziehungen untereinander (seiner Chen-Notation) revolutionierte er die Datenmodellierung und \u00f6ffnete das Tor zur grafischen Softwareentwicklung. Chens ER-Modell ist heute in der Systemanalyse und im -design zentraler Bestandteil vieler Software-Entwicklungsmethoden, CASE-Tools und Data-Repositories."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GRAI_method"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "El Dr. Peter Pin-Shan Chen (en chino: Chen Pin-Shan, en chino tradicional, \u9673\u54c1\u5c71; pinyin, Ch\u00e9n P\u01d0nsh\u0101n, Taichung; 3 de enero de 1947) es un inform\u00e1tico te\u00f3rico estadounidense-taiwan\u00e9s creador del modelo entidad-relaci\u00f3n (modelo ER)."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Econometric"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Peter Pin-Shan Chen (Chinese: \u9673\u54c1\u5c71; born 3 January 1947) is a Taiwanese American computer scientist. He is a (retired) distinguished career scientist and faculty member at Carnegie Mellon University and Distinguished Chair Professor Emeritus at LSU. He is known for the development of the entity\u2013relationship model in 1976."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Business_terms"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Le professeur Peter Pin-Shan Chen, n\u00e9 le 3 janvier 1947, est g\u00e9n\u00e9ralement consid\u00e9r\u00e9 comme l'inventeur du mod\u00e8le entit\u00e9-association (mod\u00e8le EA), aussi appel\u00e9 mod\u00e8le entit\u00e9-relation et connu internationalement comme mod\u00e8le ER (Entity-Relationship). Dipl\u00f4m\u00e9 de l'universit\u00e9 nationale de Taiwan (bachelor en g\u00e9nie \u00e9lectrique, 1968), et de l'universit\u00e9 Harvard (doctorat en informatique et math\u00e9matiques appliqu\u00e9es, 1973), Peter Chen est titulaire du titre M. J. Foster Distinguished Chair Professor of Computer Science \u00e0 l\u2019universit\u00e9 d'\u00c9tat de Louisiane, \u00c9tats-Unis, depuis 1983."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Database"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30d4\u30fc\u30bf\u30fc\u30fb\u30d4\u30f3\u30b7\u30e3\u30f3\u30fb\u30c1\u30a7\u30f3\uff08Peter Pin-Shan Chen\u3001\u9673\u54c1\u5c71\u3001\u751f\u5e74\u6708\u65e5\u4e0d\u660e\uff09\u306f\u30a2\u30e1\u30ea\u30ab\u306e\u8a08\u7b97\u6a5f\u79d1\u5b66\u8005\u30021976\u5e74\u3001\u5b9f\u4f53\u95a2\u9023\u30e2\u30c7\u30eb\u3092\u958b\u767a\u3057\u305f\u3053\u3068\u3067\u77e5\u3089\u308c\u3066\u3044\u308b\u30022012\u5e74\u73fe\u5728\u306f\u30ab\u30fc\u30cd\u30ae\u30fc\u30e1\u30ed\u30f3\u5927\u5b66\u306b\u6240\u5c5e\u3002"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academia"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Peter Pin-Shan Chen (Chin\u00eas: \u9673\u54c1\u5c71; 3 de janeiro de 1947) \u00e9 um cientista da computa\u00e7\u00e3o nascido em Taiwan e Professor de ci\u00eancia da computa\u00e7\u00e3o na Louisiana State University, conhecido como criador do modelo entidade relacionamento."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parameter"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041f\u0435\u0442\u0435\u0440 \u041f\u0438\u043d-\u0428\u0435\u043d \u0427\u0435\u043d (\u0430\u043d\u0433\u043b. Peter Pin-Shan Chen, \u043a\u0438\u0442. \u0442\u0440\u0430\u0434. \u9673\u54c1\u5c71, \u043f\u0438\u043d\u044c\u0438\u043d\u044c Ch\u00e9n P\u01d0nsh\u0101n, \u043f\u0430\u043b\u043b. \u0427\u044d\u043d\u044c \u041f\u0438\u043d\u044c\u0448\u0430\u043d\u044c, \u0440\u043e\u0434.3 \u044f\u043d\u0432\u0430\u0440\u044f 1947) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0443\u0447\u0435\u043d\u044b\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438, \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0432\u0448\u0438\u0439 \u0432 1976 \u0433\u043e\u0434\u0443 ER-\u043c\u043e\u0434\u0435\u043b\u044c \u0434\u0430\u043d\u043d\u044b\u0445."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_Architecture"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u9648\u54c1\u5c71 \uff08\u82f1\u8a9e\uff1aPeter Pin-Shan Chen\uff0c1947\u5e741\u67083\u65e5\uff0d\uff09\uff0c\u662f\u5efa\u7acb\u5b9e\u4f53\u8054\u7cfb\u6a21\u578b\u7684\u96fb\u8166\u79d1\u5b78\u5bb6\u3002"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_Architecture_framework"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\ud53c\ud130 \uccb8 (Dr. Peter Pin-Shan Chen, \u9673\u54c1\u5c71, \ucc9c\ud540\uc0e8, 1947\ub144 1\uc6d4 3\uc77c~ )\uc740 \uc5d4\ud130\ud2f0 \uad00\uacc4 \ubaa8\ub378(ER \ubaa8\ub378)\uc758 \ucc3d\uc791\uc790\uc774\ub2e4. \uad6d\ub9bd\ub300\ub9cc\ub300\ud559(\uc804\uc790 \uacf5\ud559,1968), \ud558\ubc84\ub4dc \ub300\ud559(\ucef4\ud4e8\ud130 \uacfc\ud559/\uc751\uc6a9 \uc218\ud559,1973)\uc744 \uc878\uc5c5\ud558\uc600\ub2e4. 1983 \uc774\ud6c4 \ud53c\ud130\uccb8 \ubc15\uc0ac\ub294 \ub8e8\uc774\uc9c0\uc560\ub098 \uc8fc\ub9bd \ub300\ud559\uad50 \ucef4\ud4e8\ud130 \uacfc\ud559\uacfc\uc758 M. J. Foster Distinguished Chair \uad50\uc218\ub85c \uc788\ub2e4. ER \ubaa8\ub378\uc740 \ub9ce\uc740 \uc2dc\uc2a4\ud15c \ubd84\uc11d\uacfc \ub514\uc790\uc778 \ubc29\ubc95\ub860, \ucef4\ud4e8\ud130 \uc9c0\uc6d0 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1\ub3c4\uad6c, \uc800\uc7a5\uc18c \uc2dc\uc2a4\ud15c\uc758 \uae30\ucd08\ub85c \uc81c\uacf5\ub418\uc5c8\ub2e4. ER \ubaa8\ub378\uc740 IBM\uc758 \ub808\ud37c\uc9c0\ud1a0\ub9ac \ub9e4\ub2c8\uc800/MVS \uc640 DEC\uc758 CDD/Plus\uc758 \uae30\ucd08\uc774\ub2e4. \"\uc5d4\ud130\ud2f0-\uad00\uacc4 \ubaa8\ub378 (ER \ubaa8\ub378)\", \"\uc5d4\ud130\ud2f0-\uad00\uacc4 \ub2e4\uc774\uc5b4\uadf8\ub7a8 (ER Diagram)\"\uc774\ub780 \uc6a9\uc5b4\ub294 \uc628\ub77c\uc778 \uc0ac\uc804, \uc11c\uc801, \uae30\uc0ac, \uc6f9 \ud398\uc774\uc9c0, \uac15\uc758 \uc801\uc694, \uc0c1\uc5c5\uc801\uc778 \uc0c1\ud488 \uc548\ub0b4 \ucc45\uc790 \ub4f1\uc5d0 \ub110\ub9ac \uc0ac\uc6a9\ub418\uc5c8\ub2e4. \uc6d4\ub4dc \uc640\uc774\ub4dc \uc6f9\uc744 \ub9e4\uc6b0 \uc778\uae30\uc788\uac8c \ud55c \ud558\uc774\ud37c\ud14d\uc2a4\ud2b8 \uac1c\ub150\uc740 ER \ubaa8\ub378\uc758 \uc8fc\uc694\uac1c\ub150\uacfc \ub9e4\uc6b0 \uc720\uc0ac\ud558\ub2e4. \ud604\uc7ac,\ud53c\ud130 \uccb8 \ubc15\uc0ac\ub294 \uba87\uba87\uc758 \uc6d4\ub4dc\uc640\uc774\ub4dc \uc6f9 \ucee8\uc18c\uc2dc\uc5c4\uc758 XML \uc2e4\ubb34\ub2e8(W3C)\ub4e4\uc758 \ubc29\ubb38 \uc804\ubb38\uac00\ub85c\uc11c \uc5f0\uacb0\uad00\uacc4\ub97c \uc5f0\uad6c \uc870\uc0ac\ud558\uace0 \uc788\ub2e4."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_Life_Cycle"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Peter Chen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Knowledge_engineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Peter Chen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tertiary_sector_of_the_economy"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Taichung"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_B.T._Bell"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Taiwan"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Software_development_process"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Taichung"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Enterprise_modelling"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Taiwan"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Systems_engineering"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1947-01-03"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Law"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Taiwanese_educators"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/System"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1947_births"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Systems_analysis"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Economic_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Scientists_from_Taichung"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Douglas_T._Ross"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Software_engineering_researchers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/August-Wilhelm_Scheer"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_computer_scientists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Fellow_Members_of_the_IEEE"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_process"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Association_for_the_Advancement_of_Science"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_process_management"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Harvard_University_alumni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_process_modeling"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Louisiana_State_University_faculty"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_reference_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Carnegie_Mellon_University_faculty"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CIMOSA"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:National_Taiwan_University_alumni"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Software_development"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_Taiwanese_educators"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_Modelling_Methodology/Open_Distributed_Processing"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_people_of_Taiwanese_descent"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enterprise_model"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Data_modeling"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Information_systems"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Fellows_of_the_Association_for_Computing_Machinery"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Information_technology"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Members_of_the_European_Academy_of_Sciences_and_Arts"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natural_environment"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:MIT_Sloan_School_of_Management_faculty"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ontologies"
     },
     {
         "subject": "http://dbpedia.org/resource/Peter_Chen",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Database_researchers"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ontology_(information_science)"
     }
 ]

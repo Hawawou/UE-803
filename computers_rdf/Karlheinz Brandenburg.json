@@ -1,433 +1,268 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithElectricity"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromErlangen"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Academician109759069"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Educator110045713"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ElectricalEngineer110049017"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Inventor110214637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Professional110480253"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGermanAcademics"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGermanAudioEngineers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatGermanInventors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatElectricalEngineers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatEthnicGermanPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karlheinz Brandenburg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karlheinz Brandenburg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karlheinz Brandenburg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karlheinz Brandenburg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karlheinz Brandenburg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karlheinz Brandenburg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karlheinz Brandenburg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Karlheinz Brandenburg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0411\u0440\u0430\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433, \u041a\u0430\u0440\u043b\u0445\u0430\u0439\u043d\u0446"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karlheinz Brandenburg (Erlangen, Alemanya, 20 de juny de 1954) \u00e9s un enginyer de so que va contribuir al format de compressi\u00f3 d'\u00e0udio MPEG Audio Layer 3, m\u00e9s conegut com a MP3."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karlheinz Brandenburg (Erlangen, Alemania, 20 de junio de 1954) es un ingeniero de sonido que contribuy\u00f3 al formato de compresi\u00f3n de audio MPEG Audio Layer 3, m\u00e1s conocido como MP3."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karlheinz Brandenburg n\u00e9 le 20 juin 1954 est un ing\u00e9nieur allemand, connu pour \u00eatre un des inventeurs du format MP3."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karlheinz Brandenburg (ur. 20 czerwca 1954 w Erlangen) \u2013 niemiecki in\u017cynier d\u017awi\u0119ku, kt\u00f3ry (wraz z Ernstem Eberleinem, Heinzem Gerh\u00e4userem, Bernhardem Grillem, J\u00fcrgenem Herre i Haraldem Poppem) przyczyni\u0142 si\u0119 do wynalezienia formatu MP3 (MPEG Audio Layer 3)."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karlheinz Brandenburg (20 de junho de 1954) \u00e9 um pesquisador alem\u00e3o, conhecido por ser o \"precursor\" do MP3. Em 1989 apresentou sua tese de doutorado sobre o algoritmo OCF OCF (\u201c\u201d), que possuia v\u00e1rias caracter\u00edsticas do que viria a ser o MP3."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karlheinz Brandenburg (* 20. Juni 1954 in Erlangen) ist ein deutscher Elektrotechniker und Mathematiker. Gemeinsam mit Ernst Eberlein, Heinz Gerh\u00e4user (ehem. Institutsleiter des Fraunhofer IIS), Bernhard Grill, J\u00fcrgen Herre und Harald Popp (alle Fraunhofer IIS) und weiteren Kollegen entwickelte er das weit verbreitete mp3-Verfahren zur Audiodatenkompression. Er ist au\u00dferdem f\u00fcr seine grundlegenden Arbeiten im Bereich der Audiocodierung, der Wahrnehmungsmessung, der Wellenfeldsynthese und der Psychoakustik bekannt. Brandenburg erhielt f\u00fcr seine Arbeiten zahlreiche nationale und internationale Forschungspreise, Auszeichnungen und Ehrungen. Seit dem Jahr 2000 ist er Lehrstuhlinhaber f\u00fcr Elektronische Medientechnik an der Technischen Universit\u00e4t Ilmenau. Seit April 2020 betreut Karlheinz Brand"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karlheinz Brandenburg (born 20 June 1954) is a German electrical engineer and mathematician. Together with Ernst Eberlein, Heinz Gerh\u00e4user (former Institutes Director of Fraunhofer IIS), Bernhard Grill, J\u00fcrgen Herre and Harald Popp (all Fraunhofer IIS), he developed the widespread MP3 method for audio data compression. He is also known for his elementary work in the field of audio coding, the perception measurement, the wave field synthesis and psychoacoustics. Brandenburg has received numerous national and international research awards, prizes and honors for his work. Since 2000 he has been a professor of electronic media technology at the Technical University Ilmenau. Brandenburg was significantly involved in the founding of the Fraunhofer Institute for Digital Media Technology (IDMT) an"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Karlheinz Brandenburg (Erlangen, 20 juni 1954) is een Duitse elektrotechnicus en wiskundige. Samen met Gerhard Stoll , Yves-Fran\u00e7ois Dehery , Leon van de Kerkhof (Philips, Nederland) en James Johnston (AT&T, VS) ontwikkelde hij de wijdverbreide audiocompressie MPEG-1 Layer 3, beter bekend als mp3. Daarnaast is hij bekend om zijn grondleggende werk op het vlak van audiocodering, perceptiemeting, de en de psychoakoestiek. Brandenburg ontving voor zijn werkzaamheden talrijke nationale en internationale onderzoeksprijzen, onderscheidingen en vereringen. Sinds 2000 bekleedt hij de leerstoel voor elektronische mediatechniek aan de Technische Universiteit Ilmenau. Hij was essentieel bij de oprichting van het Fraunhofer-Institut f\u00fcr Digitale Medientechnologie, waarvan hi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041a\u0430\u0440\u043b\u0445\u0430\u0439\u043d\u0446 \u0411\u0440\u0430\u043d\u0434\u0435\u043d\u0431\u0443\u0440\u0433 (\u0440. 20 \u0438\u044e\u043d\u044f 1954) \u2014 \u043d\u0435\u043c\u0435\u0446\u043a\u0438\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440 \u0438 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a. \u0412\u043c\u0435\u0441\u0442\u0435 \u0441 \u042d\u0440\u043d\u0441\u0442\u043e\u043c \u042d\u0431\u0435\u0440\u043b\u044f\u0439\u043d\u043e\u043c, \u0425\u0430\u0439\u043d\u0446\u0435\u043c \u0413\u0435\u0440\u0445\u043e\u0439\u0437\u0435\u0440\u043e\u043c, \u0411\u0435\u0440\u043d\u0445\u0430\u0440\u0434\u043e\u043c \u0413\u0440\u0438\u043b\u0435\u043c, \u042e\u0440\u0433\u0435\u043d\u043e\u043c \u0425\u0435\u0440\u0440\u0435 \u0438 \u0425\u0430\u0440\u0430\u043b\u044c\u0434\u043e\u043c \u041f\u043e\u043f\u043f\u043e\u043c, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0448\u0438\u0440\u043e\u043a\u043e \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u043d\u044b\u0439 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c MP3 \u0434\u043b\u044f \u0441\u0436\u0430\u0442\u0438\u044f \u0430\u0443\u0434\u0438\u043e\u0434\u0430\u043d\u043d\u044b\u0445."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Karlheinz Brandenburg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Karlheinz Brandenburg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Karlheinz_Brandenburg_ks01.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Bavaria"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/West_Germany"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Erlangen"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Bavaria"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/West_Germany"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Erlangen"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1954-06-20"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1954_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Technische_Universit\u00e4t_Ilmenau_faculty"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_German_inventors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:German_audio_engineers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Erlangen-Nuremberg_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Erlangen"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "233781"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1121035760"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caja_M\u00e1gica"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bavaria"
+        "object": "http://dbpedia.org/resource/Programmer"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bell_Laboratories"
+        "object": "http://dbpedia.org/resource/Punta_del_Este"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Electrical_engineer"
+        "object": "http://dbpedia.org/resource/Roberto_Burioni"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Psychoacoustics"
+        "object": "http://dbpedia.org/resource/Roberto_Saviano"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1954_births"
+        "object": "http://dbpedia.org/resource/Robotics"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Rodney_Mullen"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mathematics"
+        "object": "http://dbpedia.org/resource/Rodolfo_Neri_Vela"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Technische_Universit\u00e4t_Ilmenau_faculty"
+        "object": "http://dbpedia.org/resource/Rond\u00f4nia"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Electrical_Engineering"
+        "object": "http://dbpedia.org/resource/San_Jos\u00e9,_Costa_Rica"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Fraunhofer_Society"
+        "object": "http://dbpedia.org/resource/San_Salvador"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anhembi_Parque"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2010_FIFA_World_Cup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2010_eruptions_of_Eyjafjallaj\u00f6kull"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belo_Horizonte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Hammersley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benalm\u00e1dena"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin_Tempelhof_Airport"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bienal_de_S\u00e3o_Paulo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blizzard_Entertainment"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogot\u00e1"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bras\u00edlia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brazil"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daymond_John"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jon_Hall_(programmer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juan_Carlos_Ferrero"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julien_Fourgeaud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricio_Lorente"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paulo_Coelho"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyberbullying"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ubuntu_(operating_system)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Nations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uruguay"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Utrecht"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valencia,_Spain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vint_Cerf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet_privacy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LAN_party"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recurring_events_established_in_1997"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colombia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coronavirus_disease_2019"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Creative_Commons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cris_Morena"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cristiano_Ronaldo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvador,_Bahia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Frenkel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/El_Salvador"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_Frontier_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellen_S._Baker"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enrico_Mentana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Hotz"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
@@ -437,66 +272,231 @@
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Murray_Hill,_New_Jersey"
+        "object": "http://dbpedia.org/resource/Ghana"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/MP3"
+        "object": "http://dbpedia.org/resource/Gilberto_Gil"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/MPEG"
+        "object": "http://dbpedia.org/resource/Gino_Strada"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Computer_science"
+        "object": "http://dbpedia.org/resource/Goi\u00e1s"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Fellow"
+        "object": "http://dbpedia.org/resource/Goi\u00e2nia"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/How_Music_Got_Free"
+        "object": "http://dbpedia.org/resource/Google"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Leonardo_Chiariglione"
+        "object": "http://dbpedia.org/resource/Granada"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Wave_field_synthesis"
+        "object": "http://dbpedia.org/resource/Misiones_Province"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mathematician"
+        "object": "http://dbpedia.org/resource/Mollina"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/CSELT"
+        "object": "http://dbpedia.org/resource/Moon_Ribas"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_German_inventors"
+        "object": "http://dbpedia.org/resource/M\u00e1laga"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/West_Germany"
+        "object": "http://dbpedia.org/resource/M\u00e9decins_Sans_Fronti\u00e8res"
     },
     {
         "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/AT&T_Corporation"
+        "object": "http://dbpedia.org/resource/NGO"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nacho_Vigalondo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_O2"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Danese_Cooper"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Saca"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apple_Inc."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linux"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lob\u00e3o_(musician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madrid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Singapore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Hawking"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steve_Wozniak"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stuart_Clark"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sugata_Mitra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Computer_programming"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zapopan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit,_Michigan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ibero-America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ibn_Sina_Robot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Pearce_(businessman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Leon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_W._Carroll"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Dickinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buenos_Aires"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buzz_Aldrin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aimee_Van_Wynsberghe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Berners-Lee"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tommy_Tallarico"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Guntharp"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tuenti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/V\u00edctor_P\u00e9rez_(director)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wael_Abbas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Karlheinz_Brandenburg",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wikimedia_Foundation"
     }
 ]

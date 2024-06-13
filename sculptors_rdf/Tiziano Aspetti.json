@@ -1,278 +1,43 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromPadua"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat16th-centuryItalianPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat17th-centuryItalianPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRenaissanceSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Tiziano Aspetti"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Tiziano Aspetti"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Tiziano Aspetti"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Tiziano Aspetti"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0441\u043f\u0435\u0442\u0442\u0438, \u0422\u0438\u0446\u0438\u0430\u043d\u043e"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Tiziano Aspetti"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Tiziano Aspetti"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Tiziano Aspetti (* ca. 1559 in Padua; \u2020 1606 in Pisa, in anderen Quellen 1565\u20131607) war ein italienischer Bildhauer des Barock."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Tiziano Aspetti (n\u00e9 v. 1557-1559 \u00e0 Padoue et mort \u00e0 Pise en 1606) est un sculpteur italien baroque qui a \u00e9t\u00e9 actif \u00e0 Venise \u00e0 la fin du XVIe et au d\u00e9but du XVIIe si\u00e8cle."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Tiziano Aspetti (Padova, 1559 \u2013 Pisa, 1606) \u00e8 stato uno scultore italiano.Assieme a Girolamo Campagna \u00e8 stato uno dei maggiori scultori attivi in Venezia nell'ultima parte del XVI secolo. Era particolarmente versato nella lavorazione del bronzo. \u00c8 noto soprattutto per i bronzi realizzati (1593) per la Basilica di Sant'Antonio di Padova."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Tiziano Aspetti, f\u00f6dd 1565 Padua, d\u00f6d 1607 Pisa, var en italiensk skulpt\u00f6r. Som helt ung var Aspetti sysselsatt i Venedig med dekorativa arbeten till dogepalatset med mera, ofta i stor skala. D\u00e5 han 1591 begav sig till Padua blev hans stil m\u00e4rkbart p\u00e5verkad av Donatello. D\u00e4r skapade han en rad verk, som h\u00f6r till d\u00e5tidens b\u00e4sta dekorativa arbeten, fr\u00e4mst reliefer och statyetter; dit h\u00f6r tv\u00e5 reliefer till kryptaltaret i (marterscener fr\u00e5n levnad), statyetterna av San Antonio, Bonaventura och Ludvig den helige till Santos h\u00f6galtare, den lilla Kristus-statyn och s\u00e5 vidare. Fr\u00e5n omkring 1604 var Aspetti verksam under \u00e5terstoden av sitt korta konstn\u00e4rsliv i Pisa."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0422\u0438\u0446\u0438\u0430\u043d\u043e \u0410\u0441\u043f\u0435\u0442\u0442\u0438 (\u0438\u0442\u0430\u043b. Tiziano Aspetti, degli Aspetti, de Aspectis, de Aspettis,Tiziano; 1559, \u041f\u0430\u0434\u0443\u044f \u2014 1606, \u041f\u0438\u0437\u0430, \u0422\u043e\u0441\u043a\u0430\u043d\u0430) \u2014 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u043d\u044c\u0435\u0440\u0438\u0437\u043c\u0430. \u041e\u0434\u0438\u043d \u0438\u0437 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0445 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u043e\u0432, \u0440\u0430\u0431\u043e\u0442\u0430\u0432\u0448\u0438\u0445 \u0432 \u0412\u0435\u043d\u0435\u0446\u0438\u0438 \u0432\u043e \u0432\u0442\u043e\u0440\u043e\u0439 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0435 XVI \u0432\u0435\u043a\u0430."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Tiziano Aspetti (1557/1559 - 1606) fue un escultor italiano del Renacimiento. Naci\u00f3 en Padua y desarroll\u00f3 su actividad principalmente all\u00ed y en Venecia. Realiz\u00f3 tanto grandes como peque\u00f1as esculturas en bronce. Entre sus grandes obras se encuentran las estatuas de bronce de la fachada de laIglesia de San Francesco della Vigna y de San Antonio y otras muchas decoraciones escult\u00f3ricas para la Bas\u00edlica de San Antonio de Padua."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Tiziano Aspetti (1559 \u2013 1606) was an Italian sculptor of the Renaissance. He was born in Padua and active mainly there and in Venice. He completed both large and small sculpture in bronze. Among his large works are bronze statues in the fa\u00e7ade of San Francesco della Vigna and of Saint Anthony and many other sculptural decorations for the Basilica of Sant'Antonio of Padua."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano_Aspetti.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Padua"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1550s_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:16th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Renaissance_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:17th-century_Italian_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1606_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "12016871"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1096775505"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benedetto_Rusconi"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Carrara"
+        "object": "http://dbpedia.org/resource/Santa_Maria_Gloriosa_dei_Frari"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/San_Francesco_della_Vigna"
+        "object": "http://dbpedia.org/resource/Priuli"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Santa_Maria_Formosa"
+        "object": "http://dbpedia.org/resource/Antonio_Gai"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Santa_Maria_del_Carmine,_Pisa"
+        "object": "http://dbpedia.org/resource/Antonio_Vassilacchi"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Santa_Trinita"
+        "object": "http://dbpedia.org/resource/John_of_Capistrano"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Santa_Trinita,_Florence"
+        "object": "http://dbpedia.org/resource/Category:Jacopo_Sansovino_buildings"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bas-relief"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Basilica_of_Saint_Anthony_of_Padua"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Battle_of_Lepanto"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Padua"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Apostolic_nuncio"
+        "object": "http://dbpedia.org/resource/Category:Renaissance_architecture_in_Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
@@ -282,27 +47,72 @@
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rialto_Bridge"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
         "object": "http://dbpedia.org/resource/Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bishop_of_Torcello"
+        "object": "http://dbpedia.org/resource/Venice_in_Peril_Fund"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1550s_births"
+        "object": "http://dbpedia.org/resource/Veronese_bellringing_art"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Engraving"
+        "object": "http://dbpedia.org/resource/Jacopo_Marieschi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tiziano_Aspetti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1507"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giambattista_Pittoni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Battista_Tiepolo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Bellini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Porta"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gothic_architecture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Roman_Catholic_churches_completed_in_1554"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Cominelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Gritti"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
@@ -312,7 +122,7 @@
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Anthony_of_Padua"
+        "object": "http://dbpedia.org/resource/Anthony_the_Great"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
@@ -322,42 +132,67 @@
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/St_Mark's_Basilica"
+        "object": "http://dbpedia.org/resource/Madonna_and_Child_with_Four_Saints_and_Donor"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Hellenistic_art"
+        "object": "http://dbpedia.org/resource/Cloister"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:16th-century_Italian_sculptors"
+        "object": "http://dbpedia.org/resource/Francesco_Contarini"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Renaissance_sculptors"
+        "object": "http://dbpedia.org/resource/Francesco_Fontebasso"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:17th-century_Italian_sculptors"
+        "object": "http://dbpedia.org/resource/Francesco_Maggiotto"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Tuscany"
+        "object": "http://dbpedia.org/resource/Francesco_Montemezzano"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Vulcan_(mythology)"
+        "object": "http://dbpedia.org/resource/Francesco_Polazzo"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Giovanni_Battista_Caccini"
+        "object": "http://dbpedia.org/resource/Francesco_Rizzo_da_Santacroce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tommaso_Temanza_buildings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franciscan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palladio"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna_of_humility"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catherine_of_Alexandria"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
@@ -367,7 +202,7 @@
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Giovanni_da_Udine"
+        "object": "http://dbpedia.org/resource/Giovanni_da_Asola"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
@@ -377,17 +212,17 @@
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Leandro_Bassano"
+        "object": "http://dbpedia.org/resource/Giuseppe_Angeli"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Pisan_calendar"
+        "object": "http://dbpedia.org/resource/Alvise_Contarini"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Agostino_Barbarigo_(admiral)"
+        "object": "http://dbpedia.org/resource/Category:1253_establishments_in_Europe"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
@@ -397,17 +232,47 @@
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Padua"
+        "object": "http://dbpedia.org/resource/Francis_of_Assisi"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Palazzo_Grimani_di_Santa_Maria_Formosa"
+        "object": "http://dbpedia.org/resource/Angelo_Trevisani"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Daniel_of_Padua"
+        "object": "http://dbpedia.org/resource/Category:13th-century_establishments_in_the_Republic_of_Venice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paolo_Veronese"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Andrea_Palladio_church_buildings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fra_Antonio_da_Negroponte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Istrian_stone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
@@ -417,17 +282,17 @@
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Art_Institute_of_Chicago"
+        "object": "http://dbpedia.org/resource/Badoer"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Italian_male_sculptors"
+        "object": "http://dbpedia.org/resource/Category:Roman_Catholic_churches_in_Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1606_deaths"
+        "object": "http://dbpedia.org/resource/Category:16th-century_Roman_Catholic_church_buildings_in_Italy"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
@@ -437,66 +302,201 @@
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Codicil_(will)"
+        "object": "http://dbpedia.org/resource/Tempera"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Holy_water_font"
+        "object": "http://dbpedia.org/resource/Tommaso_Temanza"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Stucco"
+        "object": "http://dbpedia.org/resource/Doric_Order"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Doge_of_Venice"
+        "object": "http://dbpedia.org/resource/Mark_the_Evangelist"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Donatello"
+        "object": "http://dbpedia.org/resource/Gritti"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Burin_(engraving)"
+        "object": "http://dbpedia.org/resource/Grimani"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Pisa"
+        "object": "http://dbpedia.org/resource/Palma_il_giovane"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Metropolitan_Museum_of_Art"
+        "object": "http://dbpedia.org/resource/Antonio_da_Negroponte"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sebastiano_Venier"
+        "object": "http://dbpedia.org/resource/Antony_of_Padua"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Giambologna"
+        "object": "http://dbpedia.org/resource/Castello,_Venice"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Padua_Cathedral"
+        "object": "http://dbpedia.org/resource/Holy_Trinity"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Francesco_de'_Rossi_(Il_Salviati)"
+        "object": "http://dbpedia.org/resource/Nicol\u00f2_Sagredo"
     },
     {
         "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Stiacciato"
+        "object": "http://dbpedia.org/resource/Tympanum_(architecture)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicola_da_Urbino"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sagredo_family"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justine_of_Padua"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pietro_Lombardo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tullio_Lombardo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Save_Venice_Inc."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zorzi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transept"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_of_Alc\u00e1ntara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sante_Peranda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sestiere"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hallenkirche"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palma_Giovane"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palma_the_Younger"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Battista_Franco"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_of_Assis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicola_Grassi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelangelo_Grigoletti"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pascal_Baylon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcantonio_Trevisan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerolamo_Pellegrini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Sagredo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:0_Venise,_Riva_Dei_Schiavoni,_sestiere_du_Castello_et_l'\u00cele_de_Murano_(2).jpg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Girolamo_Bragadin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marino_da_Pisa"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vettor_Grimani"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Tiziano_Aspetti",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Pissarro"
     }
 ]

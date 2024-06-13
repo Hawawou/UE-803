@@ -1,308 +1,388 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatBlindPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromNancy,France"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/BlindPerson109860130"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFrenchSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/VisuallyImpairedPerson110757625"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0646\u064a\u0643\u0648\u0644\u0627 \u0622\u062f\u0645 (\u0646\u062d\u0627\u062a)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Nicolas S\u00e9bastien Adam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u039d\u03b9\u03ba\u03bf\u03bb\u03ac-\u03a3\u03b5\u03bc\u03c0\u03b1\u03c3\u03c4\u03b9\u03ac\u03bd \u0391\u03bd\u03c4\u03ac\u03bc"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Nicolas S\u00e9bastien Adam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Nicolas S\u00e9bastien Adam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Nicolas-S\u00e9bastien Adam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30cb\u30b3\u30e9\u30fb\u30bb\u30d0\u30b9\u30c6\u30a3\u30a2\u30f3\u30fb\u30a2\u30c0\u30e0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Nicolas-S\u00e9bastien Adam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Nicolas S\u00e9bastien Adam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0434\u0430\u043c, \u041d\u0438\u043a\u043e\u043b\u044f \u0421\u0435\u0431\u0430\u0441\u0442\u044c\u0435\u043d"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u0646\u064a\u0643\u0648\u0644\u0627 \u0622\u062f\u0645 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629: Nicolas S\u00e9bastien Adam)\u200f (\u0648. 1705 \u2013 1778 \u0645) \u0647\u0648 \u0646\u062d\u0627\u062a \u0641\u0631\u0646\u0633\u064a\u060c \u0648\u0644\u062f \u0641\u064a \u0646\u0627\u0646\u0633\u064a\u060c \u062a\u0648\u0641\u064a \u0641\u064a \u0628\u0627\u0631\u064a\u0633\u060c \u0639\u0646 \u0639\u0645\u0631 \u064a\u0646\u0627\u0647\u0632 73 \u0639\u0627\u0645\u0627\u064b."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u039f \u039d\u03b9\u03ba\u03bf\u03bb\u03ac-\u03a3\u03b5\u03bc\u03c0\u03b1\u03c3\u03c4\u03b9\u03ac\u03bd \u0391\u03bd\u03c4\u03ac\u03bc (\u03b3\u03b1\u03bb\u03bb\u03b9\u03ba\u03ac: Nicolas-S\u00e9bastien Adam), 1705 - 1778, \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf\u03c2 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2 \u0391\u03bd\u03c4\u03ac\u03bc \u03bf \u03bd\u03b5\u03cc\u03c4\u03b5\u03c1\u03bf\u03c2, \u03ae\u03c4\u03b1\u03bd \u0393\u03ac\u03bb\u03bb\u03bf\u03c2 \u03b3\u03bb\u03cd\u03c0\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03bd\u03b5\u03bf\u03ba\u03bb\u03b1\u03c3\u03b9\u03ba\u03ae\u03c2 \u03c0\u03b5\u03c1\u03b9\u03cc\u03b4\u03bf\u03c5."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Nicolas S\u00e9bastien Adam, auch Adam le Jeune (* 22. M\u00e4rz 1705 in in Nancy; \u2020 27. M\u00e4rz 1778 in Paris), war ein franz\u00f6sischer Bildhauer."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Nicolas S\u00e9bastien Adam, llamado Adam cadete o Adam el joven (del franc\u00e9s: cadet o le jeune); (Nancy, 22 de marzo de 1705 - Par\u00eds, 27 de marzo de 1778), fue un escultor franc\u00e9s."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Nicolas-S\u00e9bastien Adam (22 March 1705 \u2013 27 March 1778), also called \"Adam the Younger\", was a French sculptor working in the Neoclassical style. He was born in Nancy and died in Paris."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Nicolas S\u00e9bastien Adam, dit Adam le cadet, n\u00e9 \u00e0 Nancy le 22 mars 1705, et mort \u00e0 Paris le 27 mars 1778, est un sculpteur lorrain puis fran\u00e7ais."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30cb\u30b3\u30e9\uff1d\u30bb\u30d0\u30b9\u30c6\u30a3\u30f3\u30fb\u30a2\u30c0\u30e0 (Nicolas-S\u00e9bastien Adam, 1705\u5e743\u670822\u65e5 - 1778\u5e743\u670827\u65e5) \u306f\u3001\u65b0\u53e4\u5178\u4e3b\u7fa9\u69d8\u5f0f\u3067\u6d3b\u52d5\u3057\u305f\u3001\u30d5\u30e9\u30f3\u30b9\u306e\u5f6b\u523b\u5bb6\u3067\u3042\u308b\u3002\u30ca\u30f3\u30b7\u30fc\u3067\u751f\u307e\u308c\u3001\u30d1\u30ea\u3067\u4ea1\u304f\u306a\u3063\u305f\u3002\u5144\u306e\u30e9\u30f3\u30d9\u30fc\u30eb\uff1d\u30b7\u30b8\u30b9\u30d9\u30fc\u30eb\u30fb\u30a2\u30c0\u30e0\uff08Lambert-Sigisbert Adam: 1700-1759\u3001\u5225\u540d Adam le a\u00een\u00e9\uff09\u3068\u533a\u5225\u3059\u308b\u305f\u3081\u306b\u300cAdam le Jeune\uff1a\u82e5\u3044\u307b\u3046\u306e\u30a2\u30c0\u30e0\u300d\u3068\u547c\u3070\u308c\u308b\u3053\u3068\u304c\u3042\u308b\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Nicolas-S\u00e9bastien Adam, detto Adam le Cadet (Nancy, 22 marzo 1705 \u2013 Parigi, 27 marzo 1778), \u00e8 stato uno scultore francese. Appartenente alla famiglia di scultori, a capo della quale c'era il padre Jacob-Sigisbert, era fratello di Lambert-Sigisbert e di Fran\u00e7ois Gaspard Balthazar. Nel 1726 fu a Roma, dove restaur\u00f2 statue antiche con il fratello Lambert-Sigisbert. Torn\u00f2 nella capitale francese nel 1734, dove lavor\u00f2 alla decorazione interna dell'; inoltre realizz\u00f2 due statue allegoriche per la facciata dell'antica camera dei conti nel cortile della Sainte-Chapelle, che poi and\u00f2 distrutta. Attese a decorare il portale dei padri dell'Oratorio e alla ricostruzione dell'abbazia di Saint-Denis. A Nancy port\u00f2 a termine il mausoleo della regina di Polonia Caterina Opali\u0144ska."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Nicolas S\u00e9bastien Adam (nazywany te\u017c Adam le Jeune, ur. 22 marca 1705 w Nancy, zm. 27 marca 1778 w Pary\u017cu) \u2013 francuski rze\u017abiarz, syn Jacoba Sigisberta Adama. Pocz\u0105tkowo pracowa\u0142 w warsztacie ojca, nast\u0119pnie w roku 1726 przez Montpellier uda\u0142 si\u0119 do Rzymu. Tam zacz\u0105\u0142 pracowa\u0107 razem z bratem Lambertem Sigisbertem, w kt\u00f3rego cieniu zawsze pozostawa\u0142. Od 1734 ponownie przebywa\u0142 w Pary\u017cu, gdzie wsp\u00f3\u0142pracowa\u0142 przy wystroju wn\u0119trz kaplicy pa\u0142acowej w Wersalu. Po wykonaniu na zlecenie kr\u00f3la polskiego Stanis\u0142awa Leszczy\u0144skiego grobowca dla jego \u017cony, kr\u00f3lowej Polski, Katarzyny Opali\u0144skiej w Nancy, powr\u00f3ci\u0142 do Pary\u017ca. W roku 1762 spod jego d\u0142uta wysz\u0142a marmurowa grupa rze\u017abiarska Zwi\u0105zany Prometeusz. (Pary\u017c, Louvre)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u041d\u0438\u043a\u043e\u043b\u044f-\u0421\u0435\u0431\u0430\u0441\u0442\u044c\u0435\u043d \u0410\u0434\u0430\u043c (22 \u043c\u0430\u0440\u0442\u0430 1705 \u2014 27 \u043c\u0430\u0440\u0442\u0430 1778), \u0442\u0430\u043a\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u043a\u0430\u043a \u00ab\u0410\u0434\u0430\u043c \u041c\u043b\u0430\u0434\u0448\u0438\u0439\u00bb, \u0431\u044b\u043b \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u043c \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u043e\u043c, \u0440\u0430\u0431\u043e\u0442\u0430\u0432\u0448\u0438\u043c \u0432 \u043d\u0435\u043e\u043a\u043b\u0430\u0441\u0441\u0438\u0446\u0438\u0437\u043c\u0435. \u041e\u043d \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0432 \u041d\u0430\u043d\u0441\u0438 \u0438 \u0443\u043c\u0435\u0440 \u0432 \u041f\u0430\u0440\u0438\u0436\u0435."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Maison_des_Adam.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas-S\u00e9bastien_Adam.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Prometheus_Adam_Louvre_MR1745_edit_atoma.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/La_Religion_instruisant_un_Indien_par_Nicolas-S\u00e9bastien_Adam_(\u00e9glise_St-Paul_St-Louis_de_Paris).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Catholic_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1705_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1778_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:French_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:18th-century_French_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Nancy,_France"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "36030918"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1103482286"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Decorative_arts"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Prix_de_Rome"
+        "object": "http://dbpedia.org/resource/Potsdam"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Prometheus"
+        "object": "http://dbpedia.org/resource/Prussia"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Melchior_de_Polignac"
+        "object": "http://dbpedia.org/resource/Pyotr_Ilyich_Tchaikovsky"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Neoclassical_sculpture"
+        "object": "http://dbpedia.org/resource/Quadratura"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Neptune_(mythology)"
+        "object": "http://dbpedia.org/resource/Rohr_in_Niederbayern"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Nymph"
+        "object": "http://dbpedia.org/resource/Roman_Empire"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Montpellier"
+        "object": "http://dbpedia.org/resource/Sanssouci"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mus\u00e9e_Carnavalet"
+        "object": "http://dbpedia.org/resource/Schloss_Charlottenburg"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Nancy,_France"
+        "object": "http://dbpedia.org/resource/Electoral_Palace,_Trier"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Coronis_(mythology)"
+        "object": "http://dbpedia.org/resource/Encoignure"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Apollo"
+        "object": "http://dbpedia.org/resource/Meissonier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanssouci_Palace"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baroque"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basilica_of_Santo_Domingo,_Lima"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basilica_of_the_Fourteen_Holy_Helpers"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bavaria"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bordeaux"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Branicki_Palace,_Bia\u0142ystok"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Garrick"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Diderot"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoine_Pesne"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Rinaldi_(architect)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hungary"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joshua_Reynolds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_the_Great"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Clive"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles-Am\u00e9d\u00e9e-Philippe_van_Loo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles-Andr\u00e9_van_Loo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles-Joseph_Natoire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Cressent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cultural_movement"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cupid"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_and_Albert_Museum"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voltaire"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Devonshire_House"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_de_Lajoue"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_Baptist_Zimmermann"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_Christian_Bach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_Joachim_K\u00e4ndler"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_Michael_Fischer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meissen_porcelain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galante_music"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Template:Timeline_of_Italian_artists_to_1800"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rocaille"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:18th_century_in_the_arts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Early_Modern_period"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commedia_dell'arte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornell_University_Press"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Quentin_de_La_Tour"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg_Wenzeslaus_von_Knobelsdorff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_XV_furniture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orient"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trompe-l'\u0153il"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claude_Michel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Egid_Quirin_Asam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Boucher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederick_the_Great"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giovanni_Battista_Tiepolo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_Britain"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moli\u00e8re"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murano_glass"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corbel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Swing_(Fragonard)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Gainsborough"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ormolu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angelica_Kauffman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoine_Watteau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_Corradini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_II_van_Risamburgh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lima"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_County_Museum_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Quinze"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_XIV_style"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_XV"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
@@ -312,191 +392,111 @@
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Gaspard_Adam"
+        "object": "http://dbpedia.org/resource/Madame_de_Pompadour"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Catholic_sculptors"
+        "object": "http://dbpedia.org/resource/Chinese_export_porcelain"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Catherine_Opali\u0144ska"
+        "object": "http://dbpedia.org/resource/Chinoiserie"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Iris_(mythology)"
+        "object": "http://dbpedia.org/resource/Stendhal"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Acad\u00e9mie_royale_de_peinture_et_de_sculpture"
+        "object": "http://dbpedia.org/resource/Style_Louis_XIV"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Amiens"
+        "object": "http://dbpedia.org/resource/Columbina"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Amphitrite"
+        "object": "http://dbpedia.org/resource/Zwinger_(Dresden)"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Angelica_and_Medoro"
+        "object": "http://dbpedia.org/resource/Empire_style"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Palace_of_Versailles"
+        "object": "http://dbpedia.org/resource/Francesco_Bartolomeo_Rastrelli"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Basilica_of_St_Denis"
+        "object": "http://dbpedia.org/resource/Francis_Hayman"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Ch\u00e2teau_de_Bagatelle"
+        "object": "http://dbpedia.org/resource/Franz_Anton_Bustelli"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Italian_Baroque"
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Couperin"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Atelier"
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Lemoyne"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Attitude_(art)"
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_de_Cuvilli\u00e9s"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1705_births"
+        "object": "http://dbpedia.org/resource/Harlequin"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1778_deaths"
+        "object": "http://dbpedia.org/resource/Houghton_Hall"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:French_male_sculptors"
+        "object": "http://dbpedia.org/resource/Pagoda"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:18th-century_French_sculptors"
+        "object": "http://dbpedia.org/resource/Music_history"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Nancy,_France"
+        "object": "http://dbpedia.org/resource/Augustusburg_and_Falkenlust_Palaces,_Br\u00fchl"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Juvignac"
+        "object": "http://dbpedia.org/resource/Balthasar_Neumann"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lambert-Sigisbert_Adam"
+        "object": "http://dbpedia.org/resource/C._P._E._Bach"
     },
     {
         "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lead"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Diana_(mythology)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/B\u00e2timents_du_Roi"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Daphne_(mythology)"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Metropolitan_Museum_of_Art"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Orlando_Furioso"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Marble_sculpture"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sibyl"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/H\u00f4tel_de_Soubise"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Reception_piece"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Chambre_des_comptes"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Latona"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Clodion"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Stanislas_Leszczy\u0144ski"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:La_Religion_instruisant_un_Indien_par_Nicolas-S\u00e9bastien_Adam_(\u00e9glise_St-Paul_St-Louis_de_Paris).jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Maison_des_Adam.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Nicolas-S\u00e9bastien_Adam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Nicolas-S\u00e9bastien_Adam.jpg"
+        "object": "http://dbpedia.org/resource/Catherine_the_Great"
     }
 ]

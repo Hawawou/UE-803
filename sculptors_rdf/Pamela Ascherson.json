@@ -1,208 +1,48 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Pamela Ascherson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Pamela Ascherson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Pamela Ascherson, Pamela Rachet de casada, (Londres, 3 de marzo de 1923 \u2013 2010) fue una escultora, pintora e ilustradora brit\u00e1nica.\u200b"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Pamela Ascherson, later Pamela Rachet (3 March 1923 \u2013 22 June 2010) was a British sculptor, painter and illustrator."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Pamela Ascherson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Pamela Ascherson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "2010-06-22"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "London, England"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1923-03-03"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_for_the_Creative_Arts"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1923_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:2010_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Royal_College_of_Art"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Bletchley_Park_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Bletchley_Park_women"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Women's_Royal_Naval_Service_ratings"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:English_women_painters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_painters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_London"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_educated_at_Roedean_School,_East_Sussex"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "56425033"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1080692049"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carey_Young"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Provence"
+        "object": "http://dbpedia.org/resource/Carl_Toms"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Roedean_School"
+        "object": "http://dbpedia.org/resource/Princess_Louise,_Duchess_of_Argyll"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Academy"
+        "object": "http://dbpedia.org/resource/Quentin_Blake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Day_(designer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Dean_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Hilton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_Wylie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Oxlade"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
@@ -212,251 +52,451 @@
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bletchley_Park"
+        "object": "http://dbpedia.org/resource/Enda_McCallion"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bombe"
+        "object": "http://dbpedia.org/resource/Nabil_El-Nayal"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_for_the_Creative_Arts"
+        "object": "http://dbpedia.org/resource/Nathaniel_Mellors"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1923_births"
+        "object": "http://dbpedia.org/resource/M._C._Oliver"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Contemporary_Art_Society"
+        "object": "http://dbpedia.org/resource/M._R._Acharekar"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Stanmore"
+        "object": "http://dbpedia.org/resource/Melanie_Manchot"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Neal_Ascherson"
+        "object": "http://dbpedia.org/resource/Merlin_James"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:2010_deaths"
+        "object": "http://dbpedia.org/resource/Pascal_Anson"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
+        "object": "http://dbpedia.org/resource/Barnett_Freedman"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Royal_College_of_Art"
+        "object": "http://dbpedia.org/resource/Benedict_Mason"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Bletchley_Park_people"
+        "object": "http://dbpedia.org/resource/Benjamin_Clemens"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
+        "object": "http://dbpedia.org/resource/Bernard_Lodge"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Bletchley_Park_women"
+        "object": "http://dbpedia.org/resource/Betty_Churcher"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Women's_Royal_Naval_Service_ratings"
+        "object": "http://dbpedia.org/resource/Betty_Jukes"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Charles_Vyse"
+        "object": "http://dbpedia.org/resource/Bill_Gibb"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Farnham_School_of_Art"
+        "object": "http://dbpedia.org/resource/Billy_Apple"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:English_women_painters"
+        "object": "http://dbpedia.org/resource/Bob_Carlos_Clarke"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_painters"
+        "object": "http://dbpedia.org/resource/Bridget_Riley"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_London"
+        "object": "http://dbpedia.org/resource/David_Adjaye"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_educated_at_Roedean_School,_East_Sussex"
+        "object": "http://dbpedia.org/resource/David_Blackburn_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Laura_Knight"
+        "object": "http://dbpedia.org/resource/David_Emanuel_(fashion_designer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Donington_Park"
+        "object": "http://dbpedia.org/resource/David_Gentleman"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Women's_Royal_Naval_Service"
+        "object": "http://dbpedia.org/resource/David_Hockney"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/61574977"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Wheatley_(director)"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q47505017"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Wightman_(painter)"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://arz.dbpedia.org/resource/\u0628\u0627\u0645\u064a\u0644\u0627_\u0627\u0634\u064a\u0631\u0633\u0648\u0646"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deborah_Nadoolman_Landis"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/Pamela_Ascherson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deirdre_Borlase"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4PdAn"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denis_Bowen"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/training",
-        "object": "http://dbpedia.org/resource/Royal_College_of_Art"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Lys_Baldry"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/training",
-        "object": "http://dbpedia.org/resource/Farnham_School_of_Art"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_B._Woodward"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/training",
-        "object": ""
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Twemlow"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alicia_Paz"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:EngvarB"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Britton"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Murray"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alki_David"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_Boothroyd"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrea_Wulf"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Cranston"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/birthDate",
-        "object": "1923-03-03"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Dabis"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/deathDate",
-        "object": "2010-06-22"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Hardy"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/field",
-        "object": "Painting, sculpture"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthea_Alley"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/property/nationality",
-        "object": "British"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apu_Jan"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Pamela Ascherson, Pamela Rachet de casada, (Londres, 3 de marzo de 1923 \u2013 2010) fue una escultora, pintora e ilustradora brit\u00e1nica.\u200b"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archie_Fisher_(painter)"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Pamela Ascherson, later Pamela Rachet (3 March 1923 \u2013 22 June 2010) was a British sculptor, painter and illustrator."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holly_Fulton"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/ontology/training",
-        "object": "http://dbpedia.org/resource/Royal_College_of_Art"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Piper_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/ontology/training",
-        "object": "http://dbpedia.org/resource/Farnham_School_of_Art"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Platt_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://schema.org/sameAs",
-        "object": "http://viaf.org/viaf/61574977"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Tunnard"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Pamela_Ascherson?oldid=1080692049&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Barnbrook"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "3892"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Kenworthy"
     },
     {
         "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Pamela_Ascherson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Hermon_Cawthra"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Ridgard_Bagshawe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joyce_W._Cairns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Inglis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julien_Macdonald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_M._Smith_(photographer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Boty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peggy_Angus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Percy_Brown_(art_historian)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Blake_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Jacob_Maltz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Phillips_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_S\u00eds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhoda_Holmes_Nicholls"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Deacon_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Smith_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ridley_Scott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Austin_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Chaplin_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Una_O'Connor_(actress)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursula_Mommens"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Ambrus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vincent_Evans_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vivian_Pitchforth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Carpanini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Dawson_(painter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Mach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_McFall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Tremlett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derek_Boshier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Maxwell_(illustrator)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dora_Billington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Douglas_Bliss"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jake_Tilson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jake_and_Dinos_Chapman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jane_Dillon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Beard_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Bellany"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lewis_Baumer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lilian_Simpson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Pamela_Ascherson",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Kitson"
     }
 ]

@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromFlorida"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatArtistsFromWashington,D.C."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromRome"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatRomePrizeWinners"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Gambler110118844"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Migrant110314952"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PrizeWinner109627807"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatItalianEmigrantsToTheUnitedStates"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Winner110782791"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Traveler109629752"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Edmond Amateis"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Edmond Romulus Amateis"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Edmond Romulus Amateis (27 February 1897; Rome, Italy \u2013 1 May 1981; Clermont, Florida) was an American sculptor and educator. He is known for garden-figure sculptures, large architectural sculptures for public buildings and portrait busts."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Edmond Romulus Amateis (* 27. Februar 1897 in Rom; \u2020 1. Mai 1981 in Clermont, Florida) war ein US-amerikanischer Bildhauer und Lehrer. Er ist bekannt f\u00fcr Gartenskulpturen, architektonische Kolossalskulpturen und Portr\u00e4tb\u00fcsten."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Edmond Amateis"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Edmond Amateis"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/NixFedBldgPhilaMailBas1.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/MellonParkFountain.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Kansascitylibertymemorialsculpture.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Warmspringsbusts.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Buffalo_and_Erie_County_Historical_Society_2.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/NiehausBuffPed1.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/NiehausBuffPed2.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/NiehausBuffPed3.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Rome"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Italy"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/United_States"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/ontology/deathPlace",
-        "object": "http://dbpedia.org/resource/Clermont,_Florida"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/United_States"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/property/deathPlace",
-        "object": "http://dbpedia.org/resource/Clermont,_Florida"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/ontology/deathDate",
-        "object": "1981-05-01"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Rome"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Italy"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1897-02-27"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Washington,_D.C."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Florida"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1897_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1981_deaths"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:American_male_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Italian_emigrants_to_the_United_States"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:National_Sculpture_Society_members"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Beaux-Arts_Institute_of_Design_(New_York_City)_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "22761604"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1084729468"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Franklin_Parkway"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/American_Academy_in_Rome"
+        "object": "http://dbpedia.org/resource/Presbyterian_Historical_Society"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Beaux-Arts_Institute_of_Design"
+        "object": "http://dbpedia.org/resource/Robert_Morris_(Bartlett)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rochester,_New_York"
+        "object": "http://dbpedia.org/resource/Rodin_Museum"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rome"
+        "object": "http://dbpedia.org/resource/Samuel_Gross_(Calder)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/National_Sculpture_Society"
+        "object": "http://dbpedia.org/resource/The_Ideal_Scout"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mellon_Park"
+        "object": "http://dbpedia.org/resource/Sound_installation"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Basil_O'Connor"
+        "object": "http://dbpedia.org/resource/Adam_and_Eve_(Stonorov)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rhododendron"
+        "object": "http://dbpedia.org/resource/Amity_(Brown)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/United_States"
+        "object": "http://dbpedia.org/resource/Apollo_(unknown)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "object": "http://dbpedia.org/resource/Belmont_and_Parkside,_SW_corner"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Louis_Amateis"
+        "object": "http://dbpedia.org/resource/Billy_(Laessle)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Clermont,_Florida"
+        "object": "http://dbpedia.org/resource/Center_Square_(Philadelphia)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_Washington,_D.C."
+        "object": "http://dbpedia.org/resource/Dr._William_Pepper_(Bitter)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Sculptors_from_Florida"
+        "object": "http://dbpedia.org/resource/Ellen_Phillips_Samuel_Memorial"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Franklin_D._Roosevelt"
+        "object": "http://dbpedia.org/resource/Evelyn_Taylor_Price_Memorial_Sundial"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Boucher"
+        "object": "http://dbpedia.org/resource/Five_Spouts,_Frog_and_Lintel"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Gannett_Building"
+        "object": "http://dbpedia.org/resource/Francisco_de_Miranda_(Gonzalez)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/George_Washington_University"
+        "object": "http://dbpedia.org/resource/General_George_G._Meade_(Calder)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Pittsburgh,_Pennsylvania"
+        "object": "http://dbpedia.org/resource/General_John_Fulton_Reynolds_(Rogers)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Mail_Delivery_(sculptures)"
+        "object": "http://dbpedia.org/resource/Government_of_the_People_(Lipchitz)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Polio_Hall_of_Fame"
+        "object": "http://dbpedia.org/resource/Justice_(De_Lue)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Baltimore"
+        "object": "http://dbpedia.org/resource/Keys_to_Community"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1897_births"
+        "object": "http://dbpedia.org/resource/Kopernik_(Talcott)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1981_deaths"
+        "object": "http://dbpedia.org/resource/Koren_Der_Harootian"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_artists"
+        "object": "http://dbpedia.org/resource/Law_(De_Lue)"
     },
     {
         "subject": "http://dbpedia.org/resource/Edmond_Amateis",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_American_sculptors"
+        "object": "http://dbpedia.org/resource/Lion_Crushing_a_Serpent_(Barye)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matthias_William_Baldwin_(Adams)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Old_Mortality,_His_Pony,_and_Sir_Walter_Scott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Fitzsimons_(Donato)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Triune_(Engman)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unknown_(Javanese)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voyage_of_Ulysses_(von_Schlegell)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_McKinley,_(Konti)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benjamin_Franklin_(Boyle)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boathouse_Row"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boy_Scouts_of_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Quincy_Adams_Ward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Leidy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Philadelphia-related_lists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Manship"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pegasus_(Pilz)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penn's_Landing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Religious_Liberty_(Ezekiel)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rittenhouse_Square"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Engman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Indiana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charioteer_of_Delphi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_League_of_Philadelphia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dudley_Talcott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._Otto_Schweizer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Wayland_Bartlett"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cradle_of_Liberty_Council"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Memorial_Hall_(Philadelphia)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orestes"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tomb_of_the_Unknown_Revolutionary_War_Soldier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Citizens_Bank_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claes_Oldenburg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clark_Park"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clothespin_(Oldenburg)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Clark_Potter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Einar_J\u00f3nsson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmanuel_Fr\u00e9miet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Equestrian_statue_of_George_Meade_(Philadelphia)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Equestrian_statue_of_Ulysses_S._Grant"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franklin_Institute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franklin_Square_(Philadelphia)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frederic_Remington"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_George_B._McClellan_(Ellicott)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_Services_Administration"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Washington_(Bailly)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germantown_Friends_School"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glenna_Goodacre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moses_Jacob_Ezekiel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Medicine_Man_(Dallin)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Eakins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Jefferson_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Ustick_Walter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_J._Drexel_(Ezekiel)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Sullivan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lincoln_Monument_(Philadelphia)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Armenian_Genocide_memorials"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logan_Circle_(Philadelphia)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lutheran_Theological_Seminary_at_Philadelphia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simone_Leigh"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Statue_of_Alexander_von_Humboldt_(Philadelphia)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Statue_of_Edgar_Fahs_Smith"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Statue_of_George_Whitefield"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stone_Age_in_America"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zenos_Frudakis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Edwin_Elwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Lynn_Jenkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Drake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hill-Keith-Physick_House"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spring_Garden_Street_Bridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spruce_Hill,_Philadelphia,_Pennsylvania"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1st_Regiment_Infantry_National_Guard_of_Philadelphia"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Edmond_Amateis",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Augustus_Saint-Gaudens"
     }
 ]

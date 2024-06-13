@@ -1,342 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanSchoolteachers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatAmericanWomenScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerProgrammers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatTuringAwardLaureates"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatWomen"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatWomenComputerScientists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatWomenInTechnology"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromNewYork"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromPeru,NewYork"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Acquirer109764201"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Adult109605289"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Associate109816771"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Colleague109935990"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerScientist109951070"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ComputerUser109951274"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Educator110045713"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Employee110053808"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Engineer109615807"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Female109619168"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Honoree110183757"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Laureate110249011"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Peer109626238"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Professional110480253"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Programmer110481268"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Recipient109627906"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ResearchWorker110523076"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIBMEmployees"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIBMFellows"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Woman110787470"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Worker109632518"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Schoolteacher110560352"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Teacher110694258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAmericanAcademyOfArtsAndSciences"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatFellowsOfTheAssociationForComputingMachinery"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatProgrammingLanguageResearchers"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://umbel.org/umbel/rc/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Frances E. Allen"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "64798970"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "972106523"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlito's_Way"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Frances_Allen"
+        "object": "http://dbpedia.org/resource/Carolee_Carmello"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
-        "object": "http://dbpedia.org/resource/Frances_Allen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Journal_of_Sexuality_Education"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.0285mjh"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beloved_(novel)"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/Frances_E._Allen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priya_Anand"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www4.wiwiss.fu-berlin.de/dblp/resource/person/210795"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize_for_fiction"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/7Tiac"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Puntland"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:R_from_move"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_McClamrock"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Redirect_category_shell"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronn_Torossian"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://purl.org/linguistics/gold/hypernym",
-        "object": "http://dbpedia.org/resource/Scientist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosa_Clemente"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://schema.org/sameAs",
-        "object": "http://viaf.org/viaf/94133847"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://dbpedia.org/property/wordnet_type",
-        "object": "http://www.w3.org/2006/03/wn/wn20/instances/synset-scientist-noun-1"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_K._Ellston"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Frances_E._Allen?oldid=972106523&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Savannah_College_of_Art_and_Design"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "74"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_Lilienfeld"
     },
     {
         "subject": "http://dbpedia.org/resource/Frances_E._Allen",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Frances_E._Allen"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scott_de_la_Vega"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_coaches_in_the_Naismith_Memorial_Basketball_Hall_of_Fame"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Institute_on_Aging"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._E._Grenander"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todd_Cetnar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Vonnegut"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_and_Melinda_Gates_Foundation"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bouna_Coundoul"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandon_Jay_McLaren"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Break_Every_Chain_(film)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brett_Queener"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Lehrer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Clawson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Pietrusza"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Ortiz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_R._Ryan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan_Levine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Alden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josh_Ostrovsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Celan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Pimsleur"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Pines"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Turkson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhoda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_B._Cheney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_C._Wesley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_E._Stearns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rob_Senderoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_H._Babcock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_J._Jones"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Department_of_Justice_Antitrust_Division"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_at_Albany,_SUNY"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Oregon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vice_President_of_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vincent_Schaefer"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voice_actress"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Perkins_Page"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Wills_(writer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Don_Byrd"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Russell_Lowell_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zina_Lisandrou_Panagidi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Council_on_Foreign_Relations"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sallie_W._Chisholm"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sally_Sheinman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oneida_County,_New_York"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_A._Varney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_A._Maher"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Burns"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emma_Lee_Benedict"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Whaley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Washington_University"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerald_Jennings"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhard_Weinberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gloria_Rojas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gonzalo_Torrente_Ballester"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gordon_G._Gallup"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_Language_Association"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Move_(company)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mr._Holland's_Opus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NFL"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Confessions_of_an_Ugly_Stepsister"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Real_World:_St._Thomas"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Real_World_(TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Sting"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Third_Avenue_Railway"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angelo_Santabarbara"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Case"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arlene_Istar_Lev"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lefkoniko"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyle_Thompson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Ryan_(meteorologist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Single_Ladies_(TV_series)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SoBe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stacey_Prussman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_Cardinal_women's_basketball"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Adly_Guirgis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steve_Guttenberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steven_Berkowitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cloud_seeding"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delia_E._Wilder_Carson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horticulture"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Kastle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Frances_E._Allen",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penrose_Medal"
     }
 ]

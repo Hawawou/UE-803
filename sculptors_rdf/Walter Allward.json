@@ -1,42 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Walter_Allward",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Walter Allward"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_Allward",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "9706893"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Walter_Allward",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "110775373"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_Allward",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Walter_Seymour_Allward"
+        "object": "http://dbpedia.org/resource/Canadian_confederation"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_Allward",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRedirects",
-        "object": "http://dbpedia.org/resource/Walter_Seymour_Allward"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Premier_of_Ontario"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_Allward",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Walter_Allward?oldid=110775373&ns=0"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Canada"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_Allward",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "36"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Victoria"
     },
     {
         "subject": "http://dbpedia.org/resource/Walter_Allward",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Walter_Allward"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ontario_Heritage_Trust"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Premiers_of_the_Province_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Attorneys-General_of_the_Province_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Commons_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Sparrow_David_Thompson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joint_Premiers_of_the_Province_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Baldwin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Toronto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Upper_Canada_Tories"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1867_Ontario_general_election"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1871_Ontario_general_election"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornwall,_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clear_Grits"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Francis_Macdonald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Fraser_(Upper_Canada_politician)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Fraser_McIntyre"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Blake"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornwall_(electoral_district)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornwall_(provincial_electoral_district)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crown_land"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Talbot_(Upper_Canada)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Legislative_Assembly_of_the_Province_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Library_and_Archives_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lieutenant_Governor_of_Upper_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louisiana"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simcoe_County"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_McGillivray_(fur_trader)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1812_births"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_King's_Counsel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Liberal_Party_of_Canada_MPs"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CBC_Television"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Attorneys_General_of_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_Roman_Catholics"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lawyers_in_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Legislative_Assembly_of_the_Province_of_Canada_from_Canada_West"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aidan_Devine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toronto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tuberculosis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whig_Party_(United_States)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Henry_Draper_(judge)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Pearce_Howland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allan_MacNab"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_people_of_Scottish_descent"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dalton_McGuinty"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Leaders_of_the_Progressive_Conservative_Party_of_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nipissing_District"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darby_Bergin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fonds"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glengarry_(Province_of_Canada_electoral_district)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glengarry_County,_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Governor_General_of_the_Province_of_Canada"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haliburton_County"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hastings_County"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_William_Stisted"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Attorney_General_of_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Honourable"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archibald_McLean_(judge)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atelectasis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_House_of_Commons_of_Canada_from_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1872_deaths"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Monck,_4th_Viscount_Monck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Poulett_Thomson,_1st_Baron_Sydenham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Cornwall,_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_A.:_Birth_of_a_Country"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_A._Macdonald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Alexander_Macdonald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Lambton,_1st_Earl_of_Durham"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homestead_Acts"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/District_Municipality_of_Muskoka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Alexander_Macdonald"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Premiers_of_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Augustin-Norbert_Morin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Stormont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oliver_Mowat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ontario_Legislative_Building"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ontario_Liberal_Party"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_movement_(Upper_Canada)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Macdonald_Block_Complex"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_County,_Ontario"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Responsible_government"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Party_(pre-Confederation)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberal-Conservative"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Ambassadors_of_the_United_Kingdom_to_the_United_States"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sectarian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Victor_Sicotte"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ontario_Progressive_Conservative_Party"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/District_of_Muskoka"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orange_Institution"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Augustus_Waggaman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_Allward"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cady_Noland"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Billops"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Walter_Allward",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camille_Claudel"
     }
 ]

@@ -1,452 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Plate"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Wyatt"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ron_Robertson-Swann"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Ferns"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandra_Blow"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandy_Powell_(costume_designer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q483501"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barnett_Freedman"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Gibb"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billy_Childish"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Braco_Dimitrijevi\u0107"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Duffy_(photographer)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Harrison_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Flanders"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Artist"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alison_Chitty"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Jane Ackroyd"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Grassie"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Jane Ackroyd (born 1957) is a British artist best known for her public sculptures. She is based in London."
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Barnbrook"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Jane Ackroyd"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Doig"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Jane Ackroyd"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Hide"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Three_rings_ocean_village_2018.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Deacon_(sculptor)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Three_rings_ocean_village.jpg"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Hamilton_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/London"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Heslop_(director)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "London"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Long_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dylan_Jones"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1957_births"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linda_Kitson"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rashad_Salim"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Baumann"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://purl.org/dc/terms/subject",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Craig_Richards_(DJ)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cressida_Cowell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Agis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meg_Rosoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mel_Calman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menashe_Kadishman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ruth_Abrahams"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Martin's_School_of_Art"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Gale_(cartoonist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Th\u00e9r\u00e8se_Oulton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicholas_Hely_Hutchinson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olly_and_Suzi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claudia_Roden"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clifford_Ellis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth_Sakellariou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Auerbach"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Passmore_(sculptor)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerald_Laing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerald_Scarfe"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerard_Hemsworth"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_&_George"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilbert_Prousch"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glen_Matlock"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mona_Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cressida_Bell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Puppini_Sisters"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Asbury"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anne_Magill"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antony_Gormley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benni_Efrat"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Len_Deighton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leon_Kossoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lionel_Bart"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Milroy"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mangala_Samaraweera"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobby_Hillson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stan_Cross"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Cartwright"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Farthing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Jones_(milliner)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Pusey"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Z'ev_ben_Shimon_Halevi"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zadok_Ben-David"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emily_Young"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Marcus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Runacres"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamish_Fulton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Hilliard_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mabel_Lucie_Attwell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_Thomas_(graphic_artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Richards_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_%22Atters%22_Attree"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Howard_(artist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A._R._Philpott"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
         "object": "http://dbpedia.org/resource/Category:Alumni_of_Saint_Martin's_School_of_Art"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Royal_College_of_Art"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_English_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Modern_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:21st-century_British_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_London"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "61947229"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1124522849"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruce_Oldfield"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Carrara"
+        "object": "http://dbpedia.org/resource/Buky_Schwartz"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_Academy"
+        "object": "http://dbpedia.org/resource/Catherine_Johnson_(novelist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_College_of_Art"
+        "object": "http://dbpedia.org/resource/Central_School_of_Art_and_Design"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Royal_West_of_England_Academy"
+        "object": "http://dbpedia.org/resource/Tim_Flach"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "object": "http://dbpedia.org/resource/Darla_Jane_Gilroy"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Contemporary_Arts_Society"
+        "object": "http://dbpedia.org/resource/Dave_Pearson_(painter)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Leicestershire"
+        "object": "http://dbpedia.org/resource/William_G._Tucker"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Leicestershire_County_Council"
+        "object": "http://dbpedia.org/resource/William_Roberts_(painter)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/London"
+        "object": "http://dbpedia.org/resource/Helene_Brandt"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1957_births"
+        "object": "http://dbpedia.org/resource/James_Butler_(artist)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_British_sculptors"
+        "object": "http://dbpedia.org/resource/Janet_and_Anne_Grahame_Johnstone"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:20th-century_English_women_artists"
+        "object": "http://dbpedia.org/resource/Joe_Allen_(painter)"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_Saint_Martin's_School_of_Art"
+        "object": "http://dbpedia.org/resource/John_Ernest"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_Royal_College_of_Art"
+        "object": "http://dbpedia.org/resource/Julia_Lockheart"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:English_women_sculptors"
+        "object": "http://dbpedia.org/resource/Katharine_Hamnett"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Central_Saint_Martins"
+        "object": "http://dbpedia.org/resource/Tim_Head"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/West_Middlesex_University_Hospital"
+        "object": "http://dbpedia.org/resource/Abram_Games"
     },
     {
         "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Haymarket,_London"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Harlow"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Harlow_art_trust"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Islington"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Arts_Council_England"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_English_women_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Modern_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:21st-century_British_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Artists_from_London"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Cass_Sculpture_Foundation"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Europa_Nostra"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/St_Martin's_School_of_Art"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Three_rings_ocean_village.JPG"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/File:Three_rings_ocean_village_2018.JPG"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://artuk.org/discover/artworks/cat-245588"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://artuk.org/discover/artworks/well-head-244308"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "https://sculptors.org.uk/artists/jane-ackroyd"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://viaf.org/viaf/4456680"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q69523089"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://mk.dbpedia.org/resource/\u040f\u0435\u0458\u043d_\u0410\u043a\u0440\u043e\u0458\u0434"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/Af5mB"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Authority_control"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Commons_category"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Infobox_artist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Reflist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Short_description"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Ubl"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_British_English"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
-        "object": "http://dbpedia.org/resource/Template:Art_UK_bio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/thumbnail",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Three_rings_ocean_village_2018.jpg?width=300"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/birthDate",
-        "object": "1957"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/knownFor",
-        "object": "Sculpture"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/property/nationality",
-        "object": "British"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/abstract",
-        "object": "Jane Ackroyd (born 1957) is a British artist best known for her public sculptures. She is based in London."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
-        "object": "http://en.wikipedia.org/wiki/Jane_Ackroyd?oldid=1124522849&ns=0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
-        "object": "6032"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Jane_Ackroyd",
-        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
-        "object": "http://en.wikipedia.org/wiki/Jane_Ackroyd"
+        "object": "http://dbpedia.org/resource/Afi_Ekong"
     }
 ]

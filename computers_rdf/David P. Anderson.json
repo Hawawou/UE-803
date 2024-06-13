@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Scientist"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatWesleyanUniversityAlumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q901"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/ResearchWorker110523076"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scholar110557854"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Scientist110560637"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatResearchersInDistributedComputing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "David P. Anderson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "David Pope Anderson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "David P. Anderson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "David Pope Anderson (* 1955 Oakland, Kalifornie, USA) je americk\u00fd v\u011bdeck\u00fd v\u00fdzkumn\u00edk na University of California, Houston a po\u010d\u00edta\u010dov\u00fdch v\u011bd na houstonsk\u00e9 univerzit\u011b. Je vedouc\u00edm softwarov\u00fdch projekt\u016f distribuovan\u00fdch v\u00fdpo\u010dt\u016f SETI@home, BOINC, a ."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "David Pope Anderson (born 1955) is an American research scientist at the Space Sciences Laboratory, at the University of California, Berkeley, and an adjunct professor of computer science at the University of Houston. Anderson leads the SETI@home, BOINC, Bossa and software projects."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "David Pope Anderson (nacido en 1955) es un investigador y cient\u00edfico estadounidense en el Laboratorio de Ciencias Espaciales de la Universidad de California, Berkeley, y profesor adjunto de ciencias de la computaci\u00f3n en la Universidad de Houston. Anderson dirige proyectos de software como BOINC o Nebula y ha dirigido otros como SETI@home."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "David P. Anderson"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Cadillac_Anderson"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
         "predicate": "http://dbpedia.org/property/name",
-        "object": "David P. Anderson"
+        "object": "http://dbpedia.org/resource/Caleb_Mills_(basketball)"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/David_P._Anderson_head_shot.jpg"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Cameron_Burrell"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Oakland,_California"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Cameron_Malveaux"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "Oakland, California, USA"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Carin_Cone"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Carl_Cunningham"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1955_births"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Carl_Herrera"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Houston_faculty"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Carl_Hilton"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_Wisconsin\u2013Madison_College_of_Letters_and_Science_alumni"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Carl_Lewis"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Wesleyan_University_alumni"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Carli_Mosier"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Researchers_in_distributed_computing"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Carlisle_Floyd"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:University_of_California,_Berkeley_staff"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Carll_Goodpasture"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Search_for_extraterrestrial_intelligence"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Carol_Alvarado"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "2531417"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Carol_E._Dinkins"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1088611666"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Carol_Lewis"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rosetta@home"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Case_Keenum"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Berkeley,_California"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Priscilla_Hamby"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Berkeley_Open_Infrastructure_for_Network_Computing"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Priscilla_Shirer"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/United_Devices"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Quentin_Grimes"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Robert_Newhouse"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Houston"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Robert_Phillips_(poet)"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Wisconsin\u2013Madison"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Robert_R._Casey"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Presidential_Young_Investigator_Award"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Robert_Talton"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Robert_W._Lawless"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/SETI@home"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Robert_Wuhl"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Chief_technology_officer"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Rocket_Wheeler"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Climateprediction.net"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Rocky_Schwartz"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Einstein@home"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Rocky_Thompson_(golfer)"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Dan_Werthimer"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Rod_Canion"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Volunteer_computing"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Roland_Glowinski"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/MS-DOS"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Rolando_Ferreira"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Computer_science"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ronald_M._Sega"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Stardust@home"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Rose_Magers"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/BOINC"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Roy_Hofheinz"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:1955_births"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Royce_Berry"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Houston_faculty"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Royce_West"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_Wisconsin\u2013Madison_College_of_Letters_and_Science_alumni"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ruby_Kless_Sondock"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Wesleyan_University_alumni"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Rub\u00e9n_Mart\u00ednez_(writer)"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Researchers_in_distributed_computing"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Rudy_Davalos"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:University_of_California,_Berkeley_staff"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Sam_Mack"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Wesleyan_University"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Sammy_Brown"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Lawrence_Landweber"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Sancho_Lyttle"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:Search_for_extraterrestrial_intelligence"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Sandra_Glover"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Collaborative_filtering"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Sarah_Borwell"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Software_framework"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Saul_Friedman"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sonic_Solutions"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Scott_Kellar"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Oakland,_California"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Scott_Sheldon"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/World_Community_Grid"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Elena_Nikolaidi"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Space_Sciences_Laboratory"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Mo_Mitchell_(coach)"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/University_of_Wisconsin-Madison"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Susanne_Mentzer"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Distributed_thinking"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Pat_Lykos"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Bolt_(computing)"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Justin_Whitlock_Dart,_Jr."
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/David_Gedye"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Shelly_Berg"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
-        "object": "http://boinc.berkeley.edu/anderson/"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Barrick_Nealy"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://rdf.freebase.com/ns/m.07lb96"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Beau_Bell"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://yago-knowledge.org/resource/David_P._Anderson"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ben_Fricke"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://orcid.org/0000-0003-2665-1453"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ben_Hurt"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://www.wikidata.org/entity/Q5238291"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Ben_Weber_(baseball)"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://cs.dbpedia.org/resource/David_Pope_Anderson"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Benjamin_Kamins"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://es.dbpedia.org/resource/David_P._Anderson"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Benny_Anders"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://ml.dbpedia.org/resource/\u0d21\u0d47\u0d35\u0d3f\u0d21\u0d4d_\u0d2a\u0d3f._\u0d06\u0d7b\u0d21\u0d47\u0d34\u0d4d\u0d38\u0d7a"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Beverly_Woolley"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "http://sr.dbpedia.org/resource/\u0414\u0435\u0458\u0432\u0438\u0434_\u041f._\u0410\u043d\u0434\u0435\u0440\u0441\u043e\u043d"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Big_Moe"
     },
     {
         "subject": "http://dbpedia.org/resource/David_P._Anderson",
-        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
-        "object": "https://global.dbpedia.org/id/4iWwE"
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bill_Callegari"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bill_Carr_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bill_Henry_(baseball,_born_1927)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bill_Hicks"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bill_Meek"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bill_Rogers_(golfer)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bill_Worrell"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bill_Yeoman"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Billy_Milner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Billy_Ray_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Blaine_McCallister"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bo_Burris"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bo_Outlaw"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bobby_Clatterbuck"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bobby_Wadkins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bonnie_J._Dunbar"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brad_Fabel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brad_Lincoln"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brad_Rushing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bradley_Dale_Peveto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brandon_Hartson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brandon_Middleton"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brandon_Wilson_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brent_Spiner"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Bren\u00e9_Brown"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brett_Cullen"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brian_D._Montgomery"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brian_Johnson_(American_football_coach)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brian_Stewart_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brianne_Bethel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Brick_Haley"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Dave_Aranda"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Dave_Marr"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/Dave_Rose_(basketball)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/David_Cobb_(activist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/David_Gibbs_(American_football)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/David_Heitmeier"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/David_P._Anderson",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "http://dbpedia.org/resource/David_Hunter_(American_football)"
     }
 ]

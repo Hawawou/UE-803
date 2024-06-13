@@ -1,502 +1,502 @@
 [
     {
         "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.w3.org/2002/07/owl#Thing"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://xmlns.com/foaf/0.1/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q19088"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q215627"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q5"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://www.wikidata.org/entity/Q729"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Animal"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Eukaryote"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/ontology/Species"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatContemporarySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://schema.org/Person"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatModernPainters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatModernSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromRishonLeZion"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Artist109812338"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Creator109614315"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Object100002684"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Organism100004475"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Painter110391653"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Person100007846"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIsraeliArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIsraeliPainters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatIsraeliSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatJewishArtists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/WikicatJewishSculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Sculptor110566072"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Whole100003553"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "object": "http://dbpedia.org/class/yago/Wikicat20th-centurySculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0393\u03b9\u03b1\u03ba\u03cc\u03b2 \u0391\u03b3\u03ba\u03ac\u03bc"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u30e4\u30b3\u30d6\u30fb\u30a2\u30ac\u30e0"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Ja\u2019akow Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "\u0410\u0433\u0430\u043c, \u042f\u0430\u043a\u043e\u0432"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u039f \u0393\u03b9\u03b1\u03ba\u03cc\u03b2 \u0391\u03b3\u03ba\u03ac\u03bc (Yaakov \u0391gam, \u03b3\u03b5\u03bd\u03bd. \u03c3\u03c4\u03bf Rishon-le-Zion, \u03c3\u03c4\u03bf \u0399\u03c3\u03c1\u03b1\u03ae\u03bb \u03c4\u03bf 1928) \u03b5\u03af\u03bd\u03b1\u03b9 \u0399\u03c3\u03c1\u03b1\u03b7\u03bb\u03b9\u03bd\u03cc\u03c2 \u03b6\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2, \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b5\u03ba\u03c0\u03c1\u03cc\u03c3\u03c9\u03c0\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03bf\u03c0\u03c4\u03b9\u03ba\u03bf\u03ba\u03b9\u03bd\u03b7\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c4\u03ad\u03c7\u03bd\u03b7\u03c2 (\u039fp-Art). \u03a3\u03c0\u03bf\u03cd\u03b4\u03b1\u03c3\u03b5 \u03c3\u03c4\u03b7\u03bd Bezazel Academy of Arts and Design, \u03c3\u03c4\u03b7\u03bd \u03bf\u03bf\u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03ae\u03bc\u03c0\u03c0. \u03a4\u03bf 1949, \u03bc\u03b5\u03c4\u03ad\u03b2\u03b7 \u03c3\u03c4\u03b7\u03bd \u0396\u03c5\u03c1\u03af\u03c7\u03b7, \u03cc\u03c0\u03bf\u03c5 \u03bc\u03b1\u03b8\u03ae\u03c4\u03b5\u03c5\u03c3\u03b5 \u03b4\u03af\u03c0\u03bb\u03b1 \u03c3\u03c4\u03bf\u03bd Johannes Itten \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd Kunstgewerbe Schule. \u039f \u03c1\u03c5\u03b8\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03b6\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf \u03ba\u03b1\u03b9 \u03b3\u03bb\u03cd\u03c0\u03c4\u03b7 Max Bill."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Yaacov Agam (hebr\u00e4isch \u05d9\u05e2\u05e7\u05d1 \u05d0\u05d2\u05dd), geboren als Yaacov Gipstein (* 11. Mai 1928 in Rischon LeZion) ist ein israelischer bildender K\u00fcnstler und Vertreter der kinetischen Kunst."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Yaacov Agam (Rishon LeZion, Mandato Brit\u00e1nico de Palestina; 11 de mayo de 1928) es un artista cin\u00e9tico, pl\u00e1stico y escultor israel\u00ed."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Yaacov Gibstein dit Agam est un plasticien isra\u00e9lien n\u00e9 \u00e0 Rishon LeZion le 11 mai 1928, \u00e9tabli en France \u00e0 partir de 1951, figure de l'art cin\u00e9tique. Le travail d'Agam se caract\u00e9rise par un mouvement induit par le d\u00e9placement al\u00e9atoire du point de vue du spectateur."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u30e4\u30b3\u30d6\u30fb\u30a2\u30ac\u30e0\uff08\u30e4\u30fc\u30b3\u30d6\u30fb\u30a2\u30ac\u30e0\u3001\u30d8\u30d6\u30e9\u30a4\u8a9e\uff1a\u05d9\u05d9\u05e2\u05e7\u05d1 \u05d0\u05d2\u05dd, \u30a2\u30eb\u30d5\u30a1\u30d9\u30c3\u30c8\u8868\u8a18\uff1aYaacov Agam\u3001\u672c\u540d\uff1aYaacov Gipstein\u3001\u30e4\u30fc\u30b3\u30d6\u30fb\u30ae\u30d7\u30b9\u30c6\u30a4\u30f3\u30011928\u5e745\u670811\u65e5 - \uff09\u306f\u30a4\u30b9\u30e9\u30a8\u30eb\u306e\u5f6b\u523b\u5bb6\u3067\u3001\u30aa\u30d7\u30fb\u30a2\u30fc\u30c8\u3084\u30ad\u30cd\u30c6\u30a3\u30c3\u30af\u30fb\u30a2\u30fc\u30c8\u3078\u306e\u8ca2\u732e\u3067\u77e5\u3089\u308c\u308b\u5b9f\u9a13\u82b8\u8853\u5bb6\u3002"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Yaacov Agam (Hebrew: \u05d9\u05e2\u05e7\u05d1 \u05d0\u05d2\u05dd) (born 11 May 1928) is an Israeli sculptor and experimental artist widely known for his contributions to optical and kinetic art."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Yaacov Agam (Rishon LeZion, 11 de maio de 1928) \u00e9 um artista pl\u00e1stico israelense."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Yaacov Agam, pseudonimo di Yaacov Gipstein (Rishon LeZion, 11 maggio 1928), \u00e8 uno scultore e artista israeliano, appartenente alla corrente artistica dell'Op art e dell'arte cinetica."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Yaacov Agam (Rishon LeZion (Brits mandaatgebied Palestina), 11 mei 1928) is een Isra\u00eblisch beeldend kunstenaar, schilder en beeldhouwer. Hij is een vertegenwoordiger van de kinetische kunst."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Ja\u2019akow Agam (hebr. \u200f\u05d9\u05e2\u05e7\u05d1 \u05d0\u05d2\u05dd\u200e), w\u0142a\u015bc. Jacob Gipstein (ur. 11 maja 1928 w Riszon le-Cijjon) \u2013 izraelski rze\u017abiarz i artysta wizualny zajmuj\u0105cy si\u0119 op-artem i sztuk\u0105 kinetyczn\u0105."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "\u042f\u0430\u043a\u043e\u0432 \u0410\u0433\u0430\u043c, \u0443\u0440\u043e\u0436\u0434. \u042f\u0430\u043a\u043e\u0432 \u0413\u0438\u043f\u0448\u0442\u0435\u0439\u043d (\u0438\u0432\u0440\u0438\u0442 \u05d9\u05e2\u05e7\u05d1 \u05d0\u05d2\u05dd, \u0440\u043e\u0434. 11 \u043c\u0430\u044f 1928 \u0433. \u0420\u0438\u0448\u043e\u043d-\u043b\u0435-\u0426\u0438\u043e\u043d, \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430, \u043d\u044b\u043d\u0435 \u0418\u0437\u0440\u0430\u0438\u043b\u044c) \u2014 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u0438\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a, \u043e\u0434\u0438\u043d \u0438\u0437 \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u0435\u0439 \u043a\u0438\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Yaacov Agam vlastn\u00edm jm\u00e9nem Jacob Gipstein (11. kv\u011btna 1928 Ri\u0161on le-Cijon, Izrael) je izraelsk\u00fd mal\u00ed\u0159 a tv\u016frce objekt\u016f. V letech 1947\u20131948 studoval na Akademii Bezalel v Jeruzal\u00e9m\u011b. V roce 1949 studoval na Um\u011bleckopr\u016fmyslov\u00e9 \u0161kole v Curychu. Roku 1951 odjel do Pa\u0159\u00ed\u017ee, kde pracoval v Ateli\u00e9ru d'Art Abstrait. Tam stav\u00ed sv\u00e9 prvn\u00ed kinetick\u00e9 objekty, kter\u00e9 m\u011bn\u00ed podobu podle m\u00edsta pozorovatele nebo jeho p\u0159\u00edm\u00fdmi z\u00e1sahy. Roku 1953 m\u011bl prvn\u00ed samostatnou v\u00fdstavu v pa\u0159\u00ed\u017esk\u00e9 galerii Craven. D\u00e1le roku 1955 tvo\u0159il abstraktn\u00ed experiment\u00e1ln\u00ed filmy. Roku 1962 roz\u0161\u00ed\u0159il senzitivn\u00ed p\u016fsoben\u00ed sv\u00fdch objekt\u016f p\u0159id\u00e1v\u00e1n\u00edm zvuk\u016f a haptick\u00fdm dr\u00e1\u017ed\u011bn\u00edm. Zhotovil velk\u00e9 n\u00e1st\u011bnn\u00e9 obrazy a h\u0159i\u0161t\u011b v architektonick\u00e9m duchu s variabiln\u00edmi barevn\u00fdmi kompozicemi. Roku 1964 se z\u00fa\u010dastnil Documenty 3 v Kasselu. Roku 1972 m\u011bl retr"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Yaacov Agam (hebreeraz: \u05d9\u05e2\u05e7\u05d1 \u05d0\u05d2\u05dd\u200e; Rishon LeZion, Palestina, 1928ko maiatzaren 11) israeldar artista bat da. Arte zinetikoaren aitzindaria. Material berriak ikertu ditu ikuspuntuaren arabera aldatuz doazen obrak sortu eta ikuslea esploratzera gonbidatzeko."
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
-        "object": "Yaacov Agam, (ursprungligen Jacob Gipstein), f\u00f6dd 11 maj 1928, \u00e4r en israelisk konstn\u00e4r. Efter studier i Jerusalem och Z\u00fcrich flyttade Agam till Paris 1951. Han var en av initiativtagarna till den kinetiska och optiska konsten. I Agams konst ing\u00e5r ofta parallella, vertikala stavar, och r\u00f6relsen och f\u00f6r\u00e4ndringen i f\u00e4rg och form uppst\u00e5r antingen genom konstverkets egen rotation eller genom att \u00e5sk\u00e5daren f\u00f6rflyttar sig. Han arbetar ocks\u00e5 med variabla objekt, d\u00e4r \u00e5sk\u00e5daren sj\u00e4lv genom att \u00e4ndra elementens position, blir medskapare av verken. Efter 1961 l\u00e4t Agam ofta r\u00f6relsen utl\u00f6sas av ljus- och ljudeffekter. Han deltog 1961 i utst\u00e4llningen R\u00f6relse i konsten p\u00e5 Moderna museet i Stockholm. Bland hans verk m\u00e4rks Jacobs stege, en 600 meter l\u00e5ng arkitektonisk bildkonstruktion i Palace of the Natio"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://xmlns.com/foaf/0.1/name",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://dbpedia.org/property/name",
-        "object": "Yaacov Agam"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Yaacov_Agam.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Yaacov_Agam_sheba.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Agam_-_Eighteen_levels.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan_Hotel_Tel_Aviv_20120916_01.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dizingoff_Square.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Fire_and_Water_Fountain.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Worlds_Largest_Menorah.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://xmlns.com/foaf/0.1/depiction",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/YaacovAgam_GreenMtFalls_Sculpture.jpg"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Rishon_LeZion"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://dbpedia.org/ontology/birthPlace",
-        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Rishon_LeZion"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://dbpedia.org/property/birthPlace",
-        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://dbpedia.org/ontology/birthDate",
-        "object": "1928-05-11"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:People_from_Rishon_LeZion"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:1928_births"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Living_people"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:20th-century_Israeli_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Modern_painters"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Bezalel_Academy_of_Arts_and_Design_alumni"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Sandberg_Prize_recipients"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Israeli_Jews"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Jewish_Israeli_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Jewish_artists"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Jewish_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Jews_in_Mandatory_Palestine"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Contemporary_sculptors"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://purl.org/dc/terms/subject",
-        "object": "http://dbpedia.org/resource/Category:Op_art"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageID",
-        "object": "1336683"
-    },
-    {
-        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
-        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
-        "object": "1121388347"
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Elizabeth_The_Queen_Mother"
     },
     {
         "subject": "http://dbpedia.org/resource/Yaacov_Agam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Category:People_from_Rishon_LeZion"
+        "object": "http://dbpedia.org/resource/Robert_Motherwell"
     },
     {
         "subject": "http://dbpedia.org/resource/Yaacov_Agam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Barrier-grid_animation"
+        "object": "http://dbpedia.org/resource/Robert_Wilson_(director)"
     },
     {
         "subject": "http://dbpedia.org/resource/Yaacov_Agam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Birmingham,_Alabama"
+        "object": "http://dbpedia.org/resource/Roberto_Matta"
     },
     {
         "subject": "http://dbpedia.org/resource/Yaacov_Agam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Rishon_LeZion"
+        "object": "http://dbpedia.org/resource/Rufino_Tamayo"
     },
     {
         "subject": "http://dbpedia.org/resource/Yaacov_Agam",
         "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
-        "object": "http://dbpedia.org/resource/Sculpture"
+        "object": "http://dbpedia.org/resource/Saul_Steinberg"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernar_Venet"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hockney"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Delvaux"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pavel_Tchelitchew"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Per_Kirkeby"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Lippold"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_Villon"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olafur_Eliasson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvador_Dal\u00ed"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georg_Baselitz"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bordeaux_wine"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georges_Braque"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georges_Mathieu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhard_Richter"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giuseppe_Penone"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mougins"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Masson"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Warhol"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anish_Kapoor"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annette_Messager"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoni_T\u00e0pies"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Dufour"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lee_Ufan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucian_Freud"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Balthus"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wassily_Kandinsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Kentridge"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C\u00e9sar_Baldaccini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Niki_de_Saint_Phalle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pablo_Picasso"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ch\u00e2teau_Mouton_Rothschild"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gu_Gan"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guy_de_Rougemont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Erni"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hans_Hartung"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Moore"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean-Paul_Riopelle"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Carzou"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Cocteau"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Hugo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeff_Koons"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raymond_Savignac"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles,_Prince_of_Wales"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joan_Mir\u00f3"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Huston"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karel_Appel"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keith_Haring"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Carlu"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dorothea_Tanning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_artists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marc_Chagall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcel_Vert\u00e8s"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie_Laurencin"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philippe_de_Rothschild"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre_Alechinsky"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre_Soulages"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilya_Kabakov"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Serge_Poliakoff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Setsuko_Klossowska_de_Rola"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Xu_Bing"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Xu_Lei"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yaacov_Agam"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philippe_Jullian"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miquel_Barcelo"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armand_Pierre_Fernandez"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_S\u00e9journ\u00e9"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Francis_Bacon_(painter)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9onor_Fini"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hisao_Domoto"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/150th_Birthday_Tribute"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Augsburg_Ram"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bona_Tibertelli"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Centenary_year_commemoration"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georges_Arnulf"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Dignimont"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camilla_Hall"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Henry_Clerk"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carl_Jung"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Fascists"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aaron_Burr,_Sr."
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Preston_Manning"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulitzer_Prize"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Noyce"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Runcie"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Knox"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roots_Manuva"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Row_Lewis"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Acuff"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Cooke"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Kinison"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Adler_(rabbi)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Gordon_(novelist)"
+    },
+    {
+        "subject": "http://dbpedia.org/resource/Yaacov_Agam",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandi_Patty"
     }
 ]
