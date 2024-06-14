@@ -43,9 +43,9 @@ We collected biographies from Wikipedia and extracted associated knowledge graph
 
 ## Clustering
 
-**Model Training:**Training the data on the Kmeans clustering algorith.
+**Model Training**:Training the data on the Kmeans clustering algorith.
 
-**Model Evaluation:**Testing the trained models to evaluate their performance using metrics like silhouette score. We also visualized the clusters to understand their composition and characteristics.
+**Model Evaluation**:Testing the trained models to evaluate their performance using metrics like silhouette score. We also visualized the clusters to understand their composition and characteristics.
 
 ## Linguistic Comparison
 **Named Entity Recognition (NER)**:Compare the performance of Stanza and Spacy on NER tasks.
