@@ -12,8 +12,8 @@ The goal of this project is to collect and analyze biographies from Wikipedia fo
   - [Data Collection](#data-collection)
   - [Data Analysis](#data-analysis)
   - [Clustering](#clustering)
-    -[Model Training](#model-training)
-    -[Model Evaluation](#model-evaluation)
+    - [Model Training](#model-training)
+    - [Model Evaluation](#model-evaluation)
   - [Linguistic Processing Comparison](#linguistic-processing-comparison)
     - [Named Entity Recognition (NER)](#named-entity-recognition-ner)
     - [Named Entity Recognition: Analysis by Entity Type](#named-entity-recognition-analysis-by-entity-type)
@@ -33,7 +33,8 @@ The goal of this project is to collect and analyze biographies from Wikipedia fo
    ```bash
    git clone https://github.com/Hawawou/UE-803.git
    cd UE-803
-   
+## Usage
+   Ensure to install all datasets before running.
 ## Data Collection
 We collected biographies from Wikipedia and extracted associated knowledge graph facts for sculptors and computer scientists. 
 ## Data Analysis
@@ -43,9 +44,9 @@ We collected biographies from Wikipedia and extracted associated knowledge graph
 
 ## Clustering
 
-**Model Training:**Training the data on the Kmeans clustering algorith.
+**Model Training**: Training the data on the Kmeans clustering algorith.
 
-**Model Evaluation:**Testing the trained models to evaluate their performance using metrics like silhouette score. We also visualized the clusters to understand their composition and characteristics.
+**Model Evaluation**: Testing the trained models to evaluate their performance using metrics like silhouette score. We also visualized the clusters to understand their composition and characteristics.
 
 ## Linguistic Comparison
 **Named Entity Recognition (NER)**:Compare the performance of Stanza and Spacy on NER tasks.
