@@ -55,5 +55,4 @@ We collected biographies from Wikipedia and extracted associated knowledge graph
 **NER Verification Against Knowledge Graph**:Compare the named entities recognized by Stanza and Spacy with the entities in the knowledge graph.  
 ## Contributing
    If you would like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
-## License
-  This project is licensed under the GNU General Public License v3.0 License. See the LICENSE file for details.
+
