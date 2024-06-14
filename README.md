@@ -34,7 +34,7 @@ The goal of this project is to collect and analyze biographies from Wikipedia fo
    git clone https://github.com/Hawawou/UE-803.git
    cd UE-803
 ## Usage
-   Ensure to install all datasets before running.
+   Ensure to install all  before running.
 ## Data Collection
 We collected biographies from Wikipedia and extracted associated knowledge graph facts for sculptors and computer scientists. 
 ## Data Analysis
