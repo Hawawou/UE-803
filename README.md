@@ -24,15 +24,28 @@ The goal of this project is to collect and analyze biographies from Wikipedia fo
 
 ## Requirements
 
-- Python 3.x
-- pandas
-- scikit-learn
-- matplotlib
-- seaborn
-- stanza
-- spacy
-- numpy
-
+- pandas==2.2.2
+- numpy==1.26.4
+- beautifulsoup4==4.12.3
+- wikipedia==1.4.0
+- nltk==3.8.1
+- matplotlib==3.8.4
+- wordcloud==1.9.3
+- SPARQLWrapper==2.0.0
+- spacy==3.7.4
+- regex==2024.4.28
+- requests==2.31.0
+- scikit-learn==1.5.0 
+- scipy==1.13.1
+- seaborn==0.13.2
+- urllib3==2.2.1
+- rdflib==7.0.0
+- spacy==3.7.4
+- regex==2024.4.28
+- requests==2.31.0
+- scikit-learn==1.5.0
+- scipy==1.11.1
+- stanza==1.8.2
 ## Installation
 
 1. Clone the repository:
