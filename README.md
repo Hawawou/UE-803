@@ -25,8 +25,7 @@ The goal of this project is to collect and analyze biographies from Wikipedia fo
 ## Requirements
 ```bash
    pip install -r requirements.txt
-
-
+```
 
 ## Installation
 
